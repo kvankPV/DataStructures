@@ -14,7 +14,7 @@ int main()
 	*Table<std::string, IZ<BusStop*>*>*
 	*analyzer.h
 	*->complexity_analyzer.h->tabinsertanalyzer->zdedit complexity<TREAP<std::string, IZ<BusStop*>*>*>->
-	*konstruktor sts::string& name, growToSize(TREAP, size_t size)[insert data], executeOperation(TREAP) [robit find]
+	*konstruktor std::string& name, growToSize(TREAP, size_t size)[insert data], executeOperation(TREAP) [robit find]
 	*da sa to urobit na template, kedze meni sa len execute operation
 	*dokument na random cisla na generaciu random dat.
 	*/

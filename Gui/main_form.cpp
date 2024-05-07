@@ -2,6 +2,7 @@
 
 #include <tests/root.h>
 #include <complexities/list_analyzer.h>
+#include <complexities/myAnalyzer.h>
 #include <msclr\marshal_cppstd.h>
 
 namespace WF = System::Windows::Forms;
@@ -57,6 +58,7 @@ std::vector<std::unique_ptr<ds::utils::Analyzer>> createAnalyzers()
 	std::vector<std::unique_ptr<ds::utils::Analyzer>> analyzers;
 
 	analyzers.emplace_back(std::make_unique<ds::utils::ListsAnalyzer>());
+	analyzers.emplace_back(std::make_unique<ds::utils::MyAnalyzers>());
 
 	return analyzers;
 }
