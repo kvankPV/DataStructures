@@ -1,0 +1,658 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+160092;Daniel St at End (WB);WB_Daniel St_FS_End;49.091702;-117.697309;WKT;West Kootenay Transit System;Trail
+160093;Daniel St at Wilmes (WB);WB_Daniel St_NS_Wilmes;49.091824;-117.700728;WKT;West Kootenay Transit System;Trail
+160094;Topping St at Elm St (EB);EB_Topping St_FS_Elm St;49.092195;-117.701398;WKT;West Kootenay Transit System;Trail
+160095;Topping St at Bay (EB);EB_Topping St_FS_Bay;49.092502;-117.703597;WKT;West Kootenay Transit System;Trail
+160096;Pine at Portland (EB);EB_Pine_FS_Portland;49.093252;-117.707735;WKT;West Kootenay Transit System;Trail
+160097;Eldorado St at Pine (WB);WB_Eldorado St_NS_Pine;49.09535;-117.709758;WKT;West Kootenay Transit System;Trail
+160098;Bay at Farwell St (SB);SB_Bay_FS_Farwell St;49.096692;-117.708705;WKT;West Kootenay Transit System;Trail
+160102;Second at McQuarrie St (NB);NB_Second_FS_McQuarrie St;49.097068;-117.700865;WKT;West Kootenay Transit System;Trail
+160103;Second at McQuarrie St (SB);SB_Second_NS_McQuarrie St;49.096712;-117.700662;WKT;West Kootenay Transit System;Trail
+160104;Second at Robertson St (SB);SB_Second_FS_Robertson St;49.098497;-117.70232;WKT;West Kootenay Transit System;Trail
+160105;Second at Robertson St (NB);NB_Second_FS_Robertson St;49.098913;-117.702572;WKT;West Kootenay Transit System;Trail
+160106;Second at Bailey St (NB);NB_Second_FS_Bailey St;49.100503;-117.703806;WKT;West Kootenay Transit System;Trail
+160107;Second at Goepel St (SB);SB_Second_FS_Goepel St;49.101105;-117.704326;WKT;West Kootenay Transit System;Trail
+160108;Second at Goepel St (NB);NB_Second_FS_Goepel St;49.101596;-117.704518;WKT;West Kootenay Transit System;Trail
+160109;Second at Taylor St (SB);SB_Second_FS_Taylor St;49.102736;-117.705418;WKT;West Kootenay Transit System;Trail
+160110;Second at Taylor St (NB);NB_Second_FS_Taylor St;49.10321;-117.705569;WKT;West Kootenay Transit System;Trail
+160111;Charles Lakes at Park (WB);WB_Charles Lakes_FS_Park;49.105597;-117.70752;WKT;West Kootenay Transit System;Trail
+160112;Charles Lakes at Park (EB);EB_Charles Lakes_NS_Park;49.105554;-117.707664;WKT;West Kootenay Transit System;Trail
+160002;Selkirk College (WB);WB_Selkirk College_Bay_A;49.311015;-117.652372;WKT;West Kootenay Transit System;Central Kootenay J
+160088;Selkirk College (EB);EB_Selkirk College_Bay_B;49.309993;-117.652633;WKT;West Kootenay Transit System;Central Kootenay J
+160133;Hwy 22A at Hwy 3B (EB);EB_Hwy 22A_FS_Hwy 3B;49.086494;-117.62527;WKT;West Kootenay Transit System;Trail
+160393;Broadwater 2700 Block (EB);EB_Broadwater_2700_block;49.333098;-117.67592;WKT;West Kootenay Transit System;Central Kootenay J
+160091;Broadwater at Horcoff (WB);WB_Broadwater_NS_Horcoff;49.332806;-117.682966;WKT;West Kootenay Transit System;Central Kootenay J
+160090;Columbia at 22nd St (SB);SB_Columbia_FS_22nd St;49.29129;-117.65089;WKT;West Kootenay Transit System;Castlegar
+160009;Columbia at 22nd St (NB);NB_Columbia_NS_22nd St;49.2913;-117.650623;WKT;West Kootenay Transit System;Castlegar
+160010;Columbia at 23rd St (SB);SB_Columbia_NS_23rd St;49.288278;-117.650872;WKT;West Kootenay Transit System;Castlegar
+160011;Columbia at 23rd St (NB);NB_Columbia_FS_23rd St;49.288318;-117.65066;WKT;West Kootenay Transit System;Castlegar
+160012;Support Services;SB_Clean Road_D lot;49.098389;-117.715442;WKT;West Kootenay Transit System;Trail
+160013;11th St (EB);EB_11th St_FS_Fell;49.508243;-117.266106;WKT;West Kootenay Transit System;Nelson
+160333;Nelson at Kokanee (NB);NB_Nelson_FS_Kokanee;49.506816;-117.279025;WKT;West Kootenay Transit System;Nelson
+160015;Columbia 1500 block 1500 block (NB);NB_Columbia_1500_block;49.304709;-117.658466;WKT;West Kootenay Transit System;Castlegar
+160016;Columbia 1500 block 1500 block (SB);SB_Columbia_1500_block;49.304717;-117.658622;WKT;West Kootenay Transit System;Castlegar
+160017;Columbia at Hunters (SB);SB_Columbia_NS_Hunters;49.306076;-117.658639;WKT;West Kootenay Transit System;Castlegar
+160018;Columbia 2500 block 2500 block (NB);NB_Columbia_2500_block;49.282756;-117.650673;WKT;West Kootenay Transit System;Castlegar
+160019;Columbia 2500 (SB);SB_Columbia_2500_block;49.282575;-117.650846;WKT;West Kootenay Transit System;Castlegar
+160020;14th 2300 block 2300 block (NB);NB_14th_2300_block;49.287731;-117.660903;WKT;West Kootenay Transit System;Castlegar
+160021;Thompson at Schofield Hwy (SB);SB_Thompson_AT_Schofield Hwy;49.071628;-117.791321;WKT;West Kootenay Transit System;Rossland
+160022;Victoria St at Tamarac (WB);WB_Victoria St_FS_Tamarac;49.096249;-117.713268;WKT;West Kootenay Transit System;Trail
+160023;Waneta Plaza Bay B (WB);WB_Waneta Plaza_Bay B;49.090527;-117.63381;WKT;West Kootenay Transit System;Trail
+160024;Nelson at Lookout St (EB);EB_Nelson_FS_Lookout St;49.093574;-117.713452;WKT;West Kootenay Transit System;Trail
+160025;Victoria St 700 block 700 block (EB);EB_Victoria St_700_block;49.096236;-117.712238;WKT;West Kootenay Transit System;Trail
+160431;Hwy 3A at Nasookin (WB);WB_Hwy 3A_NS_Nasookin;49.540109;-117.261871;WKT;West Kootenay Transit System;Central Kootenay F
+160027;10th at 26th St (NB);NB_10th_FS_26th St;49.281989;-117.654139;WKT;West Kootenay Transit System;Castlegar
+160028;14th at 37th St (SB);SB_14th_NS_37th St;49.266124;-117.660086;WKT;West Kootenay Transit System;Castlegar
+160029;Tamarac at Columbia Gardens (WB);WB_Tamarac_NS_Columbia Gardens;49.10586;-117.54908;WKT;West Kootenay Transit System;Fruitvale
+160030;Warfield Plant;NB_Bingay_NS_Rogers Way;49.104299;-117.737662;WKT;West Kootenay Transit System;Trail
+160031;Kootenay Ave N at Pole Yard (NB);NB_Kootenay Ave N_FS_Pole Yard;49.115281;-117.545001;WKT;West Kootenay Transit System;Fruitvale
+160032;Trial Walmart (EB);EB_Trial Walmart;49.08504;-117.620568;WKT;West Kootenay Transit System;Trail
+160033;Highway at Cottonwood (WB);WB_Highway_FS_Cottonwood;49.097511;-117.664484;WKT;West Kootenay Transit System;Trail
+160034;Highway at Cottonwood (EB);EB_Highway_NS_cottonwood;49.097416;-117.66422;WKT;West Kootenay Transit System;Trail
+160035;Glover at McAnally St (EB);EB_Glover_FS_McAnally St;49.09633;-117.71753;WKT;West Kootenay Transit System;Trail
+160036;Carnation at Woodland (EB);EB_Carnation_FS_Woodland;49.097097;-117.655904;WKT;West Kootenay Transit System;Trail
+160037;Upper Nelson Ave at Hendry (EB);EB_Upper Nelson Ave_FS_Hendry;49.094342;-117.716174;WKT;West Kootenay Transit System;Trail
+160038;Red Mountain Resort;SB_Red Mountain_4400_block;49.102546;-117.818945;WKT;West Kootenay Transit System;Rossland
+160039;Airport at Hall (NB);NB_Airport_NS_Hall;49.300877;-117.636865;WKT;West Kootenay Transit System;Castlegar
+160040;Schofield Hwy at Redstone Dr (EB);EB_Schofield Hwy_AT_Redstone Dr;49.077945;-117.775069;WKT;West Kootenay Transit System;Rossland
+160041;Hospital Bench at Fourth (EB);EB_Hospital Bench_FS_Fourth;49.101889;-117.702021;WKT;West Kootenay Transit System;Trail
+160042;Kootenay Boundary Regional Hospital (EB);EB_Kootenay Boundary Regional Hospital;49.103309;-117.700701;WKT;West Kootenay Transit System;Trail
+160418;Hwy 3A at Wightwick (WB);WB_Hwy 3A_NS_Wightwick;49.616003;-117.035019;WKT;West Kootenay Transit System;Central Kootenay E
+160044;Schofield Hwy at Cemetery (WB);WB_Schofield Hwy_AT_Cemetery;49.076238;-117.779727;WKT;West Kootenay Transit System;Rossland
+160045;Schofield Hwy at Wellington (EB);EB_Schofield Hwy_NS_Wellington;49.098175;-117.732438;WKT;West Kootenay Transit System;Warfield
+160046;Schofield Hwy at Wellington (WB);WB_Schofield Hwy_AT_Wellington;49.098424;-117.73317;WKT;West Kootenay Transit System;Warfield
+160421;Hwy 3A at Kane (WB);WB_Hwy 3A_FS_Kane;49.600099;-117.174054;WKT;West Kootenay Transit System;Central Kootenay F
+160048;Hospital Bench at Frances Moran (NB);NB_Hospital Bench_NS_Frances Moran;49.103165;-117.699511;WKT;West Kootenay Transit System;Trail
+160413;Balfour Ferry at Hwy 3A (SB);SB_Balfour Ferry_FS_Hwy 3A;49.625076;-116.959527;WKT;West Kootenay Transit System;Central Kootenay E
+160050;St Paul St at 5th (SB);SB_St Paul St_NS_5th;49.081941;-117.796469;WKT;West Kootenay Transit System;Rossland
+160051;Jubilee St at 4th (EB);EB_Jubilee St_FS_4th;49.080853;-117.799369;WKT;West Kootenay Transit System;Rossland
+160052;Butte St at Columbia (SB);SB_Butte St_NS_Columbia;49.076734;-117.793835;WKT;West Kootenay Transit System;Rossland
+160053;2nd at St Paul St (EB);EB_2nd_FS_St Paul St;49.07912;-117.796025;WKT;West Kootenay Transit System;Rossland
+160054;St Paul at 3rd (SB);SB_St Paul_NS_3rd;49.080139;-117.796559;WKT;West Kootenay Transit System;Rossland
+160055;Washington St at 3rd (NB);NB_Washington St_NS_3rd;49.079879;-117.799883;WKT;West Kootenay Transit System;Rossland
+160056;Columbia at St Paul St (WB);WB_Columbia_NS_St Paul St;49.076815;-117.796676;WKT;West Kootenay Transit System;Rossland
+160057;Columbia at Spokane St (EB);EB_Columbia_FS_Spokane St;49.07695;-117.801648;WKT;West Kootenay Transit System;Rossland
+160058;Columbia at Spokane St (WB);WB_Columbia_NS_Spokane St;49.077115;-117.801861;WKT;West Kootenay Transit System;Rossland
+160059;Columbia at Hwy 3B (EB);EB_Columbia_NS_Hwy 3B;49.077231;-117.807908;WKT;West Kootenay Transit System;Rossland
+160060;Nevada St at Kootenay (NB);NB_Nevada St_NS_Kootenay;49.075494;-117.810308;WKT;West Kootenay Transit System;Rossland
+160061;Nevada St at Kootenay (SB);SB_Nevada St_FS_Kootenay;49.075494;-117.810428;WKT;West Kootenay Transit System;Rossland
+160062;Thompson at Irwin (WB);WB_Thompson_FS_Irwin;49.072099;-117.791917;WKT;West Kootenay Transit System;Rossland
+160063;Thompson at St Paul St (WB);WB_Thompson_NS_St Paul St;49.073647;-117.7969;WKT;West Kootenay Transit System;Rossland
+160064;Thompson at St Paul St (EB);EB_Thompson_FS_St Paul St;49.073513;-117.796911;WKT;West Kootenay Transit System;Rossland
+160065;Thompson at Spokane St (WB);WB_Thompson_NS_Spokane St;49.073957;-117.801819;WKT;West Kootenay Transit System;Rossland
+160066;Thompson at Spokane St (EB);EB_Thompson_FS_Spokane St;49.07385;-117.80183;WKT;West Kootenay Transit System;Rossland
+160067;Thompson at Davis St (EB);EB_Thompson_FS_Davis St;49.073994;-117.805509;WKT;West Kootenay Transit System;Rossland
+160068;Thompson at Davis St (WB);WB_Thompson_NS_Davis St;49.074104;-117.805814;WKT;West Kootenay Transit System;Rossland
+160069;Frontage at Rossland-Paterson Hwy (EB);EB_Frontage_NS_Rossland-Paterson Hwy;49.077556;-117.814203;WKT;West Kootenay Transit System;Rossland
+160070;Murray at Forrest (NB);NB_Murray_FS_Forrest;49.095101;-117.744947;WKT;West Kootenay Transit System;Warfield
+160071;Highway Frtg at Shutek (SB);SB_Highway Frtg_NS_Shutek;49.091175;-117.752244;WKT;West Kootenay Transit System;Warfield
+160072;Highway Frtg at Shutek (NB);NB_Highway Frtg_FS_Shutek;49.091152;-117.752167;WKT;West Kootenay Transit System;Warfield
+160073;Forrest at Willow (NB);NB_Forrest_NS_Willow;49.092889;-117.748566;WKT;West Kootenay Transit System;Warfield
+160074;Forrest at Willow (SB);SB_Forrest_FS_Willow;49.092925;-117.748623;WKT;West Kootenay Transit System;Warfield
+160075;Forrest at Murray (SB);SB_Forrest_FS_Murray;49.094881;-117.745113;WKT;West Kootenay Transit System;Warfield
+160076;Haig St at French St (EB);EB_Haig St_FS_French St;49.09604;-117.733746;WKT;West Kootenay Transit System;Warfield
+160077;Wellington at Turner St (WB);WB_Wellington_FS_Turner St;49.09706;-117.735183;WKT;West Kootenay Transit System;Warfield
+160078;Wellington at Turner St (EB);EB_Wellington_NS_Turner St;49.097052;-117.735093;WKT;West Kootenay Transit System;Warfield
+160079;Wellington at Rossland (EB);EB_Wellington_NS_Rossland;49.097837;-117.732234;WKT;West Kootenay Transit System;Warfield
+160080;Binns St at Esling St (EB);EB_Binns St_FS_Esling St;49.098298;-117.725464;WKT;West Kootenay Transit System;Trail
+160081;Binns St at Buckna St (SB);SB_Binns St_FS_Buckna St;49.09703;-117.721245;WKT;West Kootenay Transit System;Trail
+160082;Dockerill St at Hendry (SB);SB_Dockerill St_NS_Hendry;49.094977;-117.717743;WKT;West Kootenay Transit System;Trail
+160083;Binns St at McAnally St (EB);EB_Binns St_FS_McAnally St;49.096254;-117.719315;WKT;West Kootenay Transit System;Trail
+160084;Daniel St at Maple St (WB);WB_Daniel St_NS_Maple St;49.092568;-117.706908;WKT;West Kootenay Transit System;Trail
+160085;Daniel St at Munter St (WB);WB_Daniel St_NS_Munter St;49.092345;-117.704523;WKT;West Kootenay Transit System;Trail
+160086;Cedar at Farwell St (NB);NB_Cedar_FS_Farwell St;49.096677;-117.710066;WKT;West Kootenay Transit System;Trail
+160087;Cedar at Spokane St (NB);NB_Cedar_NS_Spokane St;49.094779;-117.707846;WKT;West Kootenay Transit System;Trail
+160218;Broadwater at Relkoff (WB);WB_Broadwater_FS_Relkoff;49.3356;-117.668765;WKT;West Kootenay Transit System;Central Kootenay J
+160219;Blake St at Waldie (SB);SB_Blake St_NS_Waldie;49.334423;-117.696575;WKT;West Kootenay Transit System;Central Kootenay J
+160220;Columbia at 1st St (EB);EB_Columbia_NS_1st St;49.328324;-117.667584;WKT;West Kootenay Transit System;Castlegar
+160221;Columbia at 4th St (SB);SB_Columbia_FS_4th St;49.325432;-117.666021;WKT;West Kootenay Transit System;Castlegar
+160222;Columbia at 20th (SB);SB_Columbia_NS_20th;49.296711;-117.65495;WKT;West Kootenay Transit System;Castlegar
+160223;Columbia at 10th St (NB);NB_Columbia_FS_10th St;49.315174;-117.663699;WKT;West Kootenay Transit System;Castlegar
+160224;Columbia at 8th St (NB);NB_Columbia_NS_8th St;49.318017;-117.664721;WKT;West Kootenay Transit System;Castlegar
+160225;3rd St at 7th (WB);WB_3rd St_FS_7th;49.326477;-117.659758;WKT;West Kootenay Transit System;Castlegar
+160226;5th at 5th St (NB);NB_5th_FS_5th St;49.324568;-117.657034;WKT;West Kootenay Transit System;Castlegar
+160227;5th at 3rd St (NB);NB_5th_NS_3rd St;49.326215;-117.656994;WKT;West Kootenay Transit System;Castlegar
+160228;7th at 7th St (SB);SB_7th_NS_7th St;49.32056;-117.659662;WKT;West Kootenay Transit System;Castlegar
+160229;7th at 7th St (NB);NB_7th_FS_7th St;49.320884;-117.659455;WKT;West Kootenay Transit System;Castlegar
+160230;7th at Larch St (NB);NB_7th_FS_Larch St;49.317305;-117.659556;WKT;West Kootenay Transit System;Castlegar
+160231;6th St at 6th (EB);EB_6th St_FS_6th;49.322322;-117.657946;WKT;West Kootenay Transit System;Castlegar
+160232;6th St at 9th (EB);EB_6th St_NS_9th;49.322368;-117.662208;WKT;West Kootenay Transit System;Castlegar
+160233;6th St at 11th (EB);EB_6th St_NS_11th;49.32245;-117.66502;WKT;West Kootenay Transit System;Castlegar
+160234;10th St at 7th (WB);WB_10th St_FS_7th;49.314683;-117.660658;WKT;West Kootenay Transit System;Castlegar
+160235;7th at Zuckerberg Island (SB);SB_7th_FS_Zuckerberg Island;49.316728;-117.659771;WKT;West Kootenay Transit System;Castlegar
+160236;11th St at 7th (EB);EB_11th St_NS_7th;49.312509;-117.660464;WKT;West Kootenay Transit System;Castlegar
+160237;17th St at Columbia (WB);WB_17th St_NS_Columbia;49.301875;-117.657365;WKT;West Kootenay Transit System;Castlegar
+160238;18th St at Columbia (EB);EB_18th St_FS_Columbia;49.3;-117.656274;WKT;West Kootenay Transit System;Castlegar
+160239;Columbia at McPhee (WB);WB_Columbia_FS_McPhee;49.299653;-117.627141;WKT;West Kootenay Transit System;Central Kootenay J
+160240;Columbia at Hipwell (NB);NB_Columbia_FS_Hipwell;49.284613;-117.62571;WKT;West Kootenay Transit System;Central Kootenay J
+160241;Columbia at Waterloo (NB);NB_Columbia_FS_Waterloo;49.281434;-117.627915;WKT;West Kootenay Transit System;Central Kootenay J
+160242;Waterloo at Columbia (NB);NB_Waterloo_FS_Columbia;49.282098;-117.629709;WKT;West Kootenay Transit System;Central Kootenay J
+160243;Bridgeview at Lawrence (SB);SB_Bridgeview_NS_Lawrence;49.287985;-117.640957;WKT;West Kootenay Transit System;Central Kootenay J
+160244;Bridgeview at Waterloo (NB);NB_Bridgeview_FS_Waterloo;49.280862;-117.638202;WKT;West Kootenay Transit System;Central Kootenay J
+160245;Bridgeview 900 Block (NB);NB_Bridgeview_900_block;49.28399;-117.638748;WKT;West Kootenay Transit System;Central Kootenay J
+160246;14th at Meadowbrook (NB);NB_14th_NS_Meadowbrook;49.285256;-117.66111;WKT;West Kootenay Transit System;Castlegar
+160247;6th at 20th St (NB);NB_6th_NS_20th St;49.29447;-117.650951;WKT;West Kootenay Transit System;Castlegar
+160248;24th St at 6th (EB);EB_24th St_FS_6th;49.28567;-117.648496;WKT;West Kootenay Transit System;Castlegar
+160249;5th at 26th St (SB);SB_5th_FS_26th St;49.282516;-117.64712;WKT;West Kootenay Transit System;Castlegar
+160250;5th at 29th St (SB);SB_5th_FS_29th St;49.276159;-117.647032;WKT;West Kootenay Transit System;Castlegar
+160251;5th at 30th St (SB);SB_5th_FS_30th St;49.273999;-117.647338;WKT;West Kootenay Transit System;Castlegar
+160252;5th at 32nd St (SB);SB_5th_NS_32nd St;49.271266;-117.647584;WKT;West Kootenay Transit System;Castlegar
+160253;24th St at 10th (WB);WB_24th St_FS_10th;49.287049;-117.654726;WKT;West Kootenay Transit System;Castlegar
+160254;9th at 27th St (NB);NB_9th_NS_27th St;49.278701;-117.651448;WKT;West Kootenay Transit System;Castlegar
+160255;28th St at 9th (WB);WB_28th St_NS_9th;49.277589;-117.650136;WKT;West Kootenay Transit System;Castlegar
+160256;10th at 25th St (NB);NB_10th_FS_25th St;49.284812;-117.653921;WKT;West Kootenay Transit System;Castlegar
+160257;Frank Beinder Way at Heritage Way (EB);EB_Frank Beinder Way_FS_Heritage Way;49.300953;-117.638665;WKT;West Kootenay Transit System;Castlegar
+160258;Columbia at 27th St (NB);NB_Columbia_NS_27th St;49.279306;-117.649518;WKT;West Kootenay Transit System;Castlegar
+160259;Columbia at 27th St (SB);SB_Columbia_FS_27th St;49.279303;-117.649732;WKT;West Kootenay Transit System;Castlegar
+160260;Columbia at 32nd St (NB);NB_Columbia_FS_32nd St;49.271543;-117.648828;WKT;West Kootenay Transit System;Castlegar
+160261;Columbia at 32nd St (SB);SB_Columbia_NS_32nd St;49.271847;-117.649041;WKT;West Kootenay Transit System;Castlegar
+160262;Columbia at 28th (NB);NB_Columbia_NS_28th;49.276145;-117.648353;WKT;West Kootenay Transit System;Castlegar
+160263;Columbia at 28th (SB);SB_Columbia_FS_28th;49.276054;-117.648669;WKT;West Kootenay Transit System;Castlegar
+160264;Southridge at 14th (NB);NB_Southridge_NS_14th;49.269202;-117.654617;WKT;West Kootenay Transit System;Castlegar
+160265;Southridge at 14th (WB);WB_Southridge_NS_14th;49.269999;-117.657286;WKT;West Kootenay Transit System;Castlegar
+160266;9th at 35th St (SB);SB_9th_FS_35th St;49.267393;-117.651678;WKT;West Kootenay Transit System;Castlegar
+160267;9th at 37th St (SB);SB_9th_NS_37th St;49.265459;-117.6527;WKT;West Kootenay Transit System;Castlegar
+160268;Hwy 3 at Crestview (NB);NB_Hwy 3_FS_Crestview;49.293114;-117.656017;WKT;West Kootenay Transit System;Castlegar
+160269;100th St at Blueberry (EB);EB_100th St_NS_Blueberry;49.247074;-117.663382;WKT;West Kootenay Transit System;Central Kootenay J
+160270;Bridgeview at Wild Orchid Lane (NB);NB_Bridgeview_NS_Wild Orchid Lane;49.288023;-117.638781;WKT;West Kootenay Transit System;Central Kootenay J
+160271;Broadwater at Columbia Hights St (WB);WB_Broadwater_NS_Columbia Hights St;49.33243;-117.688398;WKT;West Kootenay Transit System;Central Kootenay J
+160468;Osachoff Rd at Playmor Junction Park & Ride (NB);NB_Osachoff Rd_AT_Playmor Junction Park & Ride;49.441632;-117.538984;WKT;West Kootenay Transit System;Central Kootenay H
+160273;Cedar St at Robson St (NB);NB_Cedar St_NS_Robson St;49.487793;-117.282913;WKT;West Kootenay Transit System;Nelson
+160274;Cedar St at Gore St (NB);NB_Cedar St_NS_Gore St;49.486968;-117.282161;WKT;West Kootenay Transit System;Nelson
+160275;W Innes St at Crease (WB);WB_W Innes St_NS_Crease;49.482156;-117.302471;WKT;West Kootenay Transit System;Nelson
+160276;W Innes St at Kary (WB);WB_W Innes St_FS_Kary;49.482131;-117.301159;WKT;West Kootenay Transit System;Nelson
+160277;W Innes St at McQuarrie (WB);WB_W Innes St_FS_McQuarrie;49.48215;-117.298896;WKT;West Kootenay Transit System;Nelson
+160278;W Innes St at Robertson (WB);WB_W Innes St_FS_Robertson;49.482158;-117.296672;WKT;West Kootenay Transit System;Nelson
+160279;Vancouver at Observatory St (NB);NB_Vancouver_FS_Observatory St;49.485134;-117.295043;WKT;West Kootenay Transit System;Nelson
+160280;Vancouver at Observatory St (SB);SB_Vancouver_NS_Observatory St;49.485048;-117.295166;WKT;West Kootenay Transit System;Nelson
+160342;Front St at Poplar St (NB);NB_Front St_FS_Poplar St;49.499463;-117.285543;WKT;West Kootenay Transit System;Nelson
+160343;McPhee at Lark (NB);NB_McPhee_FS_Lark;49.294011;-117.617588;WKT;West Kootenay Transit System;Central Kootenay J
+160344;McPhee at Columbia (WB);WB_McPhee_NS_Columbia;49.297901;-117.621132;WKT;West Kootenay Transit System;Central Kootenay J
+160345;McPhee at Lark (NB);NB_McPhee_NS_Lark;49.291202;-117.618354;WKT;West Kootenay Transit System;Central Kootenay J
+160346;McPhee at Columbia (EB);EB_McPhee_FS_Columbia;49.286009;-117.623343;WKT;West Kootenay Transit System;Central Kootenay J
+160347;Columbia at Selkirk (SB);SB_Columbia_FS_Selkirk;49.308501;-117.659668;WKT;West Kootenay Transit System;Castlegar
+160348;Columbia at 21st St (SB);SB_Columbia_NS_21st St;49.294202;-117.652779;WKT;West Kootenay Transit System;Castlegar
+160349;Crease at W Houston St (SB);SB_Crease_NS_W Houston St;49.481449;-117.30314;WKT;West Kootenay Transit System;Nelson
+160350;Hall St at Front St (NB);NB_Hall St_NS_Front St;49.495091;-117.2929;WKT;West Kootenay Transit System;Nelson
+160351;Hall St at Front St (SB);SB_Hall St_FS_Front St;49.495087;-117.293244;WKT;West Kootenay Transit System;Nelson
+160352;Green at Tamarac (SB);SB_Green_NS_Tamarac;49.104639;-117.545047;WKT;West Kootenay Transit System;Fruitvale
+160353;McBride St at Sixth (SB);SB_McBride St_NS_Sixth;49.098543;-117.688242;WKT;West Kootenay Transit System;Trail
+160354;McBride St at Sixth (NB);NB_McBride St_FS_Sixth;49.098496;-117.68816;WKT;West Kootenay Transit System;Trail
+160355;Second at Main St (WB);WB_Second_FS_Main St;49.096177;-117.696723;WKT;West Kootenay Transit System;Trail
+160356;Second at Main St (EB);EB_Second_NS_Main St;49.096101;-117.696798;WKT;West Kootenay Transit System;Trail
+160357;Local 480 Change Room;SB_Clean_Road;49.100789;-117.722269;WKT;West Kootenay Transit System;Trail
+160358;Vernon St at Hendryx St (WB);WB_Vernon St_FS_Hendryx St;49.494296;-117.291157;WKT;West Kootenay Transit System;Nelson
+160359;10th St at Kokanee (NB);NB_10th St_FS_Kokanee;49.505901;-117.268833;WKT;West Kootenay Transit System;Nelson
+160360;Columbia at 14th St (NB);NB_Columbia_NS_14th St;49.308912;-117.659756;WKT;West Kootenay Transit System;Castlegar
+160361;Columbia at 15th St (NB);NB_Columbia_FS_15th St;49.306845;-117.658723;WKT;West Kootenay Transit System;Castlegar
+160362;Columbia at 10th St (SB);SB_Columbia_NS_10th St;49.315112;-117.663915;WKT;West Kootenay Transit System;Castlegar
+160363;Columbia at 8th St (SB);SB_Columbia_NS_8th St;49.318645;-117.665079;WKT;West Kootenay Transit System;Castlegar
+160365;3rd St at Gordon St (NB);NB_3rd St_FS_Gordon St;49.508134;-117.277822;WKT;West Kootenay Transit System;Nelson
+160366;1st St at 9th (NB);NB_1st St_FS_9th;49.07394;-117.601064;WKT;West Kootenay Transit System;Montrose
+160367;1st St at 10th (SB);SB_1st St_FS_10th;49.073928;-117.601221;WKT;West Kootenay Transit System;Montrose
+160368;W Richards St (EB);EB_W Richards St;49.480069;-117.298823;WKT;West Kootenay Transit System;Nelson
+160369;7th St at 10th (NB);NB_7th St_NS_10th;49.079783;-117.587614;WKT;West Kootenay Transit System;Montrose
+160370;7th St at 9th (SB);SB_7th St_NS_9th;49.079473;-117.587647;WKT;West Kootenay Transit System;Montrose
+160371;Lakeside at Hall St (SB);SB_Lakeside_NS_Hall St;49.496688;-117.293924;WKT;West Kootenay Transit System;Nelson
+160372;Lakeside at Hall St (NB);NB_Lakeside_FS_Hall St;49.496591;-117.29372;WKT;West Kootenay Transit System;Nelson
+160373;Columbia Gardens at Aspen (NB);NB_Columbia Gardens_NS_Aspen;49.109034;-117.546498;WKT;West Kootenay Transit System;Fruitvale
+160463;Hwy 3A-6 at Insight Dr (WB);WB_Hwy 3A-6_NS_Insight Dr;49.497541;-117.35776;WKT;West Kootenay Transit System;Central Kootenay E
+160511;Hwy 3A/6 FS Granite (WB);WB_Hwy 3A/6_FS_Granite;49.48555;-117.3115;WKT;West Kootenay Transit System;Central Kootenay E
+160376;Ward St at Baker St (NB);NB_Ward St_NS_Baker St;49.491833;-117.293763;WKT;West Kootenay Transit System;Nelson
+160377;Ward St at Herridge (NB);NB_Ward St_FS_Herridge;49.491721;-117.293658;WKT;West Kootenay Transit System;Nelson
+160378;Lakeside at Poplar St (EB);EB_Lakeside_NS_Poplar St;49.500184;-117.287178;WKT;West Kootenay Transit System;Nelson
+160423;Lower 6 Mile 2900 block 2900 block (WB);WB_Lower 6 Mile_2900_block;49.577263;-117.22047;WKT;West Kootenay Transit System;Central Kootenay F
+160381;Austad at Buckna St (EB);EB_Austad_FS_Buckna St;49.097716;-117.723536;WKT;West Kootenay Transit System;Trail
+160382;Waneta Plaza Bay A (SB);SB_Waneta Plaza_Bay A;49.090632;-117.633337;WKT;West Kootenay Transit System;Trail
+160383;Hwy 22 at 1st (NB);NB_Hwy 22_NS_1st;49.125343;-117.741545;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160384;Hwy 3A at Rosedale (WB);WB_Hwy 3A_NS_Rosedale;49.313054;-117.633395;WKT;West Kootenay Transit System;Central Kootenay J
+160385;Robson Access at Raspberry (EB);EB_Robson Access_FS_Raspberry;49.333973;-117.654604;WKT;West Kootenay Transit System;Central Kootenay J
+160386;Broadwater at Bayview (WB);WB_Broadwater_NS_Bayview;49.335211;-117.663124;WKT;West Kootenay Transit System;Central Kootenay J
+160387;Broadwater at Bayview (EB);EB_Broadwater_FS_Bayview;49.335128;-117.663252;WKT;West Kootenay Transit System;Central Kootenay J
+160388;Arrow Lakes 1900 Block (WB);WB_Arrow Lakes_1900_block;49.33504;-117.72348;WKT;West Kootenay Transit System;Castlegar
+160429;Hwy 3A at Ridgewood (WB);WB_Hwy 3A_NS_Ridgewood;49.550529;-117.257107;WKT;West Kootenay Transit System;Central Kootenay F
+160390;Columbia at Aaron (NB);NB_Columbia_FS_Aaron;49.30355;-117.63036;WKT;West Kootenay Transit System;Central Kootenay J
+160391;1st St at Anderson St (NB);NB_1st St_FS_Anderson St;49.50023;-117.282081;WKT;West Kootenay Transit System;Nelson
+160392;1st St at Anderson St (SB);SB_1st St_NS_Anderson St;49.500144;-117.282276;WKT;West Kootenay Transit System;Nelson
+160281;Josephine St at Hoover St (NB);NB_Josephine St_NS_Hoover St;49.487765;-117.288377;WKT;West Kootenay Transit System;Nelson
+160282;Baker St at Falls St (WB);WB_Baker St_NS_Falls St;49.490544;-117.297958;WKT;West Kootenay Transit System;Nelson
+160283;Baker St at Ward St (EB);EB_Baker St_FS_Ward St;49.492039;-117.293643;WKT;West Kootenay Transit System;Nelson
+160284;Baker St at Ward St (EB);EB_Baker St_FS_Ward St;49.492112;-117.293451;WKT;West Kootenay Transit System;Nelson
+160285;Houston St at Hall St (EB);EB_Houston St_FS_Hall St;49.484788;-117.283323;WKT;West Kootenay Transit System;Nelson
+160286;Houston St at Cedar St (EB);EB_Houston St_NS_Cedar St;49.485513;-117.281148;WKT;West Kootenay Transit System;Nelson
+160287;Houston St at Josephine St (EB);EB_Houston St_FS_Josephine St;49.4842;-117.284796;WKT;West Kootenay Transit System;Nelson
+160288;Houston St at Ward St (EB);EB_Houston St_NS_Ward St;49.483436;-117.286747;WKT;West Kootenay Transit System;Nelson
+160289;Houston St at Kootenay St (EB);EB_Houston St_NS_Kootenay St;49.482417;-117.289546;WKT;West Kootenay Transit System;Nelson
+160290;Stanley St at Silica St (SB);SB_Stanley St_FS_Silica St;49.489653;-117.29387;WKT;West Kootenay Transit System;Nelson
+160291;Stanley St at Carbonate St (NB);NB_Stanley St_NS_Carbonate St;49.488828;-117.292937;WKT;West Kootenay Transit System;Nelson
+160292;Stanley St at Mill St (SB);SB_Stanley St_FS_Mill St;49.488183;-117.292569;WKT;West Kootenay Transit System;Nelson
+160293;Stanley St at Robson St (SB);SB_Stanley St_FS_Robson St;49.485119;-117.289804;WKT;West Kootenay Transit System;Nelson
+160294;Stanley St at Innes St (SB);SB_Stanley St_NS_Innes St;49.483954;-117.288814;WKT;West Kootenay Transit System;Nelson
+160295;Stanley St at Richards St (SB);SB_Stanley St_FS_Richards St;49.482136;-117.287146;WKT;West Kootenay Transit System;Nelson
+160296;Stanley St at Beasley St (SB);SB_Stanley St_NS_Beasley St;49.48104;-117.286197;WKT;West Kootenay Transit System;Nelson
+160297;Stanley St at Hart St (SB);SB_Stanley St_NS_Hart St;49.479433;-117.284822;WKT;West Kootenay Transit System;Nelson
+160298;Kootenay St at Observatory St (SB);SB_Kootenay St_FS_Observatory St;49.485342;-117.291771;WKT;West Kootenay Transit System;Nelson
+160299;Carbonate St at Cedar St (EB);EB_Carbonate St_NS_Cedar St;49.491647;-117.286628;WKT;West Kootenay Transit System;Nelson
+160300;Latimer St at Josephine St (EB);EB_Latimer St_FS_Josephine St;49.488801;-117.288777;WKT;West Kootenay Transit System;Nelson
+160301;Latimer St at Josephine St (WB);WB_Latimer St_NS_Josephine St;49.488817;-117.289017;WKT;West Kootenay Transit System;Nelson
+160302;Hall Mines at Hoover St (NB);NB_Hall Mines_NS_Hoover St;49.48593;-117.293023;WKT;West Kootenay Transit System;Nelson
+160303;Hall Mines at Observatory St (SB);SB_Hall Mines_NS_Observatory St;49.485479;-117.293238;WKT;West Kootenay Transit System;Nelson
+160304;Robson St at Hendryx St (WB);WB_Robson St_FS_Hendryx St;49.487345;-117.284894;WKT;West Kootenay Transit System;Nelson
+160305;Robson St at Josephine St (WB);WB_Robson St_NS_Josephine St;49.486511;-117.287018;WKT;West Kootenay Transit System;Nelson
+160306;Falls St at Richards St (NB);NB_Falls St_NS_Richards St;49.481111;-117.289703;WKT;West Kootenay Transit System;Nelson
+160307;Falls St at Beasley St (NB);NB_Falls St_NS_Beasley St;49.479603;-117.288375;WKT;West Kootenay Transit System;Nelson
+160308;Vancouver St at W Houston St (NB);NB_Vancouver St_NS_W Houston St;49.480581;-117.295263;WKT;West Kootenay Transit System;Nelson
+160309;Silver King at W Beasley St (NB);NB_Silver King_NS_W Beasley St;49.479058;-117.296094;WKT;West Kootenay Transit System;Nelson
+160310;Silver King at W Beasley St (SB);SB_Silver King_FS_W Beasley St;49.478861;-117.296198;WKT;West Kootenay Transit System;Nelson
+160311;Silver King at Tower (NB);NB_Silver King_FS_Tower;49.476699;-117.296069;WKT;West Kootenay Transit System;Nelson
+160312;Hart St at Falls St (WB);WB_Hart St_NS_Falls St;49.478401;-117.287071;WKT;West Kootenay Transit System;Nelson
+160313;View St at Pine St (WB);WB_View St_FS_Pine St;49.494844;-117.28509;WKT;West Kootenay Transit System;Nelson
+160314;View St at Carbonate St (NB);NB_View St_FS_Carbonate St;49.492878;-117.285123;WKT;West Kootenay Transit System;Nelson
+160315;Behnsen St at 2nd St (EB);EB_Behnsen St_NS_2nd St;49.501045;-117.281408;WKT;West Kootenay Transit System;Nelson
+160316;Behnsen St at 1st St (WB);WB_Behnsen St_NS_1st St;49.501177;-117.281722;WKT;West Kootenay Transit System;Nelson
+160395;Gordon at Lakeside (SB);SB_Gordon_NS_Lakeside;49.507687;-117.279411;WKT;West Kootenay Transit System;Nelson
+160318;Nelson at Behnsen St (NB);NB_Nelson_NS_Behnsen St;49.500549;-117.279315;WKT;West Kootenay Transit System;Nelson
+160319;2nd St at Davies St (NB);NB_2nd St_NS_Davies St;49.503292;-117.280728;WKT;West Kootenay Transit System;Nelson
+160320;2nd St at Davies St (SB);SB_2nd St_FS_Davies St;49.503288;-117.280866;WKT;West Kootenay Transit System;Nelson
+160321;2nd St at Kokanee (NB);NB_2nd St_NS_Kokanee;49.505633;-117.280799;WKT;West Kootenay Transit System;Nelson
+160322;2nd St at Kokanee (SB);SB_2nd St_FS_Kokanee;49.505633;-117.280799;WKT;West Kootenay Transit System;Nelson
+160323;Cottonwood St at 7th St (EB);EB_Cottonwood St_NS_7th St;49.502197;-117.273164;WKT;West Kootenay Transit System;Nelson
+160324;Cottonwood St at 7th St (WB);WB_Cottonwood St_FS_7th St;49.502275;-117.273154;WKT;West Kootenay Transit System;Nelson
+160325;Cottonwood St at 5th St (EB);EB_Cottonwood St_FS_5th St;49.502219;-117.274749;WKT;West Kootenay Transit System;Nelson
+160326;Cottonwood St at 3rd St (EB);EB_Cottonwood St_FS_3rd St;49.50222;-117.277746;WKT;West Kootenay Transit System;Nelson
+160327;5th St at Davies St (NB);NB_5th St_FS_Davies St;49.503537;-117.275255;WKT;West Kootenay Transit System;Nelson
+160328;5th St at Kokanee (NB);NB_5th St_FS_Kokanee;49.505971;-117.275253;WKT;West Kootenay Transit System;Nelson
+160329;Gordon St at 3rd St (EB);EB_Gordon St_FS_3rd St;49.508064;-117.277739;WKT;West Kootenay Transit System;Nelson
+160330;Gordon St at 4th St (WB);WB_Gordon St_NS_4th St;49.508133;-117.275964;WKT;West Kootenay Transit System;Nelson
+160332;Gordon St at 6th St (WB);WB_Gordon St_FS_6th St;49.508143;-117.274267;WKT;West Kootenay Transit System;Nelson
+160396;Gordon at Lakeside (NB);NB_Gordon_FS_Lakeside;49.507661;-117.279369;WKT;West Kootenay Transit System;Nelson
+160334;Fell St at 6th St (EB);EB_Fell St_NS_6th St;49.506863;-117.274409;WKT;West Kootenay Transit System;Nelson
+160335;8th St at Davies St (SB);SB_8th St_NS_Davies St;49.503689;-117.271367;WKT;West Kootenay Transit System;Nelson
+160336;8th St at Davies St (NB);NB_8th St_FS_Davies St;49.503582;-117.271169;WKT;West Kootenay Transit System;Nelson
+160337;8th St at Kokanee (NB);NB_8th St_NS_Kokanee;49.505451;-117.271219;WKT;West Kootenay Transit System;Nelson
+160338;8th St at Kokanee (SB);SB_8th St_FS_Kokanee;49.505607;-117.271412;WKT;West Kootenay Transit System;Nelson
+160339;Fell St at 9th St (WB);WB_Fell St_NS_9th St;49.506988;-117.269947;WKT;West Kootenay Transit System;Nelson
+160340;Hendryx St at Mill St (NB);NB_Hendryx St_NS_Mill St;49.490361;-117.287028;WKT;West Kootenay Transit System;Nelson
+160341;Hendryx St at Mill St (SB);SB_Hendryx St_FS_Mill St;49.490209;-117.287072;WKT;West Kootenay Transit System;Nelson
+160190;Highway at Iris (WB);WB_Highway_FS_Iris;49.097885;-117.680936;WKT;West Kootenay Transit System;Trail
+160191;Highway at Lilac (WB);WB_Highway_FS_Lilac;49.097907;-117.677194;WKT;West Kootenay Transit System;Trail
+160192;Highway at Iris (EB);EB_Highway_FS_Iris;49.097846;-117.676919;WKT;West Kootenay Transit System;Trail
+160193;Tennyson at Shakespeare St (NB);NB_Tennyson_FS_Shakespeare St;49.09234;-117.754913;WKT;West Kootenay Transit System;Warfield
+160194;Old Rossland at White St (WB);WB_Old Rossland_FS_White St;49.099705;-117.725951;WKT;West Kootenay Transit System;Trail
+160195;Rosewood at Carnation (WB);WB_Rosewood_FS_Carnation;49.097272;-117.660468;WKT;West Kootenay Transit System;Trail
+160196;Rosewood at Carnation (EB);EB_Rosewood_NS_Carnation;49.097218;-117.660491;WKT;West Kootenay Transit System;Trail
+160197;Cottonwood at Rosewood (SB);SB_Cottonwood_NS_Rosewood;49.097758;-117.661601;WKT;West Kootenay Transit System;Trail
+160198;Cottonwood at Carnation (NB);NB_Cottonwood_NS_Carnation;49.098059;-117.66111;WKT;West Kootenay Transit System;Trail
+160199;Rossland at Second St (EB);EB_Rossland_NS_Second St;49.096739;-117.716495;WKT;West Kootenay Transit System;Trail
+160200;Rossland at Railway (EB);EB_Rossland_FS_Railway;49.098467;-117.722056;WKT;West Kootenay Transit System;Trail
+160201;Rossland at Byers (EB);EB_Rossland_NS_Byers;49.097703;-117.719636;WKT;West Kootenay Transit System;Trail
+160202;Rossland at Byers (EB);EB_Rossland_NS_Byers;49.097899;-117.719697;WKT;West Kootenay Transit System;Trail
+160203;Rossland at Railway (WB);WB_Rossland_FS_Railway;49.098958;-117.722783;WKT;West Kootenay Transit System;Trail
+160204;Haig St at Coleman St (EB);EB_Haig St_FS_Coleman St;49.096656;-117.731063;WKT;West Kootenay Transit System;Warfield
+160205;7th at Jubilee St (EB);EB_7th_FS_Jubilee St;49.083121;-117.796518;WKT;West Kootenay Transit System;Rossland
+160206;6th Ave NW at 2nd St SE (SB);SB_6th Ave NW_NS_2nd St SE;50.24168;-117.804836;WKT;West Kootenay Transit System;Nakusp
+160207;Broadway St W at 6th Ave SW (EB);EB_Broadway St W_FS_6th Ave SW;50.239194;-117.805161;WKT;West Kootenay Transit System;Nakusp
+160209;Harold St at Delany (SB);SB_Harold St_FS_Delany;49.767936;-117.469611;WKT;West Kootenay Transit System;Slocan
+160508;Slocan St at Giffin (SB);SB_Slocan St_NS_Giffin;49.763308;-117.465834;WKT;West Kootenay Transit System;Slocan
+160211;Perrys Back at Hwy 6 (WB);WB_Perrys Back_FS_Hwy 6;49.664743;-117.508409;WKT;West Kootenay Transit System;Central Kootenay H
+160428;Hwy 3A at Annable (WB);WB_Hwy 3A_FS_Annable;49.557388;-117.250006;WKT;West Kootenay Transit System;Central Kootenay F
+160401;Crescent at Hwy 3A (WB);WB_Crescent_NS_Hwy 3A;49.605617;-117.135915;WKT;West Kootenay Transit System;Central Kootenay F
+160407;Pippers at Harrop Ferry (WB);WB_Pippers Lane_NS_Harrop Ferry;49.612366;-117.054062;WKT;West Kootenay Transit System;Central Kootenay E
+160416;Hwy 3A at Beggs (WB);WB_Hwy 3A_FS_Beggs;49.620306;-116.995841;WKT;West Kootenay Transit System;Central Kootenay E
+160410;Hwy 3A at Beggs (EB);EB_Hwy 3A_NS_Beggs;49.619966;-116.99624;WKT;West Kootenay Transit System;Central Kootenay E
+160415;Hwy 3A at Balfour Wharf Rd (WB);WB_Hwy 3A_FS_Balfour Wharf Rd;49.623564;-116.969687;WKT;West Kootenay Transit System;Central Kootenay E
+160131;Highway at Lily St (WB);WB_Highway_FS_Lily St;49.097897;-117.669895;WKT;West Kootenay Transit System;Trail
+160132;Highway at Lily St (EB);EB_Highway_NS_Lily St;49.09782;-117.669736;WKT;West Kootenay Transit System;Trail
+160134;Carnation at Marigold (WB);WB_Carnation_FS_Marigold;49.099716;-117.663787;WKT;West Kootenay Transit System;Trail
+160135;Carnation at Daisy St (EB);EB_Carnation_FS_Daisy St;49.099872;-117.665483;WKT;West Kootenay Transit System;Trail
+160136;Carnation at Cottonwood (WB);WB_Carnation_FS_Cottonwood;49.098719;-117.660943;WKT;West Kootenay Transit System;Trail
+160137;Carnation at Woodland (EB);EB_Carnation_FS_Woodland;49.099089;-117.662288;WKT;West Kootenay Transit System;Trail
+160138;Lily St at Carnation (NB);NB_Lily St_NS_Carnation;49.099646;-117.669723;WKT;West Kootenay Transit System;Trail
+160139;Lily St at Carnation (SB);SB_Lily St_FS_Carnation;49.099646;-117.669806;WKT;West Kootenay Transit System;Trail
+160140;Tech;EB_Teck Access;49.107055;-117.727061;WKT;West Kootenay Transit System;Trail
+160147;Hazlewood at Diana (EB);EB_Hazlewood_FS_Diana;49.113654;-117.71698;WKT;West Kootenay Transit System;Trail
+160148;Hillside at Viola (NB);NB_Hillside_FS_Viola;49.113767;-117.714667;WKT;West Kootenay Transit System;Trail
+160149;Hazlewood at Portia (EB);EB_Hazlewood_FS_Portia;49.114807;-117.719523;WKT;West Kootenay Transit System;Trail
+160150;Hillside at Sylvia (NB);NB_Hillside_FS_Sylvia;49.115347;-117.715292;WKT;West Kootenay Transit System;Trail
+160151;Hermia at Hazlewood (NB);NB_Hermia_NS_Hazlewood;49.115738;-117.721605;WKT;West Kootenay Transit System;Trail
+160152;Marianna at Celia (NB);NB_Marianna_FS_Celia;49.117938;-117.716957;WKT;West Kootenay Transit System;Trail
+160153;Marianna at Nerissa (WB);WB_Marianna_FS_Nerissa;49.119709;-117.720338;WKT;West Kootenay Transit System;Trail
+160154;Marianna at Celia (SB);SB_Marianna_NS_Celia;49.118184;-117.723586;WKT;West Kootenay Transit System;Trail
+160156;Wordsworth at Shelley St (EB);EB_Wordsworth_FS_Shelley St;49.094344;-117.754759;WKT;West Kootenay Transit System;Warfield
+160157;Main St at Columbia Gardens (SB);SB_Main St_NS_Columbia Gardens;49.115911;-117.54277;WKT;West Kootenay Transit System;Fruitvale
+160158;Main St at Kootenay Ave S (WB);WB_Main St_FS_Kootenay Ave S;49.114569;-117.545264;WKT;West Kootenay Transit System;Fruitvale
+160159;Laurier at Main St (SB);SB_Laurier_FS_Main St;49.113715;-117.546421;WKT;West Kootenay Transit System;Fruitvale
+160160;Hwy 3B 1000 block 1000 block (SB);SB_Hwy 3B_1000_block;49.083888;-117.580431;WKT;West Kootenay Transit System;Kootenay Boundary A
+160161;Hwy 3B 1000 block 1000 block (NB);NB_Hwy 3B_1000_block;49.083522;-117.580614;WKT;West Kootenay Transit System;Kootenay Boundary A
+160162;10th at 5th St (WB);WB_10th_NS_5th St;49.079207;-117.591952;WKT;West Kootenay Transit System;Montrose
+160163;Hwy 3B at Goodwin Way (WB);WB_Hwy 3B_FS_Goodwin Way;49.088138;-117.627268;WKT;West Kootenay Transit System;Trail
+160164;Old Waneta Rd at Devito (EB);EB_Old Waneta Rd_NS_Devito;49.088646;-117.63473;WKT;West Kootenay Transit System;Trail
+160165;9th at 2nd St (WB);WB_9th_FS_2nd St;49.074491;-117.598164;WKT;West Kootenay Transit System;Montrose
+160166;9th at 2nd St (EB);EB_9th_NS_2nd St;49.074367;-117.59809;WKT;West Kootenay Transit System;Montrose
+160167;9th at 3rd St (SB);SB_9th_FS_3rd St;49.075824;-117.595792;WKT;West Kootenay Transit System;Montrose
+160168;9th at 3rd St (NB);NB_9th_NS_3rd St;49.07578;-117.595614;WKT;West Kootenay Transit System;Montrose
+160169;9th at 4th St (WB);WB_9th_NS_4th St;49.078125;-117.593114;WKT;West Kootenay Transit System;Montrose
+160170;9th at 4th St (EB);EB_9th_FS_4th St;49.07798;-117.593156;WKT;West Kootenay Transit System;Montrose
+160171;Hwy 3B at Bluebird (NB);NB_Hwy 3B_NS_Bluebird;49.10112;-117.561084;WKT;West Kootenay Transit System;Fruitvale
+160172;Hwy 3B at Robinson (SB);SB_Hwy 3B_FS_Robinson;49.096901;-117.565311;WKT;West Kootenay Transit System;Kootenay Boundary A
+160173;Hwy 3B at Robinson (NB);NB_Hwy 3B_NS_Robinson;49.096879;-117.565143;WKT;West Kootenay Transit System;Kootenay Boundary A
+160174;Hwy 3B at Bluebird (WB);WB_Hwy 3B_AT_Bluebird;49.100955;-117.561344;WKT;West Kootenay Transit System;Fruitvale
+160175;Green at Redwood (SB);SB_Green_FS_Redwood;49.108954;-117.540858;WKT;West Kootenay Transit System;Fruitvale
+160176;Green at Pine (SB);SB_Green_NS_Pine;49.106546;-117.543173;WKT;West Kootenay Transit System;Fruitvale
+160177;Green at Mill (WB);WB_Green_NS_Mill;49.11053;-117.539304;WKT;West Kootenay Transit System;Kootenay Boundary A
+160178;Old Salmo Rd 1900 block 1900 block (EB);EB_Old Salmo Rd_1900_block;49.115086;-117.537252;WKT;West Kootenay Transit System;Kootenay Boundary A
+160179;Old Salmo Rd at Mollar (EB);EB_Old Salmo Rd_NS_Mollar;49.117441;-117.532355;WKT;West Kootenay Transit System;Kootenay Boundary A
+160180;Mill at Columbia Gardens (EB);EB_Mill_FS_Columbia Gardens;49.11267;-117.54175;WKT;West Kootenay Transit System;Kootenay Boundary A
+160181;Columbia Gardens at Cedar (NB);NB_Columbia Gardens_FS_Cedar;49.111805;-117.543948;WKT;West Kootenay Transit System;Fruitvale
+160182;Columbia Gardens at Juniper (NB);NB_Columbia Gardens_NS_Juniper;49.107446;-117.547999;WKT;West Kootenay Transit System;Fruitvale
+160183;Beaver St at Columbia Gardens (EB);EB_Beaver St_NS_Columbia Gardens;49.114836;-117.542439;WKT;West Kootenay Transit System;Fruitvale
+160184;Carnation at Woodland (WB);WB_Carnation_FS_Woodland;49.097232;-117.656741;WKT;West Kootenay Transit System;Trail
+160185;Hwy 3B at Nelson (SB);SB_Hwy 3B_FS_Nelson;49.113474;-117.54929;WKT;West Kootenay Transit System;Fruitvale
+160186;Hwy 3B at Nelson (NB);NB_Hwy 3B_NS_Nelson;49.113325;-117.549101;WKT;West Kootenay Transit System;Fruitvale
+160187;Highway at Lilac (EB);EB_Highway_FS_Lilac;49.097829;-117.675039;WKT;West Kootenay Transit System;Trail
+160188;Highway at Dahlia (WB);WB_Highway_FS_Dahlia;49.097903;-117.67401;WKT;West Kootenay Transit System;Trail
+160189;Highway at Iris (EB);EB_Highway_NS_Iris;49.09783;-117.680113;WKT;West Kootenay Transit System;Trail
+160117;Goepel St at Fourth (WB);WB_Goepel St_FS_Fourth;49.101877;-117.702509;WKT;West Kootenay Transit System;Trail
+160118;Fifth at Bowser St (WB);WB_Fifth_NS_Bowser St;49.098289;-117.690537;WKT;West Kootenay Transit System;Trail
+160119;Fifth at Bowser St (EB);EB_Fifth_FS_Bowser St;49.098173;-117.690562;WKT;West Kootenay Transit System;Trail
+160120;McBride St at Seventh (SB);SB_McBride St_NS_Seventh;49.099175;-117.687176;WKT;West Kootenay Transit System;Trail
+160121;McBride St at Seventh (NB);NB_McBride St_FS_Seventh;49.099126;-117.687061;WKT;West Kootenay Transit System;Trail
+160122;Oliver St at Seventh (NB);NB_Oliver St_NS_Seventh;49.100456;-117.693279;WKT;West Kootenay Transit System;Trail
+160123;Oliver St at Sixth (SB);SB_Oliver St_NS_Sixth;49.100172;-117.693537;WKT;West Kootenay Transit System;Trail
+160124;Seventh at Bowser St (WB);WB_Seventh_FS_Bowser St;49.099847;-117.690101;WKT;West Kootenay Transit System;Trail
+160125;Seventh at Bowser St (EB);EB_Seventh_NS_Bowser St;49.099812;-117.690157;WKT;West Kootenay Transit System;Trail
+160126;Hwy 3B at Beaver (SB);SB_Hwy 3B_FS_Beaver;49.087005;-117.576515;WKT;West Kootenay Transit System;Kootenay Boundary A
+160127;Hwy 3B at Beaver (NB);NB_Hwy 3B_NS_Beaver;49.086936;-117.576324;WKT;West Kootenay Transit System;Kootenay Boundary A
+160128;Sixth at Brewster St (WB);WB_Sixth_NS_Brewster St;49.099485;-117.691725;WKT;West Kootenay Transit System;Trail
+160129;Sixth at Brewster St (EB);EB_Sixth_FS_Brewster St;49.099431;-117.691766;WKT;West Kootenay Transit System;Trail
+160130;Highway at Laurel (EB);EB_Highway_NS_Laurel;49.097811;-117.672023;WKT;West Kootenay Transit System;Trail
+160000;12th at Highway 22 (EB);EB_12th_FS_Highway 22;49.207712;-117.704543;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160001;12th Avenue at Highway 22 (WB);WB_12th_NS_Highway 22;49.207764;-117.704535;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160004;12th at 15th (WB);WB_12th_FS_15th;49.208919;-117.697105;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160003;12th at 15th (EB);EB_12th_at_15th;49.208876;-117.697041;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160006;12th at 5th (WB);WB_12th_NS_5th;49.212927;-117.691749;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160005;12th at 5th (EB);EB_12th_FS_5th;49.2129;-117.691693;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160008;12th at 6th (SB);SB_12th_FS_6th;49.214932;-117.689184;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160007;12th at 6th (NB);NB_12th_NS_6th;49.214908;-117.689144;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160364;Highway 22 at Birchbank Golf Road (NB);NB_Highway 22_NS_Birchbank Golf ;49.162106;-117.731865;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160394;Highway 22 at Birchbank Golf Road (SB);SB_Highwat 22_Birchwood Golf;49.162204;-117.731908;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+160214;Hwy 3A at Ootischenia (NB);NB_Hwy 3A_FS_Ootischenia;49.314079;-117.632045;WKT;West Kootenay Transit System;Castlegar
+160215;Hwy 3A at Upper Balfour (WB);WB_Hwy 3A_AT_Upper Balfour;49.622334;-116.988186;WKT;West Kootenay Transit System;Central Kootenay E
+160398;Lower 6 Mile Rd at 2700 Block (EB);EB_Lower_6 Mile Rd_AT_2700 Block;49.571854;-117.228238;WKT;West Kootenay Transit System;Central Kootenay F
+160399;Hwy 3A at Bainbridge (EB);EB_Hwy 3A_AT_Bainbridge;49.58355;-117.21101;WKT;West Kootenay Transit System;Central Kootenay F
+160400;Hwy 3A at MacGregor (EB);EB_Hwy 3A_NS_MacGregor;49.598414;-117.175937;WKT;West Kootenay Transit System;Central Kootenay F
+160472;Hwy 3A at Lazeroff (SB);SB_Hwy 3A_FS_Lazeroff;49.410367;-117.539894;WKT;West Kootenay Transit System;Central Kootenay I
+160473;Hwy 3A at Jenisa Rd (SB);SB_Hwy 3A_NS_Jenisa Rd;49.403287;-117.544556;WKT;West Kootenay Transit System;Central Kootenay I
+160474;Hwy 3A at Tarry Fire Station (WB);WB_Hwy 3A_AT_Tarry Fire Station;49.393172;-117.550856;WKT;West Kootenay Transit System;Central Kootenay I
+160475;Hwy 3A at 2000 Blk (SB);SB_Hwy 3A_AT_2000 Blk;49.38987;-117.552363;WKT;West Kootenay Transit System;Central Kootenay I
+160476;Hwy 3A at Tarry's (SB);SB_Hwy 3A_FS_Tarry's ;49.38661;-117.553889;WKT;West Kootenay Transit System;Central Kootenay I
+160477;Hwy 3A at 1900 Blk (SB);SB_Hwy 3A_AT_1900 BlK;49.383118;-117.555514;WKT;West Kootenay Transit System;Central Kootenay I
+160478;Hwy 3A at Irving Rd (SB);SB_Hwy 3A_FS_Irving Rd;49.375408;-117.560464;WKT;West Kootenay Transit System;Central Kootenay I
+160479;Hwy 3A at 1800 Blk (SB);SB_Hwy 3A_AT_1800 Blk;49.372681;-117.563472;WKT;West Kootenay Transit System;Central Kootenay I
+160480;Hwy 3A at Thrum's (SB);SB_Hwy 3A_AT_Thrum's;49.3668;-117.569043;WKT;West Kootenay Transit System;Central Kootenay I
+160014;Hoover at Hall (EB);EB_Hoover_NS_Hall;49.488277;-117.287339;WKT;West Kootenay Transit System;Nelson
+160481;Hwy 3A at Moran (SB);SB_Hwy 3A_FS_Moran Rd;49.361094;-117.572687;WKT;West Kootenay Transit System;Central Kootenay I
+160482;Hwy 3A at 1600 Blk (SB);SB_Hwy 3A_AT_1600 Blk;49.356626;-117.575538;WKT;West Kootenay Transit System;Central Kootenay I
+160483;Hwy 3A at Chalmers (SB);SB_Hwy 3A_NS_Chalmers;49.351794;-117.580948;WKT;West Kootenay Transit System;Central Kootenay I
+160484;Hwy 3A at Lookout (SB);SB_Hwy 3A_NS_Lookout ;49.346464;-117.587739;WKT;West Kootenay Transit System;Central Kootenay I
+160485;Hwy 3A at Thrums West Rd (NB);NB_Hwy 3A_FS_Thrums West Rd;49.346854;-117.586923;WKT;West Kootenay Transit System;Central Kootenay I
+160486;Hwy 3A at Thrums Stub Rd (NB);NB_Hwy 3A_AT_Thrums Stub Rd;49.354343;-117.577496;WKT;West Kootenay Transit System;Central Kootenay I
+160487;Hwy 3A at Moran Rd (NB);NB_Hwy 3A_NS_Moran Rd;49.361172;-117.572476;WKT;West Kootenay Transit System;Central Kootenay I
+160488;Hwy 3A at Thrums East Rd (NB);NB_Hwy 3A_NS_Thrums East Rd;49.366308;-117.56903;WKT;West Kootenay Transit System;Central Kootenay I
+160489;Hwy 3A at Drazdoff Rd (NB);NB_Hwy 3A_NS_Drazdoff Rd;49.373504;-117.562169;WKT;West Kootenay Transit System;Central Kootenay I
+160490;Hwy 3A at Tarry's (NB);NB_Hwy 3A_NS_Tarry's;49.386554;-117.553805;WKT;West Kootenay Transit System;Central Kootenay I
+160491;Hwy 3A opp. Tarrys Fire Hall (NB);NB_Hwy 3A opp._Tarrys Fire Hall;49.392327;-117.5511;WKT;West Kootenay Transit System;Central Kootenay I
+160492;Hwy 3A at Loff Rd (NB);NB_Hwy 3A_FS_Loff Rd;49.397669;-117.548198;WKT;West Kootenay Transit System;Central Kootenay I
+160493;Hwy 3A at 2200 Blk (NB);NB_Hwy 3A_AT_2200 Blk;49.401398;-117.545606;WKT;West Kootenay Transit System;Central Kootenay I
+160494;Hwy 3A at Fir (NB);NB_Hwy 3A_FS_Fir Dr;49.437648;-117.535597;WKT;West Kootenay Transit System;Central Kootenay I
+160495;Hwy 3A/6 at 2900 Blk (NB);NB_Hwy 3A/6_AT_2900 Blk;49.448588;-117.533616;WKT;West Kootenay Transit System;Central Kootenay H
+160496;Hwy 3A/6 at W Kootenay Rd (NB);NB_Hwy 3A/6_NS W Kootenay Rd;49.454643;-117.52685;WKT;West Kootenay Transit System;Central Kootenay H
+160497;Hwy 3A/6 at Blewett (EB);EB_Hwy 3A/6_FS_Blewett;49.459724;-117.517524;WKT;West Kootenay Transit System;Central Kootenay H
+160498;Hwy 3A/6 at S Slocan Village (EB);EB_Hwy 3A/6_FS_S Slocan_village;49.463263;-117.495628;WKT;West Kootenay Transit System;Central Kootenay F
+160499;Hwy 3A/6 at Bonnington (EB);EB_Hwy 3A/6_FS_Bonnington;49.462584;-117.477853;WKT;West Kootenay Transit System;Central Kootenay F
+160500;Hwy 3A/6 at 4400 Blk (NB);NB_Hwy 3A/6_AT_4400_Blk;49.468947;-117.47211;WKT;West Kootenay Transit System;Central Kootenay F
+160501;Hwy 3A/6 at Corra Linn (NB);NB_Hwy 3A/6_NS_Corra_Linn;49.473263;-117.468971;WKT;West Kootenay Transit System;Central Kootenay F
+160502;Hwy 3A/6 at 5000 Block (EB);EB_Hwy 3A/6_AT_5000-Block;49.486393;-117.453084;WKT;West Kootenay Transit System;Central Kootenay F
+160503;Hwy 3A/6 at Taghum Gas Station (EB);EB_Hwy 3A/6_AT_Taghum Gas Station;49.491295;-117.405562;WKT;West Kootenay Transit System;Central Kootenay F
+160504;Hwy 3A/6 at Taghum Hall Rd (EB);EB_Hwy 3A/6_NS_Taghum_Hall Rd;49.490957;-117.397537;WKT;West Kootenay Transit System;Central Kootenay F
+160505;Hwy 3A/6 1600 Block (EB);EB_Hwy 3A/6_1600_Block;49.487991;-117.328616;WKT;West Kootenay Transit System;Central Kootenay E
+160506;Hwy 3A/6 at Granite (EB);EB_Hwy 3A/6_NS-Granite;49.48564;-117.3088;WKT;West Kootenay Transit System;Central Kootenay E
+160546;Hwy 6 at Rooster Rd (SB);SB_Hwy 6_FS_Rooster Rd;49.689138;-117.491639;WKT;West Kootenay Transit System;Central Kootenay H
+160547;Hwy 6 at Popou (SB);SB_Hwy 6_AT_Popou;49.685358;-117.493042;WKT;West Kootenay Transit System;Central Kootenay H
+160548;Hwy 6 at St Thomas (SB);SB_Hwy 6_FS_ST_Thomas;49.678539;-117.495809;WKT;West Kootenay Transit System;Central Kootenay H
+160507;Main St at Hwy 6 (EB);EB_Main St_FS_Hwy 6;49.193814;-117.280208;WKT;West Kootenay Transit System;Salmo
+160397;Kokanee at 4th St (EB);EB_Kokanee_NS_4th St;49.505749;-117.276796;WKT;West Kootenay Transit System;Nelson
+160379;Lakeside Dr at Airport (WB);WB_Lakeside Dr_Airport;49.491594;-117.303103;WKT;West Kootenay Transit System;Nelson
+160317;Lakeside Dr at Airport (EB);EB_Lakeside Dr_Airport;49.491609;-117.302806;WKT;West Kootenay Transit System;Nelson
+560050;Hotsprings Rd (NB);;50.296696;-117.684853;WKT;West Kootenay Transit System;Nakusp
+560051; Westbound E Hwy 6 at Summit Lake;;50.15474;-117.654339;WKT;West Kootenay Transit System;Central Kootenay H
+560052;E Hwy 6 at Summit Lake (EB);;50.154664;-117.654314;WKT;West Kootenay Transit System;Central Kootenay H
+560053; Westbound E Hwy 6 at Bonanza Creek Rd;;50.097395;-117.471618;WKT;West Kootenay Transit System;Central Kootenay H
+560054;Hwy 6 at Bonanza Creek Rd (EB);;50.097229;-117.471202;WKT;West Kootenay Transit System;Central Kootenay H
+560055;Hwy 6 at Seventh Ave (NB);;49.992943;-117.372061;WKT;West Kootenay Transit System;New Denver
+560056;Hwy 6 at Seventh Ave (SB);;49.992925;-117.372154;WKT;West Kootenay Transit System;New Denver
+560057;Hwy 6 at 4th st (SB);;49.953124;-117.35686;WKT;West Kootenay Transit System;Silverton
+560058;Hwy 6 at 4th St (NB);;49.953152;-117.356747;WKT;West Kootenay Transit System;Silverton
+560059;Hwy 6 at Arrow Park Rd (SB);;50.101195;-117.900514;WKT;West Kootenay Transit System;Central Kootenay K
+160549;Hwy 6 at Harasomov (SB);SB_Hwy 6_FS_Harasemov Rd;49.667955;-117.504535;WKT;West Kootenay Transit System;Central Kootenay H
+160550;Hwy 6 at Perrys Back Rd (SB);SB_Hwy 6_NS_Perrys Back Rd;49.664845;-117.506983;WKT;West Kootenay Transit System;Central Kootenay H
+160551;Hwy 6 at Oma (SB);SB_Hwy 6_FS_Oma;49.592978;-117.581547;WKT;West Kootenay Transit System;Central Kootenay H
+160552;Hwy 6 at Pedro Creek Rd (SB);SB_Hwy 6_FS_Pedro_Creek Rd;49.591393;-117.590019;WKT;West Kootenay Transit System;Central Kootenay H
+160553;Hwy 6 at Lebhado (SB);SB_Hwy 6_AT_Lebhado;49.584532;-117.603097;WKT;West Kootenay Transit System;Central Kootenay H
+160554;Passmore Upper Rd at Passmore Old Rd (WB);WB_Passmore Upper_NS_Old Passmore Rd;49.54126;-117.650708;WKT;West Kootenay Transit System;Central Kootenay H
+160555;Passmore Old Rd at Passmore Comm Hall (SB);SB_Passmore Old Rd_AT_Passmore Comm Hall;49.538823;-117.649079;WKT;West Kootenay Transit System;Central Kootenay H
+160556;Hwy 6 at Slocan Park West (SB);SB_Hwy 6_AT_Slocan Park West;49.518763;-117.628478;WKT;West Kootenay Transit System;Central Kootenay H
+160557;Hwy 6 at Slocan Gas Station (SB);SB_Hwy 6_AT_Slocan Gas Station;49.515302;-117.620608;WKT;West Kootenay Transit System;Central Kootenay H
+160558;Hwy 6 at Slocan Valley East (SB);SB_Hwy 6_NS_Slocan_Valley West;49.513438;-117.615364;WKT;West Kootenay Transit System;Central Kootenay H
+160559;Hwy 6 at Cunningham (SB);SB_Hwy 6_FS_Cunningham;49.495695;-117.592598;WKT;West Kootenay Transit System;Central Kootenay H
+160560;Hwy 6 at 2100 Block (SB);SB_Hwy 6_AT_2100 Block;49.48418;-117.580614;WKT;West Kootenay Transit System;Central Kootenay H
+160561;Hwy 6 at Pass Creek Rd (SB);SB_Hwy 6_AT_Pass Creek Rd;49.450052;-117.559141;WKT;West Kootenay Transit System;Central Kootenay H
+160562;Hwy 6 at Cres Valley Gas Station (SB);SB_Hwy 6_AT_Cres Valley Gas Station;49.446002;-117.557729;WKT;West Kootenay Transit System;Central Kootenay H
+160563;Winlaw Bridge at Winlaw Elementary (NB);NB_Winlaw_Bridge_AT_Winlaw Elementary;49.613801;-117.566795;WKT;West Kootenay Transit System;Central Kootenay H
+160564;Winlaw Bridge at Cedar Creek (NB);NB_Winlaw Bridge_FS_Cedar Creek;49.614944;-117.565997;WKT;West Kootenay Transit System;Central Kootenay H
+160565;Slocan River at Winlaw Bridge (NB);NB_Slocan River_FS_Winlaw Bridge;49.61623;-117.566381;WKT;West Kootenay Transit System;Central Kootenay H
+160566;Slocan River at McKean (NB);NB_Slocan River Rd_NS_McKean;49.626322;-117.557073;WKT;West Kootenay Transit System;Central Kootenay H
+160567;Slocan River at Youngs Rd South (NB);NB_Slocan River_NS_Youngs Rd South;49.628542;-117.556226;WKT;West Kootenay Transit System;Central Kootenay H
+160568;Slocan River at Youngs Rd North (NB);NB_Slocan River_FS_Youngs Rd North;49.639682;-117.549186;WKT;West Kootenay Transit System;Central Kootenay H
+160569;Slocan River at Appledale West (NB);NB_Slocan River_NS_Appledale_West;49.646036;-117.54423;WKT;West Kootenay Transit System;Central Kootenay H
+160570;Perry Back at Appledale Lower (NB);NB_Perry Back_NS_Appledale_Lower;49.653831;-117.537246;WKT;West Kootenay Transit System;Central Kootenay H
+160571;Winlaw Bridge Acr Winlaw Elementary (SB);SB_Winlaw Bridge_Acr_Winlaw Elementary;49.613772;-117.566987;WKT;West Kootenay Transit System;Central Kootenay H
+160573;Perrys Back Rd at Avis (SB);SB_Perrys Back Rd_FS_Avis;49.666425;-117.515352;WKT;West Kootenay Transit System;Central Kootenay H
+160574;Perry Back at Powell (SB);SB_Perry Back_FS_Powell;49.663435;-117.520134;WKT;West Kootenay Transit System;Central Kootenay H
+160575;Perrys Back at Hecker (SB);SB_Perrys Back_FS_Hecker;49.661833;-117.526043;WKT;West Kootenay Transit System;Central Kootenay H
+160576;Slocan River at McKean Rd North (SB);SB_Slocan River_NS_McKean Rd North;49.63265;-117.554792;WKT;West Kootenay Transit System;Central Kootenay H
+160577;Slocan River at McKean Rd South (SB);SB_Slocan River_NS_McKean Rd South;49.626441;-117.557113;WKT;West Kootenay Transit System;Central Kootenay H
+160402;Hwy 3A at 5100 Block (EB);EB_Hwy 3A_AT_5100 Block;49.611913;-117.112586;WKT;West Kootenay Transit System;Central Kootenay E
+160403;Hwy 3A at McKnown (EB);EB_Hwy 3A_AT_McKnown;49.612093;-117.105786;WKT;West Kootenay Transit System;Central Kootenay E
+160404;Hwy 3A at Longbeach (EB);EB_Hwy 3A_AT_Longbeach;49.612633;-117.085226;WKT;West Kootenay Transit System;Central Kootenay E
+160405;Hwy 3A at 5800 Block (EB);EB_Hwy 3A_AT_5800 Block;49.613736;-117.072526;WKT;West Kootenay Transit System;Central Kootenay E
+560060;Hwy 6 at Arrow Park Rd (NB);;50.10101;-117.900481;WKT;West Kootenay Transit System;Central Kootenay K
+560061;Hwy 6 at Burton Main Rd (SB);;49.991115;-117.879471;WKT;West Kootenay Transit System;Central Kootenay K
+560062;Hwy 6 at Burton Main Rd (NB);;49.991052;-117.879192;WKT;West Kootenay Transit System;Central Kootenay K
+560065;Hwy 6 at Fauquier (SB);;49.871928;-118.079845;WKT;West Kootenay Transit System;Central Kootenay K
+560066;Hwy 6 at Fauquier (NB);;49.871775;-118.079791;WKT;West Kootenay Transit System;Central Kootenay K
+560038;Inonoaklin Valley at Cemetery Rd (SB);;49.784378;-118.140215;WKT;West Kootenay Transit System;Central Kootenay K
+560021;A Ave (WB);;49.911245;-116.904642;WKT;West Kootenay Transit System;Kaslo
+560022;Hwy 31 at Shutty Bench Rd (NB);;49.960755;-116.905913;WKT;West Kootenay Transit System;Central Kootenay D
+560023;Kaslo Hospital;;49.913585;-116.913391;WKT;West Kootenay Transit System;Kaslo
+560024;8th St at C Ave;;49.913293;-116.917599;WKT;West Kootenay Transit System;Kaslo
+560027;Vernon St at Stanley St (WB);;49.492492;-117.295801;WKT;West Kootenay Transit System;Nelson
+560028;Vernon St at Stanley St (EB);;49.492322;-117.295679;WKT;West Kootenay Transit System;Nelson
+560026;B Ave;;49.909624;-116.898503;WKT;West Kootenay Transit System;Kaslo
+560025;Front St;;49.912076;-116.904939;WKT;West Kootenay Transit System;Kaslo
+560039;Hwy 3A & 6 at Taghum Hall Rd **Flag Stop** (WB);;49.491123;-117.396;WKT;West Kootenay Transit System;Central Kootenay F
+560041;Beasley Rd at Bains Rd **Flag Stop** (SB);;49.485049;-117.458549;WKT;West Kootenay Transit System;Central Kootenay F
+560042;Beasley Rd at Bains Rd **Flag Stop** (NB);;49.484935;-117.458411;WKT;West Kootenay Transit System;Central Kootenay F
+560043;Bonnington Rd (SB);;49.466641;-117.493462;WKT;West Kootenay Transit System;Central Kootenay F
+560044;Bonnington Rd **Flag Stop** (NB);;49.46651;-117.493308;WKT;West Kootenay Transit System;Central Kootenay F
+560029;Highway 3A at Tarrys Rd (SB);;49.391065;-117.551829;WKT;West Kootenay Transit System;Central Kootenay I
+560045;Railway Ave at 6th St;;49.193239;-117.28101;WKT;West Kootenay Transit System;Salmo
+560046;1st Ave at Fir St (SB);;49.283031;-117.214583;WKT;West Kootenay Transit System;Central Kootenay G
+560047;1st Ave at Fir St (NB);;49.283086;-117.214355;WKT;West Kootenay Transit System;Central Kootenay G
+560048;Highway 31 at Duncan Dam Lookout Rd ;;50.244972;-116.964326;WKT;West Kootenay Transit System;Central Kootenay D
+560067;Highway 31 at Cooper Creek Rd (SB);;50.20182;-116.963661;WKT;West Kootenay Transit System;Central Kootenay D
+560068;Highway 31 at Cooper Creek Rd (NB);;50.201914;-116.963491;WKT;West Kootenay Transit System;Central Kootenay D
+560069;Argenta Johnsons Landing Rd (SB);;50.156124;-116.919831;WKT;West Kootenay Transit System;Central Kootenay D
+560037;Highway 31 at Upper Woodbury Village Rd (NB);;49.786659;-116.896813;WKT;West Kootenay Transit System;Central Kootenay D
+560070;Highway 31 at Arcola Rd (SB);;49.877548;-116.901446;WKT;West Kootenay Transit System;Central Kootenay D
+560036;Highway 31 at Upper Woodbury Village Rd (SB);;49.786673;-116.897148;WKT;West Kootenay Transit System;Central Kootenay D
+560071;Highway 31 at Arcola Rd (NB);;49.877553;-116.901198;WKT;West Kootenay Transit System;Central Kootenay D
+560072;Highway 31 at Sutton St (SB);;49.735231;-116.910515;WKT;West Kootenay Transit System;Central Kootenay D
+560073;Highway 31 at Sutton St (NB);;49.735241;-116.910423;WKT;West Kootenay Transit System;Central Kootenay D
+560080;Highway 22 at 200th Ave (NB);;49.234131;-117.670335;WKT;West Kootenay Transit System;Central Kootenay J
+560081;Highway 22 at 200th Ave (SB);;49.234139;-117.670623;WKT;West Kootenay Transit System;Central Kootenay J
+560090;Hwy 3A at Drazdoff (NB);;49.373116;-117.562672;WKT;West Kootenay Transit System;Central Kootenay I
+560091;Hwy 3A at Tarry's Firehall (NB);;49.391063;-117.551667;WKT;West Kootenay Transit System;Central Kootenay I
+160406;Hwy 3A at Martin Rd (EB);EB_Hwy 3A_FS_Martin Rd;49.613665;-117.056599;WKT;West Kootenay Transit System;Central Kootenay E
+160408;Hwy 3A at 6400 Block (EB);EB_Hwy 3A_AT_6400 Block;49.615963;-117.029672;WKT;West Kootenay Transit System;Central Kootenay E
+160409;Hwy 3A at Lee (EB);EB_Hwy 3A_NS_Lee Rd;49.618905;-117.001165;WKT;West Kootenay Transit System;Central Kootenay E
+160411;Hwy 3A at Heuston (EB);EB_Hwy 3A_NS_Heuston;49.622284;-116.987941;WKT;West Kootenay Transit System;Central Kootenay E
+160412; Hwy 3A at 7800 Block (EB);EB_Hwy 3A_AT_7800 Block;49.624936;-116.962702;WKT;West Kootenay Transit System;Central Kootenay E
+160414;Hwy 3A at 7800 Block (WB);WB_Hwy 3A_AT_7800 Block;49.62517;-116.96244;WKT;West Kootenay Transit System;Central Kootenay E
+160417;Hwy 3A at Grandview Dr (WB);WB_Hwy 3A_AT_Grandview Dr;49.618097;-117.016293;WKT;West Kootenay Transit System;Central Kootenay E
+160419;Hwy 3A 6100 Block (WB);WB_Hwy 3A_6100 Block;49.614492;-117.049106;WKT;West Kootenay Transit System;Central Kootenay E
+160420;Hwy 3A at 4800 Block (WB);WB_Hwy 3A_AT_4800 Block;49.606499;-117.12136;WKT;West Kootenay Transit System;Central Kootenay E
+160422;Hwy 3A at Keiran Rd (WB);WB_Hwy 3A_AT_Keiran Rd;49.590682;-117.197405;WKT;West Kootenay Transit System;Central Kootenay F
+160424;Lower 6 mile at 2700 Block (WB);WB_Lower 6_Mile_AT_2700 Block;49.572339;-117.226177;WKT;West Kootenay Transit System;Central Kootenay F
+160425;Hwy 3A at Greenwood Rd (WB);WB_Hwy 3A_AT_Greenwood Rd;49.571359;-117.232545;WKT;West Kootenay Transit System;Central Kootenay F
+160426;Hwy 3A at 6 Mile Rd (WB);WB_Hwy 3A_NS_6 Mile Rd;49.570515;-117.236279;WKT;West Kootenay Transit System;Central Kootenay F
+160427;Hwy 3A at 2400 Block (WB);WB_Hwy 3A_AT_2400 Block;49.567548;-117.239206;WKT;West Kootenay Transit System;Central Kootenay F
+160430;Hwy 3A 1600 Block (WB);WB_Hwy_3A_1600 Block;49.544907;-117.259044;WKT;West Kootenay Transit System;Central Kootenay F
+160432;Hwy 3A 1000 Block (WB);WB_Hwy 3A_1000 Block;49.524686;-117.273734;WKT;West Kootenay Transit System;Central Kootenay F
+160433;Hwy 3A 900 Block (WB);WB_Hwy 3A_900 Block;49.520928;-117.280253;WKT;West Kootenay Transit System;Central Kootenay F
+160434;Hwy 3A at Johnstone (WB);WB_Hwy 3A_AT_Johnstone;49.515167;-117.284538;WKT;West Kootenay Transit System;Nelson
+160435;Hwy 3A at 700 Block (EB);EB_hwy 3A_AT_700 Block;49.516865;-117.282463;WKT;West Kootenay Transit System;Nelson
+160436;Hwy 3A at 1000 Block (EB);EB_Hwy 3A_AT_1000 Block;49.524663;-117.273384;WKT;West Kootenay Transit System;Central Kootenay F
+160437;Hwy 3A at 1700 Block (EB);EB_Hwy 3A_AT_1700 Block;49.545357;-117.258974;WKT;West Kootenay Transit System;Central Kootenay F
+160612;4th St at A Ave (SB);SB_4th St_AT_A Ave;49.910823;-116.904481;WKT;West Kootenay Transit System;Kaslo
+160572;Perrys Back at Hwy 6 (SB);SB_Perrys Back_FS_Hwy 6;49.664713;-117.507906;WKT;West Kootenay Transit System;Central Kootenay H
+160613;Hwy 6 at 4th St (SB);SB_Hwy 6_NS_4th St;49.95262;-117.356929;WKT;West Kootenay Transit System;Silverton
+160614;Hwy 3A at 800 Block (EB);EB_Hwy 3A_AT_800 Block;49.517656;-117.281356;WKT;West Kootenay Transit System;Central Kootenay F
+160615;Hwy 3A at 900 Block (EB);EB_Hwy 3A_AT_900 Block;49.522124;-117.277917;WKT;West Kootenay Transit System;Central Kootenay F
+160616;Hwy 3A at 1500 Block (EB);EB_Hwy 3A_AT_1500 Block;49.541287;-117.258622;WKT;West Kootenay Transit System;Central Kootenay F
+160617;Hwy 3A at 2000 Block (EB);EB_Hwy 3A_AT_2000 Block;49.555073;-117.251172;WKT;West Kootenay Transit System;Central Kootenay F
+160618;Hwy 3A at 2300 Block (EB);EB_Hwy 3A_AT_2300 Block;49.563705;-117.241919;WKT;West Kootenay Transit System;Central Kootenay F
+160513;Hwy 23 at 2nd St (NB);NB_Hwy 23_FS_2nd St;50.241669;-117.804638;WKT;West Kootenay Transit System;Nakusp
+160514;Slocan River Rd at Winlaw Bridge Rd (SB);SB_Slocan_River Rd_NS_Winlaw_Bridge Rd;49.616214;-117.566663;WKT;West Kootenay Transit System;Central Kootenay H
+160518;Hwy 6 at Cres Valley Comm Hall (NB);NB_Hwy 6_AT_Cres Valley Comm Hall;49.450542;-117.559132;WKT;West Kootenay Transit System;Central Kootenay H
+160519;Hwy 6 at 2100 Block (NB);NB_Hwy 6_AT_2100 Block;49.484224;-117.580111;WKT;West Kootenay Transit System;Central Kootenay H
+160520;Hwy 6 at Cunningham (NB);NB_Hwy 6_FS_Cunningham;49.496176;-117.592966;WKT;West Kootenay Transit System;Central Kootenay H
+160521;Hwy 6 at Storbo (NB);NB_Hwy 6_FS_Storbo;49.505253;-117.600233;WKT;West Kootenay Transit System;Central Kootenay H
+160522;Hwy 6_at Slocan Park Comm Hall (NB);NB_Hwy 6_AT_Slocan Park Comm Hall;49.515459;-117.620845;WKT;West Kootenay Transit System;Central Kootenay H
+160523;Hwy 6 at Slocan Park (NB);NB_Hwy 6_NS_Slocan Park;49.517014;-117.625286;WKT;West Kootenay Transit System;Central Kootenay H
+560093;Hwy 3A & 6 at Pacific Insight Corp (SB)*Flag Stop*;SB_Hwy 3A_&_6_at_Pacific_Insight_corp;49.49708;-117.358696;WKT;West Kootenay Transit System;Central Kootenay E
+560094;Hwy 22 at 1st (SB);;49.125739;-117.74173;WKT;West Kootenay Transit System;Kootenay Boundary B / Lower Columbia-Old-Glory
+960000;Castlegar Transit System;Castlegar Transit System;49.328624;-117.664507;WKT;West Kootenay Transit System;Castlegar
+960001;Kaslo Transit System;Kaslo Transit System;49.916644;-116.912483;WKT;West Kootenay Transit System;Kaslo
+960002;Nakusp Transit Systam;Nakusp Transit System;50.247612;-117.800329;WKT;West Kootenay Transit System;Central Kootenay K
+960003;Nelson Transit System;Nelson Transit System;49.490949;-117.30449;WKT;West Kootenay Transit System;Nelson
+960005;Trail Transit System;Trail Transit System;49.087899;-117.632051;WKT;West Kootenay Transit System;Trail
+560141;Giffin;;49.763013;-117.465884;WKT;West Kootenay Transit System;Slocan
+560142;Giffin;;49.763015;-117.46567;WKT;West Kootenay Transit System;Slocan
+560143;Slocan;;49.762986;-117.465825;WKT;West Kootenay Transit System;Slocan
+160439;Lower 6 Mile Rd at 2800 Block (EB);EB_Lower 6_Mile Rd_AT_2800 Block;49.575267;-117.221399;WKT;West Kootenay Transit System;Central Kootenay F
+160438;Lower 6 Mile Rd at 2700 Block (EB);EB_Lower 6_Mile_AT_2700 Block;49.572424;-117.225458;WKT;West Kootenay Transit System;Central Kootenay F
+160440;Lower 6 Mile Rd at 2900 Block (EB);EB_Lower 6_Mile_AT_2900 Block;49.577287;-117.220227;WKT;West Kootenay Transit System;Central Kootenay F
+160441;Hwy 3A at 3200 Block (EB);EB_Hwy 3A_AT_3200 Block;49.58584;-117.203786;WKT;West Kootenay Transit System;Central Kootenay F
+160525;Hwy 6 at Pedro Creek (NB);NB_Hwy 6_NS_Pedro Creek;49.591443;-117.589747;WKT;West Kootenay Transit System;Central Kootenay H
+160526;Hwy 6 at Paradise Valley Rd (NB);NB_Hwy 6_NS_Paradise Valley Rd;49.610577;-117.563497;WKT;West Kootenay Transit System;Central Kootenay H
+160527;Hwy 6 at Cedar Creek (NB);NB_Hwy 6_NS_Cedar Creek;49.613277;-117.559827;WKT;West Kootenay Transit System;Central Kootenay H
+160528;Hwy 6 at Katasonoff (NB);NB_Hwy 6_NS_Katasonoff;49.619024;-117.55127;WKT;West Kootenay Transit System;Central Kootenay H
+160524;Passmore Upper Rd at Passmore Old Rd (EB);EB_Passmore_Upper Rd_FS_Passmore Old Rd;49.541301;-117.65037;WKT;West Kootenay Transit System;Central Kootenay H
+160529;Hwy 6 at Lancaster (NB);NB_Hwy 6_FS_Lancaster;49.623931;-117.546702;WKT;West Kootenay Transit System;Central Kootenay H
+160530;Hwy 6 at Graham Rd (NB);NB_Hwy 6_NS_Graham Rd;49.663607;-117.507703;WKT;West Kootenay Transit System;Central Kootenay H
+160531;Hwy 6 at Gustafson Rd (NB);NB_Hwy 6_NS_Gustafson Rd;49.667848;-117.504298;WKT;West Kootenay Transit System;Central Kootenay H
+160532;Hwy 6 at St Thomas (NB);NB_Hwy 6_NS_St Thomas;49.678652;-117.495533;WKT;West Kootenay Transit System;Central Kootenay H
+160533;Hwy 6 at Lemon Creek (NB);NB_Hwy 6_NS_Lemon Creek;49.700057;-117.480608;WKT;West Kootenay Transit System;Central Kootenay H
+160534;Hwy 6 at 8000 Block (NB);NB_Hwy 6_AT_8000 Block;49.712635;-117.469286;WKT;West Kootenay Transit System;Central Kootenay H
+160535;Hwy 6 at 8100 BlockL (NB);NB_Hwy 6_AT_8100 Block;49.718001;-117.466054;WKT;West Kootenay Transit System;Central Kootenay H
+160536;Hwy 6 at 8300 Block (NB);NB_hwy 6_AT_8300 Block;49.729226;-117.463377;WKT;West Kootenay Transit System;Central Kootenay H
+160537;Hwy 6 at Martens Rd (NB);NB_Hwy 6_NS_Martens Rd;49.750727;-117.466115;WKT;West Kootenay Transit System;Central Kootenay H
+160538;Slocan South Rd at Gravel Pit Rd (NB);NB_Slocan_South Rd_FS_Gravel Pit Rd;49.754426;-117.467835;WKT;West Kootenay Transit System;Central Kootenay H
+160539;Slocan South Rd at Arlington (NB);NB_Slocan_South Rd_FS_Arlington;49.761189;-117.467246;WKT;West Kootenay Transit System;Slocan
+160540;Slocan South Rd at Gravel Pit Rd (SB);SB_Slocan_South Rd_NS_Gravel Pit Rd;49.75443;-117.468091;WKT;West Kootenay Transit System;Central Kootenay H
+160541;Slocan South Rd at Hwy 6 (SB);SB_Slocan South Rd_AT_Hwy 6;49.751034;-117.466633;WKT;West Kootenay Transit System;Central Kootenay H
+160542;Hwy 6 at Copeland Rd (SB);SB_Hwy 6_NS_Copeland Rd;49.74468;-117.465244;WKT;West Kootenay Transit System;Central Kootenay H
+160543;Hwy 6 at 8300 Block (SB);SB_Hwy 6_AT_8300 Block;49.729026;-117.463736;WKT;West Kootenay Transit System;Central Kootenay H
+160544;Hwy 6 at 8000 Block (SB);SB_Hwy 6_AT_8000 Block;49.713249;-117.469147;WKT;West Kootenay Transit System;Central Kootenay H
+160545;Hwy 6 at Kennedy (SB);SB_Hwy 6_FS_Kennedy Rd;49.699908;-117.481053;WKT;West Kootenay Transit System;Central Kootenay H
+560140;Teck;WB_Teck Access;49.106822;-117.726997;WKT;West Kootenay Transit System;Trail
+560162;10th Ave (EB);;49.0791;-117.591907;WKT;West Kootenay Transit System;Montrose
+560008;Granite at Blewett (WB);;49.492749;-117.369232;WKT;West Kootenay Transit System;Central Kootenay E
+560009;Blewett at Bedford (WB);;49.477403;-117.40012;WKT;West Kootenay Transit System;Central Kootenay E
+560010;Blewett at Turner;;49.467969;-117.441382;WKT;West Kootenay Transit System;Central Kootenay E
+560011;49 Creek Rd at Marello (EB);EB_49 Creek Rd_FS_Marello;49.465358;-117.456734;WKT;West Kootenay Transit System;Central Kootenay E
+560012;Blewett at Turner (EB);;49.467835;-117.441368;WKT;West Kootenay Transit System;Central Kootenay E
+560013;Blewett at Bedford (EB);;49.477395;-117.39967;WKT;West Kootenay Transit System;Central Kootenay E
+560014;Granite at Blewett (EB);;49.492616;-117.369283;WKT;West Kootenay Transit System;Central Kootenay E
+560015;Perrier Rd **Flag Stop** (SB);;49.469499;-117.287474;WKT;West Kootenay Transit System;Central Kootenay E
+560016;Hwy 6 at Storbo Rd (NB);;49.503613;-117.599689;WKT;West Kootenay Transit System;Central Kootenay H
+560017;Hwy 6 at Storbo Rd (SB);;49.503568;-117.599889;WKT;West Kootenay Transit System;Central Kootenay H
+560088;Hwy 31 at Shutty Beach (SB);;49.960711;-116.906245;WKT;West Kootenay Transit System;Central Kootenay D
+560030;Hwy 6 at Paradise Valley Rd (NB);;49.611482;-117.562151;WKT;West Kootenay Transit System;Central Kootenay H
+560034;Perrys Back Rd at Appledale West Rd (SB);;49.646442;-117.544023;WKT;West Kootenay Transit System;Central Kootenay H
+560035;Perrys Back Rd at Hwy 6 (EB);;49.664584;-117.508367;WKT;West Kootenay Transit System;Central Kootenay H
+560032;Hwy 6 at Lemon Creek Rd (NB);;49.700793;-117.480076;WKT;West Kootenay Transit System;Central Kootenay H
+560033;Hwy 6 at Lemon Creek Rd (SB);;49.700804;-117.480345;WKT;West Kootenay Transit System;Central Kootenay H
+160611;Victoria at Kootenay Drop off Only (EB);EB_Victoria_FS_Kootenay_Drop off Only;49.49031;-117.295593;WKT;West Kootenay Transit System;Nelson
+560082;Lakeside at McDonald (SB);;49.494833;-117.297809;WKT;West Kootenay Transit System;Nelson
+160512;Slocan Ave at Hwy 6 (WB);WB_Slocan Ave_FS_Hwy 6;49.990513;-117.372528;WKT;West Kootenay Transit System;New Denver
+160510;Harold St at Fitz (NB);NB_Harold St_FS_Fitz;49.764223;-117.469611;WKT;West Kootenay Transit System;Slocan
+160509;Harold St at Ward (NB);NB_Harold St_NS_Ward;49.766945;-117.469551;WKT;West Kootenay Transit System;Slocan
+160442;Hwy 3A at 3400 Block (EB);EB_Hwy 3A_AT_3400 Block;49.589607;-117.198194;WKT;West Kootenay Transit System;Central Kootenay F
+160443;Hwy 3A Nearside Dvorjetz (EB);EB_Hwy 3A_NS_Dvorjetz;49.602367;-117.170424;WKT;West Kootenay Transit System;Central Kootenay F
+160444;Hwy 3A nearside Crescent Bay (EB);EB_Hwy 3A_NS_Crescent Bay Rd;49.60497;-117.162596;WKT;West Kootenay Transit System;Central Kootenay F
+160445;Hwy 3A at 4300 Block (EB);EB_Hwy 3A_AT_4300 Block;49.608029;-117.155155;WKT;West Kootenay Transit System;Central Kootenay F
+160446;Hwy 3A at Kokanee Creek Prov Park (EB);EB_Hwy 3A_AT_Kokanee Creek Prov Park;49.606259;-117.121372;WKT;West Kootenay Transit System;Central Kootenay E
+160447;Hwy 3A at 5700 Block (EB);EB_Hwy 3A_AT_5700 Block;49.613398;-117.077812;WKT;West Kootenay Transit System;Central Kootenay E
+160448;Hwy 3A at Bryan (EB);EB_Hwy 3A_FS_Bryan ;49.614433;-117.048734;WKT;West Kootenay Transit System;Central Kootenay E
+160449;Hwy 3A at 6700 Block (EB);EB_Hwy 3A_AT_6700 Block;49.617944;-117.016377;WKT;West Kootenay Transit System;Central Kootenay E
+160450;Hwy 3A at 7500 Block (WB);WB_Hwy 3A_AT_5700 Block;49.622655;-116.97887;WKT;West Kootenay Transit System;Central Kootenay E
+160455;Hwy 3A at Longbeach (WB);WB_Hwy 3A_NS_Longbeach;49.613666;-117.060541;WKT;West Kootenay Transit System;Central Kootenay E
+160456;Hwy 3A at 5700 Block (WB);WB_Hwy 3A_AT_5700 Block;49.613512;-117.077392;WKT;West Kootenay Transit System;Central Kootenay E
+160457;Hwy 3A at 5100 Block (WB);WB_Hwy 3A_AT_5100 Block;49.612257;-117.109536;WKT;West Kootenay Transit System;Central Kootenay E
+160458;Hwy 3A at Robertson (WB);WB_Hwy 3A_NS_Robertson;49.604713;-117.132054;WKT;West Kootenay Transit System;Central Kootenay F
+160459;Hwy 3A at Sundance (WB);WB_Hwy 3A_AT_Sundance;49.607155;-117.158752;WKT;West Kootenay Transit System;Central Kootenay F
+160460;Hwy 3A at Lower 6 Mile (WB);WB_Hwy 3A_AT_Lower 6 Mile;49.58;-117.217947;WKT;West Kootenay Transit System;Central Kootenay F
+160461;Lower 6 Mile at Barnes (WB);WB_Lower 6_Mile_FS_Barnes;49.575088;-117.221852;WKT;West Kootenay Transit System;Central Kootenay F
+160462;Hwy 3A/6 at 1600 Block (WB);WB_Hwy 3A/6_AT_1600 Block;49.48821;-117.328777;WKT;West Kootenay Transit System;Central Kootenay E
+160464;Hwy 3A/6 at Granite (WB);WB_Hwy 3A/6_FS_Granite;49.494883;-117.375958;WKT;West Kootenay Transit System;Central Kootenay E
+160465;Hwy 3A/6 at Boylen (WB);WB_Hwy 3A/6_AT_Boylen;49.490305;-117.414718;WKT;West Kootenay Transit System;Central Kootenay F
+160466;Hwy 3A/6 at S Slocan Village (WB);WB_Hwy 3A/6_AT_S Slocan Village;49.463197;-117.497531;WKT;West Kootenay Transit System;Central Kootenay F
+160467;Hwy 3A/6 at Sentinal (WB);WB_Hwy 3A/6_FS_Sentinal;49.446728;-117.534797;WKT;West Kootenay Transit System;Central Kootenay H
+160469;Hwy 3A at Fir (SB);SB_Hwy 3A_AT_Fir;49.43749;-117.53571;WKT;West Kootenay Transit System;Central Kootenay I
+160470;Hwy 3A at Kelly (SB);SB_Hwy 3A_FS_Kelly;49.425554;-117.53002;WKT;West Kootenay Transit System;Central Kootenay I
+160471;Hwy 3A at Alexis (SB);SB_Hwy 3A_FS_Alexis;49.421463;-117.530732;WKT;West Kootenay Transit System;Central Kootenay I
+960006;KLW Transit System;KLW Transit System;49.460358;-117.282208;WKT;West Kootenay Transit System;Central Kootenay E
+160516;Nelson at Kokanee (SB);SB_Nelson_NS_Kokanee;49.506966;-117.27909;WKT;West Kootenay Transit System;Nelson
+560000;Columbia at 4th (NB);NB_Columbia_NS_4th St;49.325407;-117.6659;WKT;West Kootenay Transit System;Castlegar
+560003;Pass Creek  2300 block (WB);WB_2300 block_Pass Creek;49.435061;-117.602501;WKT;West Kootenay Transit System;Central Kootenay H
+560004;Highway 3  1800 block (SB);SB_1800 block_Hwy 3;49.373649;-117.562391;WKT;West Kootenay Transit System;Central Kootenay I
+560005;Lakeside at Superstore (NB);NB_Lakeside_FS_McDonald;49.494689;-117.297656;WKT;West Kootenay Transit System;Nelson
+560007;Crescent at Hwy 3A **Flag Stop** (EB);EB_Crescent_FS_Hwy 3A;49.605799;-117.135791;WKT;West Kootenay Transit System;Central Kootenay F
+160515;Front at Poplar (SB);SB_Front_NS_Poplar;49.499741;-117.285212;WKT;West Kootenay Transit System;Nelson
+160043;Ootischenia at Columbia (SB);SB_Ootischenia_FS_Columbia;49.303277;-117.631936;WKT;West Kootenay Transit System;Castlegar
+160047;Ootischenia at 450 Blk (SB);SB_Ootischenia_AT_450 Blk;49.299572;-117.630903;WKT;West Kootenay Transit System;Castlegar
+160049;Ootischenia at 340 Blk (SB);SB_Ootischenia_AT_340 Blk;49.293919;-117.629176;WKT;West Kootenay Transit System;Castlegar
+160210;Slocan at Giffin (NB);NB_Slocan_FS_Giffin;49.763298;-117.465745;WKT;West Kootenay Transit System;Slocan
+160212;Harold at Delany (NB);NB_Harold_NS_Delany;49.767922;-117.469547;WKT;West Kootenay Transit System;Slocan
+160213;Hwy 6 at Winlaw Bridge Rd (SB);SB_Hwy 6_FS_Winlaw Bridge Rd;49.610665;-117.563495;WKT;West Kootenay Transit System;Central Kootenay H
+960007;Castlegar Transit Centre at 14th Ave (SB);SB_Castlegar Transit Centre_AT_14 Ave;49.291142;-117.664159;WKT;West Kootenay Transit System;Castlegar
+960008;Nakusp Transit Centre (EB);EB_Nakusp Transit Centre;50.249417;-117.818405;WKT;West Kootenay Transit System;Nakusp
+160026;Behnsen at View (WB);WB_Behnsen_FS_View;49.501137;-117.2735;WKT;West Kootenay Transit System;Nelson
+160581;Broadwater at Relkoff (EB);EB_Broadwater_FS_Relkoff;49.335796;-117.667909;WKT;West Kootenay Transit System;Central Kootenay J
+160580;3rd Ave at 11th Ave (WB);WB_3rd Ave_NS_11th Ave;49.326505;-117.664026;WKT;West Kootenay Transit System;Castlegar
+160582;Broadwater at 2700 Blk (WB);WB_Broadwater_AT_2700 Blk;49.333266;-117.675708;WKT;West Kootenay Transit System;Central Kootenay J
+160583;Charleston at Donald (WB);WB_Charleston_FS_Donald;49.335297;-117.694834;WKT;West Kootenay Transit System;Central Kootenay J
+160585;Hwy 6 at Needles (EB);EB_Hwy 6_AT_Needles;49.873986;-118.098002;WKT;West Kootenay Transit System;Central Kootenay K
+160584;Hwy 6 at Needles (WB);WB_Hwy 6_AT_Needles;49.874035;-118.098099;WKT;West Kootenay Transit System;Central Kootenay K
+160587;Hwy 22 at Hwy 3B (NB);NB_Hwy 22_AT_Hwy 3B;49.097584;-117.7165;WKT;West Kootenay Transit System;Trail
+160586;Hwy 3B at J L Crowe School (WB);WB_Hwy 3B_AT_J L Crowe School;49.101531;-117.692441;WKT;West Kootenay Transit System;Trail
+160588;Hwy 3B at 380 Blk (EB);EB_Hwy 3B_AT_380 Blk;49.099247;-117.677154;WKT;West Kootenay Transit System;Trail
+160589;Hwy 3B at Luburnum (WB);WB_Hwy 3B_FS_Laburnum;49.100069;-117.661578;WKT;West Kootenay Transit System;Trail
+160590;McLean at Fifth Ave (SB);SB_McLean_FS_Fifth ;49.098344;-117.695184;WKT;West Kootenay Transit System;Trail
+160591;McLean at Fifth (NB);NB_McLean_NS_Fifth;49.098386;-117.695137;WKT;West Kootenay Transit System;Trail
+160592;McLean at Second Ave (SB);SB_McLean_NS_Second Ave;49.096308;-117.694644;WKT;West Kootenay Transit System;Trail
+160593;McLean at Second Ave (NB);NB_McLean_FS_Second Ave;49.096375;-117.6946;WKT;West Kootenay Transit System;Trail
+160594;Selkirk College Castlegar (WB);WB_Selkirk College_Castlegar;49.311018;-117.652215;WKT;West Kootenay Transit System;Central Kootenay J
+160216;Grieve at Mollar (SB);SB_Griev_FS_Mollar;49.119978;-117.534947;WKT;West Kootenay Transit System;Kootenay Boundary A

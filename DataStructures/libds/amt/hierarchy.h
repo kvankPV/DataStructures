@@ -1,0 +1,716 @@
+#pragma once
+
+#include <libds/amt/abstract_memory_type.h>
+#include <libds/amt/explicit_sequence.h>
+#include <functional>
+
+namespace ds::amt {
+
+	template<typename BlockType>
+	class Hierarchy :
+		virtual public AMT
+	{
+	public:
+		virtual size_t level(const BlockType& node) const;
+		virtual size_t degree(const BlockType& node) const = 0;
+		virtual size_t nodeCount() const;
+	    virtual size_t nodeCount(const BlockType& node) const;
+
+		virtual BlockType* accessRoot() const = 0;
+		virtual BlockType* accessParent(const BlockType& node) const = 0;
+		virtual BlockType* accessSon(const BlockType& node, size_t sonOrder) const = 0;
+
+		virtual bool isRoot(const BlockType& node) const;
+		virtual bool isNthSon(const BlockType& node, size_t sonOrder) const;
+		virtual bool isLeaf(const BlockType& node) const;
+		virtual bool hasNthSon(const BlockType& node, size_t sonOrder) const;
+
+		virtual BlockType& emplaceRoot() = 0;
+		virtual void changeRoot(BlockType* newRoot) = 0;
+
+		virtual BlockType& emplaceSon(BlockType& parent, size_t sonOrder) = 0;
+		virtual void changeSon(BlockType& parent, size_t sonOrder, BlockType* newSon) = 0;
+		virtual void removeSon(BlockType& parent, size_t sonOrder) = 0;
+
+		void processPreOrder(const BlockType* node, std::function<void(const BlockType*)> operation) const;
+		void processPostOrder(BlockType* node, std::function<void(BlockType*)> operation) const;
+		void processLevelOrder(BlockType* node, std::function<void(BlockType*)> operation) const;
+
+	protected:
+		using DataType = typename BlockType::DataT;
+
+		class DepthFirstIterator
+		{
+		protected:
+			struct DepthFirstIteratorPosition
+			{
+				DepthFirstIteratorPosition(BlockType* currentNode, DepthFirstIteratorPosition* previousPosition) :
+					currentNode_(currentNode),
+					currentSon_(nullptr),
+					currentSonOrder_(INVALID_INDEX),
+					visitedSonCount_(0),
+					currentNodeProcessed_(false),
+					previousPosition_(previousPosition)
+				{}
+
+			    DepthFirstIteratorPosition(const DepthFirstIteratorPosition& other) :
+					currentNode_(other.currentNode_),
+					currentSon_(other.currentSon_),
+					currentSonOrder_(other.currentSonOrder_),
+					visitedSonCount_(other.visitedSonCount_),
+					currentNodeProcessed_(other.currentNodeProcessed_),
+					previousPosition_(other.previousPosition_)
+				{}
+
+			    ~DepthFirstIteratorPosition() {
+					currentNode_ = nullptr;
+					currentSon_ = nullptr;
+					currentSonOrder_ = 0;
+					visitedSonCount_ = 0;
+					currentNodeProcessed_ = false;
+					previousPosition_ = nullptr;
+				}
+
+				BlockType* currentNode_;
+				BlockType* currentSon_;
+				size_t currentSonOrder_;
+				size_t visitedSonCount_;
+				bool currentNodeProcessed_;
+				DepthFirstIteratorPosition* previousPosition_;
+			};
+
+		public:
+			DepthFirstIterator(Hierarchy* hierarchy);
+			DepthFirstIterator(const DepthFirstIterator& other);
+			~DepthFirstIterator();
+			bool operator==(const DepthFirstIterator& other) const;
+			bool operator!=(const DepthFirstIterator& other) const;
+			DataType& operator*();
+
+		protected:
+			void savePosition(BlockType* current_node);
+			void removePosition();
+			bool tryFindNextSonInCurrentPosition();
+
+			Hierarchy* hierarchy_;
+			DepthFirstIteratorPosition* currentPosition_;
+		};
+
+	public:
+		class PreOrderHierarchyIterator : public DepthFirstIterator
+		{
+		public:
+			PreOrderHierarchyIterator(Hierarchy* hierarchy, BlockType* node);
+			PreOrderHierarchyIterator(const PreOrderHierarchyIterator& other);
+			PreOrderHierarchyIterator& operator++();
+		};
+
+		//----------
+
+		class PostOrderHierarchyIterator :
+			public DepthFirstIterator
+		{
+		public:
+			PostOrderHierarchyIterator(Hierarchy* hierarchy, BlockType* node);
+			PostOrderHierarchyIterator(const PreOrderHierarchyIterator& other);
+			PostOrderHierarchyIterator& operator++();
+		};
+
+		//----------
+
+		PreOrderHierarchyIterator begin();
+        PreOrderHierarchyIterator end();
+		PreOrderHierarchyIterator beginPre();
+		PreOrderHierarchyIterator endPre();
+	    PostOrderHierarchyIterator beginPost();
+        PostOrderHierarchyIterator endPost();
+    };
+
+	//----------
+
+	template<typename BlockType, size_t K>
+	class KWayHierarchy :
+		virtual public Hierarchy<BlockType>
+	{
+	};
+
+	//----------
+
+	template<typename BlockType>
+	class BinaryHierarchy :
+		virtual public KWayHierarchy<BlockType, 2>
+	{
+	public:
+		static const size_t LEFT_SON_INDEX = 0;
+		static const size_t RIGHT_SON_INDEX = 1;
+
+		BlockType* accessLeftSon(const BlockType& node) const;
+        BlockType* accessRightSon(const BlockType& node) const;
+
+        bool isLeftSon(const BlockType& node) const;
+        bool isRightSon(const BlockType& node) const;
+
+        bool hasLeftSon(const BlockType& node) const;
+        bool hasRightSon(const BlockType& node) const;
+
+        BlockType& insertLeftSon(BlockType& parent);
+        BlockType& insertRightSon(BlockType& parent);
+
+        void changeLeftSon(BlockType& parent, BlockType* newSon);
+        void changeRightSon(BlockType& parent, BlockType* newSon);
+
+        void removeLeftSon(BlockType& parent);
+        void removeRightSon(BlockType& parent);
+
+        void processInOrder(const BlockType* node, std::function<void(const BlockType*)> operation) const;
+
+		//----------
+
+
+		class InOrderHierarchyIterator :
+			public Hierarchy<BlockType>::DepthFirstIterator
+		{
+		public:
+			InOrderHierarchyIterator(BinaryHierarchy<BlockType>* hierarchy, BlockType* node);
+			InOrderHierarchyIterator(const InOrderHierarchyIterator& other);
+			InOrderHierarchyIterator& operator++();
+
+		protected:
+			bool tryToGoToLeftSonInCurrentPosition();
+			bool tryToGoToRightSonInCurrentPosition();
+		};
+
+		using IteratorType = InOrderHierarchyIterator;
+
+		InOrderHierarchyIterator begin();
+        InOrderHierarchyIterator end();
+    };
+
+	//----------
+
+	template<typename BlockType>
+    size_t Hierarchy<BlockType>::level(const BlockType& node) const
+	{
+		size_t level = 0;
+		BlockType* parent = this->accessParent(node);
+		while(parent != nullptr)
+		{
+			level++;
+			parent = this->accessParent(*parent);
+		}
+		return level;
+	}
+
+	template<typename BlockType>
+    size_t Hierarchy<BlockType>::nodeCount() const
+	{
+		size_t result = 0;
+		this->processPreOrder(this->accessRoot(), [&result](const BlockType* b)
+			{
+				result++;
+			});
+		return result;
+	}
+
+	template<typename BlockType>
+    size_t Hierarchy<BlockType>::nodeCount(const BlockType& node) const
+	{
+		size_t result = 0;
+		this->processPreOrder(&node, [&result](const BlockType* b)
+			{
+				result++;
+			});
+		return result;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::isRoot(const BlockType& node) const
+	{
+		return this->accessParent(node) == nullptr;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::isNthSon(const BlockType& node, size_t sonOrder) const
+	{
+		BlockType* parent = this->accessParent(node);
+		return parent != nullptr && this->accessSon(*parent, sonOrder) == &node;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::isLeaf(const BlockType& node) const
+	{
+		return this->degree(node) == 0;
+	}
+
+	template<typename BlockType>
+	bool Hierarchy<BlockType>::hasNthSon(const BlockType& node, size_t sonOrder) const
+	{
+		return this->accessSon(node, sonOrder) != nullptr;
+	}
+
+	template<typename BlockType>
+    void Hierarchy<BlockType>::processPreOrder(const BlockType* node, std::function<void(const BlockType*)> operation) const
+	{
+		if (node != nullptr)
+		{
+			operation(node);
+
+			const size_t node_degree = this->degree(*node);
+			size_t son_order = 0;
+			size_t number_of_processed_sons = 0;
+			while (number_of_processed_sons < node_degree)
+			{
+				BlockType* son = this->accessSon(*node, son_order);
+				if (son != nullptr)
+				{
+					this->processPreOrder(son, operation);
+					++number_of_processed_sons;
+				}
+				++son_order;
+			}
+		}
+	}
+
+	template<typename BlockType>
+    void Hierarchy<BlockType>::processPostOrder(BlockType* node, std::function<void(BlockType*)> operation) const
+	{
+		if (node != nullptr)
+		{
+			const size_t node_degree = this->degree(*node);
+			size_t son_order = 0;
+			size_t number_of_processed_sons = 0;
+			while (number_of_processed_sons < node_degree)
+			{
+				BlockType* son = this->accessSon(*node, son_order);
+				if (son != nullptr)
+				{
+					this->processPostOrder(son, operation);
+					++number_of_processed_sons;
+				}
+				++son_order;
+			}
+			operation(node);
+		}
+	}
+
+	template<typename BlockType>
+    void Hierarchy<BlockType>::processLevelOrder(BlockType* node, std::function<void(BlockType*)> operation) const
+	{
+		if (node != nullptr)
+		{
+			SinglyLS<BlockType*> sequence;
+			sequence.insertFirst().data_ = node;
+			while (!sequence.isEmpty())
+			{
+				BlockType* current = sequence.accessFirst()->data_;
+				sequence.removeFirst();
+				if (current != nullptr)
+				{
+					operation(current);
+					const size_t node_degree = this->degree(*current);
+					size_t n = 0;
+					size_t sons_processed = 0;
+					while (sons_processed < node_degree)
+					{
+						BlockType* son = this->accessSon(*current, n);
+						if (son != nullptr)
+						{
+							sequence.insertLast().data_ = son;
+							++sons_processed;
+						}
+						++n;
+					}
+				}
+			}
+		}
+	}
+
+	template<typename BlockType>
+    void BinaryHierarchy<BlockType>::processInOrder(const BlockType* node, std::function<void(const BlockType*)> operation) const
+	{
+		if (node != nullptr)
+		{
+			this->processInOrder(this->accessLeftSon(*node), operation);
+			operation(node);
+			this->processInOrder(this->accessRightSon(*node), operation);
+		}
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::DepthFirstIterator::DepthFirstIterator(Hierarchy* hierarchy) :
+		hierarchy_(hierarchy),
+		currentPosition_(nullptr)
+	{
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::DepthFirstIterator::DepthFirstIterator(const DepthFirstIterator& other):
+		DepthFirstIterator(other.hierarchy_)
+	{
+		DepthFirstIteratorPosition* my_position = nullptr;
+		for (DepthFirstIteratorPosition* other_position = other.currentPosition_;
+			 other_position != nullptr;
+			 other_position = other_position->previousPosition_)
+		{
+			if (currentPosition_ == nullptr)
+			{
+				currentPosition_ = new DepthFirstIteratorPosition(*other_position);
+				my_position = currentPosition_;
+			}
+			else
+			{
+				if (my_position != nullptr)
+				{
+					my_position->previousPosition_ = new DepthFirstIteratorPosition(*other_position);
+					my_position = my_position->previousPosition_;
+				}
+				else
+				{
+					throw std::logic_error("Invalid DFS copy init");
+				}
+			}
+		}
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::DepthFirstIterator::~DepthFirstIterator()
+	{
+		while (currentPosition_ != nullptr)
+		{
+			this->removePosition();
+		}
+
+		hierarchy_ = nullptr;
+		currentPosition_ = nullptr;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::DepthFirstIterator::operator==(const DepthFirstIterator& other) const
+	{
+		if (hierarchy_ != other.hierarchy_)
+		{
+			return false;
+		}
+
+		DepthFirstIteratorPosition* my_position = currentPosition_;
+		DepthFirstIteratorPosition* other_position = other.currentPosition_;
+
+		if (my_position != nullptr && other_position != nullptr)
+		{
+			if (my_position->currentNode_ != other_position->currentNode_ || my_position->currentSonOrder_ != other_position->currentSonOrder_)
+			{
+				return false;
+			}
+		}
+
+		return my_position == nullptr && other_position == nullptr;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::DepthFirstIterator::operator!=(const DepthFirstIterator& other) const
+	{
+		return ! (*this == other);
+	}
+
+	template<typename BlockType>
+    auto Hierarchy<BlockType>::DepthFirstIterator::operator*() -> DataType&
+	{
+		currentPosition_->currentNodeProcessed_ = true;
+		return currentPosition_->currentNode_->data_;
+	}
+
+	template<typename BlockType>
+    void Hierarchy<BlockType>::DepthFirstIterator::savePosition(BlockType* current_node)
+	{
+		currentPosition_ = new DepthFirstIteratorPosition(current_node, currentPosition_);
+	}
+
+	template<typename BlockType>
+    void Hierarchy<BlockType>::DepthFirstIterator::removePosition()
+	{
+		const DepthFirstIteratorPosition* position_to_remove = currentPosition_;
+		currentPosition_ = currentPosition_->previousPosition_;
+		delete position_to_remove;
+	}
+
+	template<typename BlockType>
+    bool Hierarchy<BlockType>::DepthFirstIterator::tryFindNextSonInCurrentPosition()
+	{
+		++currentPosition_->visitedSonCount_;
+
+		size_t current_degree = hierarchy_->degree(*currentPosition_->currentNode_);
+		if (currentPosition_->visitedSonCount_ <= current_degree)
+		{
+			do
+			{
+				++currentPosition_->currentSonOrder_;
+				currentPosition_->currentSon_ = hierarchy_->accessSon(*currentPosition_->currentNode_, currentPosition_->currentSonOrder_);
+			} while (currentPosition_->currentSon_ == nullptr);
+			return true;
+		}
+		currentPosition_->currentSonOrder_ = INVALID_INDEX;
+		currentPosition_->currentSon_ = nullptr;
+		return false;
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::PreOrderHierarchyIterator::PreOrderHierarchyIterator(Hierarchy* hierarchy, BlockType* node):
+	    DepthFirstIterator::DepthFirstIterator(hierarchy)
+	{
+		if (node != nullptr)
+		{
+			this->savePosition(node);
+		}
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::PreOrderHierarchyIterator::PreOrderHierarchyIterator(const PreOrderHierarchyIterator& other):
+	    DepthFirstIterator::DepthFirstIterator(other)
+	{
+	}
+
+	template<typename BlockType>
+    typename Hierarchy<BlockType>::PreOrderHierarchyIterator& Hierarchy<BlockType>::PreOrderHierarchyIterator::operator++()
+	{
+		if (this->tryFindNextSonInCurrentPosition())
+		{
+			this->savePosition(this->currentPosition_->currentSon_);
+		} else
+		{
+			this->removePosition();
+			if (this->currentPosition_ != nullptr)
+			{
+				++*this;
+			}
+		}
+		return *this;
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::PostOrderHierarchyIterator::PostOrderHierarchyIterator(Hierarchy* hierarchy, BlockType* node) :
+	    DepthFirstIterator::DepthFirstIterator(hierarchy)
+	{
+		if (node != nullptr)
+		{
+			this->savePosition(node);
+			++*this;
+		}
+	}
+
+	template<typename BlockType>
+    Hierarchy<BlockType>::PostOrderHierarchyIterator::PostOrderHierarchyIterator(const PreOrderHierarchyIterator& other) :
+	    DepthFirstIterator::DepthFirstIterator(other)
+	{
+	}
+
+	template<typename BlockType>
+	typename Hierarchy<BlockType>::PostOrderHierarchyIterator& Hierarchy<BlockType>::PostOrderHierarchyIterator::operator++()
+	{
+		if (!this->currentPosition_->currentNodeProcessed_ && this->tryFindNextSonInCurrentPosition())
+		{
+			this->savePosition(this->currentPosition_->currentSon_);
+			++*this;
+		} else if (this->currentPosition_->currentNodeProcessed_)
+		{
+			this->removePosition();
+			if(this->currentPosition_ != nullptr)
+			{
+				++*this;
+			}
+		}
+		return *this;
+	}
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PreOrderHierarchyIterator Hierarchy<BlockType>::begin()
+	{
+	    return PreOrderHierarchyIterator(this, this->accessRoot());
+	}
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PreOrderHierarchyIterator Hierarchy<BlockType>::end()
+	{
+	    return PreOrderHierarchyIterator(this, nullptr);
+	}
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PreOrderHierarchyIterator Hierarchy<BlockType>::beginPre()
+    {
+		return PreOrderHierarchyIterator(this, this->accessRoot());
+    }
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PreOrderHierarchyIterator Hierarchy<BlockType>::endPre()
+    {
+		return PreOrderHierarchyIterator(this, nullptr);
+    }
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PostOrderHierarchyIterator Hierarchy<BlockType>::beginPost()
+    {
+        return PostOrderHierarchyIterator(this, this->accessRoot());
+    }
+
+    template <typename BlockType>
+    typename Hierarchy<BlockType>::PostOrderHierarchyIterator Hierarchy<BlockType>::endPost()
+    {
+        return PostOrderHierarchyIterator(this, nullptr);
+    }
+
+    template <typename BlockType>
+    BlockType* BinaryHierarchy<BlockType>::accessLeftSon(const BlockType& node) const
+	{
+	    return this->accessSon(node, LEFT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    BlockType* BinaryHierarchy<BlockType>::accessRightSon(const BlockType& node) const
+	{
+	    return this->accessSon(node, RIGHT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    bool BinaryHierarchy<BlockType>::isLeftSon(const BlockType& node) const
+	{
+	    return this->isNthSon(node, LEFT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    bool BinaryHierarchy<BlockType>::isRightSon(const BlockType& node) const
+	{
+	    return this->isNthSon(node, RIGHT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    bool BinaryHierarchy<BlockType>::hasLeftSon(const BlockType& node) const
+	{
+	    return this->hasNthSon(node, LEFT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    bool BinaryHierarchy<BlockType>::hasRightSon(const BlockType& node) const
+	{
+	    return this->hasNthSon(node, RIGHT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    BlockType& BinaryHierarchy<BlockType>::insertLeftSon(BlockType& parent)
+	{
+	    return this->emplaceSon(parent, LEFT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    BlockType& BinaryHierarchy<BlockType>::insertRightSon(BlockType& parent)
+	{
+	    return this->emplaceSon(parent, RIGHT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    void BinaryHierarchy<BlockType>::changeLeftSon(BlockType& parent, BlockType* newSon)
+	{
+	    this->changeSon(parent, LEFT_SON_INDEX, newSon);
+	}
+
+    template <typename BlockType>
+    void BinaryHierarchy<BlockType>::changeRightSon(BlockType& parent, BlockType* newSon)
+	{
+	    this->changeSon(parent, RIGHT_SON_INDEX, newSon);
+	}
+
+    template <typename BlockType>
+    void BinaryHierarchy<BlockType>::removeLeftSon(BlockType& parent)
+	{
+	    this->removeSon(parent, LEFT_SON_INDEX);
+	}
+
+    template <typename BlockType>
+    void BinaryHierarchy<BlockType>::removeRightSon(BlockType& parent)
+	{
+	    this->removeSon(parent, RIGHT_SON_INDEX);
+	}
+
+    template<typename BlockType>
+    BinaryHierarchy<BlockType>::InOrderHierarchyIterator::InOrderHierarchyIterator(BinaryHierarchy<BlockType>* hierarchy, BlockType* node):
+		Hierarchy<BlockType>::DepthFirstIterator::DepthFirstIterator(hierarchy)
+	{
+		if (node != nullptr)
+		{
+			this->savePosition(node);
+			++*this;
+		}
+	}
+
+	template<typename BlockType>
+    BinaryHierarchy<BlockType>::InOrderHierarchyIterator::InOrderHierarchyIterator(const InOrderHierarchyIterator& other):
+		Hierarchy<BlockType>::DepthFirstIterator::DepthFirstIterator(other)
+	{
+	}
+
+	template<typename BlockType>
+    typename BinaryHierarchy<BlockType>::InOrderHierarchyIterator& BinaryHierarchy<BlockType>::InOrderHierarchyIterator::operator++()
+	{
+		if (!this->currentPosition_->currentNodeProcessed_)
+		{
+			if (this->currentPosition_->currentSonOrder_ != LEFT_SON_INDEX
+				&& this->tryToGoToLeftSonInCurrentPosition())
+			{
+				this->savePosition(this->currentPosition_->currentSon_);
+				++*this;
+			}
+		}
+		else if (this->currentPosition_->currentSonOrder_ != RIGHT_SON_INDEX
+			&& this->tryToGoToRightSonInCurrentPosition())
+		{
+			this->savePosition(this->currentPosition_->currentSon_);
+			++*this;
+		} else
+		{
+			this->removePosition();
+			if (this->currentPosition_ != nullptr)
+			{
+				++*this;
+			}
+		}
+		return *this;
+	}
+
+	template<typename BlockType>
+    bool BinaryHierarchy<BlockType>::InOrderHierarchyIterator::tryToGoToLeftSonInCurrentPosition()
+	{
+		this->currentPosition_->currentSon_ = this->hierarchy_->accessSon(*this->currentPosition_->currentNode_,
+		                                                                 BinaryHierarchy<BlockType>::LEFT_SON_INDEX);
+		if (this->currentPosition_->currentSon_ != nullptr)
+		{
+			this->currentPosition_->currentSonOrder_ = BinaryHierarchy<BlockType>::LEFT_SON_INDEX;
+			return true;
+		}
+		this->currentPosition_->currentSonOrder_ = INVALID_INDEX;
+		return false;
+	}
+
+	template<typename BlockType>
+    bool BinaryHierarchy<BlockType>::InOrderHierarchyIterator::tryToGoToRightSonInCurrentPosition()
+	{
+		this->currentPosition_->currentSon_ = this->hierarchy_->accessSon(*this->currentPosition_->currentNode_,
+			BinaryHierarchy<BlockType>::RIGHT_SON_INDEX);
+		if (this->currentPosition_->currentSon_ != nullptr)
+		{
+			this->currentPosition_->currentSonOrder_ = BinaryHierarchy<BlockType>::RIGHT_SON_INDEX;
+			return true;
+		}
+		this->currentPosition_->currentSonOrder_ = INVALID_INDEX;
+		return false;
+	}
+
+    template <typename BlockType>
+    typename BinaryHierarchy<BlockType>::InOrderHierarchyIterator BinaryHierarchy<BlockType>::begin()
+	{
+	    return InOrderHierarchyIterator(this, this->accessRoot());
+	}
+
+    template <typename BlockType>
+    typename BinaryHierarchy<BlockType>::InOrderHierarchyIterator BinaryHierarchy<BlockType>::end()
+	{
+	    return InOrderHierarchyIterator(this, nullptr);
+	}
+}

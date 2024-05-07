@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ds::utils::Analyzer" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACIAAAACAgAAAAAAAAAAAAAAACAEAAAQIAA=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::CompositeAnalyzer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACIIAAACAgAAAAAAAAAAAAAAAQAAAABQAAA=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::LeafAnalyzer">
+    <Position X="2.5" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AASAgAAAACIAAAAAAgAAAAAIAEAgAAAQKAASASQQAAE=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::IPrototypeFactory&lt;Structure&gt;" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::PrototypeFactory&lt;Structure&gt;" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::ComplexityAnalyzer&lt;Structure&gt;">
+    <Position X="6.5" Y="1.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAACAgAACCAAAAgAAAAAAAAAAAAAIgA=</HashCode>
+      <FileName>complexities\complexity_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::ListAnalyzer&lt;List&gt;">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAABAAAAQAAAEAIBAAAAABIAA=</HashCode>
+      <FileName>complexities\list_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::ListInsertAnalyzer&lt;List&gt;" Collapsed="true">
+    <Position X="9.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>complexities\list_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::ListRemoveAnalyzer&lt;List&gt;" Collapsed="true">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>complexities\list_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::utils::ListsAnalyzer" Collapsed="true">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>complexities\list_analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::mm::MemoryManager&lt;BlockType&gt;">
+    <Position X="15.25" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAAgAAAAAAAIAAAAgAAAQAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>libds\mm\memory_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::mm::CompactMemoryManager&lt;BlockType&gt;">
+    <Position X="15" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEQMAAAAAICEJiAAIIIBAAQAAAEAAAAAAQAAIAgAAAY=</HashCode>
+      <FileName>libds\mm\compact_memory_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,976 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+107450;Simpson at Peardonville (EB);EB_Simpson_NS_Peardonville;49.046145;-122.372334;VLY;Fraser Valley Region;Abbotsford
+107451;Mt Lehman 1810 block (SB);SB_1810_block_Mt Lehman;49.035703;-122.37854;VLY;Fraser Valley Region;Abbotsford
+107452;Approach at Cornell (EB);EB_Approach_FS_Cornell;49.028952;-122.378316;VLY;Fraser Valley Region;Abbotsford
+107453;Tower at Firecat (NB);NB_Tower_NS_Firecat;49.029455;-122.375705;VLY;Fraser Valley Region;Abbotsford
+107454;Mt Lehman 1820 block (NB);NB_1820_block_Mt Lehman;49.035771;-122.378317;VLY;Fraser Valley Region;Abbotsford
+107455;Peardonville 2180 block (NB);NB_2180_block_Peardonville;49.04224;-122.374577;VLY;Fraser Valley Region;Abbotsford
+107456;Peardonville 2350 block (NB);NB_2350_block_Peardonville;49.045015;-122.371388;VLY;Fraser Valley Region;Abbotsford
+107457;Peardonville 2330 block (SB);SB_2330_block_Peardonville;49.045013;-122.371647;VLY;Fraser Valley Region;Abbotsford
+107458;Peardonville at Iron Mills Crt (SB);SB_Peardonville_NS_Iron Mills Crt;49.041009;-122.376183;VLY;Fraser Valley Region;Abbotsford
+107481;Latimer at Laburnum (EB);EB_Latimer_NS_Laburnum;49.06601;-122.25651;VLY;Fraser Valley Region;Abbotsford
+107483;Laburnum at Sussex (WB);WB_Laburnum_NS_Sussex;49.064161;-122.26257;VLY;Fraser Valley Region;Abbotsford
+107485;Gladys at Morey (NB);NB_Gladys_FS_Morey;49.054221;-122.286644;VLY;Fraser Valley Region;Abbotsford
+107486;Hwy 11 at McCallum (NB);NB_Hwy 11_FS_McCallum;49.066791;-122.286037;VLY;Fraser Valley Region;Abbotsford
+107487;Riverside at Fore (SB);SB_Riverside_NS_Fore;49.111938;-122.294377;VLY;Fraser Valley Region;Abbotsford
+107488;Riverside at St Olaf (SB);SB_Riverside_NS_St Olaf;49.107605;-122.29432;VLY;Fraser Valley Region;Abbotsford
+107489;Riverside at Harris (SB);SB_Riverside_NS_Harris;49.104235;-122.294292;VLY;Fraser Valley Region;Abbotsford
+107490;Riverside at Harris (NB);NB_Riverside_FS_Harris;49.104308;-122.294043;VLY;Fraser Valley Region;Abbotsford
+107491;Riverside at Grace (NB);NB_Riverside_NS_Grace;49.10775;-122.294135;VLY;Fraser Valley Region;Abbotsford
+107492;Riverside at Fore (NB);NB_Riverside_FS_Fore;49.111828;-122.294221;VLY;Fraser Valley Region;Abbotsford
+107493;Marshall at Camden (SB);SB_Marshall_FS_Camden;49.041427;-122.248448;VLY;Fraser Valley Region;Abbotsford
+107494;Marshall at McCorkell (WB);WB_Marshall_NS_McCorkell;49.038593;-122.249219;VLY;Fraser Valley Region;Abbotsford
+107495;Marshall at Everett (WB);WB_Marshall_NS_Everett;49.038523;-122.253946;VLY;Fraser Valley Region;Abbotsford
+107496;Marshall at Sierra (WB);WB_Marshall_NS_Sierra;49.038434;-122.257254;VLY;Fraser Valley Region;Abbotsford
+107498;Peardonville at Simpson (WB);WB_Peardonville_NS_Simpson;49.046257;-122.368976;VLY;Fraser Valley Region;Abbotsford
+107499;Bourquin Exchange Bay A;Bourquin_Exchange_Bay_A;49.048136;-122.30865;VLY;Fraser Valley Region;Abbotsford
+107500;Bourquin Exchange Bay B;Bourquin_Exchange_Bay_B;49.048295;-122.308846;VLY;Fraser Valley Region;Abbotsford
+107501;Bourquin Exchange Bay C;Bourquin_Exchange_Bay_C;49.048445;-122.30906;VLY;Fraser Valley Region;Abbotsford
+107740;Station at Fraser (SB);SB_Station_FS_Fraser;49.056917;-122.459836;VLY;Fraser Valley Region;Langley
+107741;276 St at Springfield (SB);SB_276 St_FS_Springfield;49.053746;-122.459865;VLY;Fraser Valley Region;Langley
+107742;28 Ave 27440 block (WB);WB_27440_block_28 Ave;49.053177;-122.464406;VLY;Fraser Valley Region;Langley
+107743;28 Ave at 273 St (WB);WB_28 Ave_FS_273 St;49.053181;-122.467492;VLY;Fraser Valley Region;Langley
+107744;272 St at 28 Ave (NB);NB_272 St_FS_28 Ave;49.053447;-122.47058;VLY;Fraser Valley Region;Langley
+105723;Downes at Clearbrook (WB);WB_Downes_FS_Clearbrook;49.074605;-122.34718;VLY;Fraser Valley Region;Abbotsford
+105724;Clearbrook at Sorrento (NB);NB_Clearbrook_FS_Sorrento;49.066848;-122.33805;VLY;Fraser Valley Region;Abbotsford
+105725;Maclure at Trethewey (WB);WB_Maclure_FS_Trethewey;49.060234;-122.327705;VLY;Fraser Valley Region;Abbotsford
+105726;Exbury at Laburnum (WB);WB_Exbury_FS_Laburnum;49.068294;-122.255052;VLY;Fraser Valley Region;Abbotsford
+105727;Old Clayburn 34970 block (EB);EB_34970_block_Old Clayburn;49.061216;-122.256478;VLY;Fraser Valley Region;Abbotsford
+105729;Gladwin at Old Riverside (SB);SB_Gladwin_FS_Old Riverside;49.065606;-122.316086;VLY;Fraser Valley Region;Abbotsford
+105730;Townline at Downes (SB);SB_Townline_FS_Downes;49.074175;-122.360046;VLY;Fraser Valley Region;Abbotsford
+105731;Townline at Blueridge (SB);SB_Townline_FS_Blueridge;49.06716;-122.359938;VLY;Fraser Valley Region;Abbotsford
+105732;Bevan at Cascade (EB);EB_Bevan_FS_Cascade;49.041738;-122.323382;VLY;Fraser Valley Region;Abbotsford
+105733;Trethewey at Simon (NB);NB_Trethewey_NS_Simon;49.052895;-122.326526;VLY;Fraser Valley Region;Abbotsford
+105734;Trethewey at George Ferguson (SB);SB_Trethewey_FS_George Ferguson;49.054676;-122.326966;VLY;Fraser Valley Region;Abbotsford
+105735;Trethewey at Veterans (SB);SB_Trethewey_FS_Veterans;49.052724;-122.326923;VLY;Fraser Valley Region;Abbotsford
+105736;Townline at Southern (SB);SB_Townline_FS_Southern;49.056456;-122.360189;VLY;Fraser Valley Region;Abbotsford
+105737;Trethewey at Maclure (NB);NB_Trethewey_FS_Maclure;49.060984;-122.32681;VLY;Fraser Valley Region;Abbotsford
+105738;Trethewey at Diamond (NB);NB_Trethewey_FS_Diamond;49.056953;-122.326676;VLY;Fraser Valley Region;Abbotsford
+105739;Gladwin at Highland (SB);SB_Gladwin_FS_Highland;49.067424;-122.316074;VLY;Fraser Valley Region;Abbotsford
+107098;Blueridge at Saturna (WB);WB_Blueridge_FS_Saturna;49.06466;-122.339623;VLY;Fraser Valley Region;Abbotsford
+107099;Ridgeview at Blueridge (SB);SB_Ridgeview_FS_Blueridge;49.066837;-122.348836;VLY;Fraser Valley Region;Abbotsford
+107100;Ridgeview at Viewmount (WB);WB_Ridgeview_FS_Viewmount;49.065298;-122.351578;VLY;Fraser Valley Region;Abbotsford
+107101;Ponderosa at Ridgeview (SB);SB_Ponderosa_FS_Ridgeview;49.064994;-122.354485;VLY;Fraser Valley Region;Abbotsford
+107102;Ponderosa at Spur (SB);SB_Ponderosa_FS_Spur;49.062732;-122.354512;VLY;Fraser Valley Region;Abbotsford
+107107;Mt Lehman at Cardinal (NB);NB_Mt Lehman_FS_Cardinal;49.061789;-122.381114;VLY;Fraser Valley Region;Abbotsford
+107108;Sandpiper at Mt Lehman (EB);EB_Sandpiper_FS_Mt Lehman;49.06267;-122.380038;VLY;Fraser Valley Region;Abbotsford
+107109;Goldfinch at Robin (NB);NB_Goldfinch_FS_Robin;49.063705;-122.376544;VLY;Fraser Valley Region;Abbotsford
+107110;Blueridge at Goldfinch (EB);EB_Blueridge_FS_Goldfinch;49.065815;-122.375509;VLY;Fraser Valley Region;Abbotsford
+107111;Blueridge at Blue Jay (EB);EB_Blueridge_NS_Blue Jay;49.065788;-122.371387;VLY;Fraser Valley Region;Abbotsford
+107112;Blue Jay at Sandpiper (SB);SB_Blue Jay_NS_Sandpiper;49.06097;-122.370612;VLY;Fraser Valley Region;Abbotsford
+107113;Blue Jay at Osprey W (SB);SB_Blue Jay_NS_Osprey W;49.058313;-122.37057;VLY;Fraser Valley Region;Abbotsford
+107115;Maclure at 31020 Blk (EB);EB_Maclure_AT_31020 Blk;49.054619;-122.364673;VLY;Fraser Valley Region;Abbotsford
+107116;Maclure at Townline (EB);EB_Maclure_FS_Townline;49.054013;-122.359326;VLY;Fraser Valley Region;Abbotsford
+107117;Old Yale at Mitchell (EB);EB_Old Yale_FS_Mitchell;49.05265;-122.353531;VLY;Fraser Valley Region;Abbotsford
+107118;Old Yale at Sunnyside (EB);EB_Old Yale_FS_Sunnyside;49.052685;-122.347297;VLY;Fraser Valley Region;Abbotsford
+107119;Old Yale at Victoria (EB);EB_Old Yale_NS_Victoria;49.051889;-122.342921;VLY;Fraser Valley Region;Abbotsford
+107120;Old Yale at Clearbrook (EB);EB_Old Yale_NS_Clearbrook;49.051823;-122.338465;VLY;Fraser Valley Region;Abbotsford
+107121;Clearbrook at Sunrise (SB);SB_Clearbrook_NS_Sunrise;49.047562;-122.337373;VLY;Fraser Valley Region;Abbotsford
+107122;Bourquin W at Ventura (NB);NB_Bourquin W_NS_Ventura;49.051969;-122.310202;VLY;Fraser Valley Region;Abbotsford
+107123;Bourquin W at Amicus (NB);NB_Bourquin W_NS_Amicus;49.053386;-122.310178;VLY;Fraser Valley Region;Abbotsford
+107124;George Ferguson at Trafalgar (EB);EB_George Ferguson_FS_Trafalgar;49.054094;-122.308513;VLY;Fraser Valley Region;Abbotsford
+107125;George Ferguson at Ware (EB);EB_George Ferguson_NS_Ware;49.053258;-122.305551;VLY;Fraser Valley Region;Abbotsford
+107126;George Ferguson at Fuller (EB);EB_George Ferguson_NS_Fuller;49.052471;-122.302779;VLY;Fraser Valley Region;Abbotsford
+107127;George Ferguson at Babich (EB);EB_George Ferguson_FS_Babich;49.051523;-122.299137;VLY;Fraser Valley Region;Abbotsford
+107128;George Ferguson at Mountview (EB);EB_George Ferguson_NS_Mountview;49.0506;-122.29588;VLY;Fraser Valley Region;Abbotsford
+120026;McKee 36060 block (EB);EB_36060_block_McKee;49.071083;-122.225519;VLY;Fraser Valley Region;Abbotsford
+107001;Townline at Upper MacLure (NB);NB_Townline_NS_Upper MacLure;49.060669;-122.359917;VLY;Fraser Valley Region;Abbotsford
+107005;Blueridge at Ridgeview (EB);EB_Blueridge_FS_Ridgeview;49.067382;-122.34799;VLY;Fraser Valley Region;Abbotsford
+107006;Blueridge at Clearbrook (EB);EB_Blueridge_NS_Clearbrook;49.064506;-122.338829;VLY;Fraser Valley Region;Abbotsford
+107007;Clearbrook at Austin (SB);SB_Clearbrook_NS_Austin;49.061947;-122.338098;VLY;Fraser Valley Region;Abbotsford
+107008;Clearbrook at MacLure (SB);SB_Clearbrook_FS_MacLure;49.05961;-122.338083;VLY;Fraser Valley Region;Abbotsford
+107009;Clearbrook at Coral (SB);SB_Clearbrook_NS_Coral;49.057411;-122.338082;VLY;Fraser Valley Region;Abbotsford
+107010;Clearbrook at George Ferguson (SB);SB_Clearbrook_NS_George Ferguson;49.05569;-122.338037;VLY;Fraser Valley Region;Abbotsford
+107011;Clearbrook at Mt Waddington (SB);SB_Clearbrook_NS_Mt Waddington;49.053502;-122.338083;VLY;Fraser Valley Region;Abbotsford
+107012;South Fraser at Clearbrook (EB);EB_South Fraser_FS_Clearbrook;49.049691;-122.33695;VLY;Fraser Valley Region;Abbotsford
+107013;South Fraser at Minter (EB);EB_South Fraser_FS_Minter;49.051229;-122.333048;VLY;Fraser Valley Region;Abbotsford
+107014;South Fraser at Adelaide (EB);EB_South Fraser_NS_Adelaide;49.051549;-122.328947;VLY;Fraser Valley Region;Abbotsford
+107015;South Fraser at Trethewey (EB);EB_South Fraser_FS_Trethewey;49.05129;-122.324805;VLY;Fraser Valley Region;Abbotsford
+107016;South Fraser at Allwood (EB);EB_South Fraser_NS_Allwood;49.051128;-122.320708;VLY;Fraser Valley Region;Abbotsford
+107017;South Fraser at Emerson (EB);EB_South Fraser_FS_Emerson;49.050981;-122.317437;VLY;Fraser Valley Region;Abbotsford
+107018;South Fraser at Gladwin (EB);EB_South Fraser_FS_Gladwin;49.050868;-122.313392;VLY;Fraser Valley Region;Abbotsford
+107019;South Fraser at Bourquin W (EB);EB_South Fraser_NS_Bourquin W;49.050807;-122.311449;VLY;Fraser Valley Region;Abbotsford
+107877;Columbia at 5th Ave (SB);SB_Columbia_NS_5th Ave;49.138232;-122.297528;VLY;Fraser Valley Region;Mission
+107880;Hurd at Diamond (NB);NB_Hurd_FS_Diamond;49.137454;-122.332605;VLY;Fraser Valley Region;Mission
+107883;7th Ave at Taulbut (WB);WB_7th Ave_FS_Taulbut;49.139921;-122.3062;VLY;Fraser Valley Region;Mission
+107884;Stave Lake at 4th Ave (NB);NB_Stave Lake_NS_4th Ave;49.136824;-122.292684;VLY;Fraser Valley Region;Mission
+108071;Yale at Fletcher (WB);WB_Yale_FS_Fletcher;49.171775;-121.94994;VLY;Fraser Valley Region;Chilliwack
+108072;Downtown Exchange Bay D (WB);WB_Downtown Exchange_Bay D;49.16997;-121.954629;VLY;Fraser Valley Region;Chilliwack
+108073;Yale at Hodgins (SB);SB_Yale_NS_Hodgins;49.167029;-121.958592;VLY;Fraser Valley Region;Chilliwack
+108074;Yale at Hocking (SB);SB_Yale_FS_Hocking;49.158737;-121.958739;VLY;Fraser Valley Region;Chilliwack
+107129;George Ferguson at McCallum (EB);EB_George Ferguson_FS_McCallum;49.049972;-122.292597;VLY;Fraser Valley Region;Abbotsford
+107130;McCallum at Bevan (SB);SB_McCallum_FS_Bevan;49.044967;-122.293546;VLY;Fraser Valley Region;Abbotsford
+107131;McCallum at Wildwood (SB);SB_McCallum_NS_Wildwood;49.042143;-122.293508;VLY;Fraser Valley Region;Abbotsford
+107132;McCallum at Mayfair (SB);SB_McCallum_NS_Mayfair;49.040497;-122.293476;VLY;Fraser Valley Region;Abbotsford
+107133;Marshall at McCallum (EB);EB_Marshall_FS_McCallum;49.038921;-122.292175;VLY;Fraser Valley Region;Abbotsford
+107134;Marshall at Salton (EB);EB_Marshall_NS_Salton;49.038743;-122.288406;VLY;Fraser Valley Region;Abbotsford
+107135;Marshall at McKenzie (EB);EB_Marshall_NS_McKenzie;49.038585;-122.283467;VLY;Fraser Valley Region;Abbotsford
+107136;Marshall at Dahl (EB);EB_Marshall_FS_Dahl;49.038363;-122.278755;VLY;Fraser Valley Region;Abbotsford
+108199;Wiltshire at South Sumas (NB);NB_Wiltshire_FS_South Sumas;49.118801;-121.964091;VLY;Fraser Valley Region;Chilliwack
+108200;Wiltshire at Perth (NB);NB_Wiltshire_NS_Perth;49.120886;-121.964527;VLY;Fraser Valley Region;Chilliwack
+108201;Wiltshire at Stevenson (NB);NB_Wiltshire_NS_Stevenson;49.12255;-121.963986;VLY;Fraser Valley Region;Chilliwack
+108202;Stevenson at Higginson (EB);EB_Stevenson_NS_Higginson;49.122766;-121.958953;VLY;Fraser Valley Region;Chilliwack
+108203;Stevenson 45750 block (NB);NB_45750_block_Stevenson;49.124315;-121.957624;VLY;Fraser Valley Region;Chilliwack
+108204;School at Stevenson (NB);NB_School_FS_Stevenson;49.12608;-121.95454;VLY;Fraser Valley Region;Chilliwack
+108205;Sheffield at Lake (NB);NB_Sheffield_NS_Lake;49.128219;-121.95638;VLY;Fraser Valley Region;Chilliwack
+108206;Sheffield at Britton (NB);NB_Sheffield_NS_Britton;49.130997;-121.955681;VLY;Fraser Valley Region;Chilliwack
+108207;Britton at Gordon (WB);WB_Britton_FS_Gordon;49.131869;-121.957433;VLY;Fraser Valley Region;Chilliwack
+108208;Spruce at Wiltshire (WB);WB_Spruce_FS_Wiltshire;49.131451;-121.964801;VLY;Fraser Valley Region;Chilliwack
+108209;Spruce at Rochester (WB);WB_Spruce_FS_Rochester;49.131411;-121.96901;VLY;Fraser Valley Region;Chilliwack
+108210;Richardson at Circle (NB);NB_Richardson_NS_Circle;49.132721;-121.971613;VLY;Fraser Valley Region;Chilliwack
+108211;Richardson at Wells (NB);NB_Richardson_NS_Wells;49.134592;-121.971649;VLY;Fraser Valley Region;Chilliwack
+108212;Wells at Meadowlark (WB);WB_Wells_NS_Meadowlark;49.134892;-121.974632;VLY;Fraser Valley Region;Chilliwack
+108213;Wells at Evans (WB);WB_Wells_NS_Evans;49.134858;-121.977145;VLY;Fraser Valley Region;Chilliwack
+108214;Wells at Evans (EB);EB_Wells_FS_Evans;49.13472;-121.977081;VLY;Fraser Valley Region;Chilliwack
+108215;Wells at Meadowlark (EB);EB_Wells_FS_Meadowlark;49.134793;-121.97425;VLY;Fraser Valley Region;Chilliwack
+108216;Richardson at Circle (SB);SB_Richardson_NS_Circle;49.132943;-121.971798;VLY;Fraser Valley Region;Chilliwack
+108217;Spruce at Rochester (EB);EB_Spruce_NS_Rochester;49.131283;-121.968891;VLY;Fraser Valley Region;Chilliwack
+108218;Spruce at Wiltshire (EB);EB_Spruce_NS_Wiltshire;49.131314;-121.964765;VLY;Fraser Valley Region;Chilliwack
+108219;Britton at Vedder (NB);NB_Britton_FS_Vedder;49.131499;-121.958945;VLY;Fraser Valley Region;Chilliwack
+108220;Sheffield at Britton (SB);SB_Sheffield_FS_Britton;49.131394;-121.95574;VLY;Fraser Valley Region;Chilliwack
+108221;Sheffield at Lake (SB);SB_Sheffield_NS_Lake;49.128625;-121.956555;VLY;Fraser Valley Region;Chilliwack
+108222;Stevenson at Sheffield (WB);WB_Stevenson_NS_Sheffield;49.1258;-121.955204;VLY;Fraser Valley Region;Chilliwack
+108223;Stevenson 45750 block (SB);SB_45750_block_Stevenson;49.124381;-121.957797;VLY;Fraser Valley Region;Chilliwack
+107746;32 Ave at 272B St (EB);EB_32 Ave_NS_272B St;49.060416;-122.469684;VLY;Fraser Valley Region;Langley
+107747;32 Ave 27410 block (EB);EB_27410_block_32 Ave;49.060417;-122.4648;VLY;Fraser Valley Region;Langley
+107748;32 Ave at 275A St (EB);EB_32 Ave_FS_275A St;49.060423;-122.460754;VLY;Fraser Valley Region;Langley
+107749;Station at 31A Ave (SB);SB_Station_FS_31A Ave;49.059061;-122.459853;VLY;Fraser Valley Region;Langley
+107751;1st Ave at Welton (WB);WB_1st Ave_NS_Welton;49.134471;-122.303512;VLY;Fraser Valley Region;Mission
+107752;1st Ave at James (WB);WB_1st Ave_FS_James;49.134481;-122.308252;VLY;Fraser Valley Region;Mission
+107754;Junction Mall (WB);WB_Junction Mall;49.130178;-122.319082;VLY;Fraser Valley Region;Mission
+107755;Lougheed at Haig (EB);EB_Lougheed_FS_Haig;49.132842;-122.321099;VLY;Fraser Valley Region;Mission
+107756;N Railway at Horne (EB);EB_N Railway_NS_Horne;49.13383;-122.304162;VLY;Fraser Valley Region;Mission
+107758;Hurd at Lougheed (NB);NB_Hurd_FS_Lougheed;49.133509;-122.329426;VLY;Fraser Valley Region;Mission
+107759;Hurd at Scott (NB);NB_Hurd_FS_Scott;49.135328;-122.3326;VLY;Fraser Valley Region;Mission
+107761;Hurd at Pleasantview (NB);NB_Hurd_FS_Pleasantview;49.138825;-122.332634;VLY;Fraser Valley Region;Mission
+107762;7th Ave at Hurd (EB);EB_7th Ave_FS_Hurd;49.140142;-122.331925;VLY;Fraser Valley Region;Mission
+107763;7th Ave at Blott (EB);EB_7th Ave_FS_Blott;49.14014;-122.330362;VLY;Fraser Valley Region;Mission
+107764;7th Ave at Peterson (EB);EB_7th Ave_NS_Peterson;49.140142;-122.32535;VLY;Fraser Valley Region;Mission
+107765;7th Ave at Briskham (EB);EB_7th Ave_FS_Briskham;49.140138;-122.320412;VLY;Fraser Valley Region;Mission
+107766;7th Ave at Cedar (EB);EB_7th Ave_NS_Cedar;49.140153;-122.317697;VLY;Fraser Valley Region;Mission
+107767;Cedar at 7th Ave (NB);NB_Cedar_FS_7th Ave;49.141204;-122.31627;VLY;Fraser Valley Region;Mission
+107768;Cedar at 10th Ave (NB);NB_Cedar_FS_10th Ave;49.14313;-122.316165;VLY;Fraser Valley Region;Mission
+107769;Cedar at Charnley (NB);NB_Cedar_NS_Charnley;49.145361;-122.316051;VLY;Fraser Valley Region;Mission
+107770;14th Ave at Cedar (WB);WB_14th Ave_FS_Cedar;49.14748;-122.317391;VLY;Fraser Valley Region;Mission
+107771;14th Ave at Tanager (WB);WB_14th Ave_NS_Tanager;49.147453;-122.322272;VLY;Fraser Valley Region;Mission
+107772;14th Ave at 32400 Blk (WB);WB_14th Ave_AT_32400 Blk;49.147467;-122.326969;VLY;Fraser Valley Region;Mission
+107773;14th Ave at Caribou (WB);WB_14th Ave_FS_Caribou;49.147471;-122.331377;VLY;Fraser Valley Region;Mission
+107774;Holiday at Hurd (WB);WB_Holiday_FS_Hurd;49.144775;-122.333485;VLY;Fraser Valley Region;Mission
+107775;Holiday at Wren (WB);WB_Holiday_NS_Wren;49.144781;-122.337706;VLY;Fraser Valley Region;Mission
+107776;Wren at Silverdale (SB);SB_Wren_NS_Silverdale;49.143624;-122.338562;VLY;Fraser Valley Region;Mission
+107777;Wren at Oriole (SB);SB_Wren_NS_Oriole;49.139817;-122.338478;VLY;Fraser Valley Region;Mission
+107778;Wren at Westview (SB);SB_Wren_NS_Westview;49.137904;-122.338409;VLY;Fraser Valley Region;Mission
+107779;Wren at Hillcrest (SB);SB_Wren_FS_Hillcrest;49.136048;-122.338386;VLY;Fraser Valley Region;Mission
+108076;Yale 45560 block (SB);SB_45560_block_Yale;49.15251;-121.963901;VLY;Fraser Valley Region;Chilliwack
+108077;Vedder at Yale (SB);SB_Vedder_FS_Yale;49.147933;-121.963791;VLY;Fraser Valley Region;Chilliwack
+108078;Vedder at Luckakuck (SB);SB_Vedder_NS_Luckakuck;49.141777;-121.960679;VLY;Fraser Valley Region;Chilliwack
+108079;Vedder at Knight (SB);SB_Vedder_FS_Knight;49.137579;-121.958956;VLY;Fraser Valley Region;Chilliwack
+108080;Vedder at Webb (SB);SB_Vedder_NS_Webb;49.135208;-121.959567;VLY;Fraser Valley Region;Chilliwack
+108081;Vedder at Spruce (SB);SB_Vedder_FS_Spruce;49.130917;-121.960624;VLY;Fraser Valley Region;Chilliwack
+108082;Vedder at Stevenson (SB);SB_Vedder_FS_Stevenson;49.122495;-121.959941;VLY;Fraser Valley Region;Chilliwack
+108083;Vedder at South Sumas (SB);SB_Vedder_FS_South Sumas;49.118064;-121.958513;VLY;Fraser Valley Region;Tzeachten 13
+108085;Vedder 5810 block (SB);SB_5810_block_Vedder;49.10845;-121.959297;VLY;Fraser Valley Region;Chilliwack
+108086;Vedder at Wren (SB);SB_Vedder_NS_Wren;49.105825;-121.961162;VLY;Fraser Valley Region;Chilliwack
+108091;Keith Wilson at Dieppe (EB);EB_Keith Wilson_FS_Dieppe;49.103767;-121.965426;VLY;Fraser Valley Region;Chilliwack
+108092;Vedder at Wren (NB);NB_Vedder_FS_Wren;49.105586;-121.961214;VLY;Fraser Valley Region;Chilliwack
+108093;Vedder 5830 block (NB);NB_5830_block_Vedder;49.108735;-121.958886;VLY;Fraser Valley Region;Chilliwack
+108094;Vedder at Promontory Southside (NB);NB_Vedder_NS_Promontory Southside;49.110356;-121.958127;VLY;Fraser Valley Region;Chilliwack
+108096;Vedder at South Sumas (NB);NB_Vedder_FS_South Sumas;49.118987;-121.958689;VLY;Fraser Valley Region;Chilliwack
+108097;Vedder at Stevenson (NB);NB_Vedder_FS_Stevenson;49.123177;-121.959722;VLY;Fraser Valley Region;Chilliwack
+108098;Vedder at Manuel (NB);NB_Vedder_FS_Manuel;49.127923;-121.959949;VLY;Fraser Valley Region;Chilliwack
+108099;Vedder at Britton (NB);NB_Vedder_NS_Britton;49.13092;-121.960394;VLY;Fraser Valley Region;Chilliwack
+108100;Vedder at Alder (NB);NB_Vedder_FS_Alder;49.134041;-121.959772;VLY;Fraser Valley Region;Chilliwack
+108101;Vedder at Storey (NB);NB_Vedder_FS_Storey;49.136647;-121.958858;VLY;Fraser Valley Region;Chilliwack
+108102;Vedder at Knight (NB);NB_Vedder_NS_Knight;49.137885;-121.958574;VLY;Fraser Valley Region;Chilliwack
+108104;Vedder at 7770 Blk (NB);NB_Vedder_AT_7770 Blk;49.142681;-121.96072;VLY;Fraser Valley Region;Chilliwack
+108105;Yale at Kerr (NB);NB_Yale_FS_Kerr;49.149188;-121.963957;VLY;Fraser Valley Region;Chilliwack
+108106;Yale at 45550 Blk (NB);NB_Yale_AT_45550_Blk;49.152222;-121.963677;VLY;Fraser Valley Region;Chilliwack
+108107;Yale at Airport (NB);NB_Yale_FS_Airport;49.155337;-121.961017;VLY;Fraser Valley Region;Chilliwack
+108226;Wiltshire at Stevenson (SB);SB_Wiltshire_FS_Stevenson;49.122428;-121.964212;VLY;Fraser Valley Region;Chilliwack
+108227;Wiltshire at Perth (SB);SB_Wiltshire_FS_Perth;49.120531;-121.964689;VLY;Fraser Valley Region;Chilliwack
+108228;Wiltshire at South Sumas (SB);SB_Wiltshire_NS_South Sumas;49.118583;-121.964291;VLY;Fraser Valley Region;Chilliwack
+108230;South Sumas at Tyson (WB);WB_South Sumas_NS_Tyson;49.118433;-121.975042;VLY;Fraser Valley Region;Chilliwack
+108231;Tyson at Balmoral (SB);SB_Tyson_FS_Balmoral;49.115332;-121.976384;VLY;Fraser Valley Region;Chilliwack
+108232;Watson at Tyson (EB);EB_Watson_FS_Tyson;49.111056;-121.97514;VLY;Fraser Valley Region;Chilliwack
+108233;Watson at Arlington (EB);EB_Watson_FS_Arlington;49.111129;-121.970672;VLY;Fraser Valley Region;Chilliwack
+108235;Watson at Vedder (EB);EB_Watson_NS_Vedder;49.111207;-121.959055;VLY;Fraser Valley Region;Chilliwack
+108237;Promontory at Thomas (EB);EB_Promontory_NS_Thomas;49.111233;-121.951774;VLY;Fraser Valley Region;Chilliwack
+108238;Promontory at Chilliwack River Rd (EB);EB_Promontory_FS_Chilliwack River Rd;49.111223;-121.942602;VLY;Fraser Valley Region;Tzeachten 13
+107781;Scott at Hurd (EB);EB_Scott_NS_Hurd;49.13502;-122.333126;VLY;Fraser Valley Region;Mission
+107782;Hurd at Fletcher (EB);EB_Hurd_NS_Fletcher;49.133727;-122.330354;VLY;Fraser Valley Region;Mission
+107783;Mission Hills Mall (EB);EB_Mission Hills Mall;49.132476;-122.32061;VLY;Fraser Valley Region;Mission
+107785;Murray at 3rd Ave (NB);NB_Murray_NS_3rd Ave;49.135898;-122.29983;VLY;Fraser Valley Region;Mission
+107786;Murray at 6th Ave (NB);NB_Murray_FS_6th Ave;49.139052;-122.299799;VLY;Fraser Valley Region;Mission
+107787;7th Ave at Horne (WB);WB_7th Ave_NS_Horne;49.139896;-122.30206;VLY;Fraser Valley Region;Mission
+107788;Grand at 9th Ave (NB);NB_Grand_NS_9th Ave;49.141528;-122.30943;VLY;Fraser Valley Region;Mission
+107020;Bourquin Exchange Bay E;Bourquin_Exchange_Bay_E;49.048305;-122.308671;VLY;Fraser Valley Region;Abbotsford
+107021;Bourquin W at Mill Lake (SB);SB_Bourquin W_FS_Mill Lake;49.047367;-122.307555;VLY;Fraser Valley Region;Abbotsford
+107022;Bourquin W at Ware (EB);EB_Bourquin W_NS_Ware;49.046818;-122.305745;VLY;Fraser Valley Region;Abbotsford
+107023;Ware at Plaxton (SB);SB_Ware_FS_Plaxton;49.045623;-122.304673;VLY;Fraser Valley Region;Abbotsford
+107024;Ware at Farrant (SB);SB_Ware_FS_Farrant;49.044017;-122.304685;VLY;Fraser Valley Region;Abbotsford
+107025;Bevan at Ware (EB);EB_Bevan_FS_Ware;49.041854;-122.303608;VLY;Fraser Valley Region;Abbotsford
+107026;Bevan 33350 block (EB);EB_33350_block_Bevan;49.041918;-122.297907;VLY;Fraser Valley Region;Abbotsford
+107027;Bevan at Cannon (NB);NB_Bevan_NS_Cannon;49.044418;-122.296249;VLY;Fraser Valley Region;Abbotsford
+107028;McDougall at McCallum (EB);EB_McDougall_FS_McCallum;49.045576;-122.292623;VLY;Fraser Valley Region;Abbotsford
+107029;Downtown Exchange Bay A;Downtown_Exchange_Bay_A;49.046246;-122.290267;VLY;Fraser Valley Region;Abbotsford
+107030;Essendene at Montrose (EB);EB_Essendene_FS_Montrose;49.048914;-122.289871;VLY;Fraser Valley Region;Abbotsford
+107031;Essendene at Gladys (EB);EB_Essendene_FS_Gladys;49.048874;-122.287208;VLY;Fraser Valley Region;Abbotsford
+107032;Old Yale at Willow (EB);EB_Old Yale_FS_Willow;49.047819;-122.283776;VLY;Fraser Valley Region;Abbotsford
+107033;Old Yale at Park (EB);EB_Old Yale_FS_Park;49.046724;-122.280192;VLY;Fraser Valley Region;Abbotsford
+107034;Old Yale at Hyatt (EB);EB_Old Yale_FS_Hyatt;49.04631;-122.275247;VLY;Fraser Valley Region;Abbotsford
+107035;Old Yale at McAdam (EB);EB_Old Yale_NS_McAdam;49.048431;-122.265566;VLY;Fraser Valley Region;Abbotsford
+107036;Old Yale at McMillan (EB);EB_Old Yale_NS_McMillan;49.048732;-122.261816;VLY;Fraser Valley Region;Abbotsford
+107037;McMillan at Old Yale (NB);NB_McMillan_FS_Old Yale;49.048976;-122.260147;VLY;Fraser Valley Region;Abbotsford
+107038;McMillan at Chantrell (NB);NB_McMillan_NS_Chantrell;49.05186;-122.260293;VLY;Fraser Valley Region;Abbotsford
+107039;McMillan at McCabe (NB);NB_McMillan_FS_McCabe;49.053356;-122.260311;VLY;Fraser Valley Region;Abbotsford
+107040;McKee at McBride (EB);EB_McKee_FS_McBride;49.055579;-122.257121;VLY;Fraser Valley Region;Abbotsford
+107041;McKee at Glenshiel (EB);EB_McKee_NS_Glenshiel;49.055898;-122.254982;VLY;Fraser Valley Region;Abbotsford
+800018;Bourquin Exchange;Bourquin_Exchange;49.048309;-122.308769;VLY;Fraser Valley Region;Abbotsford
+800019;Downtown Exchange;Downtown_Exchange;49.046291;-122.290268;VLY;Fraser Valley Region;Abbotsford
+107789;Grand at 10th Ave (NB);NB_Grand_NS_10th Ave;49.142894;-122.30939;VLY;Fraser Valley Region;Mission
+107790;Grand at 14th Ave (NB);NB_Grand_NS_14th Ave;49.147032;-122.309063;VLY;Fraser Valley Region;Mission
+107791;Hyde at Arbutus (NB);NB_Hyde_NS_Arbutus;49.149753;-122.309012;VLY;Fraser Valley Region;Mission
+107792;Best at Hyde (EB);EB_Best_FS_Hyde;49.150944;-122.308723;VLY;Fraser Valley Region;Mission
+107042;McKee at Glendale (EB);EB_McKee_FS_Glendale;49.056516;-122.253136;VLY;Fraser Valley Region;Abbotsford
+107043;McKee at Cassiar (NB);NB_McKee_NS_Cassiar;49.058281;-122.251022;VLY;Fraser Valley Region;Abbotsford
+107044;McKee at High (NB);NB_McKee_NS_High;49.059711;-122.250116;VLY;Fraser Valley Region;Abbotsford
+107045;McKee Road at McKee Drive (NB);NB_McKee Road_FS_McKee Drive;49.062175;-122.24822;VLY;Fraser Valley Region;Abbotsford
+107046;McKee at Purcell (EB);EB_McKee_FS_Purcell;49.063152;-122.246178;VLY;Fraser Valley Region;Abbotsford
+107047;McKee at McKinley (NB);NB_McKee_NS_McKinley;49.063823;-122.244869;VLY;Fraser Valley Region;Abbotsford
+107048;McKinley Drive at McKinley Place (EB);EB_McKinley Drive_FS_McKinley Place;49.065949;-122.244256;VLY;Fraser Valley Region;Abbotsford
+107049;McKinley at Sandy Hill (NB);NB_McKinley_NS_Sandy Hill;49.067528;-122.241424;VLY;Fraser Valley Region;Abbotsford
+107050;Sandy Hill 35410 block (WB);WB_35410_block_Sandy Hill;49.067994;-122.244615;VLY;Fraser Valley Region;Abbotsford
+107051;Sandy Hill at Burnside (NB);NB_Sandy Hill_FS_Burnside;49.069933;-122.24792;VLY;Fraser Valley Region;Abbotsford
+107052;Sandy Hill Rd at Sandy Hill Cres (NB);NB_Sandy Hill Rd_AT_Sandy Hill Cres;49.071148;-122.248156;VLY;Fraser Valley Region;Abbotsford
+107053;Old Clayburn at Sandy Hill (SB);SB_Old Clayburn_FS_Sandy Hill;49.071174;-122.249463;VLY;Fraser Valley Region;Abbotsford
+107054;Old Clayburn at Burnside (SB);SB_Old Clayburn_FS_Burnside;49.067382;-122.249507;VLY;Fraser Valley Region;Abbotsford
+107055;Old Clayburn at Monashee (SB);SB_Old Clayburn_FS_Monashee;49.063894;-122.250312;VLY;Fraser Valley Region;Abbotsford
+107056;Old Clayburn at Mt Blanchard (SB);SB_Old Clayburn_FS_Mt Blanchard;49.06289;-122.251678;VLY;Fraser Valley Region;Abbotsford
+107057;Old Clayburn 34960 block (WB);WB_34960_block_Old Clayburn;49.061329;-122.256735;VLY;Fraser Valley Region;Abbotsford
+107058;Vernon at Old Clayburn (NB);NB_Vernon_FS_Old Clayburn;49.06135;-122.25864;VLY;Fraser Valley Region;Abbotsford
+108108;Yale at Hocking (NB);NB_Yale_NS_Hocking;49.158847;-121.958528;VLY;Fraser Valley Region;Chilliwack
+108110;Yale at Cheam (NB);NB_Yale_NS_Cheam;49.165871;-121.958674;VLY;Fraser Valley Region;Chilliwack
+108111;Downtown Exch Bay C (NB);NB_Downtown Exch_Bay C;49.169376;-121.955376;VLY;Fraser Valley Region;Chilliwack
+108113;Cottonwood Mall (NB);NB_Cottonwood Mall;49.141711;-121.964309;VLY;Fraser Valley Region;Chilliwack
+108114;Luckakuck at Topaz (EB);EB_Luckakuck_FS_Topaz;49.140689;-121.96583;VLY;Fraser Valley Region;Chilliwack
+108116;Knight at Topaz (WB);WB_Knight_FS_Topaz;49.139826;-121.967481;VLY;Fraser Valley Region;Chilliwack
+108117;Knight at Diamond (WB);WB_Knight_NS_Diamond;49.139932;-121.970262;VLY;Fraser Valley Region;Chilliwack
+108118;Knight at Garnet (WB);WB_Knight_NS_Garnet;49.14001;-121.97257;VLY;Fraser Valley Region;Chilliwack
+108119;Knight at Evans (WB);WB_Knight_NS_Evans;49.140044;-121.975999;VLY;Fraser Valley Region;Chilliwack
+108120;Evans at Yale (NB);NB_Evans_FS_Yale;49.146464;-121.977264;VLY;Fraser Valley Region;Chilliwack
+108121;Evans at Commercial (NB);NB_Evans_NS_Commercial;49.14805;-121.976785;VLY;Fraser Valley Region;Chilliwack
+108122;Eagle Landing 8210 block (NB);NB_8210_block_Eagle Landing;49.151515;-121.976991;VLY;Fraser Valley Region;Squiaala
+108123;Eagle Landing 8370 block (NB);NB_8370_block_Eagle Landing;49.155196;-121.977402;VLY;Fraser Valley Region;Squiaala
+108124;Ashwell at Trutch (NB);NB_Ashwell_NS_Trutch;49.160505;-121.975884;VLY;Fraser Valley Region;Chilliwack
+120028;McKee 35846 block (WB);WB_35846_Block_McKee;49.071226;-122.232585;VLY;Fraser Valley Region;Abbotsford
+120027;McKee at 35846 Blk (EB);EB_McKee_AT_35846 Blk;49.071083;-122.232566;VLY;Fraser Valley Region;Abbotsford
+107793;Best at Philbert (EB);EB_Best_FS_Philbert;49.150761;-122.3032;VLY;Fraser Valley Region;Mission
+107794;Cade Barr at Hawthorne (NB);NB_Cade Barr_NS_Hawthorne;49.153506;-122.301775;VLY;Fraser Valley Region;Mission
+107795;Cherry at Cade Barr (WB);WB_Cherry_FS_Cade Barr;49.154672;-122.302554;VLY;Fraser Valley Region;Mission
+107796;Cherry at Nottman (WB);WB_Cherry_NS_Nottman;49.154685;-122.30741;VLY;Fraser Valley Region;Mission
+107797;Cherry at Judith (WB);WB_Cherry_FS_Judith;49.154697;-122.311878;VLY;Fraser Valley Region;Mission
+107798;Cherry at Cedar (WB);WB_Cherry_NS_Cedar;49.154706;-122.315061;VLY;Fraser Valley Region;Mission
+107800;Fennell at Mitchell (SB);SB_Fennell_NS_Mitchell;49.15673;-122.320377;VLY;Fraser Valley Region;Mission
+107801;Cherry at Harris (EB);EB_Cherry_FS_Harris;49.154568;-122.31853;VLY;Fraser Valley Region;Mission
+107802;Cedar at Cherry (SB);SB_Cedar_FS_Cherry;49.154037;-122.31612;VLY;Fraser Valley Region;Mission
+107803;Cedar at Adams (SB);SB_Cedar_FS_Adams;49.149871;-122.316132;VLY;Fraser Valley Region;Mission
+107804;Cedar at 14th Ave (SB);SB_Cedar_FS_14th Ave;49.147007;-122.316185;VLY;Fraser Valley Region;Mission
+107805;Cedar at Charnley (SB);SB_Cedar_FS_Charnley;49.145226;-122.316308;VLY;Fraser Valley Region;Mission
+107806;Cedar at 10th Ave (SB);SB_Cedar_FS_10th Ave;49.141878;-122.316464;VLY;Fraser Valley Region;Mission
+107807;Cedar Valley Connector 32720 block (WB);WB_32720_block_Cedar Valley Connector;49.138635;-122.319096;VLY;Fraser Valley Region;Mission
+107808;Cedar Valley Connector at Lougheed (SB);SB_Cedar Valley Connector_NS_Lougheed;49.133872;-122.326446;VLY;Fraser Valley Region;Mission
+107817;7th Ave at Horne (EB);EB_7th Ave_FS_Horne;49.139761;-122.302069;VLY;Fraser Valley Region;Mission
+107818;3rd Ave at Horne (WB);WB_3rd Ave_NS_Horne;49.136293;-122.30202;VLY;Fraser Valley Region;Mission
+107819;3rd Ave at Horne (EB);EB_3rd Ave_FS_Horne;49.136165;-122.301811;VLY;Fraser Valley Region;Mission
+107820;3rd Ave at Columbia (EB);EB_3rd Ave_FS_Columbia;49.136135;-122.296741;VLY;Fraser Valley Region;Mission
+107822;Stave Lake at 5A Ave (NB);NB_Stave Lake_NS_5A Ave;49.138573;-122.292681;VLY;Fraser Valley Region;Mission
+107823;Stave Lake at 7th Ave (NB);NB_Stave Lake_FS_7th Ave;49.140088;-122.292659;VLY;Fraser Valley Region;Mission
+107824;Stave Lake at 9th Ave (NB);NB_Stave Lake_NS_9th Ave;49.141241;-122.29265;VLY;Fraser Valley Region;Mission
+107825;Stave Lake at Prentis (NB);NB_Stave Lake_NS_Prentis;49.143476;-122.29266;VLY;Fraser Valley Region;Mission
+108125;Ashwell at Lazenby (NB);NB_Ashwell_NS_Lazenby;49.162197;-121.974367;VLY;Fraser Valley Region;Chilliwack
+108126;Ashwell at Bernard (NB);NB_Ashwell_NS_Bernard;49.164366;-121.974155;VLY;Fraser Valley Region;Chilliwack
+108127;Ashwell at Westview (NB);NB_Ashwell_NS_Westview;49.166729;-121.973029;VLY;Fraser Valley Region;Chilliwack
+108128;Hodgins at Ashwell (EB);EB_Hodgins_FS_Ashwell;49.169085;-121.970805;VLY;Fraser Valley Region;Chilliwack
+108129;Hodgins at Newman (EB);EB_Hodgins_NS_Newman;49.167983;-121.966318;VLY;Fraser Valley Region;Chilliwack
+108130;Hodgins at Edward (EB);EB_Hodgins_FS_Edward;49.167082;-121.962569;VLY;Fraser Valley Region;Chilliwack
+108131;Mary at Patten (NB);NB_Mary_NS_Patten;49.168924;-121.95979;VLY;Fraser Valley Region;Chilliwack
+108132;Spadina at Mary (EB);EB_Spadina_FS_Mary;49.169812;-121.958528;VLY;Fraser Valley Region;Chilliwack
+108253;Downtown Exchange Bay B;Downtown_Exchange_Bay_B;49.168804;-121.955826;VLY;Fraser Valley Region;Chilliwack
+108134;1st Ave at Young (EB);EB_1st Ave_FS_Young;49.168844;-121.95086;VLY;Fraser Valley Region;Chilliwack
+108135;1st Ave at Nowell (EB);EB_1st Ave_FS_Nowell;49.168837;-121.948341;VLY;Fraser Valley Region;Chilliwack
+108136;1st Ave at Williams (EB);EB_1st Ave_FS_Williams;49.168842;-121.944302;VLY;Fraser Valley Region;Chilliwack
+108137;1st Ave at Garden (EB);EB_1st Ave_NS_Garden;49.168907;-121.941285;VLY;Fraser Valley Region;Chilliwack
+108138;1st Ave at Woodbine (EB);EB_1st Ave_NS_Woodbine;49.168971;-121.937778;VLY;Fraser Valley Region;Chilliwack
+108139;Broadway at Pine (NB);NB_Broadway_NS_Pine;49.170235;-121.935279;VLY;Fraser Valley Region;Chilliwack
+108140;Broadway at Cedar (NB);NB_Broadway_FS_Cedar;49.171421;-121.935249;VLY;Fraser Valley Region;Chilliwack
+108141;Broadway at Fraser (NB);NB_Broadway_NS_Fraser;49.173865;-121.935304;VLY;Fraser Valley Region;Chilliwack
+108142;Broadway at Clayton (NB);NB_Broadway_FS_Clayton;49.176123;-121.935335;VLY;Fraser Valley Region;Chilliwack
+108143;Yale at Woodbine (WB);WB_Yale_FS_Woodbine;49.176506;-121.938193;VLY;Fraser Valley Region;Chilliwack
+108144;Yale at Hazel (WB);WB_Yale_NS_Hazel;49.175862;-121.939862;VLY;Fraser Valley Region;Chilliwack
+108145;Yale at Charles (WB);WB_Yale_FS_Charles;49.17435;-121.943501;VLY;Fraser Valley Region;Chilliwack
+108146;Yale at Williams (WB);WB_Yale_FS_Williams;49.173279;-121.945976;VLY;Fraser Valley Region;Chilliwack
+108147;Hodgins at Mary (WB);WB_Hodgins_FS_Mary;49.166986;-121.961749;VLY;Fraser Valley Region;Chilliwack
+108148;Hodgins at Newman (WB);WB_Hodgins_FS_Newman;49.168089;-121.966236;VLY;Fraser Valley Region;Chilliwack
+108149;Hodgins at Mavis (WB);WB_Hodgins_NS_Mavis;49.168884;-121.969513;VLY;Fraser Valley Region;Chilliwack
+108150;Ashwell at Westview (SB);SB_Ashwell_FS_Westview;49.166549;-121.973354;VLY;Fraser Valley Region;Kwawkwawapilt 6
+124001;Highway 9 at E Victor (NB);NB_Highway 9_FS_E Victor;49.192609;-121.776411;VLY;Fraser Valley Region;Cheam 1
+124002;Highway 9 at Old Yale (SB);SB_Highway 9_FS_Old Yale;49.191716;-121.775683;VLY;Fraser Valley Region;Cheam 1
+124004;South Sumas at Edson (WB);WB_South Sumas_NS_Edson;49.11847;-121.967245;VLY;Fraser Valley Region;Chilliwack
+124005;Stevenson at Vedder (WB);WB_Stevenson_NS_Vedder;49.123293;-121.958306;VLY;Fraser Valley Region;Chilliwack
+124006;Yale at 45746 Blk (NB);NB_Yale_AT_45746 Blk;49.160199;-121.958632;VLY;Fraser Valley Region;Chilliwack
+124007;Yale at Victor (NB);NB_Yale_NS_Victor;49.172322;-121.948021;VLY;Fraser Valley Region;Chilliwack
+124008;Evans at Stevenson (NB);NB_Evans_FS_Stevenson;49.123284;-121.977403;VLY;Fraser Valley Region;Chilliwack
+107826;11th Ave at Dunsmuir (WB);WB_11th Ave_NS_Dunsmuir;49.144623;-122.298417;VLY;Fraser Valley Region;Mission
+107827;Horne at 12th Ave (NB);NB_Horne_NS_12th Ave;49.145395;-122.302271;VLY;Fraser Valley Region;Mission
+107828;Horne at 13th Ave (NB);NB_Horne_FS_13th Ave;49.146908;-122.3023;VLY;Fraser Valley Region;Mission
+107059;Mt Blanchard at Vernon (EB);EB_Mt Blanchard_FS_Vernon;49.063217;-122.258031;VLY;Fraser Valley Region;Abbotsford
+107060;Mt Blanchard Drive at Mt Blanchard Court (EB);EB_Mt Blanchard Drive_FS_Mt Blanchard Court;49.063975;-122.253862;VLY;Fraser Valley Region;Abbotsford
+107061;McKee at Old Clayburn (SB);SB_McKee_FS_Old Clayburn;49.062662;-122.250901;VLY;Fraser Valley Region;Abbotsford
+107062;McKee Drive at McKee Road (WB);WB_McKee Drive_NS_McKee Road;49.061832;-122.249345;VLY;Fraser Valley Region;Abbotsford
+107063;McKee at Wells Gray (SB);SB_McKee_NS_Wells Gray;49.060526;-122.249336;VLY;Fraser Valley Region;Abbotsford
+107064;McKee at Cassiar (SB);SB_McKee_FS_Cassiar;49.058194;-122.251227;VLY;Fraser Valley Region;Abbotsford
+107065;McKee at McCrae (WB);WB_McKee_FS_McCrae;49.056693;-122.253083;VLY;Fraser Valley Region;Abbotsford
+107066;McKee at Glenalmond (WB);WB_McKee_NS_Glenalmond;49.055995;-122.255283;VLY;Fraser Valley Region;Abbotsford
+107067;McKee at Gleneagles (WB);WB_McKee_FS_Gleneagles;49.055637;-122.258133;VLY;Fraser Valley Region;Abbotsford
+107068;McMillan at Sandon (SB);SB_McMillan_FS_Sandon;49.051033;-122.260511;VLY;Fraser Valley Region;Abbotsford
+107069;McMillan at Old Yale (SB);SB_McMillan_NS_Old Yale;49.049188;-122.260373;VLY;Fraser Valley Region;Abbotsford
+107070;Old Yale at McAdam (WB);WB_Old Yale_NS_McAdam;49.048928;-122.264054;VLY;Fraser Valley Region;Abbotsford
+107071;Old Yale at Guilford (SB);SB_Old Yale_FS_Guilford;49.047906;-122.267169;VLY;Fraser Valley Region;Abbotsford
+107072;Old Yale at Grosvenor (WB);WB_Old Yale_NS_Grosvenor;49.046277;-122.273171;VLY;Fraser Valley Region;Abbotsford
+107073;Old Yale at Hyatt (WB);WB_Old Yale_NS_Hyatt;49.046428;-122.275076;VLY;Fraser Valley Region;Abbotsford
+107074;Old Yale at Alderview (WB);WB_Old Yale_FS_Alderview;49.046822;-122.279782;VLY;Fraser Valley Region;Abbotsford
+107075;Old Yale at Campbell (WB);WB_Old Yale_NS_Campbell;49.047091;-122.282225;VLY;Fraser Valley Region;Abbotsford
+107076;Old Yale at Willow (WB);WB_Old Yale_FS_Willow;49.048149;-122.283989;VLY;Fraser Valley Region;Abbotsford
+107077;Essendene at Cyril (WB);WB_Essendene_FS_Cyril;49.049025;-122.286821;VLY;Fraser Valley Region;Abbotsford
+107078;Essendene at W Railway (WB);WB_Essendene_NS_W Railway;49.049041;-122.288674;VLY;Fraser Valley Region;Abbotsford
+107079;Montrose at Essendene (SB);SB_Montrose_NS_Essendene;49.048727;-122.290441;VLY;Fraser Valley Region;Abbotsford
+107080;Downtown Exchange Bay B;Downtown_Exchange_Bay_B;49.046353;-122.290473;VLY;Fraser Valley Region;Abbotsford
+107081;Bevan 33440 block (SB);SB_33440_block_Bevan;49.043925;-122.296388;VLY;Fraser Valley Region;Abbotsford
+107082;Bevan 33330 block (WB);WB_33330_block_Bevan;49.041938;-122.298751;VLY;Fraser Valley Region;Abbotsford
+107083;Ware at Bevan (NB);NB_Ware_FS_Bevan;49.042436;-122.304376;VLY;Fraser Valley Region;Abbotsford
+107084;Ware at Ravine (NB);NB_Ware_NS_Ravine;49.044909;-122.30436;VLY;Fraser Valley Region;Abbotsford
+124015;Keith Wilson at Dieppe (WB);WB_Keith Wilson_FS_Dieppe;49.103966;-121.966492;VLY;Fraser Valley Region;Chilliwack
+124016;Cumberland at Cambridge (EB);EB_Cumberland_NS_Cambridge;49.107994;-121.981017;VLY;Fraser Valley Region;Chilliwack
+105721;Blueridge at Townline (EB);EB_Blueridge_NS_Townline;49.067569;-122.360876;VLY;Fraser Valley Region;Abbotsford
+105722;Blueridge at Townline (WB);WB_Blueridge_FS_Townline;49.067776;-122.360925;VLY;Fraser Valley Region;Abbotsford
+107829;Cade Barr at Knight (NB);NB_Cade Barr_FS_Knight;49.14902;-122.301336;VLY;Fraser Valley Region;Mission
+107830;Cherry at Aster (EB);EB_Cherry_NS_Aster;49.154534;-122.298622;VLY;Fraser Valley Region;Mission
+107831;Harms at Graham (NB);NB_Harms_NS_Graham;49.154921;-122.293654;VLY;Fraser Valley Region;Mission
+107832;Harms at Dewdney Trunk (NB);NB_Harms_NS_Dewdney Trunk;49.157649;-122.29382;VLY;Fraser Valley Region;Mission
+107833;Dewdney Trunk at Kimball (EB);EB_Dewdney Trunk_NS_Kimball;49.158113;-122.289998;VLY;Fraser Valley Region;Mission
+107834;Dewdney Trunk at Stave Lake (EB);EB_Dewdney Trunk_NS_Stave Lake;49.158147;-122.286227;VLY;Fraser Valley Region;Mission
+107835;Stave Lake at Cherry (SB);SB_Stave Lake_FS_Cherry;49.154154;-122.286557;VLY;Fraser Valley Region;Mission
+107836;Best at Melburn (WB);WB_Best_NS_Melburn;49.151509;-122.286713;VLY;Fraser Valley Region;Mission
+107085;Bourquin W at Ware (WB);WB_Bourquin W_FS_Ware;49.046981;-122.305323;VLY;Fraser Valley Region;Abbotsford
+107087;South Fraser at Gladwin, East Side (WB);WB_South Fraser_NS_Gladwin_East Side ;49.051013;-122.313086;VLY;Fraser Valley Region;Abbotsford
+107088;South Fraser at Gladwin, West Side (WB);WB_South Fraser_FS_Gladwin_West Side;49.051217;-122.316937;VLY;Fraser Valley Region;Abbotsford
+107089;South Fraser at Emerson (WB);WB_South Fraser_FS_Emerson;49.051296;-122.31887;VLY;Fraser Valley Region;Abbotsford
+107090;South Fraser at Garden (WB);WB_South Fraser_FS_Garden;49.051449;-122.322427;VLY;Fraser Valley Region;Abbotsford
+107091;South Fraser at Adelaide (WB);WB_South Fraser_NS_Adelaide;49.051642;-122.328092;VLY;Fraser Valley Region;Abbotsford
+107092;Old Yale 32170 block (WB);WB_32170_block_Old Yale;49.051892;-122.333235;VLY;Fraser Valley Region;Abbotsford
+107093;Old Yale at Clearbrook, East Side (WB);WB_Old Yale_NS_Clearbrook_East Side;49.051978;-122.335743;VLY;Fraser Valley Region;Abbotsford
+107094;Clearbrook at George Ferguson (NB);NB_Clearbrook_NS_George Ferguson;49.054109;-122.337746;VLY;Fraser Valley Region;Abbotsford
+107095;Clearbrook at Coral (NB);NB_Clearbrook_NS_Coral;49.055807;-122.33779;VLY;Fraser Valley Region;Abbotsford
+107096;Clearbrook at Charlotte (NB);NB_Clearbrook_NS_Charlotte;49.05831;-122.337755;VLY;Fraser Valley Region;Abbotsford
+107097;Clearbrook at Austin (NB);NB_Clearbrook_FS_Austin;49.061843;-122.337825;VLY;Fraser Valley Region;Abbotsford
+108151;Ashwell at Bernard (SB);SB_Ashwell_FS_Bernard;49.164188;-121.974329;VLY;Fraser Valley Region;Chilliwack
+108152;Ashwell at Lazenby (SB);SB_Ashwell_FS_Lazenby;49.162005;-121.97466;VLY;Fraser Valley Region;Chilliwack
+108153;Ashwell at Trutch (SB);SB_Ashwell_FS_Trutch;49.160576;-121.976035;VLY;Fraser Valley Region;Chilliwack
+108154;Eagle Landing 8330 block (SB);SB_8330_block_Eagle Landing;49.154376;-121.978356;VLY;Fraser Valley Region;Squiaala
+108156;Evans at Commercial (SB);SB_Evans_FS_Commercial;49.148109;-121.976983;VLY;Fraser Valley Region;Chilliwack
+108157;Evans at Yale (SB);SB_Evans_NS_Yale;49.146264;-121.97768;VLY;Fraser Valley Region;Chilliwack
+108158;Knight at 45200 Blk (EB);EB_Knight_AT_45200 Blk;49.139913;-121.974663;VLY;Fraser Valley Region;Chilliwack
+108159;Knight at Garnet (EB);EB_Knight_FS_Garnet;49.139854;-121.972182;VLY;Fraser Valley Region;Chilliwack
+108160;Knight at Sapphire (EB);EB_Knight_NS_Sapphire;49.139753;-121.969318;VLY;Fraser Valley Region;Chilliwack
+108161;Knight at Topaz (EB);EB_Knight_NS_Topaz;49.139682;-121.967463;VLY;Fraser Valley Region;Chilliwack
+108169;Broadway at McCaffrey (NB);NB_Broadway_NS_McCaffrey;49.15988;-121.935121;VLY;Fraser Valley Region;Chilliwack
+108170;Broadway at Chilliwack Central (NB);NB_Broadway_FS_Chilliwack Central;49.162692;-121.934719;VLY;Fraser Valley Region;Chilliwack
+108171;Broadway at Ramona (NB);NB_Broadway_FS_Ramona;49.165878;-121.935298;VLY;Fraser Valley Region;Chilliwack
+108173;Menzies at Riverside (NB);NB_Menzies_NS_Riverside;49.181397;-121.936051;VLY;Fraser Valley Region;Chilliwack
+108174;Kent at Hope River (NB);NB_Kent_FS_Hope River;49.18455;-121.934986;VLY;Fraser Valley Region;Chilliwack
+108175;Strathcona at Kent (WB);WB_Strathcona_FS_Kent;49.186864;-121.935524;VLY;Fraser Valley Region;Chilliwack
+108176;Strathcona at Crystal (WB);WB_Strathcona_NS_Crystal;49.186891;-121.941327;VLY;Fraser Valley Region;Chilliwack
+108177;Clare 46230 block (WB);WB_46230_block_Clare;49.187881;-121.945582;VLY;Fraser Valley Region;Chilliwack
+108178;Young at Larter (SB);SB_Young_NS_Larter;49.187577;-121.952596;VLY;Fraser Valley Region;Chilliwack
+124009;Vedder at Manuel (SB);SB_Vedder_FS_Manuel;49.127386;-121.960221;VLY;Fraser Valley Region;Chilliwack
+124037;Sheffield at Manuel;NB_Sheffield_NS_Manuel;49.127224;-121.956365;VLY;Fraser Valley Region;Chilliwack
+124012;Sylvan at Teskey (WB);WB_Sylvan_NS_Teskey;49.100377;-121.939937;VLY;Fraser Valley Region;Chilliwack
+124013;Sylvan at Highroad (WB);WB_Sylvan_FS_Highroad;49.100283;-121.936271;VLY;Fraser Valley Region;Chilliwack
+124014;Promontory at Teskey (SB);SB_Promontory_FS_Teskey;49.102925;-121.935364;VLY;Fraser Valley Region;Chilliwack
+120016;Old Clayburn at Beverly (WB);WB_Old Clayburn_FS_Beverly;49.060177;-122.263721;VLY;Fraser Valley Region;Abbotsford
+120006;Old Clayburn at Beverley Cres (EB);EB_Old Clayburn_NS_Beverley Cres;49.060056;-122.262976;VLY;Fraser Valley Region;Abbotsford
+120017;Sandy Hill at Old Clayburn (EB);EB_Sandyhill_FS_Old Clayburn;49.071619;-122.249077;VLY;Fraser Valley Region;Abbotsford
+120018;Bevan at Ware (WB);WB_Bevan_FS_Ware;49.042004;-122.305092;VLY;Fraser Valley Region;Abbotsford
+107838;Best at Cade Barr (WB);WB_Best_NS_Cade Barr;49.150904;-122.300899;VLY;Fraser Valley Region;Mission
+107839;Cade Barr at Laurel (SB);SB_Cade Barr_FS_Laurel;49.149098;-122.301495;VLY;Fraser Valley Region;Mission
+107840;Horne at 13th Ave (SB);SB_Horne_NS_13th Ave;49.146932;-122.302497;VLY;Fraser Valley Region;Mission
+107841;Horne at 11th Ave (SB);SB_Horne_NS_11th Ave;49.144822;-122.302438;VLY;Fraser Valley Region;Mission
+107842;11th Ave at Dunsmuir (EB);EB_11th Ave_FS_Dunsmuir;49.144502;-122.298378;VLY;Fraser Valley Region;Mission
+107843;Stave Lake at 11th Ave (SB);SB_Stave Lake_FS_11 Ave;49.143194;-122.29279;VLY;Fraser Valley Region;Mission
+107844;Stave Lake at 9th Ave (SB);SB_Stave Lake_FS_9th Ave;49.141265;-122.29285;VLY;Fraser Valley Region;Mission
+107845;7th Ave at Stave Lake (WB);WB_7th Ave_FS_Stave Lake;49.139889;-122.293207;VLY;Fraser Valley Region;Mission
+107846;7th Ave at Columbia (WB);WB_7th Ave_NS_Columbia;49.139887;-122.296306;VLY;Fraser Valley Region;Mission
+107847;James at 7th Ave (SB);SB_James_FS_7th Ave;49.139417;-122.307255;VLY;Fraser Valley Region;Mission
+107849;James at 4th Ave (NB);NB_James_FS_4th Ave;49.137336;-122.307047;VLY;Fraser Valley Region;Mission
+107850;Alder at 7th Ave (SB);SB_Alder_FS_7th Ave;49.139899;-122.31344;VLY;Fraser Valley Region;Mission
+107851;Alder at 4th Ave (SB);SB_Alder_NS_4th Ave;49.137303;-122.313427;VLY;Fraser Valley Region;Mission
+107855;Draper at Douglas (NB);NB_Draper_FS_Douglas;49.155323;-122.25499;VLY;Fraser Valley Region;Mission
+107856;Moffat at Lawrence (WB);WB_Moffat_NS_Lawrence;49.151318;-122.260622;VLY;Fraser Valley Region;Mission
+107857;Manson at Norrish (EB);EB_Manson_NS_Norrish;49.146806;-122.268541;VLY;Fraser Valley Region;Mission
+107859;Cedar at 3rd Ave (SB);SB_Cedar_NS_3rd Ave;49.136349;-122.316528;VLY;Fraser Valley Region;Mission
+107861;3rd Ave at Columbia (WB);WB_3rd Ave_FS_Columbia;49.136234;-122.297794;VLY;Fraser Valley Region;Mission
+107870;Rai at Wren (EB);EB_Rai_FS_Wren;49.132665;-122.336955;VLY;Fraser Valley Region;Mission
+107871;Rai 32110 block (EB);EB_32110_block_Rai;49.132673;-122.334627;VLY;Fraser Valley Region;Mission
+107875;4th Ave at James (WB);WB_4th Ave_FS_James;49.137187;-122.307548;VLY;Fraser Valley Region;Mission
+108179;Young at Avalon (SB);SB_Young_FS_Avalon;49.184131;-121.952531;VLY;Fraser Valley Region;Chilliwack
+108180;Young at Henley (SB);SB_Young_NS_Henley;49.180128;-121.952666;VLY;Fraser Valley Region;Chilliwack
+108181;Corbould at Henderson (SB);SB_Corbould_NS_Henderson;49.175389;-121.960149;VLY;Fraser Valley Region;Chilliwack
+108182;Corbould at Wellington (SB);SB_Corbould_FS_Wellington;49.17355;-121.96127;VLY;Fraser Valley Region;Chilliwack
+108183;Corbould at Kipp (SB);SB_Corbould_NS_Kipp;49.172277;-121.962236;VLY;Fraser Valley Region;Chilliwack
+108184;Sylvan at Teskey (EB);EB_Sylvan_FS_Teskey;49.100237;-121.939611;VLY;Fraser Valley Region;Chilliwack
+108186;Promontory at Highroad (NB);NB_Promontory_FS_Highroad;49.102915;-121.935094;VLY;Fraser Valley Region;Chilliwack
+108187;Promontory at Chester (NB);NB_Promontory_FS_Chester;49.110728;-121.941719;VLY;Fraser Valley Region;Tzeachten 13
+108188;Promontory at Chilliwack River (WB);WB_Promontory_FS_Chilliwack River;49.111341;-121.94429;VLY;Fraser Valley Region;Tzeachten 13
+108189;Promontory at Thomas (WB);WB_Promontory_FS_Thomas;49.111365;-121.952178;VLY;Fraser Valley Region;Tzeachten 13
+108191;Watson at Vedder (WB);WB_Watson_FS_Vedder;49.111313;-121.958636;VLY;Fraser Valley Region;Tzeachten 13
+108192;Watson at Glenmore (WB);WB_Watson_FS_Glenmore;49.11125;-121.966157;VLY;Fraser Valley Region;Chilliwack
+108193;Watson at Arlington (WB);WB_Watson_NS_Arlington;49.111236;-121.970777;VLY;Fraser Valley Region;Chilliwack
+108194;Watson at Tyson (WB);WB_Watson_NS_Tyson;49.111163;-121.97518;VLY;Fraser Valley Region;Chilliwack
+108195;Tyson at Roseberry (NB);NB_Tyson_FS_Roseberry;49.114029;-121.976211;VLY;Fraser Valley Region;Chilliwack
+108196;Tyson at Balmoral (NB);NB_Tyson_FS_Balmoral;49.115753;-121.976146;VLY;Fraser Valley Region;Chilliwack
+108197;South Sumas at Tyson (EB);EB_South Sumas_FS_Tyson;49.118294;-121.97466;VLY;Fraser Valley Region;Chilliwack
+108198;South Sumas at Edson (EB);EB_South Sumas_FS_Edson;49.118335;-121.967163;VLY;Fraser Valley Region;Chilliwack
+120022;McKenzie at Marshall (NB);NB_McKenzie_FS_Marshall;49.039186;-122.282211;VLY;Fraser Valley Region;Abbotsford
+120023;Clearbrook at Old Yale (SB);SB_Clearbrook_FS_Old Yale;49.051437;-122.3379;VLY;Fraser Valley Region;Abbotsford
+120024;McCallum at Kings (NB);NB_McCallum_NS_Kings;49.032402;-122.292907;VLY;Fraser Valley Region;Abbotsford
+107214;Peardonville at Grant (WB);WB_Peardonville_NS_Grant;49.045927;-122.343337;VLY;Fraser Valley Region;Abbotsford
+107215;George Ferguson at Montrose (EB);EB_George Ferguson_FS_Montrose;49.050088;-122.28974;VLY;Fraser Valley Region;Abbotsford
+107216;George Ferguson at Cyril (EB);EB_George Ferguson_FS_Cyril;49.050067;-122.286121;VLY;Fraser Valley Region;Abbotsford
+107217;George Ferguson at Campbell (EB);EB_George Ferguson_FS_Campbell;49.05004;-122.282192;VLY;Fraser Valley Region;Abbotsford
+107218;George Ferguson at Hemlock (EB);EB_George Ferguson_FS_Hemlock;49.050027;-122.279288;VLY;Fraser Valley Region;Abbotsford
+107219;Ash at George Ferguson (NB);NB_Ash_FS_George Ferguson;49.050477;-122.277609;VLY;Fraser Valley Region;Abbotsford
+107220;Ash at Redwood (NB);NB_Ash_NS_Redwood;49.053036;-122.277229;VLY;Fraser Valley Region;Abbotsford
+107221;Old Clayburn 2910 block (EB);EB_2910_block_Old Clayburn;49.054878;-122.274699;VLY;Fraser Valley Region;Abbotsford
+107222;Immel at Old Clayburn (NB);NB_Immel_FS_Old Clayburn;49.057257;-122.271728;VLY;Fraser Valley Region;Abbotsford
+107223;Immel at MacLure (NB);NB_Immel_NS_MacLure;49.059127;-122.271826;VLY;Fraser Valley Region;Abbotsford
+107224;Laburnum at MacLure (NB);NB_Laburnum_FS_MacLure;49.060703;-122.273176;VLY;Fraser Valley Region;Abbotsford
+107225;Laburnum at 34430 Blk (EB);EB_Laburnum_AT_34430;49.062265;-122.270169;VLY;Fraser Valley Region;Abbotsford
+107226;Laburnum at Mierau (EB);EB_Laburnum_NS_Mierau;49.063333;-122.266794;VLY;Fraser Valley Region;Abbotsford
+107227;Laburnum at Sussex (EB);EB_Laburnum_NS_Sussex;49.063903;-122.263371;VLY;Fraser Valley Region;Abbotsford
+107228;Laburnum 34890 block (EB);EB_34890_block_Laburnum;49.064453;-122.257616;VLY;Fraser Valley Region;Abbotsford
+107229;Latimer at Seneca (NB);NB_Latimer_NS_Seneca;49.066631;-122.257099;VLY;Fraser Valley Region;Abbotsford
+107230;Latimer at Exbury (NB);NB_Latimer_FS_Exbury;49.068496;-122.257153;VLY;Fraser Valley Region;Abbotsford
+107231;Latimer at Millar (NB);NB_Latimer_NS_Millar;49.069685;-122.259269;VLY;Fraser Valley Region;Abbotsford
+107232;Prior at Latimer (WB);WB_Prior_FS_Latimer;49.070801;-122.261363;VLY;Fraser Valley Region;Abbotsford
+107234;Latimer at Cooper (SB);SB_Latimer_NS_Cooper;49.072189;-122.261032;VLY;Fraser Valley Region;Abbotsford
+107235;Latimer at Prior (SB);SB_Latimer_FS_Prior;49.070269;-122.260203;VLY;Fraser Valley Region;Abbotsford
+107236;Latimer at Millar (SB);SB_Latimer_FS_Millar;49.068589;-122.257401;VLY;Fraser Valley Region;Abbotsford
+107237;Mierau at Ascott (NB);NB_Mierau_FS_Ascott;49.064359;-122.266091;VLY;Fraser Valley Region;Abbotsford
+107238;Davie Street at Davie Court (NB);NB_Davie Street_NS_Davie Court;49.066638;-122.265543;VLY;Fraser Valley Region;Abbotsford
+107239;Davie at De Cosmos (NB);NB_Davie_NS_De Cosmos;49.068467;-122.265364;VLY;Fraser Valley Region;Abbotsford
+107240;Prior at Davie (EB);EB_Prior_FS_Davie;49.070655;-122.264377;VLY;Fraser Valley Region;Abbotsford
+107241;Davie Street at Davie Court (SB);SB_Davie Street_FS_Davie Court;49.066453;-122.265756;VLY;Fraser Valley Region;Abbotsford
+107242;Mierau at Donlyn (SB);SB_Mierau_FS_Donlyn;49.065109;-122.266316;VLY;Fraser Valley Region;Abbotsford
+107243;Laburnum at Mierau (WB);WB_Laburnum_FS_Mierau;49.063454;-122.266648;VLY;Fraser Valley Region;Abbotsford
+107244;Laburnum at Epson (SB);SB_Laburnum_FS_Epson;49.063149;-122.268428;VLY;Fraser Valley Region;Abbotsford
+107245;Laburnum at 34430 Blk (WB);WB_Laburnum_AT_34430 Blk;49.06229;-122.270999;VLY;Fraser Valley Region;Abbotsford
+107246;Laburnum at MacLure (SB);SB_Laburnum_NS_MacLure;49.060594;-122.27346;VLY;Fraser Valley Region;Abbotsford
+107331;Old Yale at Delair (EB);EB_Old Yale_FS_Delair;49.038981;-122.239708;VLY;Fraser Valley Region;Abbotsford
+107332;Old Yale at North Parallel (EB);EB_Old Yale_FS_North Parallel;49.038693;-122.231658;VLY;Fraser Valley Region;Abbotsford
+107333;Old Yale at Winfield Dr W (EB);EB_Old Yale_NS_Winfield Dr_W;49.039006;-122.23061;VLY;Fraser Valley Region;Abbotsford
+107334;Old Yale at Winfield Dr E (EB);EB_Old Yale_FS_Winfield Dr_E;49.040762;-122.227579;VLY;Fraser Valley Region;Abbotsford
+107335;Old Yale at Waterleaf (EB);EB_Old Yale_NS_Waterleaf;49.041855;-122.225185;VLY;Fraser Valley Region;Abbotsford
+107336;Whatcom at Mountain (NB);NB_Whatcom_FS_Mountain;49.045339;-122.223522;VLY;Fraser Valley Region;Abbotsford
+107337;Lower Sumas Mountain at Marshall (NB);NB_Lower Sumas Mountain_NS_Marshall;49.049004;-122.223463;VLY;Fraser Valley Region;Abbotsford
+107338;Marshall at Whatcom (WB);WB_Marshall_FS_Whatcom;49.049622;-122.228392;VLY;Fraser Valley Region;Abbotsford
+107339;Marshall at Mountain (SB);SB_Marshall_NS_Mountain;49.048227;-122.230675;VLY;Fraser Valley Region;Abbotsford
+107340;Mountain at Sundew (SB);SB_Mountain_FS_Sundew;49.046322;-122.230136;VLY;Fraser Valley Region;Abbotsford
+107341;Mountain at Eaglecrest (SB);SB_Mountain_FS_Eaglecrest;49.044812;-122.230122;VLY;Fraser Valley Region;Abbotsford
+107342;Mountain at Heatherstone (SB);SB_Mountain_NS_Heatherstone;49.043462;-122.233047;VLY;Fraser Valley Region;Abbotsford
+107343;Boley at Mountain (SB);SB_Boley_FS_Mountain;49.042344;-122.232176;VLY;Fraser Valley Region;Abbotsford
+107247;MacLure at Immel (SB);SB_MacLure_NS_Immel;49.059517;-122.272221;VLY;Fraser Valley Region;Abbotsford
+107248;Immel at Old Clayburn (SB);SB_Immel_NS_Old Clayburn;49.057141;-122.271936;VLY;Fraser Valley Region;Abbotsford
+107249;Ash at Walnut (SB);SB_Ash_NS_Walnut;49.052927;-122.277362;VLY;Fraser Valley Region;Abbotsford
+107250;Ash at George Ferguson (SB);SB_Ash_NS_George Ferguson;49.050455;-122.277813;VLY;Fraser Valley Region;Abbotsford
+107251;George Ferguson at Park (WB);WB_George Ferguson_NS_Park;49.050179;-122.280822;VLY;Fraser Valley Region;Abbotsford
+107252;George Ferguson at Cyril (WB);WB_George Ferguson_NS_Cyril;49.050207;-122.28554;VLY;Fraser Valley Region;Abbotsford
+107344;Canterbury at Boley (EB);EB_Canterbury_FS_Boley;49.041047;-122.232358;VLY;Fraser Valley Region;Abbotsford
+107345;Timberlane at Lion (WB);WB_Timberlane_FS_Lion;49.040288;-122.234432;VLY;Fraser Valley Region;Abbotsford
+107346;Timberlane 35560 block (NB);NB_35560_block_Timberlane;49.040756;-122.237751;VLY;Fraser Valley Region;Abbotsford
+107347;Marshall at Old Yale (WB);WB_Marshall_NS_Old Yale;49.042718;-122.245633;VLY;Fraser Valley Region;Abbotsford
+107348;Old Yale at Marshall (NB);NB_Old Yale_FS_Marshall;49.042945;-122.24671;VLY;Fraser Valley Region;Abbotsford
+107349;Old Yale at St Moritz (WB);WB_Old Yale_FS_St Moritz;49.047619;-122.254534;VLY;Fraser Valley Region;Abbotsford
+107350;McMillan at Old Yale (SB);SB_McMillan_FS_Old Yale;49.048207;-122.260334;VLY;Fraser Valley Region;Abbotsford
+107351;McMillan at Anora (SB);SB_McMillan_FS_Anora;49.042749;-122.260518;VLY;Fraser Valley Region;Abbotsford
+107352;McMillan at Mila (SB);SB_McMillan_FS_Mila;49.040469;-122.26068;VLY;Fraser Valley Region;Abbotsford
+107353;Marshall at McMillan (WB);WB_Marshall_FS_McMillan;49.038347;-122.261081;VLY;Fraser Valley Region;Abbotsford
+107354;Marshall at Griffiths (WB);WB_Marshall_NS_Griffiths;49.038339;-122.263967;VLY;Fraser Valley Region;Abbotsford
+107355;Marshall at Eleanor (WB);WB_Marshall_NS_Eleanor;49.038285;-122.266338;VLY;Fraser Valley Region;Abbotsford
+107356;Marshall at Sumas (WB);WB_Marshall_NS_Sumas;49.038238;-122.268091;VLY;Fraser Valley Region;Abbotsford
+107357;Marshall at Vedder (WB);WB_Marshall_NS_Vedder;49.038221;-122.271783;VLY;Fraser Valley Region;Abbotsford
+107358;Marshall at Vinewood (EB);EB_Marshall_FS_Vinewood;49.038344;-122.302628;VLY;Fraser Valley Region;Abbotsford
+107359;Marshall at Horizon (EB);EB_Marshall_NS_Horizon;49.038482;-122.300697;VLY;Fraser Valley Region;Abbotsford
+107360;Horizon at Rainbow (SB);SB_Horizon_NS_Rainbow;49.037107;-122.299973;VLY;Fraser Valley Region;Abbotsford
+107361;Lynn at Horizon (EB);EB_Lynn_FS_Horizon;49.036051;-122.298166;VLY;Fraser Valley Region;Abbotsford
+107363;Lynn at Westbury (EB);EB_Lynn_NS_Westbury;49.036121;-122.29384;VLY;Fraser Valley Region;Abbotsford
+107364;King at Kipling (WB);WB_King_NS_Kipling;49.031255;-122.296418;VLY;Fraser Valley Region;Abbotsford
+107365;King at Kempley (WB);WB_King_FS_Kempley;49.031169;-122.301;VLY;Fraser Valley Region;Abbotsford
+107366;King at Jackson (WB);WB_King_NS_Jackson;49.031046;-122.306816;VLY;Fraser Valley Region;Abbotsford
+107367;Jackson at Hawthorne (NB);NB_Jackson_NS_Hawthorne;49.033183;-122.307136;VLY;Fraser Valley Region;Abbotsford
+107368;Hawthorne at Highview (EB);EB_Hawthorne_NS_Highview;49.033281;-122.302297;VLY;Fraser Valley Region;Abbotsford
+107369;King at Kempley (EB);EB_King_NS_Kempley;49.031022;-122.301008;VLY;Fraser Valley Region;Abbotsford
+107370;King at Kirklyn (EB);EB_King_FS_Kirklyn;49.0311;-122.295765;VLY;Fraser Valley Region;Abbotsford
+107253;George Ferguson at Gladys (WB);WB_George Ferguson_NS_Gladys;49.050198;-122.287259;VLY;Fraser Valley Region;Abbotsford
+107254;George Ferguson at West Railway (WB);WB_George Ferguson_FS_West Railway;49.050215;-122.289644;VLY;Fraser Valley Region;Abbotsford
+107255;Gladys at Morey (SB);SB_Gladys_NS_Morey;49.053782;-122.287046;VLY;Fraser Valley Region;Abbotsford
+107256;Hwy 11 at McCallum (SB);SB_Hwy 11_FS_McCallum;49.065362;-122.286479;VLY;Fraser Valley Region;Abbotsford
+107257;Cannon at McCallum (WB);WB_Cannon_NS_McCallum;49.045625;-122.293999;VLY;Fraser Valley Region;Abbotsford
+107258;Ware at Vinewood (SB);SB_Ware_FS_Vinewood;49.041226;-122.3047;VLY;Fraser Valley Region;Abbotsford
+107259;Ware at Brundige (SB);SB_Ware_FS_Brundige;49.039829;-122.304676;VLY;Fraser Valley Region;Abbotsford
+107260;Marshall at Ware (WB);WB_Marshall_FS_Ware;49.038328;-122.305201;VLY;Fraser Valley Region;Abbotsford
+107261;Marshall at Maplewood (WB);WB_Marshall_FS_Maplewood;49.03828;-122.308891;VLY;Fraser Valley Region;Abbotsford
+107262;Abbotsford Regional Hospital (WB);WB_Abbotsford Regional Hospital;49.038245;-122.312078;VLY;Fraser Valley Region;Abbotsford
+107263;Marshall at Gladwin (WB);WB_Marshall_FS_Gladwin;49.038205;-122.316871;VLY;Fraser Valley Region;Abbotsford
+107264;Marshall at Emerson (WB);WB_Marshall_FS_Emerson;49.038228;-122.319069;VLY;Fraser Valley Region;Abbotsford
+107265;Marshall at Broadway (WB);WB_Marshall_FS_Broadway;49.038283;-122.323256;VLY;Fraser Valley Region;Abbotsford
+107267;Marshall at Beaver (WB);WB_Marshall_FS_Beaver;49.038325;-122.329835;VLY;Fraser Valley Region;Abbotsford
+107268;Marshall at Meadows (WB);WB_Marshall_FS_Meadows;49.038329;-122.333327;VLY;Fraser Valley Region;Abbotsford
+107270;Clearbrook at Madiera (NB);NB_Clearbrook_FS_Madiera;49.040872;-122.337017;VLY;Fraser Valley Region;Abbotsford
+107271;Clearbrook at Melmar (NB);NB_Clearbrook_FS_Melmar;49.042666;-122.33692;VLY;Fraser Valley Region;Abbotsford
+107272;Clearbrook at Oak (NB);NB_Clearbrook_NS_Oak;49.043961;-122.336849;VLY;Fraser Valley Region;Abbotsford
+107273;South Fraser at Clearbrook (WB);WB_South Fraser_FS_Clearbrook;49.049015;-122.339448;VLY;Fraser Valley Region;Abbotsford
+107274;South Fraser at Center (WB);WB_South Fraser_FS_Center;49.047785;-122.342816;VLY;Fraser Valley Region;Abbotsford
+107275;South Fraser at Hill-Tout (WB);WB_South Fraser_FS_Hill-Tout;49.046382;-122.346832;VLY;Fraser Valley Region;Abbotsford
+107276;South Fraser at Peardonville (EB);EB_South Fraser_NS_Peardonville;49.045843;-122.349262;VLY;Fraser Valley Region;Abbotsford
+107277;Peardonville at Grant (EB);EB_Peardonville_NS_Grant;49.045804;-122.344614;VLY;Fraser Valley Region;Abbotsford
+107278;Peardonville at Holly (EB);EB_Peardonville_NS_Holly;49.045709;-122.338567;VLY;Fraser Valley Region;Abbotsford
+107279;Clearbrook at Oak (SB);SB_Clearbrook_FS_Oak;49.043774;-122.33721;VLY;Fraser Valley Region;Abbotsford
+107280;Clearbrook at Sherwood (SB);SB_Clearbrook_NS_Sherwood;49.04168;-122.337275;VLY;Fraser Valley Region;Abbotsford
+107282;Marshall at Beaver (EB);EB_Marshall_FS_Beaver;49.038174;-122.328424;VLY;Fraser Valley Region;Abbotsford
+107283;Marshall at Emerson (EB);EB_Marshall_NS_Emerson;49.038105;-122.320071;VLY;Fraser Valley Region;Abbotsford
+107284;Marshall at Gladwin (EB);EB_Marshall_NS_Gladwin;49.038082;-122.316295;VLY;Fraser Valley Region;Abbotsford
+107285;Abbotsford Regional Hospital (EB);EB_Abbotsford Regional Hospital;49.038115;-122.310422;VLY;Fraser Valley Region;Abbotsford
+107286;Ware at Marshall (NB);NB_Ware_FS_Marshall;49.038835;-122.304374;VLY;Fraser Valley Region;Abbotsford
+107287;Ware at Brundige (NB);NB_Ware_FS_Brundige;49.040355;-122.30438;VLY;Fraser Valley Region;Abbotsford
+107288;Babich at George Ferguson (NB);NB_Babich_FS_George Ferguson;49.052375;-122.300065;VLY;Fraser Valley Region;Abbotsford
+107289;Babich at Century (NB);NB_Babich_FS_Century;49.054461;-122.300148;VLY;Fraser Valley Region;Abbotsford
+107290;Babich at Terry Fox (NB);NB_Babich_NS_Terry Fox;49.056692;-122.300137;VLY;Fraser Valley Region;Abbotsford
+107371;Marshall at McCallum (WB);WB_Marshall_FS_McCallum;49.03898;-122.295239;VLY;Fraser Valley Region;Abbotsford
+107372;Marshall 33450 block (WB);WB_33450_block_Marshall;49.038839;-122.297287;VLY;Fraser Valley Region;Abbotsford
+107373;Marshall at Horizon (WB);WB_Marshall_FS_Horizon;49.038625;-122.300392;VLY;Fraser Valley Region;Abbotsford
+107374;Old Clayburn at York (NB);NB_Old Clayburn_FS_York;49.057232;-122.270596;VLY;Fraser Valley Region;Abbotsford
+107375;Old Clayburn at Saddle (WB);WB_Old Clayburn_NS_Saddle;49.059477;-122.267873;VLY;Fraser Valley Region;Abbotsford
+107377;McKee at McKinley (SB);SB_McKee_NS_McKinley;49.064802;-122.244134;VLY;Fraser Valley Region;Abbotsford
+107378;McKee at Whatcom (EB);EB_McKee_FS_Whatcom;49.065969;-122.241108;VLY;Fraser Valley Region;Abbotsford
+107379;McKee at Ledgeview (NB);NB_McKee_NS_Ledgeview;49.069493;-122.236915;VLY;Fraser Valley Region;Abbotsford
+107380;McKee at Buckingham (NB);NB_McKee_FS_Buckingham;49.073025;-122.221588;VLY;Fraser Valley Region;Abbotsford
+107381;Blauson at Lester Pearson (WB);WB_Blauson_NS_Lester Pearson;49.081889;-122.214529;VLY;Fraser Valley Region;Abbotsford
+107382;Auguston Pky S at Blauson (WB);WB_Auguston Pky S_FS_Blauson;49.082836;-122.217528;VLY;Fraser Valley Region;Abbotsford
+107383;Auguston Pky S at Bill Reid (SB);SB_Auguston Pky S_NS_Bill Reid;49.080952;-122.221637;VLY;Fraser Valley Region;Abbotsford
+107384;Auguston Pky S at Stephen Leacock (SB);SB_Auguston Pky S_NS_Stephen Leacock;49.079924;-122.223529;VLY;Fraser Valley Region;Abbotsford
+107385;Auguston Traditional Elem School (EB);EB_Auguston Traditional Elem School;49.083542;-122.218471;VLY;Fraser Valley Region;Abbotsford
+107386;Blauson at Lester Pearson (EB);EB_Blauson_FS_Lester Pearson;49.082017;-122.214868;VLY;Fraser Valley Region;Abbotsford
+107387;McKee at Buckingham (SB);SB_McKee_NS_Buckingham;49.073011;-122.221942;VLY;Fraser Valley Region;Abbotsford
+107388;McKee 36060 block (WB);WB_36060_block_McKee;49.071235;-122.225515;VLY;Fraser Valley Region;Abbotsford
+107291;Wren 33360 block (NB);NB_33360_block_Wren;49.058881;-122.298794;VLY;Fraser Valley Region;Abbotsford
+107137;Marshall at Abbotsford (EB);EB_Marshall_FS_Abbotsford;49.038306;-122.276379;VLY;Fraser Valley Region;Abbotsford
+107138;Vedder 1790 block (SB);SB_1790_block_Vedder;49.035185;-122.271543;VLY;Fraser Valley Region;Abbotsford
+107139;Lonzo at Sumas (EB);EB_Lonzo_NS_Sumas;49.034796;-122.268142;VLY;Fraser Valley Region;Abbotsford
+107140;Sumas Shopping Centre (EB);EB_Sumas Shopping Centre;49.027103;-122.266706;VLY;Fraser Valley Region;Abbotsford
+107141;McConnell Rd at 34530 Blk (WB);WB_McConnell_at_34530 Blk;49.024098;-122.266915;VLY;Fraser Valley Region;Abbotsford
+107142;Sumas at Vye (SB);SB_Sumas_FS_Vye;49.015306;-122.265426;VLY;Fraser Valley Region;Abbotsford
+107143;B St at 6th Ave (SB);SB_B St_NS_6th Ave;49.007538;-122.263093;VLY;Fraser Valley Region;Abbotsford
+107144;B at 4th Lane (SB);SB_B_NS_4th Lane;49.005696;-122.263072;VLY;Fraser Valley Region;Abbotsford
+107145;2nd Ave at Sumas (WB);WB_2nd Ave_NS_Sumas;49.00424;-122.264912;VLY;Fraser Valley Region;Abbotsford
+107146;Sumas 1250 block (SB);SB_1250_block_Sumas;49.02573;-122.265546;VLY;Fraser Valley Region;Abbotsford
+107147;Lonzo at Sumas (WB);WB_Lonzo_FS_Sumas;49.034744;-122.26855;VLY;Fraser Valley Region;Abbotsford
+107148;Vedder 1840 block (NB);NB_1840_block_Vedder;49.035802;-122.271563;VLY;Fraser Valley Region;Abbotsford
+107149;Marshall at Riverside (WB);WB_Marshall_FS_Riverside;49.038335;-122.27481;VLY;Fraser Valley Region;Abbotsford
+107150;Marshall at Eldorado (WB);WB_Marshall_NS_Eldorado;49.038492;-122.2789;VLY;Fraser Valley Region;Abbotsford
+107151;Marshall at McKenzie (WB);WB_Marshall_FS_McKenzie;49.038629;-122.282613;VLY;Fraser Valley Region;Abbotsford
+107153;Marshall at McCallum (WB);WB_Marshall_NS_McCallum;49.039034;-122.291706;VLY;Fraser Valley Region;Abbotsford
+107154;McCallum at Mayfair (NB);NB_McCallum_FS_Mayfair;49.040356;-122.29326;VLY;Fraser Valley Region;Abbotsford
+107155;McCallum at Wildwood (NB);NB_McCallum_FS_Wildwood;49.041712;-122.293268;VLY;Fraser Valley Region;Abbotsford
+107156;McCallum at Busby (NB);NB_McCallum_FS_Busby;49.043525;-122.293315;VLY;Fraser Valley Region;Abbotsford
+107157;McCallum at McDougall (NB);NB_McCallum_NS_McDougall;49.045031;-122.293368;VLY;Fraser Valley Region;Abbotsford
+107158;Montrose at Essendene (NB);NB_Montrose_FS_Essendene;49.049191;-122.290223;VLY;Fraser Valley Region;Abbotsford
+107389;McKee at Ledgeview (SB);SB_McKee_FS_Ledgeview;49.069546;-122.23711;VLY;Fraser Valley Region;Abbotsford
+107390;McKee at Selkirk (SB);SB_McKee_FS_Selkirk;49.062598;-122.248014;VLY;Fraser Valley Region;Abbotsford
+107391;Old Clayburn at York (SB);SB_Old Clayburn_NS_York;49.056901;-122.271257;VLY;Fraser Valley Region;Abbotsford
+107392;McKenzie at Lobban (WB);WB_McKenzie_FS_Lobban;49.045472;-122.287661;VLY;Fraser Valley Region;Abbotsford
+107393;McKenzie at Victory (NB);NB_McKenzie_NS_Victory;49.041128;-122.282283;VLY;Fraser Valley Region;Abbotsford
+107394;Delair at Griffiths (EB);EB_Delair_FS_Griffiths;49.036118;-122.265687;VLY;Fraser Valley Region;Abbotsford
+107395;Delair at Ackerman (EB);EB_Delair_FS_Ackerman;49.033618;-122.25646;VLY;Fraser Valley Region;Abbotsford
+107396;Delair at Everett (EB);EB_Delair_FS_Everett;49.033884;-122.253772;VLY;Fraser Valley Region;Abbotsford
+107397;Delair at Nickel (EB);EB_Delair_NS_Nickel;49.034976;-122.249732;VLY;Fraser Valley Region;Abbotsford
+107398;Delair at Angus Campbell (EB);EB_Delair_NS_Angus Campbell;49.035883;-122.245963;VLY;Fraser Valley Region;Abbotsford
+107399;Delair at Rockwell (EB);EB_Delair_NS_Rockwell;49.036813;-122.243479;VLY;Fraser Valley Region;Abbotsford
+107400;North Parallel at Whatcom (SB);SB_North Parallel_FS_Whatcom;49.039505;-122.221822;VLY;Fraser Valley Region;Abbotsford
+107401;North Parallel 36010 block (WB);WB_36010_block_North Parallel;49.036646;-122.226367;VLY;Fraser Valley Region;Abbotsford
+107402;North Parallel 35930 block (WB);WB_35930_block_North Parallel;49.035744;-122.229202;VLY;Fraser Valley Region;Abbotsford
+107403;North Parallel 1850 block (NB);NB_1850_block_North Parallel;49.037063;-122.231964;VLY;Fraser Valley Region;Abbotsford
+107404;Old Yale at Delair (WB);WB_Old Yale_NS_Delair;49.039134;-122.239641;VLY;Fraser Valley Region;Abbotsford
+107405;Gladys at Lumar (WB);WB_Gladys_FS_Lumar;49.04139;-122.274767;VLY;Fraser Valley Region;Abbotsford
+107406;Gladys at Serl (WB);WB_Gladys_FS_Serl;49.043024;-122.278049;VLY;Fraser Valley Region;Abbotsford
+107407;Gladys 34020 block (WB);WB_34020_block_Gladys;49.045127;-122.283006;VLY;Fraser Valley Region;Abbotsford
+107408;South Fraser at Minter (WB);WB_South Fraser_NS_Minter;49.051168;-122.333494;VLY;Fraser Valley Region;Abbotsford
+107409;Peardonville at Livingstone (WB);WB_Peardonville_NS_Livingstone;49.046844;-122.352509;VLY;Fraser Valley Region;Abbotsford
+107410;Peardonville 31240 block (WB);WB_31240_block_Peardonville;49.045939;-122.358496;VLY;Fraser Valley Region;Abbotsford
+107159;George Ferguson at McCallum (WB);WB_George Ferguson_NS_McCallum;49.050188;-122.292756;VLY;Fraser Valley Region;Abbotsford
+107160;George Ferguson at Mountview (WB);WB_George Ferguson_NS_Mountview;49.050573;-122.294975;VLY;Fraser Valley Region;Abbotsford
+107161;George Ferguson at Babich (WB);WB_George Ferguson_NS_Babich;49.051679;-122.298801;VLY;Fraser Valley Region;Abbotsford
+107162;George Ferguson at Fuller (WB);WB_George Ferguson_NS_Fuller;49.052295;-122.300959;VLY;Fraser Valley Region;Abbotsford
+107163;George Ferguson at Ware (WB);WB_George Ferguson_FS_Ware;49.053358;-122.304973;VLY;Fraser Valley Region;Abbotsford
+107164;George Ferguson at Trafalgar (WB);WB_George Ferguson_NS_Trafalgar;49.054357;-122.30858;VLY;Fraser Valley Region;Abbotsford
+107165;Bourquin W at Amicus (SB);SB_Bourquin W_FS_Amicus;49.053173;-122.31047;VLY;Fraser Valley Region;Abbotsford
+107166;Bourquin W at Ventura (SB);SB_Bourquin W_NS_Ventura;49.051869;-122.310354;VLY;Fraser Valley Region;Abbotsford
+107167;Old Yale at Clearbrook, West Side (WB);WB_Old Yale_FS_Clearbrook_West Side;49.052031;-122.338732;VLY;Fraser Valley Region;Abbotsford
+107168;Old Yale at Centennial (WB);WB_Old Yale_FS_Centennial;49.05208;-122.341952;VLY;Fraser Valley Region;Abbotsford
+107169;Old Yale at Princess (WB);WB_Old Yale_FS_Princess;49.052109;-122.343962;VLY;Fraser Valley Region;Abbotsford
+107170;Old Yale at Sunnyside (WB);WB_Old Yale_FS_Sunnyside;49.052794;-122.348024;VLY;Fraser Valley Region;Abbotsford
+107171;Old Yale at MacLure (WB);WB_Old Yale_NS_MacLure;49.053043;-122.35423;VLY;Fraser Valley Region;Abbotsford
+107172;Maclure at Townline (WB);WB_Maclure_FS_Townline;49.05439;-122.360672;VLY;Fraser Valley Region;Abbotsford
+107175;South Fraser at Stanley (EB);EB_South Fraser_NS_Stanley;49.046753;-122.344946;VLY;Fraser Valley Region;Abbotsford
+108242;Yarrow Central at Kehler (WB);WB_Yarrow Central_NS_Kehler;49.082156;-122.054258;VLY;Fraser Valley Region;Chilliwack
+108243;Sumas Prairie at South Sumas (NB);NB_Sumas Prairie_FS_South Sumas;49.118481;-122.045461;VLY;Fraser Valley Region;Chilliwack
+108244;Young at Yates (SB);SB_Young_FS_Yates;49.178199;-121.952667;VLY;Fraser Valley Region;Chilliwack
+108245;Lewis at Cook (WB);WB_Lewis_NS_Cook;49.177633;-121.955053;VLY;Fraser Valley Region;Chilliwack
+108246;Lewis at Sidney (WB);WB_Lewis_FS_Sidney;49.177639;-121.957986;VLY;Fraser Valley Region;Chilliwack
+108247;Vedder 6540 block (NB);NB_6540_block_Vedder;49.120867;-121.959495;VLY;Fraser Valley Region;Chilliwack
+108249;Thomas at Remington (EB);EB_Thomas_FS_Remington;49.106562;-121.953993;VLY;Fraser Valley Region;Chilliwack
+108250;Yale at McGrath (EB);EB_Yale_NS_McGrath;49.18209;-121.805407;VLY;Fraser Valley Region;Chilliwack
+108251;Yale at McGrath (WB);WB_Yale_FS_McGrath;49.182256;-121.805449;VLY;Fraser Valley Region;Chilliwack
+108133;Downtown Exchange Bay A;Downtown_Exchange_Bay_A;49.168568;-121.955484;VLY;Fraser Valley Region;Chilliwack
+108262;Bourquin Exchange Bay D;Bourquin_Exchange_Bay_D;49.04815;-122.308472;VLY;Fraser Valley Region;Abbotsford
+108263;UFV Chilliwack Campus (EB);EB_UFV Chilliwack Campus;49.101298;-121.973373;VLY;Fraser Valley Region;Chilliwack
+108264;Tyson at Keith Wilson (SB);SB_Tyson_NS_Keith Wilson;49.104347;-121.976724;VLY;Fraser Valley Region;Chilliwack
+108265;Keith Wilson at Carter (WB);WB_Keith Wilson_NS_Carter;49.103908;-121.983699;VLY;Fraser Valley Region;Chilliwack
+108266;Cumberland at Carter (EB);EB_Cumberland_FS_Carter;49.107744;-121.984004;VLY;Fraser Valley Region;Chilliwack
+108267;Cumberland at Tyson (EB);EB_Cumberland_NS_Tyson;49.108013;-121.977383;VLY;Fraser Valley Region;Chilliwack
+108268;Tyson at Keith Wilson (SB);SB_Tyson_FS_Keith Wilson;49.10289;-121.976316;VLY;Fraser Valley Region;Chilliwack
+108269;Tyson at Cumberland (SB);SB_Tyson_FS_Cumberland;49.106917;-121.976847;VLY;Fraser Valley Region;Chilliwack
+108270;Tyson at Watson (SB);SB_Tyson_FS_Watson;49.110635;-121.97665;VLY;Fraser Valley Region;Chilliwack
+108271;Tyson at Watson (NB);NB_Tyson_NS_Watson;49.110674;-121.976381;VLY;Fraser Valley Region;Chilliwack
+108272;Tyson at South Sumas (SB);SB_Tyson_NS_South Sumas;49.119096;-121.976374;VLY;Fraser Valley Region;Chilliwack
+108273;Tyson at South Sumas (NB);NB_Tyson_FS_South Sumas;49.118999;-121.976167;VLY;Fraser Valley Region;Chilliwack
+108274;Evans at Sumas Central (SB);SB_Evans_FS_Sumas Central;49.134036;-121.977693;VLY;Fraser Valley Region;Chilliwack
+108275;Evans at Wells (NB);NB_Evans_FS_Wells;49.135313;-121.977523;VLY;Fraser Valley Region;Chilliwack
+108276;Luckakuck 45790 block (SB);SB_45790_block_Luckakuck;49.142553;-121.957852;VLY;Fraser Valley Region;Chilliwack
+108277;Luckakuck at Vedder (EB);EB_Luckakuck_FS_Vedder;49.141002;-121.958874;VLY;Fraser Valley Region;Chilliwack
+108280;Williams at Yale (NB);NB_Williams_FS_Yale;49.17403;-121.945658;VLY;Fraser Valley Region;Chilliwack
+108281;Broadway at Clayton (SB);SB_Broadway_FS_Clayton;49.175799;-121.935526;VLY;Fraser Valley Region;Chilliwack
+108282;Broadway at Fraser (SB);SB_Broadway_FS_Fraser;49.173833;-121.935481;VLY;Fraser Valley Region;Chilliwack
+108283;Broadway at Cedar (SB);SB_Broadway_NS_Cedar;49.171421;-121.93546;VLY;Fraser Valley Region;Chilliwack
+108284;Broadway at 1st Ave (SB);SB_Broadway_FS_1st Ave;49.168529;-121.935465;VLY;Fraser Valley Region;Chilliwack
+108285;Broadway at 1st Ave (NB);NB_Broadway_NS_1st Ave;49.168653;-121.935234;VLY;Fraser Valley Region;Chilliwack
+108286;1st Ave at Broadway (WB);WB_1st Ave_ NS_Broadway;49.169129;-121.933869;VLY;Fraser Valley Region;Chilliwack
+108287;1st at Armitage (EB);EB_1st_FS_Armitage;49.169003;-121.933278;VLY;Fraser Valley Region;Chilliwack
+108288;1st Ave at Windsor (WB);WB_1st Ave_NS_Windsor;49.169191;-121.929727;VLY;Fraser Valley Region;Chilliwack
+108289;1st at Hiebert (EB);EB_1st_NS_Hiebert;49.169071;-121.929428;VLY;Fraser Valley Region;Chilliwack
+107292;Babich at MacLure (NB);NB_Babich_NS_MacLure;49.059903;-122.301359;VLY;Fraser Valley Region;Abbotsford
+107293;Maclure at Babich (WB);WB_Maclure_FS_Babich;49.060434;-122.302569;VLY;Fraser Valley Region;Abbotsford
+107294;Maclure at Horn (WB);WB_Maclure_FS_Horn;49.061174;-122.308413;VLY;Fraser Valley Region;Abbotsford
+107295;Maclure at Gladwin (WB);WB_Maclure_NS_Gladwin;49.060433;-122.313446;VLY;Fraser Valley Region;Abbotsford
+107296;Gladwin at Chehalis (NB);NB_Gladwin_NS_Chehalis;49.062124;-122.315908;VLY;Fraser Valley Region;Abbotsford
+107297;Gladwin at Okanagan (NB);NB_Gladwin_NS_Okanagan;49.06446;-122.315906;VLY;Fraser Valley Region;Abbotsford
+107298;Gladwin at Old Riverside (NB);NB_Gladwin_FS_Old Riverside;49.066501;-122.315877;VLY;Fraser Valley Region;Abbotsford
+107299;Harwood at Perth (EB);EB_Harwood_FS_Perth;49.069248;-122.314781;VLY;Fraser Valley Region;Abbotsford
+107300;Harwood at Aspen (NB);NB_Harwood_NS_Aspen;49.070518;-122.312045;VLY;Fraser Valley Region;Abbotsford
+107301;Gatefield at Gladwin (WB);WB_Gatefield_NS_Gladwin;49.072404;-122.315231;VLY;Fraser Valley Region;Abbotsford
+107302;Chilcotin at Gladwin (WB);WB_Chilcotin_FS_Gladwin;49.0724;-122.316731;VLY;Fraser Valley Region;Abbotsford
+107303;Chilcotin at Nicola (SB);SB_Chilcotin_FS_Nicola;49.070677;-122.319594;VLY;Fraser Valley Region;Abbotsford
+107304;Qualicum Street at Qualicum Place (SB);SB_Qualicum Street_NS_Qualicum Place;49.068445;-122.323017;VLY;Fraser Valley Region;Abbotsford
+107305;Haida at Qualicum (WB);WB_Haida_FS_Qualicum;49.067383;-122.324431;VLY;Fraser Valley Region;Abbotsford
+107306;Trethewey at Golden (SB);SB_Trethewey_NS_Golden;49.064825;-122.327829;VLY;Fraser Valley Region;Abbotsford
+107307;Trethewey at Slocan (SB);SB_Trethewey_FS_Slocan;49.061935;-122.327174;VLY;Fraser Valley Region;Abbotsford
+107308;Trethewey at MacLure (SB);SB_Trethewey_FS_MacLure;49.059411;-122.327139;VLY;Fraser Valley Region;Abbotsford
+107309;Trethewey at Diamond (SB);SB_Trethewey_NS_Diamond;49.056789;-122.327038;VLY;Fraser Valley Region;Abbotsford
+107310;Peardonville at Clearbrook (EB);EB_Peardonville_FS_Clearbrook;49.045636;-122.335418;VLY;Fraser Valley Region;Abbotsford
+107311;Peardonville at Parkview (EB);EB_Peardonville_FS_Parkview;49.045606;-122.332959;VLY;Fraser Valley Region;Abbotsford
+107312;Peardonville at Adelaide (EB);EB_Peardonville_NS_Adelaide;49.045468;-122.328545;VLY;Fraser Valley Region;Abbotsford
+107313;Peardonville at Bevan (EB);EB_Peardonville_FS_Bevan;49.045431;-122.324598;VLY;Fraser Valley Region;Abbotsford
+107314;Peardonville at Broadway (EB);EB_Peardonville_FS_Broadway;49.045397;-122.321446;VLY;Fraser Valley Region;Abbotsford
+107315;Peardonville at Emerson (EB);EB_Peardonville_FS_Emerson;49.045369;-122.31742;VLY;Fraser Valley Region;Abbotsford
+107316;Gladwin 2510 block (NB);NB_2510_block_Gladwin;49.047681;-122.315263;VLY;Fraser Valley Region;Abbotsford
+107317;Gladwin at Hillcrest (NB);NB_Gladwin_FS_Hillcrest;49.0497;-122.315042;VLY;Fraser Valley Region;Abbotsford
+107318;McKenzie at Lobban (EB);EB_McKenzie_FS_Lobban;49.045208;-122.28747;VLY;Fraser Valley Region;Abbotsford
+107319;McKenzie at Victory (SB);SB_McKenzie_FS_Victory;49.041064;-122.28247;VLY;Fraser Valley Region;Abbotsford
+107320;McKenzie at Marshall (SB);SB_McKenzie_NS_Marshall;49.039169;-122.282348;VLY;Fraser Valley Region;Abbotsford
+107321;Marshall at Vedder (EB);EB_Marshall_FS_Vedder;49.038047;-122.271259;VLY;Fraser Valley Region;Abbotsford
+107322;Marshall at Sumas (EB);EB_Marshall_FS_Sumas;49.038125;-122.267687;VLY;Fraser Valley Region;Abbotsford
+107324;Marshall at Walker (EB);EB_Marshall_FS_Walker;49.038243;-122.262254;VLY;Fraser Valley Region;Abbotsford
+107325;Marshall at Sierra (EB);EB_Marshall_NS_Sierra;49.038289;-122.258291;VLY;Fraser Valley Region;Abbotsford
+107326;Marshall at Everett (EB);EB_Marshall_FS_Everett;49.038375;-122.253526;VLY;Fraser Valley Region;Abbotsford
+107327;Marshall at Sandstone (EB);EB_Marshall_NS_Sandstone;49.038417;-122.250115;VLY;Fraser Valley Region;Abbotsford
+107328;Marshall at Munroe (NB);NB_Marshall_NS_Munroe;49.04073;-122.248367;VLY;Fraser Valley Region;Abbotsford
+107329;Marshall at Old Yale (EB);EB_Marshall_NS_Old Yale;49.042109;-122.247046;VLY;Fraser Valley Region;Abbotsford
+107330;Old Yale at Marshall (SB);SB_Old Yale_FS_Marshall;49.042047;-122.245984;VLY;Fraser Valley Region;Abbotsford
+107411;Townline at Wheel (SB);SB_Townline_NS_Wheel;49.044373;-122.360159;VLY;Fraser Valley Region;Abbotsford
+107412;Wheel at Townline (WB);WB_Wheel_FS_Townline;49.043861;-122.360723;VLY;Fraser Valley Region;Abbotsford
+107413;Wheel at Queen (WB);WB_Wheel_NS_Queen;49.044061;-122.366873;VLY;Fraser Valley Region;Abbotsford
+107414;Peardonville at Queen (EB);EB_Peardonville_FS_Queen;49.046037;-122.366694;VLY;Fraser Valley Region;Abbotsford
+107415;Peardonville 31090 block (EB);EB_31090_block_Peardonville;49.045893;-122.362568;VLY;Fraser Valley Region;Abbotsford
+107416;Wheel at Carpenter (EB);EB_Wheel_NS_Carpenter;49.043687;-122.358226;VLY;Fraser Valley Region;Abbotsford
+107417;Windsor at Wheel (NB);NB_Windsor_FS_Wheel;49.044227;-122.355217;VLY;Fraser Valley Region;Abbotsford
+107418;Peardonville at Windsor (EB);EB_Peardonville_FS_Windsor;49.045352;-122.353672;VLY;Fraser Valley Region;Abbotsford
+107419;Martens at Oakridge (SB);SB_Martens_FS_Oakridge;49.041493;-122.351384;VLY;Fraser Valley Region;Abbotsford
+107420;Martens at Monarch (SB);SB_Martens_NS_Monarch;49.039777;-122.351457;VLY;Fraser Valley Region;Abbotsford
+107421;Marshall at Martens (WB);WB_Marshall_FS_Martens;49.038635;-122.354253;VLY;Fraser Valley Region;Abbotsford
+107422;Marshall at Carpenter (WB);WB_Marshall_FS_Carpenter;49.038689;-122.3584;VLY;Fraser Valley Region;Abbotsford
+107423;Townline at Marshall (NB);NB_Townline_FS_Marshall;49.039743;-122.359941;VLY;Fraser Valley Region;Abbotsford
+107424;Townline 2180 block (NB);NB_2180_block_Townline;49.041962;-122.359942;VLY;Fraser Valley Region;Abbotsford
+107425;Peardonville 31270 block (EB);EB_31270_block_Peardonville;49.045807;-122.358219;VLY;Fraser Valley Region;Abbotsford
+107426;Peardonville at Livingstone (EB);EB_Peardonville_FS_Livingstone;49.046914;-122.353295;VLY;Fraser Valley Region;Abbotsford
+107427;Peardonville 31060 block (WB);WB_31060_block_Peardonville;49.046061;-122.363445;VLY;Fraser Valley Region;Abbotsford
+107428;Simpson at Peardonville (WB);WB_Simpson_FS_Peardonville;49.046298;-122.372338;VLY;Fraser Valley Region;Abbotsford
+107429;Mt Lehman at Simpson (NB);NB_Mt Lehman_FS_Simpson;49.047913;-122.381144;VLY;Fraser Valley Region;Abbotsford
+107430;Mt Lehman at Progressive (NB);NB_Mt Lehman_FS_Progressive;49.049296;-122.381134;VLY;Fraser Valley Region;Abbotsford
+107431;Mt Lehman at Canary (NB);NB_Mt Lehman_FS_Canary;49.052586;-122.381131;VLY;Fraser Valley Region;Abbotsford
+107176;South Fraser at Center (EB);EB_South Fraser_FS_Center;49.047706;-122.342241;VLY;Fraser Valley Region;Abbotsford
+107177;South Fraser at Countess (EB);EB_South Fraser_FS_Countess;49.048831;-122.339212;VLY;Fraser Valley Region;Abbotsford
+107178;George Ferguson at Clearbrook (EB);EB_George Ferguson_FS_Clearbrook;49.054801;-122.336641;VLY;Fraser Valley Region;Abbotsford
+107179;George Ferguson at Tims (EB);EB_George Ferguson_NS_Tims;49.054864;-122.333297;VLY;Fraser Valley Region;Abbotsford
+107180;George Ferguson at Boulder (EB);EB_George Ferguson_FS_Boulder;49.054949;-122.32892;VLY;Fraser Valley Region;Abbotsford
+107181;George Ferguson at Prospect (EB);EB_George Ferguson_FS_Prospect;49.054855;-122.324998;VLY;Fraser Valley Region;Abbotsford
+107182;George Ferguson at Oriole (EB);EB_George Ferguson_FS_Oriole;49.054926;-122.320051;VLY;Fraser Valley Region;Abbotsford
+107183;George Ferguson at Gladwin, West Side (EB);EB_George Ferguson_NS_Gladwin_West Side;49.05527;-122.315864;VLY;Fraser Valley Region;Abbotsford
+107184;George Ferguson at Gladwin-East Side (EB);EB_George Ferguson_FS_Gladwin-East Side;49.055147;-122.31381;VLY;Fraser Valley Region;Abbotsford
+107185;McCallum at Rainbow (SB);SB_McCallum_NS_Rainbow;49.037339;-122.2934;VLY;Fraser Valley Region;Abbotsford
+107186;McCallum Park and Ride (SB);SB_McCallum Park and Ride;49.03266;-122.293116;VLY;Fraser Valley Region;Abbotsford
+107187;King at McCallum (EB);EB_King_FS_McCallum;49.031194;-122.292312;VLY;Fraser Valley Region;Abbotsford
+107188;King at College (EB);EB_King_NS_College;49.031276;-122.288283;VLY;Fraser Valley Region;Abbotsford
+107189;King at King (EB);EB_King_FS_King;49.03138;-122.283517;VLY;Fraser Valley Region;Abbotsford
+107190;University of the Fraser Valley (SB);SB_University of the_Fraser Valley;49.028807;-122.282946;VLY;Fraser Valley Region;Abbotsford
+107191;Ware at Robertson (SB);SB_Ware_NS_Robertson;49.048867;-122.304667;VLY;Fraser Valley Region;Abbotsford
+107192;South Fraser at Ware (EB);EB_South Fraser_FS_Ware;49.050243;-122.303849;VLY;Fraser Valley Region;Abbotsford
+107193;South Fraser at Bourquin E (EB);EB_South Fraser_NS_Bourquin E;49.049874;-122.300448;VLY;Fraser Valley Region;Abbotsford
+107194;South Fraser at Roberts (EB);EB_South Fraser_NS_Roberts;49.049249;-122.295651;VLY;Fraser Valley Region;Abbotsford
+107195;King at McKenzie (WB);WB_King_FS_McKenzie;49.031474;-122.283304;VLY;Fraser Valley Region;Abbotsford
+107196;King at College (WB);WB_King_FS_College;49.031365;-122.288334;VLY;Fraser Valley Region;Abbotsford
+107197;King at McCallum (WB);WB_King_NS_McCallum;49.031295;-122.291298;VLY;Fraser Valley Region;Abbotsford
+107198;McCallum at Rainbow (NB);NB_McCallum_NS_Rainbow;49.036731;-122.293146;VLY;Fraser Valley Region;Abbotsford
+107199;Ware at Robertson (NB);NB_Ware_NS_Robertson;49.048177;-122.304311;VLY;Fraser Valley Region;Abbotsford
+107200;Essendene at Pauline (WB);WB_Essendene_FS_Pauline;49.04906;-122.292063;VLY;Fraser Valley Region;Abbotsford
+107201;South Fraser at Roberts (WB);WB_South Fraser_FS_Roberts;49.049498;-122.295775;VLY;Fraser Valley Region;Abbotsford
+107432;Fraser at Pinegrove (WB);WB_Fraser_FS_Pinegrove;49.056173;-122.383467;VLY;Fraser Valley Region;Abbotsford
+107433;Fraser at Ross (WB);WB_Fraser_FS_Ross;49.057602;-122.405354;VLY;Fraser Valley Region;Abbotsford
+107434;Fraser at Bradner (WB);WB_Fraser_FS_Bradner;49.057039;-122.427555;VLY;Fraser Valley Region;Abbotsford
+107435;Fraser at Cottonwood (WB);WB_Fraser_FS_Cottonwood;49.057266;-122.440984;VLY;Fraser Valley Region;Abbotsford
+107436;Fraser at Lefeuvre (WB);WB_Fraser_FS_Lefeuvre;49.057472;-122.449426;VLY;Fraser Valley Region;Abbotsford
+107437;Fraser at 27800 Blk (WB);WB_Fraser_AT_27800 Blk;49.05758;-122.454448;VLY;Fraser Valley Region;Abbotsford
+107438;Swensson at Trolley (EB);EB_Swensson_NS_Trolley;49.051136;-122.453236;VLY;Fraser Valley Region;Abbotsford
+107440;Lefeuvre at Junction (NB);NB_Lefeuvre_NS_Junction;49.052776;-122.448563;VLY;Fraser Valley Region;Abbotsford
+107441;Lefeuvre at Trestle (NB);NB_Lefeuvre_NS_Trestle;49.055441;-122.448644;VLY;Fraser Valley Region;Abbotsford
+107442;Fraser at Lefeuvre (EB);EB_Fraser_FS_Lefeuvre;49.057266;-122.447135;VLY;Fraser Valley Region;Abbotsford
+107443;Fraser at Cottonwood (EB);EB_Fraser_FS_Cottonwood;49.057083;-122.439864;VLY;Fraser Valley Region;Abbotsford
+107444;Fraser at Bradner (EB);EB_Fraser_NS_Bradner;49.056853;-122.428608;VLY;Fraser Valley Region;Abbotsford
+107445;Fraser at Ross (EB);EB_Fraser_FS_Ross;49.057537;-122.403032;VLY;Fraser Valley Region;Abbotsford
+107446;Fraser at Mt Lehman (EB);EB_Fraser_NS_Mt Lehman;49.055989;-122.384243;VLY;Fraser Valley Region;Abbotsford
+107447;Mt Lehman at Canary (SB);SB_Mt Lehman_NS_Canary;49.052433;-122.381335;VLY;Fraser Valley Region;Abbotsford
+107448;Mt Lehman at Great Northern (SB);SB_Mt Lehman_FS_Great Northern;49.04964;-122.38134;VLY;Fraser Valley Region;Abbotsford
+107449;Mt Lehman at Progressive (SB);SB_Mt Lehman_FS_Progressive;49.047588;-122.381348;VLY;Fraser Valley Region;Abbotsford
+107202;South Fraser at Bourquin E (WB);WB_South Fraser_NS_Bourquin E;49.049807;-122.298859;VLY;Fraser Valley Region;Abbotsford
+107203;South Fraser at Alliance (WB);WB_South Fraser_NS_Alliance;49.05028;-122.302381;VLY;Fraser Valley Region;Abbotsford
+107204;George Ferguson at Nelson (WB);WB_George Ferguson_NS_Nelson;49.054809;-122.311845;VLY;Fraser Valley Region;Abbotsford
+107205;George Ferguson at Gladwin (WB);WB_George Ferguson_FS_Gladwin;49.055411;-122.316268;VLY;Fraser Valley Region;Abbotsford
+107206;George Ferguson 32670 block (WB);WB_32670_block_George Ferguson;49.055339;-122.319129;VLY;Fraser Valley Region;Abbotsford
+107207;George Ferguson at Oriole (WB);WB_George Ferguson_FS_Oriole;49.054885;-122.322097;VLY;Fraser Valley Region;Abbotsford
+107208;George Ferguson at Trethewey (WB);WB_George Ferguson_FS_Trethewey;49.055137;-122.327324;VLY;Fraser Valley Region;Abbotsford
+107209;George Ferguson at Boulder (WB);WB_George Ferguson_FS_Boulder;49.055079;-122.330214;VLY;Fraser Valley Region;Abbotsford
+107210;George Ferguson 32080 block (WB);WB_32080_block_George Ferguson;49.054961;-122.335024;VLY;Fraser Valley Region;Abbotsford
+107211;Clearbrook at Old Yale (NB);NB_Clearbrook_NS_Old Yale;49.051456;-122.337593;VLY;Fraser Valley Region;Abbotsford
+107213;Peardonville at Arbutus (WB);WB_Peardonville_FS_Arbutus;49.045862;-122.339483;VLY;Fraser Valley Region;Abbotsford
+108290;Carleton 9340 block (NB);NB_9340_block_Carleton;49.172531;-121.928219;VLY;Fraser Valley Region;Chilliwack
+108291;Carleton at Adanac (SB);SB_Carleton_FS_Adanac;49.172842;-121.92843;VLY;Fraser Valley Region;Chilliwack
+108292;McNaught at Paula (NB);NB_McNaught_FS_Paula;49.174442;-121.926672;VLY;Fraser Valley Region;Chilliwack
+108293;McNaught at Paula (SB);SB_McNaught_NS_Paula;49.174151;-121.926876;VLY;Fraser Valley Region;Chilliwack
+108294;McNaught at Epp (NB);NB_McNaught_FS_Epp;49.177451;-121.926652;VLY;Fraser Valley Region;Chilliwack
+108295;McNaught at Epp (SB);SB_McNaught_NS_Epp;49.177524;-121.926859;VLY;Fraser Valley Region;Chilliwack
+108296;Yale at McNaught (EB);EB_Yale_NS_McNaught;49.180188;-121.927069;VLY;Fraser Valley Region;Chilliwack
+108297;Yale at Carleton (WB);WB_Yale_FS_Carleton;49.17983;-121.928673;VLY;Fraser Valley Region;Chilliwack
+108298;Yale at Menzies (WB);WB_Yale_FS_Menzies;49.178111;-121.933856;VLY;Fraser Valley Region;Chilliwack
+108299;Portage at Woodbine (EB);EB_Portage_FS_Woodbine;49.178681;-121.937976;VLY;Fraser Valley Region;Chilliwack
+108300;1st Ave at Nowell (WB);WB_1st Ave_NS_Nowell;49.16899;-121.948344;VLY;Fraser Valley Region;Chilliwack
+108301;1st Ave at Williams (WB);WB_1st Ave_NS_Williams;49.168963;-121.944675;VLY;Fraser Valley Region;Chilliwack
+108302;1st Ave at Aspen (WB);WB_1st Ave_NS_Aspen;49.16902;-121.941496;VLY;Fraser Valley Region;Chilliwack
+108303;1st Ave at Woodbine (WB);WB_1st Ave_FS_Woodbine;49.169085;-121.937959;VLY;Fraser Valley Region;Chilliwack
+108304;Yale at Menzies (EB);EB_Yale_NS_Menzies;49.177974;-121.933748;VLY;Fraser Valley Region;Chilliwack
+108305;Broadway at Ramona (SB);SB_Broadway_FS_Ramona;49.165518;-121.935402;VLY;Fraser Valley Region;Chilliwack
+108306;Broadway at Chilliwack Central (SB);SB_Broadway_NS_Chilliwack Central;49.162852;-121.934786;VLY;Fraser Valley Region;Chilliwack
+108307;Broadway at McCaffrey (SB);SB_Broadway_FS_McCaffrey;49.159825;-121.935278;VLY;Fraser Valley Region;Chilliwack
+108308;Airport at Cessna Dr E (WB);WB_Airport_FS_Cessna Dr E;49.156336;-121.940654;VLY;Fraser Valley Region;Chilliwack
+108309;Airport at Cessna Dr E (EB);EB_Airport_NS_Cessna Dr E;49.156221;-121.940591;VLY;Fraser Valley Region;Chilliwack
+108310;Airport at Cessna Dr W (EB);EB_Airport_FS_Cessna Dr W;49.155059;-121.945791;VLY;Fraser Valley Region;Chilliwack
+108311;Airport at Cessna Dr W (WB);WB_Airport_FS_Cessna Dr W;49.155137;-121.946187;VLY;Fraser Valley Region;Chilliwack
+108312;Airport at Young (WB);WB_Airport_NS_Young;49.154856;-121.950378;VLY;Fraser Valley Region;Chilliwack
+108313;Airport at Young (EB);EB_Airport_FS_Young;49.154748;-121.951011;VLY;Fraser Valley Region;Chilliwack
+108314;Young at Olds (NB);NB_Young_FS_Olds;49.15071;-121.94856;VLY;Fraser Valley Region;Chilliwack
+108315;Young at Olds (SB);SB_Young_FS_Olds;49.149794;-121.948594;VLY;Fraser Valley Region;Chilliwack
+120033;Blueridge Dr at Blue Jay (WB);WB_Blueridge Dr_FS_Blue Jay St;49.065974;-122.371431;VLY;Fraser Valley Region;Abbotsford
+120034;Blueridge at Crestview  (WB);WB_Blueridge Dr_FS_Crestview Ave;49.065762;-122.377699;VLY;Fraser Valley Region;Abbotsford
+120035;Mt Lehman at Cardinal (SB);SB_Mt Lehman_NS_Cardinal;49.061096;-122.38143;VLY;Fraser Valley Region;Abbotsford
+120037;Upper Maclure at Ponderosa (WB);WB_Upper Maclure_FS_Ponderosa;49.060385;-122.354765;VLY;Fraser Valley Region;Abbotsford
+120038;Ponderosa at Spur (NB);NB_Ponderosa_NS_Spur;49.062518;-122.354269;VLY;Fraser Valley Region;Abbotsford
+120039;Ridgeview at Ponderosa (EB);EB_Ridgeview_FS_Ponderosa;49.065181;-122.353469;VLY;Fraser Valley Region;Abbotsford
+120040;Ridgeview at Sidegrove (EB);EB_Ridgeview_FS_Sidegrove;49.0657;-122.349238;VLY;Fraser Valley Region;Abbotsford
+124019;Chowat Rd at 2865 Blk (WB);WB_Chowat Rd_at 2865 Blk;49.254226;-121.729891;VLY;Fraser Valley Region;Seabird Island
+124020;Park at 3rd Ave (EB);EB_Park_FS_3rd Ave;49.381013;-121.442846;VLY;Fraser Valley Region;Hope
+124021;6th Ave at Commission (SB);SB_6th Ave_AT_Commission ;49.382722;-121.435813;VLY;Fraser Valley Region;Hope
+124022;Kawkawa Lake Rd at 6th Ave (EB);EB_Kawkawa Lake Rd_FS_6th Ave;49.377458;-121.430428;VLY;Fraser Valley Region;Hope
+124023;Kawkawa Lake Rd at Swallow Pl (EB);EB_Kawkawa Lake Rd_NS_Swallow Pl;49.381575;-121.420638;VLY;Fraser Valley Region;Hope
+124024;Kawkawa Lake Rd at Crystal River Crt (WB);WB_Kawkawa Lake Rd_AT_Crystal River Crt;49.38179;-121.421463;VLY;Fraser Valley Region;Hope
+124025;7 Ave at Fraser Canyon Hospital (SB);SB_7 Ave_at_Fraser Canyon Hospital;49.376578;-121.426771;VLY;Fraser Valley Region;Hope
+124026;Old Princeton Hwy at 5th Ave (WB);WB_Old Princeton Hwy_NS_5th Ave;49.375551;-121.431828;VLY;Fraser Valley Region;Hope
+124029;3rd Ave at Commission (NB);NB_3rd Ave_NS_Commission ;49.380176;-121.442231;VLY;Fraser Valley Region;Hope
+124055;Teskey Way at Russell Rd (EB);EB_Teskey Way_NS_Russell Rd;49.10382;-121.929963;VLY;Fraser Valley Region;Chilliwack
+124056;Teskey Way at Jinkerson Rd (EB);EB_Teskey Way_NS_Jinkerson Rd;49.104744;-121.92735;VLY;Fraser Valley Region;Chilliwack
+124057;Jinkerson at Thom Creek Dr (EB);EB_Jinkerson_FS_Thom Creek Dr;49.107335;-121.922951;VLY;Fraser Valley Region;Chilliwack
+124058;Jinkerson at Skyline Dr (EB);EB_Jinkerson_NS_Skyline Dr;49.108483;-121.920124;VLY;Fraser Valley Region;Chilliwack
+124059;Sylvan Dr at Vista Place (SB);SB_Sylvan Dr_FS_Vista Place;49.107726;-121.916667;VLY;Fraser Valley Region;Chilliwack
+124060;Sylvan Dr at Thom Creek Dr (SB);SB_Sylvan Dr_FS_Thom Creek Dr;49.104929;-121.919487;VLY;Fraser Valley Region;Chilliwack
+124061;Sylvan Dr at 46960 Blk (SB);SB_Sylvan Dr_AT_46960 Blk;49.102465;-121.924652;VLY;Fraser Valley Region;Chilliwack
+124062;Sylvan Dr at 46765 Blk (SB);SB_Sylvan Dr_AT_46765 Blk;49.101277;-121.929971;VLY;Fraser Valley Region;Chilliwack
+124054;Teskey Way at Promontory Rd (EB);EB_Teskey Way_FS_Promontory Rd;49.103767;-121.93404;VLY;Fraser Valley Region;Chilliwack
+124063;Sylvan Dr at Goldspring (WB);WB_Sylvan Dr_at_Goldspring;49.10027;-121.933255;VLY;Fraser Valley Region;Chilliwack
+124064;Chawathil at Lougheed (SB);SB_Chawathil_at_Lougheed;49.369082;-121.551188;VLY;Fraser Valley Region;Chawathil 4
+920000;Chilliwack Transit Centre;Chilliwack Transit Centre;49.145122;-121.999075;VLY;Fraser Valley Region;Chilliwack
+920001;Central Fraser Valley Transit Centre;Central Fraser Valley Transit Centre;49.024537;-122.272358;VLY;Fraser Valley Region;Abbotsford
+120032;Bevan at Gladwin (EB);EB_Bevan Ave_FS_Gladwin Rd;49.041782;-122.314713;VLY;Fraser Valley Region;Abbotsford
+126000;Heath at Vimy (NB);NB_Heath Rd_at_Vimy;49.236728;-121.7601;VLY;Fraser Valley Region;Kent
+126002;Morrow at Logan (WB);WB_Morrow Rd_FS_Logan;49.235794;-121.751403;VLY;Fraser Valley Region;Kent
+126003;Elm at Arbutus (EB);EB_Elm Rd_NS_Arbutus;49.232435;-121.75135;VLY;Fraser Valley Region;Kent
+126004;Elm at 7340 Block (EB);EB_Elm_at_7340 Block;49.231599;-121.754911;VLY;Fraser Valley Region;Kent
+126005;Elm at Pinewood (EB);EB_Elm Rd_FS_Pinewood Ave;49.231454;-121.758784;VLY;Fraser Valley Region;Kent
+126007;Hwy 9 at McDonald (NB);NB_Hwy 9_NS_McDonald;49.23149;-121.767525;VLY;Fraser Valley Region;Kent
+126008;Hwy 9 at Tuyttens (SB);SB_Hwy 9_NS_Tuyttens;49.229765;-121.770243;VLY;Fraser Valley Region;Kent
+120047;Maclure at Livingstone (EB);EB_Maclure_FS_Livingstone;49.054949;-122.368227;VLY;Fraser Valley Region;Abbotsford
+120048;Maclure at Blue Jay (WB);WB_Maclure_NS_Blue Jay;49.055217;-122.369284;VLY;Fraser Valley Region;Abbotsford
+120044;Townline at Ridgeview (NB);NB_Townline_FS_Ridgeview Dr;49.06523;-122.359821;VLY;Fraser Valley Region;Abbotsford
+120041;Blueridge at Thornhill (WB);WB_Blueridge Dr_FS_Thornhill Pl;49.067013;-122.344426;VLY;Fraser Valley Region;Abbotsford
+120042;Upper Maclure at Townline (EB);EB_Upper Maclure_FS_Townline;49.060306;-122.359318;VLY;Fraser Valley Region;Abbotsford
+120043;Abbotsford Rec Centre (EB);EB_Abbotsford Rec Centre;49.048669;-122.262553;VLY;Fraser Valley Region;Abbotsford
+120051;Hwy 7 Frtg Rd at Ruby Creek Rd (EB);EB_Hwy 7 Frtg Rd_NS_Ruby Creek Rd;49.35236;-121.612845;VLY;Fraser Valley Region;Lukseetsissum 9
+120052;Hwy 7 Frtg Rd at Ruby Creek Rd (WB);WB_Hwy 7 Frtg Rd_FS_Ruby Creek Rd;49.352378;-121.612938;VLY;Fraser Valley Region;Lukseetsissum 9
+126006;Elm at Pinewood (WB);WB_Elm Rd_at_Pinewood;49.231543;-121.758472;VLY;Fraser Valley Region;Kent
+124044;Yale Rd at Aitken Rd (EB);EB_Yale Rd_FS_Aitken Rd;49.145016;-122.000045;VLY;Fraser Valley Region;Chilliwack
+124045;Yale Rd at Enterprise Dr (EB);EB_Yale Rd_NS_Enterprise Dr;49.14494;-121.995394;VLY;Fraser Valley Region;Chilliwack
+124046;Yale Rd at 44500 Blk (EB);EB_Yale Rd_AT_44500 Blk;49.144912;-121.991658;VLY;Fraser Valley Region;Chilliwack
+124047;Yale Rd at Atchelitz Rd (EB);EB_Yale RD_FS_Atchelitz Rd;49.14485;-121.988896;VLY;Fraser Valley Region;Chilliwack
+124048;Yale Rd at 44800 Blk (EB);EB_Yale Rd_AT_44800 Blk;49.144737;-121.982495;VLY;Fraser Valley Region;Chilliwack
+124049;Yale Rd at 44900 Blk (EB);EB_Yale Rd_AT_44900 Blk;49.144693;-121.980131;VLY;Fraser Valley Region;Chilliwack
+124050;Young Rd at Airport Rd (NB);NB_Young Rd_FS_Airport Rd;49.154986;-121.951329;VLY;Fraser Valley Region;Chilliwack
+124051;Young at Southlands (NB);NB_Young_NS_Southlands;49.157761;-121.95188;VLY;Fraser Valley Region;Chilliwack
+124052;Young Rd at Chilliwack Central Rd (NB);NB_Young Rd_FS_Chilliwack Central Rd;49.162214;-121.952431;VLY;Fraser Valley Region;Chilliwack
+124053;Young Rd at Cheam (NB);NB_Young Rd_AT_Cheam;49.166878;-121.952529;VLY;Fraser Valley Region;Chilliwack
+124030;Yale Rd at Airport Rd (SB);SB_Yale Rd_NS_Airport Rd;49.15541;-121.961097;VLY;Fraser Valley Region;Chilliwack
+124032;South Sumas at Unsworth (EB);EB_South Sumas_FS_Unsworth ;49.118277;-121.990102;VLY;Fraser Valley Region;Chilliwack
+124033;Keith Wilson Rd at Cantebury Dr (WB);WB_Keith Wilson Rd_NS_Cantebury Dr;49.103892;-121.986209;VLY;Fraser Valley Region;Chilliwack
+124034;Keith Wilson Rd at Lindys Dr (WB);WB_Keith Wilson Rd_NS_Lindys Dr;49.10393;-121.990434;VLY;Fraser Valley Region;Chilliwack
+124035;Monte Vista Dr at Villa Rosa Pl (EB);EB_Monte Vista Dr_FS_Villa Rosa Pl;49.105895;-121.98903;VLY;Fraser Valley Region;Chilliwack
+124036;Monte Vista Dr at Cantebury Dr (EB);EB_Monte Vista Dr_FS_Cantebury Dr;49.105761;-121.986507;VLY;Fraser Valley Region;Chilliwack
+124038;Young Rd at Cheam Ave (SB);SB_Young Rd_FS_Cheam Ave;49.166281;-121.952613;VLY;Fraser Valley Region;Chilliwack
+124039;Young Rd at Rowat Ave (SB);SB_Young Rd_FS_Rowat Ave;49.161453;-121.952521;VLY;Fraser Valley Region;Chilliwack
+124040;Young Rd at Hocking Ave (SB);SB_Young Rd_FS_Hocking Ave;49.157578;-121.951944;VLY;Fraser Valley Region;Chilliwack
+124041;Young Rd at Airport Rd (SB);SB_Young Rd_FS_Airport Rd;49.153348;-121.951493;VLY;Fraser Valley Region;Chilliwack
+124042;Luckakuck Way at Amber Dr (WB);WB_Luckakuck Way_FS_Amber Dr;49.142618;-121.970779;VLY;Fraser Valley Region;Chilliwack
+124043;Luckakuck Way at Lickman Rd (SB);SB_Luckakuck Way_AT_Lickman Rd;49.142691;-122.006343;VLY;Fraser Valley Region;Chilliwack
+120049;Townline at Firhill (SB);SB_townline_FS_Firhill;49.064425;-122.360038;VLY;Fraser Valley Region;Abbotsford
+120045;Upper Maclure at Ponderosa (EB);EB_Upper Maclure_NS_Ponderosa;49.06029;-122.354802;VLY;Fraser Valley Region;Abbotsford
+120050;Egglestone at Machell (WB);WB_Egglestone_NS_Machell;49.158351;-122.317319;VLY;Fraser Valley Region;Mission
+120046;HighStreet Access Rd at Cardinal (WB);WB_HighStreet Access Rd_FS_Cardinal;49.059073;-122.377484;VLY;Fraser Valley Region;Abbotsford
+124017;Yale at Alexander (SB);SB_Yale_NS_Alexander;49.164922;-121.959027;VLY;Fraser Valley Region;Chilliwack
+120000;Carvolth Exchange Bay 13;Carvolth_Exchange_Bay_13;49.160861;-122.660213;VLY;Fraser Valley Region;Langley
+120002;Highstreet Mall Bay A;WB_Bay A_Highstreet Mall;49.059034;-122.380559;VLY;Fraser Valley Region;Abbotsford
+120003;McCallum Park N Ride (WB);WB_McCallum Park N Ride;49.032601;-122.292336;VLY;Fraser Valley Region;Abbotsford
+120004;Lickman Park and Ride (WB);WB_Lickman Park and Ride;49.144987;-122.005287;VLY;Fraser Valley Region;Chilliwack
+120005;Lickman Park and Ride (EB);EB_Lickman Park and Ride;49.144881;-122.004747;VLY;Fraser Valley Region;Chilliwack
+120007;Lougheed Hwy at Haig (WB);WB_Lougheed_NS_Haig;49.13306;-122.321895;VLY;Fraser Valley Region;Mission
+120011;Gladys at Cyril (NB);NB_Gladys_NS_Cyril;49.046958;-122.285577;VLY;Fraser Valley Region;Abbotsford
+120012;Townline NS_Upper Maclure (SB);SB_Townline_NS_Upper Maclure;49.060668;-122.360144;VLY;Fraser Valley Region;Abbotsford
+124000;Vedder at Luckacuck (NB);NB_Vedder_NS_Luckacuck;49.1401;-121.959482;VLY;Fraser Valley Region;Chilliwack
+120013;Highway 11 at Harris (NB);NB_Highway 11_FS_Harris;49.1042;-122.289749;VLY;Fraser Valley Region;Abbotsford
+120014;Highway 11 at Harris (SB);SB_Highway 11_FS_Harris;49.103276;-122.289902;VLY;Fraser Valley Region;Abbotsford
+132000;McDonald at York (EB);EB_McDonald_FS_York;49.230763;-121.762989;VLY;Fraser Valley Region;Kent
+132001;Pioneer at Park (WB);WB_Pioneer_FS_Park;49.238791;-121.761895;VLY;Fraser Valley Region;Kent
+132002;Pioneer at Evergreen (WB);WB_Pioneer_NS_Evergreen;49.239041;-121.765303;VLY;Fraser Valley Region;Kent
+132003;Lougheed at McCaffrey (WB);WB_Lougheed_NS_McCaffrey;49.242514;-121.76965;VLY;Fraser Valley Region;Kent
+132004;Emerald at Hot Springs (WB);WB_Emerald_NS_Hot Springs;49.288206;-121.779558;VLY;Fraser Valley Region;Harrison Hot Springs
+132005;Hot Springs at Miami River Dr (NB);NB_Hot Springs_NS_Miami River Dr;49.299824;-121.785177;VLY;Fraser Valley Region;Harrison Hot Springs
+132006;St Alice at Esplanade (SB);SB_St Alice_FS_Esplanade;49.303604;-121.787955;VLY;Fraser Valley Region;Harrison Hot Springs
+132007;Lillooet at Maple (EB);EB_Lillooet_NS_Maple;49.302441;-121.783989;VLY;Fraser Valley Region;Harrison Hot Springs
+132008;Lillooet at Chehalis (EB);EB_Lillooet_NS_Chehalis;49.302415;-121.78011;VLY;Fraser Valley Region;Harrison Hot Springs
+132009;McCombs at Alder (SB);SB_McCombs_FS_Alder;49.290692;-121.777675;VLY;Fraser Valley Region;Harrison Hot Springs
+132010;Lougheed at McCaffrey (EB);EB_Lougheed_FS_McCaffrey;49.242637;-121.770116;VLY;Fraser Valley Region;Kent
+132011;Pioneer at Evergreen (EB);EB_Pioneer_FS_Evergreen;49.238917;-121.765387;VLY;Fraser Valley Region;Kent
+132012;Pioneer at Park (EB);EB_Pioneer_NS_Park;49.238664;-121.762002;VLY;Fraser Valley Region;Kent
+132013;Heath at Vimy (SB);SB_Heath_NS_Vimy;49.236821;-121.760191;VLY;Fraser Valley Region;Kent
+132014;Morrow 7280 block (EB);EB_7280_block_Morrow;49.235706;-121.758653;VLY;Fraser Valley Region;Kent
+132016;Logan at Morrow (SB);SB_Logan_FS_Morrow;49.23537;-121.750955;VLY;Fraser Valley Region;Kent
+132017;Elm at Arbutus (SB);SB_Elm_FS_Arbutus;49.232853;-121.751087;VLY;Fraser Valley Region;Kent
+132018;Elm 7340 block (WB);WB_7340_block_Elm;49.232248;-121.754332;VLY;Fraser Valley Region;Kent
+132019;Vimy at Elm (NB);NB_Vimy_NS_Elm;49.231444;-121.760791;VLY;Fraser Valley Region;Kent
+132020;McDonald at York (WB);WB_McDonald_FS_York;49.231147;-121.763918;VLY;Fraser Valley Region;Kent
+132021;McDonald at Hwy 9 (WB);WB_McDonald_NS_Hwy 9;49.232044;-121.766445;VLY;Fraser Valley Region;Kent
+132023;McCombs at Chestnut (SB);SB_McCombs_NS_Chestnut;49.295864;-121.77766;VLY;Fraser Valley Region;Harrison Hot Springs
+132024;Eagle at Bear (SB);SB_Eagle_FS_Bear;49.301684;-121.778249;VLY;Fraser Valley Region;Harrison Hot Springs
+132026;Yale Rd E at Hwy 9 (WB);WB_Yale Rd_E_FS_Hwy 9 Hwy;49.184994;-121.766527;VLY;Fraser Valley Region;Fraser Valley D
+132027;Yale Rd E at Hwy 9 (EB);EB_Yale Rd_E_NS_Hwy 9;49.184774;-121.767233;VLY;Fraser Valley Region;Fraser Valley D
+120031;Chances Casino;NB_Horne_NS Glassgow;49.132472;-122.300164;VLY;Fraser Valley Region;Mission
+920002;Abbotsford Transit Centre (WB);WB_Abbotsford Transit Centre;49.057531;-122.28462;VLY;Fraser Valley Region;Abbotsford
+124086;Chilliwack Mall at Luckakuck Way (NB);NB_Chilliwack Mall_NS_Luckakuck Way;49.140568;-121.964295;VLY;Fraser Valley Region;Chilliwack
+124085;Yale at Charles (EB);EB_Yale_NS_Charles;49.17432;-121.943374;VLY;Fraser Valley Region;Chilliwack
+126010;Hot Springs Rd at Emerald (NB);NB_Hot Springs Rd_FS_Emerald;49.288917;-121.780056;VLY;Fraser Valley Region;Harrison Hot Springs
+126011;Hot Springs Rd at Balsam (NB);NB_Hot Springs Rd_NS_Balsam;49.296154;-121.784071;VLY;Fraser Valley Region;Harrison Hot Springs
+126012;Chowat Rd at 2865 Blk (EB);EB_Chowat Rd_AT_2865 Blk;49.254627;-121.729303;VLY;Fraser Valley Region;Seabird Island
+124066;Flood Hope Rd at Marie (WB);WB_Flood Hope Rd_FS_Marie;49.360615;-121.465247;VLY;Fraser Valley Region;Hope
+124067;Eagle Landing Pkwy at 8236 Blk (SB);SB_Eagle Landing Pkwy_AT_8236 Blk;49.15057;-121.976868;VLY;Fraser Valley Region;Squiaala
+124068;Sunnyside Blvd at Balsam (NB);NB_Sunnyside Blvd_FS_Balsam;49.072125;-121.976276;VLY;Fraser Valley Region;Fraser Valley H
+124069;Portage at Linwood (EB);EB_Portage_FS_Linwood;49.178023;-121.941569;VLY;Fraser Valley Region;Chilliwack
+124070;Teskey at Stonehaven (EB);EB_Teskey_FS_Stonehaven;49.103754;-121.936852;VLY;Fraser Valley Region;Chilliwack
+124071;Teskey at Armstrong Pl (NB);NB_Teskey_NS_Armstrong Pl;49.102027;-121.939703;VLY;Fraser Valley Region;Chilliwack
+124072;Petawawa at Vedder (EB);EB_Petawawa_NS_Vedder;49.099336;-121.962974;VLY;Fraser Valley Region;Chilliwack
+124073;Keith Wilson at Kathleen Dr (WB);WB_Keith Wilson_FS_Kathleen Dr;49.103934;-121.975169;VLY;Fraser Valley Region;Chilliwack
+124074;Hodgins at School (WB);WB_Hodgins_FS_School;49.166681;-121.96053;VLY;Fraser Valley Region;Chilliwack
+124075;Vedder Mtn at Giesbrecht (WB);WB_Vedder Mtn_NS_Giesbrecht ;49.089882;-122.006193;VLY;Fraser Valley Region;Chilliwack
+124076;Yarrow Central Rd at Cypress (WB);WB_Yarrow Central Rd_NS_Cypress;49.08216;-122.062658;VLY;Fraser Valley Region;Chilliwack
+124077;Yarrow Central Rd at Wilson (WB);WB_Yarrow Central Rd_FS_Wilson;49.082142;-122.046314;VLY;Fraser Valley Region;Chilliwack
+124078;Boundary at Berry (NB);NB_Boundary_NS_Berry;49.091973;-122.080374;VLY;Fraser Valley Region;Chilliwack
+124079;Promontory at 45863 Blk (WB);WB_Promontory_AT_45863 Blk;49.11136;-121.955828;VLY;Fraser Valley Region;Tzeachten 13
+124080;Britton at Vedder (WB);WB_Britton_NS_Vedder;49.131255;-121.95964;VLY;Fraser Valley Region;Chilliwack
+124082;1st Ave at Young (WB);WB_1st Ave_FS_Young;49.168994;-121.95338;VLY;Fraser Valley Region;Chilliwack
+124081;Cottonwood Centre (WB);WB_Cottonwood Centre;49.142181;-121.963943;VLY;Fraser Valley Region;Chilliwack
+124083;Downtown Exch Bay E (NB);NB_Downtown Exchange_Bay E;49.168853;-121.956308;VLY;Fraser Valley Region;Chilliwack
+120053;Lougheed Skytrain Station Bay 1 (EB);EB_Lougheed Skytrain Station_Bay 1;49.247883;-122.895398;VLY;Fraser Valley Region;Burnaby
+120054;Carvolth Exchange Bay 1 (SB);SB_Carvolth Exchange Bay 1;49.160691;-122.660089;VLY;Fraser Valley Region;Langley
+908003;Creamery Rd Transit Centre (EB);EB_Creamery Rd_Transit Centre;49.151475;-121.951974;VLY;Fraser Valley Region;Chilliwack
+124084;Watson at Glenmore (EB);EB_Watson_NS_Glenmore;49.111172;-121.965901;VLY;Fraser Valley Region;Chilliwack
+120061;Lower Sumas Mtn at Junction Creek (NB);NB_Lower Sumas Mtn_AT_Junction Creek;49.048869;-122.223508;VLY;Fraser Valley Region;Abbotsford
+126013;Morrow at Rosevale (WB);WB_Morrow_FS_Rosevale;49.23581;-121.758358;VLY;Fraser Valley Region;Kent
+120072;McDougall at Hillside (EB);EB_McDougall_NS_Hillside;49.045571;-122.292281;VLY;Fraser Valley Region;Abbotsford
+120073;McDougall at Montrose (WB);WB_McDougall_NS_Montrose;49.045664;-122.29007;VLY;Fraser Valley Region;Abbotsford
+120075;Marshall at Salton (WB);WB_Marshall_NS_Salton;49.038851;-122.287168;VLY;Fraser Valley Region;Abbotsford
+120076;Gatineau Pl at Lougheed Station (EB);EB_Gatineau Pl_AT_Lougheed Station;49.248009;-122.894927;VLY;Fraser Valley Region;Burnaby
+124088;Vedder at Watson (SB);SB_Vedder_FS_Watson;49.110135;-121.958302;VLY;Fraser Valley Region;Chilliwack
+124089;Vedder at Promontory North Side (NB);NB_Vedder_FS_Promontory North Side;49.111994;-121.95769;VLY;Fraser Valley Region;Tzeachten 13
+124090;Promontory at Vedder (WB);WB_Promintory_NS_Vedder;49.111338;-121.956755;VLY;Fraser Valley Region;Tzeachten 13
+124091;Promontory at Vedder (EB);EB_Promontory_FS_Vedder;49.111251;-121.957168;VLY;Fraser Valley Region;Chilliwack
+120055;11 Ave at Stave Lake St (WB);WB_11 Ave_FS_Stave Lake St;49.144735;-122.292766;VLY;Fraser Valley Region;Mission
+120056;Scott at Wren (EB);EB_Scott_FS_Wren;49.135111;-122.337999;VLY;Fraser Valley Region;Mission
+120057;Taulbut at 10 Ave (SB);SB_Taulbut_NS_10 Ave;49.142819;-122.305985;VLY;Fraser Valley Region;Mission
+120058;Best Ave at Forbes (WB);WB_Best Ave_NS_Forbes;49.151052;-122.293599;VLY;Fraser Valley Region;Mission
+120059;Dewdney Trunk at Lougheed Hwy (NB);NB_Dewdney Trunk_FS_Lougheed Hwy;49.150129;-122.255123;VLY;Fraser Valley Region;Mission
+120062;Junction Mall TP (WB);WB_Junction Mall_TP;49.130879;-122.319174;VLY;Fraser Valley Region;Mission
+124087;First Ave at Sunnyside Blvd (EB);EB_First Ave_FS_Sunnyside Blvd;49.067757;-121.976162;VLY;Fraser Valley Region;Fraser Valley H
+120065;FreshCo at Mission Hills Mall (EB);EB_FreshCo_AT_Mission Hills Mall;49.132211;-122.323512;VLY;Fraser Valley Region;Mission
+120066;Mission Superstore (EB);EB_Mission Superstore;49.131498;-122.334194;VLY;Fraser Valley Region;Mission
+120067;Mission Walmart (EB);EB_Mission Walmart;49.13197;-122.340807;VLY;Fraser Valley Region;Mission
+120068;Marshall at Meadows (EB);EB_Marshall_NS_Meadows;49.038229;-122.333389;VLY;Fraser Valley Region;Abbotsford
+120069;Marshall at Majestic (WB);WB_Marshall_FS_Majestic;49.038255;-122.326604;VLY;Fraser Valley Region;Abbotsford
+120070;Marshall at Griffiths (EB);EB_Marshall_FS_Griffiths;49.038224;-122.264879;VLY;Fraser Valley Region;Abbotsford
+120071;Hearthstone at Latimer (EB);EB_Hearthstone_NS_Latimer;49.074243;-122.261619;VLY;Fraser Valley Region;Abbotsford
+124092;Yale Rd at 44955 Blk (WB);WB_Yale Rd_AT_44955 Blk;49.144773;-121.980502;VLY;Fraser Valley Region;Chilliwack
+124065;Yale at Woodbine (EB);EB_Yale_FS_Woodbine;49.176678;-121.937289;VLY;Fraser Valley Region;Chilliwack
+126009;Hot Springs Rd at Dogwood (NB);NB_Hot Springs Rd_FS_Dogwood;49.282573;-121.782198;VLY;Fraser Valley Region;Harrison Hot Springs
+120063;Mission Exch Bay B (EB);EB_Mission Exch_Bay B;49.135299;-122.302995;VLY;Fraser Valley Region;Mission
+120064;Mission Exch Bay A (WB);WB_Mission Exch_Bay A;49.135337;-122.30287;VLY;Fraser Valley Region;Mission
+120074;Laburnum at 34897 Blk (WB);WB_Luburnum_AT_34897 Blk;49.06455;-122.257458;VLY;Fraser Valley Region;Abbotsford

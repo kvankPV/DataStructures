@@ -1,0 +1,604 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+800004;Lansdowne Exchange;Lansdowne Exchange;50.676807;-120.326991;KAM;Kamloops Transit System;Kamloops
+800007;North Shore Exchange;North Shore Exchange;50.697916;-120.359841;KAM;Kamloops Transit System;Kamloops
+800014;TRU Exchange;TRU Exchange;50.671095;-120.368818;KAM;Kamloops Transit System;Kamloops
+151000;1800 block Versatile (EB);EB_1800 Block ;50.65876;-120.396078;KAM;Kamloops Transit System;Kamloops
+151001;1700 blcok Versatile (EB);EB_1700_block_Versatile;50.656057;-120.3901;KAM;Kamloops Transit System;Kamloops
+151002;1500 block Versatile (EB);Eastbound 1500 block Versatile;50.654734;-120.385148;KAM;Kamloops Transit System;Kamloops
+151003;Victoria at 8th (WB);WB_Victoria_NS_8th;50.675882;-120.321295;KAM;Kamloops Transit System;Kamloops
+104580;Springhill 1470 block (WB);WB_1470_block_Springhill;50.660981;-120.347472;KAM;Kamloops Transit System;Kamloops
+104581;Springhill 1560 block (SB);SB_1560_block_Springhill;50.661025;-120.351903;KAM;Kamloops Transit System;Kamloops
+104582;Springhill at Springfield (SB);SB_Springhill_NS_Springfield;50.65932;-120.355717;KAM;Kamloops Transit System;Kamloops
+104583;Springhill at Lasage (SB);SB_Springhill_FS_Lasage;50.655215;-120.357607;KAM;Kamloops Transit System;Kamloops
+104584;Springhill at Gleneagles (WB);WB_Springhill_NS_Gleneagles;50.653699;-120.359607;KAM;Kamloops Transit System;Kamloops
+104585;Springhill at Gleneagles (SB);SB_Springhill_NS_Gleneagles;50.653149;-120.361952;KAM;Kamloops Transit System;Kamloops
+104586;Gleneagles at Glen Gary (SB);SB_Gleneagles_FS_Glen Gary;50.651025;-120.358435;KAM;Kamloops Transit System;Kamloops
+104587;Gleneagles at Wentworth (EB);EB_Gleneagles_FS_Wentworth;50.65027;-120.355951;KAM;Kamloops Transit System;Kamloops
+104588;Gleneagles at Skagit (NB);NB_Gleneagles_FS_Skagit;50.652533;-120.353534;KAM;Kamloops Transit System;Kamloops
+104589;Gleneagles at Monarch (NB);NB_Gleneagles_FS_Monarch;50.653803;-120.351132;KAM;Kamloops Transit System;Kamloops
+104590;Gleneagles 400 block (SB);SB_400_block_Gleneagles;50.654032;-120.347474;KAM;Kamloops Transit System;Kamloops
+104591;Whistler at Gleneagles (SB);SB_Whistler_FS_Gleneagles;50.651773;-120.344239;KAM;Kamloops Transit System;Kamloops
+104592;Whistler Dr at Whistler Pl (EB);EB_Whistler Dr_NS_Whistler Pl;50.650816;-120.342449;KAM;Kamloops Transit System;Kamloops
+104593;Robson at Hollyburn (WB);WB_Robson_NS_Hollyburn;50.649811;-120.342111;KAM;Kamloops Transit System;Kamloops
+104594;Robson 300 block (WB);WB_300_block_Robson;50.650448;-120.344721;KAM;Kamloops Transit System;Kamloops
+104595;Robson at Breakenridge (WB);WB_Robson_FS_Breakenridge;50.649848;-120.347778;KAM;Kamloops Transit System;Kamloops
+104596;Robson at Gladstone (WB);WB_Robson_FS_Gladstone;50.649443;-120.353955;KAM;Kamloops Transit System;Kamloops
+104597;Robson at Gladstone (SB);SB_Robson_NS_Gladstone;50.647665;-120.353647;KAM;Kamloops Transit System;Kamloops
+104598;Summit at Monteith (EB);EB_Summit_NS_Monteith;50.646412;-120.351439;KAM;Kamloops Transit System;Kamloops
+104599;Summit at Hollyburn (EB);EB_Summit_NS_Hollyburn;50.646856;-120.34769;KAM;Kamloops Transit System;Kamloops
+104600;Summit at Tremerton (EB);EB_Summit_FS_Tremerton;50.647745;-120.342416;KAM;Kamloops Transit System;Kamloops
+104601;Summit at Robson (EB);EB_Summit_FS_Robson;50.648231;-120.339712;KAM;Kamloops Transit System;Kamloops
+104602;Summit at Gleneagles (WB);WB_Summit_FS_Gleneagles;50.652502;-120.341651;KAM;Kamloops Transit System;Kamloops
+104603;Summit at Waddington (NB);NB_Summit_FS_Waddington;50.654901;-120.344374;KAM;Kamloops Transit System;Kamloops
+104605;Summit at Freshfield (NB);NB_Summit_FS_Freshfield;50.656243;-120.340899;KAM;Kamloops Transit System;Kamloops
+104606;Summit at Gordonhorn (WB);WB_Summit_NS_Gordonhorn;50.659263;-120.339764;KAM;Kamloops Transit System;Kamloops
+104608;Summit at Springhill (WB);WB_Summit_FS_Springhill;50.660801;-120.345443;KAM;Kamloops Transit System;Kamloops
+104609;McGill at Camosun (WB);WB_McGill_NS_Camosun;50.667598;-120.367171;KAM;Kamloops Transit System;Kamloops
+104610;TRU Exchange Bay C;TRU_Exchange_Bay_C;50.67114;-120.368204;KAM;Kamloops Transit System;Kamloops
+104611;McGill Rd at McGill Pl (NB);NB_McGill Rd_FS_McGill Pl;50.66945;-120.373034;KAM;Kamloops Transit System;Kamloops
+104612;McGill at McMaster (NB);NB_McGill_FS_McMaster;50.671754;-120.374008;KAM;Kamloops Transit System;Kamloops
+104613;McGill at Concordia (NB);NB_McGill_FS_Concordia;50.673827;-120.375888;KAM;Kamloops Transit System;Kamloops
+104614;North Shore Exchange Bay F;North_Shore_Exchange_Bay_F;50.697869;-120.360408;KAM;Kamloops Transit System;Kamloops
+104615;McGill at Concordia (SB);SB_McGill_FS_Concordia;50.673363;-120.375663;KAM;Kamloops Transit System;Kamloops
+104617;McGill Rd at McGill Pl (SB);SB_McGill Rd_FS_McGill Pl;50.668948;-120.373112;KAM;Kamloops Transit System;Kamloops
+104618;North Shore Exchange Bay A ;North_Shore_Exchange_Bay_A_;50.69778;-120.360159;KAM;Kamloops Transit System;Kamloops
+104619;Halston 710 block (EB);EB_710_block_Halston;50.710685;-120.359653;KAM;Kamloops Transit System;Kamloops
+104620;Halston Connector at Salish (SB);SB_Halston Connector_FS_Salish;50.711772;-120.335516;KAM;Kamloops Transit System;Kamloops 1
+104624;Old Highway 5 6790 block (NB);NB_6790_block_Old Highway 5;50.851022;-120.266824;KAM;Kamloops Transit System;Kamloops
+104625;Old Highway 5 at Creek (NB);NB_Old Highway 5_FS_Creek;50.860331;-120.265356;KAM;Kamloops Transit System;Kamloops
+104626;Puett Ranch at Old Highway 5 (WB);WB_Puett Ranch_FS_Old Highway 5;50.797363;-120.312439;KAM;Kamloops Transit System;Kamloops
+104627;Cammeray at Puett Ranch (NB);NB_Cammeray_FS_Puett Ranch;50.797771;-120.314852;KAM;Kamloops Transit System;Kamloops
+104628;Cammeray at Strawberry (NB);NB_Cammeray_FS_Strawberry;50.799786;-120.31467;KAM;Kamloops Transit System;Kamloops
+104629;Cammeray at Chilco (NB);NB_Cammeray_FS_Chilco;50.803154;-120.312396;KAM;Kamloops Transit System;Kamloops
+104630;Reighmount at Pinantan (WB);WB_Reighmount_NS_Pinantan;50.804129;-120.312676;KAM;Kamloops Transit System;Kamloops
+104631;Reighmount at Kathleen (WB);WB_Reighmount_NS_Kathleen;50.804958;-120.317971;KAM;Kamloops Transit System;Kamloops
+104632;Aspen Park at Spurraway (SB);SB_Aspen Park_FS_Spurraway;50.803978;-120.321101;KAM;Kamloops Transit System;Kamloops
+104633;Aspen Park at Helmcken (SB);SB_Aspen Park_NS_Helmcken;50.801138;-120.323068;KAM;Kamloops Transit System;Kamloops
+104634;Spurraway at Helmcken (SB);SB_Spurraway_FS_Helmcken;50.80058;-120.32043;KAM;Kamloops Transit System;Kamloops
+104635;Spurraway at Puett Ranch (SB);SB_Spurraway_NS_Puett Ranch;50.797579;-120.320376;KAM;Kamloops Transit System;Kamloops
+104636;Furiak at Puett Ranch (SB);SB_Furiak_FS_Puett Ranch;50.796959;-120.322936;KAM;Kamloops Transit System;Kamloops
+104637;Mattoch-McKeague at Furiak (EB);EB_Mattoch-McKeague_FS_Furiak;50.793184;-120.322111;KAM;Kamloops Transit System;Kamloops
+104638;Old Highway 5 at Mattoch-McKeague (SB);SB_Old Highway 5_FS_Mattoch-McKeague;50.791106;-120.315875;KAM;Kamloops Transit System;Kamloops
+104639;block Old Highway 5 at Devick (SB);SB_block_Old Highway 5_NS_Devick;50.78822;-120.317615;KAM;Kamloops Transit System;Kamloops
+104640;Halston Connector at Josep (NB);NB_Halston Connector_FS_Josep;50.711763;-120.335045;KAM;Kamloops Transit System;Kamloops 1
+104641;Southview at Hillcrest (WB);WB_Southview_FS_Hillcrest;50.712165;-120.370782;KAM;Kamloops Transit System;Kamloops
+104642;Linthorpe at Southview (EB);EB_Linthorpe_FS_Southview;50.714053;-120.372098;KAM;Kamloops Transit System;Kamloops
+104643;Linthorpe at Hillcrest (EB);EB_Linthorpe_NS_Hillcrest;50.714073;-120.370536;KAM;Kamloops Transit System;Kamloops
+104644;Batchelor at Norview (NB);NB_Batchelor_NS_Norview;50.717346;-120.369432;KAM;Kamloops Transit System;Kamloops
+104645;Grasslands at Quail (NB);NB_Grasslands_NS_Quail;50.721538;-120.370431;KAM;Kamloops Transit System;Kamloops
+104646;Quail at Quails Roost (EB);EB_Quail_FS_Quails Roost;50.719962;-120.36546;KAM;Kamloops Transit System;Kamloops
+104647;Quail Dr at Quail Crt (NB);NB_Quail Dr_NS_Quail Crt;50.721348;-120.364295;KAM;Kamloops Transit System;Kamloops
+104648;Raven at Grasslands (WB);WB_Raven_NS_Grasslands;50.722605;-120.367831;KAM;Kamloops Transit System;Kamloops
+104649;Batchelor at Grasslands (SB);SB_Batchelor_FS_Grasslands;50.720344;-120.369904;KAM;Kamloops Transit System;Kamloops
+104650;Norview Rd at Norview Pl (EB);EB_Norview Rd_FS_Norview Pl;50.718492;-120.363824;KAM;Kamloops Transit System;Kamloops
+104651;North River at Norview (SB);SB_North River_FS_Norview;50.718487;-120.361705;KAM;Kamloops Transit System;Kamloops
+104652;North River at Leighton (SB);SB_North River_FS_Leighton;50.716211;-120.366599;KAM;Kamloops Transit System;Kamloops
+104653;Batchelor at North River (SB);SB_Batchelor_FS_North River;50.714218;-120.366443;KAM;Kamloops Transit System;Kamloops
+104654;Lansdowne Exchange Bay E;Lansdowne_Exchange_Bay_E;50.676764;-120.325783;KAM;Kamloops Transit System;Kamloops
+104655;Seymour at 6th Ave (EB);EB_Seymour_FS_6th Ave;50.67482;-120.326669;KAM;Kamloops Transit System;Kamloops
+104656;Seymour at 8th Ave (EB);EB_Seymour_NS_8th Ave;50.674776;-120.321773;KAM;Kamloops Transit System;Kamloops
+104657;Victoria at 10th Ave (EB);EB_Victoria_FS_10th Ave;50.673931;-120.315647;KAM;Kamloops Transit System;Kamloops
+104658;Battle at 12th Ave (EB);EB_Battle_FS_12th Ave;50.673071;-120.311349;KAM;Kamloops Transit System;Kamloops
+104659;Battle at Columbia (EB);EB_Battle_NS_Columbia;50.673083;-120.306918;KAM;Kamloops Transit System;Kamloops
+104660;Valleyview at Rose Hill (EB);EB_Valleyview_NS_Rose Hill;50.672295;-120.294609;KAM;Kamloops Transit System;Kamloops
+104661;Valleyview at Comazzetto (NB);NB_Valleyview_NS_Comazzetto;50.674465;-120.290614;KAM;Kamloops Transit System;Kamloops
+104662;Valleyview at Knollwood (EB);EB_Valleyview_FS_Knollwood;50.675169;-120.288112;KAM;Kamloops Transit System;Kamloops
+104663;Valleyview at Orchard (EB);EB_Valleyview_FS_Orchard;50.67574;-120.283413;KAM;Kamloops Transit System;Kamloops
+104664;Valleyview at Cardinal (EB);EB_Valleyview_FS_Cardinal;50.675892;-120.276755;KAM;Kamloops Transit System;Kamloops
+104665;Oriole at Glenwood (NB);NB_Oriole_FS_Glenwood;50.677399;-120.272252;KAM;Kamloops Transit System;Kamloops
+104666;Falcon at Oriole (EB);EB_Falcon_FS_Oriole;50.678823;-120.271531;KAM;Kamloops Transit System;Kamloops
+104667;E Trans-Canada Hwy Frtg at Industrial (EB);EB_E Trans-Canada Hwy Frtg_FS_Industrial;50.680079;-120.267011;KAM;Kamloops Transit System;Kamloops
+104668;Flamingo at Highland (EB);EB_Flamingo_NS_Highland;50.678731;-120.261829;KAM;Kamloops Transit System;Kamloops
+104669;Highland at Crescent (SB);SB_Highland_FS_Crescent;50.677372;-120.261988;KAM;Kamloops Transit System;Kamloops
+104670;Highland at Valleyview (SB);Southbound Highland_FS_Valleyview;50.676246;-120.262425;KAM;Kamloops Transit System;Kamloops
+104671;QuAppelle at Stikine (WB);WB_QuAppelle_NS_Stikine;50.66118;-120.262811;KAM;Kamloops Transit System;Kamloops
+104672;Coldwater at Skeena (EB);EB_Coldwater_NS_Skeena;50.660119;-120.265164;KAM;Kamloops Transit System;Kamloops
+104673;Skeena 2100 block (EB);EB_2100_block_Skeena;50.660157;-120.261569;KAM;Kamloops Transit System;Kamloops
+104674;Skeena 2210 block (EB);EB_2210_block_Skeena;50.659919;-120.257921;KAM;Kamloops Transit System;Kamloops
+104675;Finlay at Omineca (NB);NB_Finlay_FS_Omineca;50.661011;-120.254424;KAM;Kamloops Transit System;Kamloops
+104676;QuAppelle at Finlay (EB);EB_QuAppelle_NS_Finlay;50.661949;-120.253898;KAM;Kamloops Transit System;Kamloops
+104677;QuAppelle at Abitibi (EB);EB_QuAppelle_FS_Abitibi;50.661669;-120.249083;KAM;Kamloops Transit System;Kamloops
+104678;QuAppelle at Nechako (SB);SB_QuAppelle_FS_Nechako;50.660581;-120.245932;KAM;Kamloops Transit System;Kamloops
+104679;QuAppelle at Adams (EB);EB_QuAppelle_NS_Adams;50.659373;-120.243221;KAM;Kamloops Transit System;Kamloops
+104680;QuAppelle at Capilano (EB);EB_QuAppelle_FS_Capilano;50.658396;-120.237312;KAM;Kamloops Transit System;Kamloops
+104681;Churchill at Squamish (NB);NB_Churchill_FS_Squamish;50.658864;-120.234632;KAM;Kamloops Transit System;Kamloops
+104682;Capilano at QuAppelle (WB);WB_Capilano_NS_QuAppelle;50.659516;-120.237893;KAM;Kamloops Transit System;Kamloops
+104683;QuAppelle at Capilano (WB);WB_QuAppelle_FS_Capilano;50.658799;-120.23905;KAM;Kamloops Transit System;Kamloops
+104684;QuAppelle at Adams (WB);WB_QuAppelle_FS_Adams;50.659485;-120.243146;KAM;Kamloops Transit System;Kamloops
+104685;QuAppelle at Nechako (NB);NB_QuAppelle_NS_Nechako;50.660643;-120.245697;KAM;Kamloops Transit System;Kamloops
+104686;QuAppelle at Bella Coola (WB);WB_QuAppelle_FS_Bella Coola;50.661798;-120.24845;KAM;Kamloops Transit System;Kamloops
+104687;QuAppelle at Finlay (WB);WB_QuAppelle_NS_Finlay;50.662178;-120.254295;KAM;Kamloops Transit System;Kamloops
+104688;QuAppelle 2200 block (SB);SB_2200_block_QuAppelle;50.661436;-120.257636;KAM;Kamloops Transit System;Kamloops
+104689;QuAppelle at Highland (WB);WB_QuAppelle_NS_Highland;50.661095;-120.260901;KAM;Kamloops Transit System;Kamloops
+104691;Highland at Valleyview (NB);NB_Highland_FS_Valleyview;50.67661;-120.26195;KAM;Kamloops Transit System;Kamloops
+104692;Highland at Crescent (NB);NB_Highland_FS_Crescent;50.677908;-120.261375;KAM;Kamloops Transit System;Kamloops
+104693;Flamingo at Highland (WB);WB_Flamingo_FS_Highland;50.678903;-120.262105;KAM;Kamloops Transit System;Kamloops
+104694;E Trans-Canada Hwy Frtg at Industrial (WB);WB_E Trans-Canada Hwy Frtg_NS_Industrial;50.680153;-120.266677;KAM;Kamloops Transit System;Kamloops
+104695;Falcon at Oriole (WB);WB_Falcon_NS_Oriole;50.678931;-120.271394;KAM;Kamloops Transit System;Kamloops
+104696;Oriole at Glenwood (SB);SB_Oriole_FS_Glenwood;50.676792;-120.272407;KAM;Kamloops Transit System;Kamloops
+104697;Valleyview 1970 block (WB);WB_1970_block_Valleyview;50.675854;-120.274752;KAM;Kamloops Transit System;Kamloops
+104698;Valleyview at Knollwood (WB);WB_Valleyview_NS_Knollwood;50.675725;-120.284401;KAM;Kamloops Transit System;Kamloops
+104699;Valleyview at Knollwood (WB);WB_Valleyview_FS_Knollwood;50.675187;-120.288888;KAM;Kamloops Transit System;Kamloops
+104700;Valleyview at Strom (SB);SB_Valleyview_FS_Strom;50.674254;-120.29106;KAM;Kamloops Transit System;Kamloops
+104701;Valleyview at E Trans-Canada Hwy Frtg (WB);WB_Valleyview_FS_E Trans-Canada Hwy Frtg;50.672505;-120.29613;KAM;Kamloops Transit System;Kamloops
+104200;Lansdowne Exchange Bay I;Lansdowne_Exchange_Bay_I;50.676765;-120.326895;KAM;Kamloops Transit System;Kamloops
+104201;Lansdowne at 4th Ave (WB);WB_Lansdowne_FS_4th Ave;50.676712;-120.332905;KAM;Kamloops Transit System;Kamloops
+104202;Lansdowne at 2nd Ave (WB);WB_Lansdowne_FS_2nd Ave;50.67673;-120.337401;KAM;Kamloops Transit System;Kamloops
+104204;Tranquille at Don (WB);WB_Tranquille_NS_Don;50.684881;-120.35135;KAM;Kamloops Transit System;Kamloops
+104702;Columbia at Nicola (WB);WB_Columbia_NS_Nicola;50.672186;-120.307741;KAM;Kamloops Transit System;Kamloops
+104703;Columbia at 10th Ave (WB);WB_Columbia_FS_10th Ave;50.67143;-120.316978;KAM;Kamloops Transit System;Kamloops
+104704;Columbia at 8th Ave (WB);WB_Columbia_FS_8th Ave;50.671512;-120.321779;KAM;Kamloops Transit System;Kamloops
+104706;6th Ave at St Paul (NB);NB_6th Ave_FS_St Paul;50.674272;-120.327071;KAM;Kamloops Transit System;Kamloops
+104707;Valleyview at Highland (EB);EB_Valleyview_FS_Highland;50.676149;-120.26135;KAM;Kamloops Transit System;Kamloops
+104708;Valleyview at Miller (EB);EB_Valleyview_FS_Miller;50.675205;-120.256512;KAM;Kamloops Transit System;Kamloops
+104709;Valleyview at River (EB);EB_Valleyview_FS_River;50.674187;-120.251842;KAM;Kamloops Transit System;Kamloops
+104710;Valleyview at MacAdam (EB);EB_Valleyview_FS_MacAdam;50.67324;-120.245433;KAM;Kamloops Transit System;Kamloops
+104711;Valleyview at McKay (EB);EB_Valleyview_FS_McKay;50.672881;-120.241675;KAM;Kamloops Transit System;Kamloops
+104714;Todd at Crawford (SB);SB_Todd_NS_Crawford;50.667571;-120.187776;KAM;Kamloops Transit System;Kamloops
+104715;Todd at Klahanie (SB);SB_Todd_NS_Klahanie;50.657119;-120.184361;KAM;Kamloops Transit System;Kamloops
+104716;Todd at Lamar (SB);SB_Todd_NS_Lamar;50.654688;-120.18178;KAM;Kamloops Transit System;Kamloops
+104717;Todd at Sunrise (SB);SB_Todd_NS_Sunrise;50.651174;-120.179662;KAM;Kamloops Transit System;Kamloops
+104718;Lamar at Todd (EB);EB_Lamar_FS_Todd;50.649586;-120.176567;KAM;Kamloops Transit System;Kamloops
+104719;Lamar at Norland (NB);NB_Lamar_FS_Norland;50.64954;-120.174127;KAM;Kamloops Transit System;Kamloops
+104720;Clearview at Wildwood (NB);NB_Clearview_NS_Wildwood;50.652459;-120.174688;KAM;Kamloops Transit System;Kamloops
+104721;Clearview at Belair (EB);EB_Clearview_FS_Belair;50.653014;-120.169634;KAM;Kamloops Transit System;Kamloops
+104722;Clearview at Foxwood (EB);EB_Clearview_NS_Foxwood;50.651825;-120.164775;KAM;Kamloops Transit System;Kamloops
+104723;Clearview at Todd (EB);EB_Clearview_NS_Todd;50.650745;-120.162724;KAM;Kamloops Transit System;Kamloops
+104724;Todd at Belair (WB);WB_Todd_FS_Belair;50.649177;-120.164027;KAM;Kamloops Transit System;Kamloops
+104725;Todd at Pringle (SB);SB_Todd_FS_Pringle;50.648282;-120.166425;KAM;Kamloops Transit System;Kamloops
+104726;Todd at Pratt (WB);WB_Todd_FS_Pratt;50.645616;-120.169845;KAM;Kamloops Transit System;Kamloops
+104727;Todd 1450 block (WB);WB_1450_block_Todd;50.647884;-120.17463;KAM;Kamloops Transit System;Kamloops
+104728;Todd at Lamar (NB);NB_Todd_NS_Lamar;50.649459;-120.176808;KAM;Kamloops Transit System;Kamloops
+104729;Todd at Sunrise (WB);WB_Todd_NS_Sunrise;50.650795;-120.179094;KAM;Kamloops Transit System;Kamloops
+104730;Todd at Lamar (NB);NB_Todd_FS_Lamar;50.655113;-120.181937;KAM;Kamloops Transit System;Kamloops
+104731;Todd at Klahanie (NB);NB_Todd_FS_Klahanie;50.657362;-120.184386;KAM;Kamloops Transit System;Kamloops
+104732;Todd at Dallas (NB);NB_Todd_NS_Dallas;50.66774;-120.187394;KAM;Kamloops Transit System;Kamloops
+104733;Dallas at Bogetti (EB);EB_Dallas_NS_Bogetti;50.668007;-120.181825;KAM;Kamloops Transit System;Kamloops
+104734;Dallas at Ridge (EB);EB_Dallas_NS_Ridge;50.667976;-120.177257;KAM;Kamloops Transit System;Kamloops
+104735;Dallas at Todd Hill (EB);EB_Dallas_FS_Todd Hill;50.665666;-120.169765;KAM;Kamloops Transit System;Kamloops
+104736;Dallas at Todd Hill (EB);EB_Dallas_FS_Todd Hill;50.664706;-120.163965;KAM;Kamloops Transit System;Kamloops
+104737;Dallas at Mountview (EB);EB_Dallas_NS_Mountview;50.66479;-120.157392;KAM;Kamloops Transit System;Kamloops
+104738;Dallas at Yarrow (EB);EB_Dallas_NS_Yarrow;50.665662;-120.150927;KAM;Kamloops Transit System;Kamloops
+104739;Dallas 6750 block (EB);EB_6750_block_Dallas;50.66566;-120.145341;KAM;Kamloops Transit System;Kamloops
+104740;Dallas 7120 block (EB);EB_7120_block_Dallas;50.663741;-120.136514;KAM;Kamloops Transit System;Kamloops
+104741;Dallas 7320 block (EB);EB_7320_block_Dallas;50.662852;-120.132047;KAM;Kamloops Transit System;Kamloops
+104742;Dallas at OConnor (EB);EB_Dallas_FS_OConnor;50.662204;-120.12915;KAM;Kamloops Transit System;Kamloops
+104743;Dallas 7590 block (EB);EB_7590_block_Dallas;50.658787;-120.123028;KAM;Kamloops Transit System;Kamloops
+104744;Dallas at Peerless (EB);EB_Dallas_FS_Peerless;50.65622;-120.105434;KAM;Kamloops Transit System;Kamloops
+104745;Dallas at Andover (EB);EB_Dallas_FS_Andover;50.655545;-120.097288;KAM;Kamloops Transit System;Kamloops
+104746;Dallas at Cougar (EB);EB_Dallas_FS_Cougar;50.655476;-120.08394;KAM;Kamloops Transit System;Kamloops
+104747;Dallas 9150 block (EB);EB_9150_block_Dallas;50.654606;-120.078743;KAM;Kamloops Transit System;Kamloops
+104748;Kokanee at E Trans-Canada (SB);SB_Kokanee_NS_E Trans-Canada;50.65955;-120.119051;KAM;Kamloops Transit System;Kamloops
+104749;Dallas 7540 block (WB);WB_7540_block_Dallas;50.659045;-120.123517;KAM;Kamloops Transit System;Kamloops
+104750;Dallas at OConnor (WB);WB_Dallas_NS_OConnor;50.661851;-120.128272;KAM;Kamloops Transit System;Kamloops
+104751;Dallas 7300 block (WB);WB_7300_block_Dallas;50.663099;-120.132706;KAM;Kamloops Transit System;Kamloops
+104752;Dallas 7110 block (WB);WB_7110_block_Dallas;50.663856;-120.13652;KAM;Kamloops Transit System;Kamloops
+104753;Dallas 6750 block (WB);WB_6750_block_Dallas;50.665754;-120.145214;KAM;Kamloops Transit System;Kamloops
+104754;Dallas at Yarrow (WB);WB_Dallas_FS_Yarrow;50.665752;-120.150943;KAM;Kamloops Transit System;Kamloops
+104755;Dallas at Mountview (WB);WB_Dallas_FS_Mountview;50.664866;-120.157619;KAM;Kamloops Transit System;Kamloops
+104756;Dallas at Todd Hill (WB);WB_Dallas_FS_Todd Hill;50.664949;-120.164781;KAM;Kamloops Transit System;Kamloops
+104757;Dallas at Harper (WB);WB_Dallas_FS_Harper;50.666926;-120.173596;KAM;Kamloops Transit System;Kamloops
+104758;Dallas at Ridge (WB);WB_Dallas_NS_Ridge;50.668033;-120.176422;KAM;Kamloops Transit System;Kamloops
+104759;Dallas at Bogetti (WB);WB_Dallas_FS_Bogetti;50.668086;-120.18211;KAM;Kamloops Transit System;Kamloops
+104760;E Trans-Canada at Nina (WB);WB_E Trans-Canada_FS_Nina;50.669674;-120.182971;KAM;Kamloops Transit System;Kamloops
+104466;Lodgepole at Englemann (SB);SB_Lodgepole_FS_Englemann;50.652162;-120.403459;KAM;Kamloops Transit System;Kamloops
+104467;Lodgepole at Arnica (EB);EB_Lodgepole_FS_Arnica;50.650703;-120.399758;KAM;Kamloops Transit System;Kamloops
+104468;Lodgepole at Snowberry (NB);NB_Lodgepole_FS_Snowberry;50.651367;-120.397367;KAM;Kamloops Transit System;Kamloops
+104469;Copperhead at Lodgepole (NB);NB_Copperhead_FS_Lodgepole;50.652463;-120.39695;KAM;Kamloops Transit System;Kamloops
+104470;Copperhead at Hugh Allan (NB);NB_Copperhead_NS_Hugh Allan;50.653705;-120.398343;KAM;Kamloops Transit System;Kamloops
+104471;Copperhead at Kryczka (NB);NB_Copperhead_FS_Kryczka;50.657145;-120.401186;KAM;Kamloops Transit System;Kamloops
+104472;Copperhead at Versatile (NB);NB_Copperhead_NS_Versatile;50.659175;-120.39986;KAM;Kamloops Transit System;Kamloops
+104473;Hillside at Copperhead (EB);EB_Hillside_FS_Copperhead;50.66175;-120.397747;KAM;Kamloops Transit System;Kamloops
+104474;Hillside 1860 block (EB);EB_1860_block_Hillside;50.660804;-120.393299;KAM;Kamloops Transit System;Kamloops
+104475;Hillside at Davies (EB);EB_Hillside_FS_Davies;50.658366;-120.388264;KAM;Kamloops Transit System;Kamloops
+104476;Hillside at Mount Dufferin Cres (EB);EB_Hillside_FS_Mount Dufferin Cres;50.657378;-120.386247;KAM;Kamloops Transit System;Kamloops
+104477;Hillside at Mount Dufferin Ave (EB);EB_Hillside_FS_Mount Dufferin Ave;50.656082;-120.382645;KAM;Kamloops Transit System;Kamloops
+104478;Hillside at Cannel (EB);EB_Hillside_FS_Cannel;50.655373;-120.379949;KAM;Kamloops Transit System;Kamloops
+104479;Lansdowne Exchange Bay D;Lansdowne_Exchange_Bay_D;50.676878;-120.325634;KAM;Kamloops Transit System;Kamloops
+104481;Columbia at 5th Ave (EB);EB_Columbia_FS_5th Ave;50.671245;-120.329321;KAM;Kamloops Transit System;Kamloops
+104483;7th Ave at Columbia (SB);SB_7th Ave_FS_Columbia;50.67105;-120.324382;KAM;Kamloops Transit System;Kamloops
+104484;7th Ave at Pine (SB);SB_7th Ave_FS_Pine;50.669422;-120.3244;KAM;Kamloops Transit System;Kamloops
+104485;7th Ave at Munro (SB);SB_7th Ave_NS_Munro;50.666941;-120.324378;KAM;Kamloops Transit System;Kamloops
+104486;6th Ave at Cowan (SB);SB_6th Ave_FS_Cowan;50.665729;-120.327416;KAM;Kamloops Transit System;Kamloops
+104487;Fraser at Tunstall (EB);EB_Fraser_FS_Tunstall;50.664212;-120.326567;KAM;Kamloops Transit System;Kamloops
+104488;Fraser St at Fraser Cres (EB);EB_Fraser St_NS_Fraser Cres;50.664359;-120.323592;KAM;Kamloops Transit System;Kamloops
+104489;Fraser at 9th Ave (EB);EB_Fraser_FS_9th Ave;50.664236;-120.31869;KAM;Kamloops Transit System;Kamloops
+104490;Fraser at McMurdo (NB);NB_Fraser_FS_McMurdo;50.66562;-120.316296;KAM;Kamloops Transit System;Kamloops
+104491;11th Ave at Douglas (NB);NB_11th Ave_FS_Douglas;50.667941;-120.314156;KAM;Kamloops Transit System;Kamloops
+104492;Pine at 11th Ave (EB);EB_Pine_FS_11th Ave;50.669543;-120.313685;KAM;Kamloops Transit System;Kamloops
+104493;13th Ave at Pine (NB);NB_13th Ave_FS_Pine;50.669899;-120.309295;KAM;Kamloops Transit System;Kamloops
+104494;Columbia at 13th Ave (WB);WB_Columbia_FS_13th Ave;50.671384;-120.310365;KAM;Kamloops Transit System;Kamloops
+104495;Columbia at 12th Ave (WB);WB_Columbia_FS_12th Ave;50.67139;-120.312225;KAM;Kamloops Transit System;Kamloops
+104496;11th Ave at Columbia (NB);NB_11th Ave_FS_Columbia;50.671759;-120.314131;KAM;Kamloops Transit System;Kamloops
+104497;Battle at 11th Ave (WB);WB_Battle_FS_11th Ave;50.673166;-120.314661;KAM;Kamloops Transit System;Kamloops
+104498;Battle at 9th Ave (WB);WB_Battle_FS_9th Ave;50.673188;-120.319361;KAM;Kamloops Transit System;Kamloops
+104279;Parkcrest at Singh (WB);WB_Parkcrest_FS_Singh;50.709475;-120.384547;KAM;Kamloops Transit System;Kamloops
+104280;Parkcrest at Holt (WB);WB_Parkcrest_NS_Holt;50.70955;-120.387988;KAM;Kamloops Transit System;Kamloops
+104281;Fleetwood at Holt (WB);WB_Fleetwood_FS_Holt;50.707857;-120.38917;KAM;Kamloops Transit System;Kamloops
+104282;Fleetwood at Desmond (WB);WB_Fleetwood_NS_Desmond;50.706374;-120.392667;KAM;Kamloops Transit System;Kamloops
+104283;Fleetwood at Southill (WB);WB_Fleetwood_NS_Southill;50.705782;-120.397326;KAM;Kamloops Transit System;Kamloops
+104284;Parkcrest at Bentley (WB);WB_Parkcrest_NS_Bentley;50.707838;-120.399205;KAM;Kamloops Transit System;Kamloops
+104285;Parkcrest at Ponlen (WB);WB_Parkcrest_FS_Ponlen;50.707875;-120.401903;KAM;Kamloops Transit System;Kamloops
+104286;Parkcrest at Windbreak (WB);WB_Parkcrest_FS_Windbreak;50.707868;-120.404441;KAM;Kamloops Transit System;Kamloops
+104287;Parkcrest at McLean (WB);WB_Parkcrest_NS_McLean;50.707901;-120.410143;KAM;Kamloops Transit System;Kamloops
+104289;Parkcrest at Schreiner (WB);WB_Parkcrest_NS_Schreiner;50.707945;-120.415515;KAM;Kamloops Transit System;Kamloops
+104290;Schreiner at Fleetwood (SB);SB_Schreiner_NS_Fleetwood;50.706434;-120.415998;KAM;Kamloops Transit System;Kamloops
+104291;Crestline at Fleetwood (NB);NB_Crestline_FS_Fleetwood;50.70625;-120.420958;KAM;Kamloops Transit System;Kamloops
+104292;Crestline at Parkcrest (NB);NB_Crestline_NS_Parkcrest;50.7079;-120.420664;KAM;Kamloops Transit System;Kamloops
+104293;Crestline at Rosewood (NB);NB_Crestline_NS_Rosewood;50.709318;-120.420678;KAM;Kamloops Transit System;Kamloops
+104294;Briarwood at Crestline (EB);EB_Briarwood_FS_Crestline;50.710074;-120.418951;KAM;Kamloops Transit System;Kamloops
+104295;Schreiner at Paulsen (SB);SB_Schreiner_FS_Paulsen;50.709429;-120.415899;KAM;Kamloops Transit System;Kamloops
+104296;Parkcrest at Schreiner (EB);EB_Parkcrest_FS_Schreiner;50.707824;-120.415024;KAM;Kamloops Transit System;Kamloops
+104297;Parkcrest at McLean (EB);EB_Parkcrest_FS_McLean;50.707811;-120.410355;KAM;Kamloops Transit System;Kamloops
+104298;Parkcrest at Windbreak (EB);EB_Parkcrest_NS_Windbreak;50.707767;-120.404792;KAM;Kamloops Transit System;Kamloops
+104299;Parkcrest at Ponlen (EB);EB_Parkcrest_FS_Ponlen;50.707748;-120.401525;KAM;Kamloops Transit System;Kamloops
+104300;Southill at Parkcrest (SB);SB_Southill_FS_Parkcrest;50.707403;-120.397634;KAM;Kamloops Transit System;Kamloops
+104301;Fleetwood at Southill (EB);EB_Fleetwood_FS_Southill;50.705657;-120.396941;KAM;Kamloops Transit System;Kamloops
+104302;Fleetwood at Desmond (EB);EB_Fleetwood_FS_Desmond;50.70623;-120.392614;KAM;Kamloops Transit System;Kamloops
+104499;7th Ave at Battle (SB);SB_7th Ave_FS_Battle;50.672914;-120.324362;KAM;Kamloops Transit System;Kamloops
+104500;Columbia at 7th Ave (WB);WB_Columbia_FS_7th Ave;50.671423;-120.324663;KAM;Kamloops Transit System;Kamloops
+104501;Ponderosa Lodge Entrance;Ponderosa Lodge Entrance;50.669674;-120.331414;KAM;Kamloops Transit System;Kamloops
+104502;Hospital Access at Glenfair (WB);WB_Hospital Access_FS_Glenfair;50.66812;-120.330834;KAM;Kamloops Transit System;Kamloops
+104503;Royal Inland Hospital Entrance;Royal Inland Hospital Entrance;50.669887;-120.333562;KAM;Kamloops Transit System;Kamloops
+104504;Lansdowne Exchange Bay C;Lansdowne_Exchange_Bay_C;50.676851;-120.32592;KAM;Kamloops Transit System;Kamloops
+104506;6th Ave at St Paul (SB);SB_6th Ave_FS_St Paul;50.673708;-120.327256;KAM;Kamloops Transit System;Kamloops
+104508;Columbia at 5th Ave (WB);WB_Columbia_FS_5th Ave;50.671494;-120.330044;KAM;Kamloops Transit System;Kamloops
+104509;Columbia St W at Bluff (WB);WB_Columbia St W_FS_Bluff;50.673015;-120.345794;KAM;Kamloops Transit System;Kamloops
+104510;Columbia St W at Grandview (WB);WB_Columbia St W_FS_Grandview;50.67377;-120.35052;KAM;Kamloops Transit System;Kamloops
+104511;Columbia St W at Frontage (SB);SB_Columbia St W_NS_Frontage;50.672459;-120.353683;KAM;Kamloops Transit System;Kamloops
+104512;TRU Exchange Bay F;TRU_Exchange_Bay_F;50.670956;-120.368263;KAM;Kamloops Transit System;Kamloops
+104513;Summit at 1050 Blk (SB);SB_Summit_AT_1050 Blk;50.667829;-120.357253;KAM;Kamloops Transit System;Kamloops
+104514;Summit at Arrowstone (EB);EB_Summit_FS_Arrowstone;50.666395;-120.351369;KAM;Kamloops Transit System;Kamloops
+104515;Summit at Notre Dame (SB);SB_Summit_NS_Notre Dame;50.663154;-120.348464;KAM;Kamloops Transit System;Kamloops
+104516;Notre Dame at Columbia St W (WB);WB_Notre Dame_NS_Columbia St W;50.663535;-120.351752;KAM;Kamloops Transit System;Kamloops
+104517;Notre Dame at Laval (WB);WB_Notre Dame_FS_Laval;50.663638;-120.356781;KAM;Kamloops Transit System;Kamloops
+104518;Notre Dame at Cemetery (WB);WB_Notre Dame_FS_Cemetery;50.663586;-120.359555;KAM;Kamloops Transit System;Kamloops
+104519;Notre Dame at Dalhousie (WB);WB_Notre Dame_NS_Dalhousie;50.663567;-120.361739;KAM;Kamloops Transit System;Kamloops
+104520;Notre Dame at Dalhousie (WB);WB_Notre Dame_FS_Dalhousie;50.6635;-120.364901;KAM;Kamloops Transit System;Kamloops
+104521;Notre Dame at Hillside (WB);WB_Notre Dame_NS_Hillside;50.663262;-120.369332;KAM;Kamloops Transit System;Kamloops
+104522;Hillside Way at Hillside Crt (SB);SB_Hillside Way_NS_Hillside Crt;50.655988;-120.36923;KAM;Kamloops Transit System;Kamloops
+104523;Rogers at Braeview (WB);WB_Rogers_NS_Braeview;50.651395;-120.368605;KAM;Kamloops Transit System;Kamloops
+104524;Rogers 1250 block (WB);WB_1250_block_Rogers;50.65148;-120.37242;KAM;Kamloops Transit System;Kamloops
+104525;Rogers at Hugh Allan (WB);WB_Rogers_NS_Hugh Allan;50.651737;-120.374899;KAM;Kamloops Transit System;Kamloops
+104526;Hugh Allan at Rogers (SB);SB_Hugh Allan_FS_Rogers;50.650947;-120.375255;KAM;Kamloops Transit System;Kamloops
+104527;Hugh Allan at Harrison (EB);EB_Hugh Allan_NS_Harrison;50.649689;-120.372902;KAM;Kamloops Transit System;Kamloops
+104528;Hugh Allan at Howe (EB);EB_Hugh Allan_NS_Howe;50.648713;-120.367351;KAM;Kamloops Transit System;Kamloops
+104303;Fleetwood at Holt (EB);EB_Fleetwood_NS_Holt;50.707811;-120.388903;KAM;Kamloops Transit System;Kamloops
+104304;Parkcrest at Holt (EB);EB_Parkcrest_FS_Holt;50.709451;-120.388;KAM;Kamloops Transit System;Kamloops
+104305;Parkcrest at Singh (EB);EB_Parkcrest_FS_Singh;50.709334;-120.383141;KAM;Kamloops Transit System;Kamloops
+104306;Parkcrest at Ollek (EB);EB_Parkcrest_NS_Ollek;50.70927;-120.379456;KAM;Kamloops Transit System;Kamloops
+104307;Halston at 13th St (EB);EB_Halston_FS_13th St;50.708723;-120.373956;KAM;Kamloops Transit System;Kamloops
+104308;12th St at Pembroke (SB);SB_12th St_NS_Pembroke;50.706512;-120.372637;KAM;Kamloops Transit System;Kamloops
+104309;12th St at Selkirk (SB);SB_12th St_NS_Selkirk;50.703639;-120.372701;KAM;Kamloops Transit System;Kamloops
+104311;Kenora at 12th St (EB);EB_Kenora_FS_12th St;50.698002;-120.371603;KAM;Kamloops Transit System;Kamloops
+104312;Cottonwood at Kenora (EB);EB_Cottonwood_FS_Kenora;50.696518;-120.368775;KAM;Kamloops Transit System;Kamloops
+104313;Cottonwood at Willow (EB);EB_Cottonwood_NS_Willow;50.696479;-120.365004;KAM;Kamloops Transit System;Kamloops
+104315;Willow at MacKenzie (SB);SB_Willow_NS_MacKenzie;50.693741;-120.365267;KAM;Kamloops Transit System;Kamloops
+104316;MacKenzie at Thrupp (EB);EB_MacKenzie_FS_Thrupp;50.692158;-120.3635;KAM;Kamloops Transit System;Kamloops
+104317;MacKenzie at Williams (EB);EB_MacKenzie_FS_Williams;50.690556;-120.359889;KAM;Kamloops Transit System;Kamloops
+104318;Lansdowne Exchange Bay G;Lansdowne_Exchange_Bay_G;50.676764;-120.326328;KAM;Kamloops Transit System;Kamloops
+104319;Fortune at Baker (NB);NB_Fortune_FS_Baker;50.686214;-120.347164;KAM;Kamloops Transit System;Kamloops
+104320;Fortune at Fort (NB);NB_Fortune_FS_Fort;50.688301;-120.348113;KAM;Kamloops Transit System;Kamloops
+104321;Fortune at Spruce (NB);NB_Fortune_FS_Spruce;50.690307;-120.350694;KAM;Kamloops Transit System;Kamloops
+104322;Fortune at Wood (NB);NB_Fortune_FS_Wood;50.691789;-120.352794;KAM;Kamloops Transit System;Kamloops
+104323;Fortune at Aspen (NB);NB_Fortune_FS_Aspen;50.69297;-120.354404;KAM;Kamloops Transit System;Kamloops
+104324;Fortune at Chestnut (NB);NB_Fortune_FS_Chestnut;50.69505;-120.355917;KAM;Kamloops Transit System;Kamloops
+104325;Fortune at Holly (NB);NB_Fortune_FS_Holly;50.696585;-120.356664;KAM;Kamloops Transit System;Kamloops
+104326;North Shore Exchange Bay D;North_Shore_Exchange_Bay_D;50.697945;-120.359674;KAM;Kamloops Transit System;Kamloops
+104327;8th St at Fortune (NB);NB_8th St_FS_Fortune;50.700139;-120.362927;KAM;Kamloops Transit System;Kamloops
+104328;8th St at Richmond (NB);NB_8th St_NS_Richmond;50.702579;-120.363373;KAM;Kamloops Transit System;Kamloops
+104329;8th St at Sherbrooke (NB);NB_8th St_NS_Sherbrooke;50.704095;-120.363655;KAM;Kamloops Transit System;Kamloops
+104330;8th St at 7th St (NB);NB_8th St_FS_7th St;50.706679;-120.3641;KAM;Kamloops Transit System;Kamloops
+104331;Westsyde at Collingwood (NB);NB_Westsyde_FS_Collingwood;50.713859;-120.363806;KAM;Kamloops Transit System;Kamloops
+104332;Westsyde at Westmount (NB);NB_Westsyde_FS_Westmount;50.715333;-120.361834;KAM;Kamloops Transit System;Kamloops
+104333;Westsyde at Collingwood (NB);NB_Westsyde_FS_Collingwood;50.717106;-120.359704;KAM;Kamloops Transit System;Kamloops
+104529;Hugh Allan at Gloaming (EB);EB_Hugh Allan_FS_Gloaming;50.648599;-120.363365;KAM;Kamloops Transit System;Kamloops
+104530;Hugh Allan 880 block (EB);EB_880_block_Hugh Allan;50.64835;-120.361411;KAM;Kamloops Transit System;Kamloops
+104531;Sifton Ave at Sifton Lane (SB);SB_Sifton Ave_FS_Sifton Lane;50.646271;-120.360265;KAM;Kamloops Transit System;Kamloops
+104532;Sifton Ave at Sifton Lane (SB);SB_Sifton Ave_NS_Sifton Lane;50.643814;-120.355668;KAM;Kamloops Transit System;Kamloops
+104533;Sifton at 2240 Blk (EB);EB_Sifton_AT_2240 Blk;50.639958;-120.35123;KAM;Kamloops Transit System;Kamloops
+104534;Laurier at Sifton (EB);EB_Laurier_NS_Sifton;50.637844;-120.349646;KAM;Kamloops Transit System;Kamloops
+104535;Laurier at Aberdeen (SB);SB_Laurier_NS_Aberdeen;50.637071;-120.348715;KAM;Kamloops Transit System;Kamloops
+104536;Aberdeen at Drummond (WB);WB_Aberdeen_NS_Drummond;50.637491;-120.353155;KAM;Kamloops Transit System;Kamloops
+104537;Aberdeen 650 Block (WB);WB_650_Block_Aberdeen;50.637879;-120.356312;KAM;Kamloops Transit System;Kamloops
+104538;Van Horne at Greystone (WB);WB_Van Horne_FS_Greystone;50.64328;-120.363891;KAM;Kamloops Transit System;Kamloops
+104334;Westsyde at Walkem (NB);NB_Westsyde_FS_Walkem;50.719056;-120.359548;KAM;Kamloops Transit System;Kamloops
+104335;Westsyde at Yates (NB);NB_Westsyde_FS_Yates;50.721319;-120.359714;KAM;Kamloops Transit System;Kamloops
+104336;Westsyde at Anderson (NB);NB_Westsyde_FS_Anderson;50.724549;-120.358633;KAM;Kamloops Transit System;Kamloops
+104337;Westsyde at McQueen (NB);NB_Westsyde_FS_McQueen;50.729221;-120.359039;KAM;Kamloops Transit System;Kamloops
+104338;Westsyde at Woodhaven (NB);NB_Westsyde_FS_Woodhaven;50.73163;-120.358659;KAM;Kamloops Transit System;Kamloops
+104339;Westsyde at Rue Chez Nous (NB);NB_Westsyde_FS_Rue Chez Nous;50.736772;-120.358216;KAM;Kamloops Transit System;Kamloops
+104340;Westsyde at Parkview (NB);NB_Westsyde_FS_Parkview;50.741455;-120.357242;KAM;Kamloops Transit System;Kamloops
+104341;Westsyde at Oak Hills (NB);NB_Westsyde_FS_Oak Hills;50.745253;-120.357331;KAM;Kamloops Transit System;Kamloops
+104342;Westsyde at Franklin (NB);NB_Westsyde_NS_Franklin;50.750903;-120.354938;KAM;Kamloops Transit System;Kamloops
+104343;Westsyde at Morven (NB);NB_Westsyde_FS_Morven;50.753564;-120.35233;KAM;Kamloops Transit System;Kamloops
+104344;Westsyde at Soldier (NB);NB_Westsyde_FS_Soldier;50.756062;-120.349986;KAM;Kamloops Transit System;Kamloops
+104345;Westsyde at Garnet (NB);NB_Westsyde_NS_Garnet;50.759257;-120.348773;KAM;Kamloops Transit System;Kamloops
+104346;Westsyde at Bissette (NB);NB_Westsyde_FS_Bissette;50.761655;-120.348721;KAM;Kamloops Transit System;Kamloops
+104348;Westsyde at Porterfield (NB);NB_Westsyde_FS_Porterfield;50.765787;-120.346185;KAM;Kamloops Transit System;Kamloops
+104349;Westsyde at Puhallo (NB);NB_Westsyde_NS_Puhallo;50.769476;-120.343707;KAM;Kamloops Transit System;Kamloops
+104350;Westsyde at Overlander (NB);NB_Westsyde_FS_Overlander;50.771728;-120.342223;KAM;Kamloops Transit System;Kamloops
+104351;Westsyde at Sun Valley (NB);NB_Westsyde_FS_Sun Valley;50.774073;-120.34072;KAM;Kamloops Transit System;Kamloops
+104352;Harrington at Mountainview (EB);EB_Harrington_NS_Mountainview;50.775442;-120.339187;KAM;Kamloops Transit System;Kamloops
+104353;Harrington at Overlander (EB);EB_Harrington_NS_Overlander;50.775441;-120.332802;KAM;Kamloops Transit System;Kamloops
+104354;Overlander at Reemon (SB);SB_Overlander_FS_Reemon;50.774399;-120.331999;KAM;Kamloops Transit System;Kamloops
+104355;Sicamore at Overlander (WB);WB_Sicamore_FS_Overlander;50.772722;-120.334122;KAM;Kamloops Transit System;Kamloops
+104356;Bank at Overlander (SB);SB_Bank_NS_Overlander;50.771236;-120.339825;KAM;Kamloops Transit System;Kamloops
+104357;Westsyde at Dever (SB);SB_Westsyde_NS_Dever;50.770962;-120.343082;KAM;Kamloops Transit System;Kamloops
+104358;Westsyde at Jensen (SB);SB_Westsyde_NS_Jensen;50.769246;-120.34422;KAM;Kamloops Transit System;Kamloops
+104359;Westsyde at Lyne (SB);SB_Westsyde_NS_Lyne;50.766759;-120.345887;KAM;Kamloops Transit System;Kamloops
+104360;Westsyde at Serle (SB);SB_Westsyde_FS_Serle;50.763266;-120.348187;KAM;Kamloops Transit System;Kamloops
+104361;Westsyde at Bissette (SB);SB_Westsyde_FS_Bissette;50.761024;-120.34906;KAM;Kamloops Transit System;Kamloops
+104362;Westsyde at Garnet (SB);SB_Westsyde_FS_Garnet;50.759392;-120.3491;KAM;Kamloops Transit System;Kamloops
+104363;Westsyde at Georgeann (SB);SB_Westsyde_FS_Georgeann;50.756426;-120.349976;KAM;Kamloops Transit System;Kamloops
+104364;Westsyde at Morven (SB);SB_Westsyde_NS_Morven;50.753401;-120.352869;KAM;Kamloops Transit System;Kamloops
+104365;Westsyde at Agassiz (SB);SB_Westsyde_FS_Agassiz;50.751093;-120.355089;KAM;Kamloops Transit System;Kamloops
+104366;Westsyde at Oak Hills (SB);SB_Westsyde_FS_Oak Hills;50.744384;-120.357377;KAM;Kamloops Transit System;Kamloops
+104367;Westsyde at Parkview (SB);SB_Westsyde_FS_Parkview;50.741157;-120.357729;KAM;Kamloops Transit System;Kamloops
+104368;Westsyde at Rue Chez Nous (SB);SB_Westsyde_FS_Rue Chez Nous;50.736371;-120.358506;KAM;Kamloops Transit System;Kamloops
+104369;Westsyde at Woodhaven (SB);SB_Westsyde_NS_Woodhaven;50.73114;-120.359088;KAM;Kamloops Transit System;Kamloops
+104370;Westsyde at McQueen (SB);SB_Westsyde_FS_McQueen;50.728664;-120.359172;KAM;Kamloops Transit System;Kamloops
+104371;Westsyde at Anderson (SB);SB_Westsyde_FS_Anderson;50.724047;-120.359073;KAM;Kamloops Transit System;Kamloops
+104372;Westsyde at Yates (SB);SB_Westsyde_FS_Yates;50.720904;-120.360077;KAM;Kamloops Transit System;Kamloops
+104373;Westsyde at Walkem (SB);SB_Westsyde_FS_Walkem;50.718417;-120.359626;KAM;Kamloops Transit System;Kamloops
+104374;Westsyde at Westmount (SB);SB_Westsyde_FS_Westmount;50.714984;-120.362695;KAM;Kamloops Transit System;Kamloops
+104375;Westsyde at Collingwood (SB);SB_Westsyde_FS_Collingwood;50.713531;-120.364552;KAM;Kamloops Transit System;Kamloops
+104376;8th St at Sudbury (SB);SB_8th St_FS_Sudbury;50.706971;-120.364487;KAM;Kamloops Transit System;Kamloops
+104377;8th St at Lethbridge (SB);SB_8th St_FS_Lethbridge;50.705131;-120.364165;KAM;Kamloops Transit System;Kamloops
+104378;8th St at Selkirk (SB);SB_8th St_NS_Selkirk;50.703674;-120.363901;KAM;Kamloops Transit System;Kamloops
+104379;8th St at Moncton (SB);SB_8th St_FS_Moncton;50.702166;-120.363653;KAM;Kamloops Transit System;Kamloops
+104380;8th St at Fortune (SB);SB_8th St_NS_Fortune;50.699928;-120.363219;KAM;Kamloops Transit System;Kamloops
+104381;North Shore Exchange Bay B;North_Shore_Exchange_Bay_B;50.697831;-120.359797;KAM;Kamloops Transit System;Kamloops
+104382;Fortune at Nelson (SB);SB_Fortune_FS_Nelson;50.696432;-120.356979;KAM;Kamloops Transit System;Kamloops
+104383;Fortune at Oak (SB);SB_Fortune_NS_Oak;50.694333;-120.35592;KAM;Kamloops Transit System;Kamloops
+104384;Fortune at Evans (SB);SB_Fortune_FS_Evans;50.692532;-120.354258;KAM;Kamloops Transit System;Kamloops
+104385;Fortune at Wood (SB);SB_Fortune_FS_Wood;50.691369;-120.352431;KAM;Kamloops Transit System;Kamloops
+104386;Fortune at Spruce (SB);SB_Fortune_NS_Spruce;50.690016;-120.350745;KAM;Kamloops Transit System;Kamloops
+104387;Fortune at Leigh (SB);SB_Fortune_FS_Leigh;50.687537;-120.347718;KAM;Kamloops Transit System;Kamloops
+104388;Fortune at Larch (SB);SB_Fortune_NS_Larch;50.685787;-120.347306;KAM;Kamloops Transit System;Kamloops
+104389;Lansdowne Exchange Bay F;Lansdowne_Exchange_Bay_F;50.676764;-120.326063;KAM;Kamloops Transit System;Kamloops
+104390;4th Ave at Seymour (SB);SB_4th Ave_FS_Seymour;50.674597;-120.33207;KAM;Kamloops Transit System;Kamloops
+104391;4th Ave at Battle (SB);SB_4th Ave_FS_Battle;50.672902;-120.33209;KAM;Kamloops Transit System;Kamloops
+104392;4th Ave at Nicola (SB);SB_4th Ave_FS_Nicola;50.671936;-120.332081;KAM;Kamloops Transit System;Kamloops
+104393;Columbia at 3rd Ave (WB);WB_Columbia_NS_3rd Ave;50.671574;-120.333965;KAM;Kamloops Transit System;Kamloops
+104394;Sahali 750 block (EB);EB_750_block_Sahali;50.671546;-120.344714;KAM;Kamloops Transit System;Kamloops
+104395;Sahali at Pemberton (EB);EB_Sahali_FS_Pemberton;50.670607;-120.343065;KAM;Kamloops Transit System;Kamloops
+104396;Bestwick at Anvil (EB);EB_Bestwick_FS_Anvil;50.669106;-120.341188;KAM;Kamloops Transit System;Kamloops
+104397;McGill at Monashee (WB);WB_McGill_NS_Monashee;50.667464;-120.340442;KAM;Kamloops Transit System;Kamloops
+104398;McGill 250 block (NB);NB_250_block_McGill;50.667342;-120.344221;KAM;Kamloops Transit System;Kamloops
+104399;McGill at Chapperon (WB);WB_McGill_FS_Chapperon;50.669081;-120.349664;KAM;Kamloops Transit System;Kamloops
+104400;McGill at Frontage (WB);WB_McGill_NS_Frontage;50.669945;-120.35277;KAM;Kamloops Transit System;Kamloops
+104401;McGill at Summit (WB);WB_McGill_NS_Summit;50.66948;-120.356393;KAM;Kamloops Transit System;Kamloops
+104402;McGill at University (WB);WB_McGill_FS_University;50.668192;-120.361394;KAM;Kamloops Transit System;Kamloops
+104403;Dalhousie at McGill (NB);NB_Dalhousie_FS_McGill;50.668075;-120.36409;KAM;Kamloops Transit System;Kamloops
+104404;Dalhousie (WB);WB_Dalhousie;50.670258;-120.365306;KAM;Kamloops Transit System;Kamloops
+104405;TRU Exchange Bay G;TRU_Exchange_Bay_G;50.670837;-120.368464;KAM;Kamloops Transit System;Kamloops
+104406;Hillside at McGill (SB);SB_Hillside_NS_McGill;50.668814;-120.370071;KAM;Kamloops Transit System;Kamloops
+104407;Hillside 1040 block (SB);SB_1040_block_Hillside;50.665231;-120.372915;KAM;Kamloops Transit System;Kamloops
+104408;Hillside at Notre Dame (SB);SB_Hillside_NS_Notre Dame;50.663947;-120.371842;KAM;Kamloops Transit System;Kamloops
+104409;Aberdeen Mall (SB);SB_Aberdeen Mall;50.655336;-120.372373;KAM;Kamloops Transit System;Kamloops
+104410;Pacific at Hillside (SB);SB_Pacific_FS_Hillside;50.654377;-120.378307;KAM;Kamloops Transit System;Kamloops
+104411;Pacific at Hugh Allan (SB);SB_Pacific_FS_Hugh Allan;50.651424;-120.380609;KAM;Kamloops Transit System;Kamloops
+104412;Pacific at Pearson (SB);SB_Pacific_FS_Pearson;50.649588;-120.379295;KAM;Kamloops Transit System;Kamloops
+104413;Pacific at Howe (EB);EB_Pacific_FS_Howe;50.646775;-120.374561;KAM;Kamloops Transit System;Kamloops
+104414;Pacific at Ravenwood (EB);EB_Pacific_FS_Ravenwood;50.645619;-120.37171;KAM;Kamloops Transit System;Kamloops
+104415;Pacific at Greystone (SB);SB_Pacific_FS_Greystone;50.643073;-120.366883;KAM;Kamloops Transit System;Kamloops
+104416;Pacific at Links (SB);SB_Pacific_FS_Links;50.639939;-120.369864;KAM;Kamloops Transit System;Kamloops
+104417;Pacific at Aberdeen (SB);SB_Pacific_FS_Aberdeen;50.63755;-120.370589;KAM;Kamloops Transit System;Kamloops
+104418;Pacific 2510 block (EB);EB_2510_block_Pacific;50.634799;-120.367848;KAM;Kamloops Transit System;Kamloops
+104419;Abbeyglen at Bramble (EB);EB_Abbeyglen_NS_Bramble;50.634159;-120.363343;KAM;Kamloops Transit System;Kamloops
+104420;Abbeyglen at Regent (WB);WB_Abbeyglen_NS_Regent;50.636564;-120.361254;KAM;Kamloops Transit System;Kamloops
+104421;Aberdeen at Abbeyglen (EB);EB_Aberdeen_FS_Abbeyglen;50.63801;-120.364957;KAM;Kamloops Transit System;Kamloops
+104422;Van Horne at Aberdeen (NB);NB_Van Horne_FS_Aberdeen;50.638619;-120.358821;KAM;Kamloops Transit System;Kamloops
+104423;Van Horne at Laurier (NB);NB_Van Horne_NS_Laurier;50.640198;-120.359103;KAM;Kamloops Transit System;Kamloops
+104424;Laurier at Galloway (WB);WB_Laurier_FS_Galloway;50.639257;-120.36067;KAM;Kamloops Transit System;Kamloops
+104425;Garymede at Laurier (NB);NB_Garymede_FS_Laurier;50.639603;-120.362598;KAM;Kamloops Transit System;Kamloops
+104426;Garymede at Greystone (NB);NB_Garymede_NS_Greystone;50.642349;-120.365728;KAM;Kamloops Transit System;Kamloops
+104427;Pacific at Greystone (NB);NB_Pacific_FS_Greystone;50.643985;-120.367612;KAM;Kamloops Transit System;Kamloops
+104428;Pacific at Ravenwood (WB);WB_Pacific_FS_Ravenwood;50.646104;-120.37273;KAM;Kamloops Transit System;Kamloops
+104429;Pacific at Howe (NB);NB_Pacific_FS_Howe;50.647567;-120.376325;KAM;Kamloops Transit System;Kamloops
+104430;Pacific at Pearson (WB);WB_Pacific_FS_Pearson;50.649863;-120.379511;KAM;Kamloops Transit System;Kamloops
+104431;Hillside at Pacific (EB);EB_Hillside_FS_Pacific;50.65449;-120.376136;KAM;Kamloops Transit System;Kamloops
+104432;Aberdeen Mall (NB);NB_Aberdeen Mall;50.655692;-120.372105;KAM;Kamloops Transit System;Kamloops
+104433;Hillside at Cariboo (NB);NB_Hillside_NS_Cariboo;50.661143;-120.369692;KAM;Kamloops Transit System;Kamloops
+104434;Hillside at Notre Dame (NB);NB_Hillside_FS_Notre Dame;50.664216;-120.371718;KAM;Kamloops Transit System;Kamloops
+104435;Hillside at McGill (NB);NB_Hillside_NS_McGill;50.666967;-120.370051;KAM;Kamloops Transit System;Kamloops
+104436;Hillside at McGill (NB);NB_Hillside_FS_McGill;50.668826;-120.369729;KAM;Kamloops Transit System;Kamloops
+104437;TRU Exchange Bay D;TRU_Exchange_Bay_D;50.671237;-120.368043;KAM;Kamloops Transit System;Kamloops
+104438;Dalhousie (EB);EB_Dalhousie;50.670119;-120.365064;KAM;Kamloops Transit System;Kamloops
+104439;McGill at Dalhousie (EB);EB_McGill_FS_Dalhousie;50.667708;-120.363189;KAM;Kamloops Transit System;Kamloops
+104440;McGill at Summit (EB);EB_McGill_FS_Summit;50.669191;-120.356534;KAM;Kamloops Transit System;Kamloops
+104441;McGill at Frontage (EB);EB_McGill_FS_Frontage;50.669827;-120.352752;KAM;Kamloops Transit System;Kamloops
+104442;McGill at Chapperon (EB);EB_McGill_NS_Chapperon;50.668836;-120.349451;KAM;Kamloops Transit System;Kamloops
+104443;McGill 240 block (SB);SB_240_block_McGill;50.667202;-120.344267;KAM;Kamloops Transit System;Kamloops
+104444;McGill at Monashee (EB);EB_McGill_FS_Monashee;50.667324;-120.341629;KAM;Kamloops Transit System;Kamloops
+104445;McGill at Bestwick (EB);EB_McGill_NS_Bestwick;50.667176;-120.338927;KAM;Kamloops Transit System;Kamloops
+104446;Bestwick at Greenstone (NB);NB_Bestwick_FS_Greenstone;50.668635;-120.33859;KAM;Kamloops Transit System;Kamloops
+104447;Bestwick at Sahali (WB);WB_Bestwick_NS_Sahali;50.669418;-120.341636;KAM;Kamloops Transit System;Kamloops
+104448;Sahali at Pemberton (NB);NB_Sahali_FS_Pemberton;50.67095;-120.343046;KAM;Kamloops Transit System;Kamloops
+104449;Sahali at Columbia St W (NB);NB_Sahali_NS_Columbia St W;50.672174;-120.344674;KAM;Kamloops Transit System;Kamloops
+104450;3rd Ave at Columbia (NB);NB_3rd Ave_FS_Columbia;50.671816;-120.334359;KAM;Kamloops Transit System;Kamloops
+104451;3rd Ave at Battle (NB);NB_3rd Ave_FS_Battle;50.673563;-120.334323;KAM;Kamloops Transit System;Kamloops
+104452;3rd Ave at Seymour (NB);NB_3rd Ave_NS_Seymour;50.674657;-120.334319;KAM;Kamloops Transit System;Kamloops
+104453;TRU Exchange Bay H;TRU_Exchange_Bay_H;50.670743;-120.368642;KAM;Kamloops Transit System;Kamloops
+104454;Hillside at Pacific (WB);WB_Hillside_FS_Pacific;50.655396;-120.379415;KAM;Kamloops Transit System;Kamloops
+104455;Hillside at Mount Dufferin Ave (WB);WB_Hillside_FS_Mount Dufferin Ave;50.656214;-120.383323;KAM;Kamloops Transit System;Kamloops
+104456;Hillside at Monterey (WB);WB_Hillside_NS_Monterey;50.657915;-120.387069;KAM;Kamloops Transit System;Kamloops
+104457;Hillside at Mount Dufferin Dr (WB);WB_Hillside_FS_Mount Dufferin Dr;50.659004;-120.389276;KAM;Kamloops Transit System;Kamloops
+104458;Hillside 1860 block (WB);WB_1860_block_Hillside;50.660872;-120.393191;KAM;Kamloops Transit System;Kamloops
+104459;Hillside at Copperhead (WB);WB_Hillside_NS_Copperhead;50.661747;-120.39732;KAM;Kamloops Transit System;Kamloops
+104460;Copperhead at Iron Mask (SB);SB_Copperhead_NS_Iron Mask;50.659022;-120.400443;KAM;Kamloops Transit System;Kamloops
+104461;Copperhead at Kryczka (SB);SB_Copperhead_FS_Kryczka;50.656355;-120.400759;KAM;Kamloops Transit System;Kamloops
+104462;Hugh Allan at Lodgepole (WB);WB_Hugh Allan_NS_Lodgepole;50.653723;-120.401954;KAM;Kamloops Transit System;Kamloops
+104205;Tranquille at Palm (NB);NB_Tranquille_FS_Palm;50.686332;-120.356137;KAM;Kamloops Transit System;Kamloops
+104206;Tranquille at Clapperton (NB);NB_Tranquille_FS_Clapperton;50.68775;-120.357379;KAM;Kamloops Transit System;Kamloops
+104207;Tranquille at Wood (NB);NB_Tranquille_FS_Wood;50.68883;-120.357872;KAM;Kamloops Transit System;Kamloops
+104208;Tranquille at Oak (NB);NB_Tranquille_FS_Oak;50.692696;-120.359362;KAM;Kamloops Transit System;Kamloops
+104209;Tranquille at Vernon (NB);NB_Tranquille_FS_Vernon;50.6958;-120.360469;KAM;Kamloops Transit System;Kamloops
+104210;North Shore Exchange Bay C;North_Shore_Exchange_Bay_C;50.697877;-120.359543;KAM;Kamloops Transit System;Kamloops
+104212;Tranquille at 11th St (WB);WB_Tranquille_NS_11th St;50.700475;-120.369251;KAM;Kamloops Transit System;Kamloops
+104213;Tranquille at 12th St (WB);WB_Tranquille_FS_12th St;50.70104;-120.373191;KAM;Kamloops Transit System;Kamloops
+104214;Tranquille at Kelly (WB);WB_Tranquille_NS_Kelly;50.701502;-120.376231;KAM;Kamloops Transit System;Kamloops
+104215;Tranquille at Nicolani (WB);WB_Tranquille_NS_Nicolani;50.702092;-120.380035;KAM;Kamloops Transit System;Kamloops
+104216;Tranquille at Singh (WB);WB_Tranquille_FS_Singh;50.702762;-120.38482;KAM;Kamloops Transit System;Kamloops
+104217;Tranquille at Holt (WB);WB_Tranquille_FS_Holt;50.701909;-120.389255;KAM;Kamloops Transit System;Kamloops
+104218;Tranquille at Desmond (WB);WB_Tranquille_FS_Desmond;50.699944;-120.393625;KAM;Kamloops Transit System;Kamloops
+104219;Tranquille at Southill (WB);WB_Tranquille_FS_Southill;50.699879;-120.398841;KAM;Kamloops Transit System;Kamloops
+104220;Tranquille at Caroline (WB);WB_Tranquille_NS_Caroline;50.700062;-120.401481;KAM;Kamloops Transit System;Kamloops
+104221;Tranquille at Windbreak (WB);WB_Tranquille_FS_Windbreak;50.700344;-120.404691;KAM;Kamloops Transit System;Kamloops
+104222;Tranquille at Invermere (WB);WB_Tranquille_FS_Invermere;50.701095;-120.408701;KAM;Kamloops Transit System;Kamloops
+104223;Tranquille at Shelan (WB);WB_Tranquille_NS_Shelan;50.701594;-120.411705;KAM;Kamloops Transit System;Kamloops
+104224;Tranquille at Schreiner (WB);WB_Tranquille_FS_Schreiner;50.701799;-120.416371;KAM;Kamloops Transit System;Kamloops
+104225;Crestline at Glenview (NB);NB_Crestline_NS_Glenview;50.702489;-120.42291;KAM;Kamloops Transit System;Kamloops
+104226;Crestline at Young (NB);NB_Crestline_FS_Young;50.704398;-120.42227;KAM;Kamloops Transit System;Kamloops
+104227;Crestline at Fleetwood (NB);NB_Crestline_NS_Fleetwood;50.705846;-120.421154;KAM;Kamloops Transit System;Kamloops
+104234;Fleetwood at Schreiner (EB);EB_Fleetwood_NS_Schreiner;50.705899;-120.416478;KAM;Kamloops Transit System;Kamloops
+104235;Greenfield at Schreiner (EB);EB_Greenfield_FS_Schreiner;50.704799;-120.415117;KAM;Kamloops Transit System;Kamloops
+104236;Greenfield at Westgate (EB);EB_Greenfield_FS_Westgate;50.704732;-120.409231;KAM;Kamloops Transit System;Kamloops
+104237;Greenfield at Windbreak (EB);EB_Greenfield_NS_Windbreak;50.704682;-120.404484;KAM;Kamloops Transit System;Kamloops
+104238;Windbreak at Sunnycrest (SB);SB_Windbreak_FS_Sunnycrest;50.702504;-120.404401;KAM;Kamloops Transit System;Kamloops
+104239;Tranquille at Windbreak (EB);EB_Tranquille_FS_Windbreak;50.700101;-120.403882;KAM;Kamloops Transit System;Kamloops
+104241;Tranquille at Southill (EB);EB_Tranquille_NS_Southill;50.699766;-120.398453;KAM;Kamloops Transit System;Kamloops
+104243;Tranquille at Holt (EB);EB_Tranquille_FS_Holt;50.702191;-120.388229;KAM;Kamloops Transit System;Kamloops
+104244;Tranquille at Singh (EB);EB_Tranquille_FS_Singh;50.702455;-120.383867;KAM;Kamloops Transit System;Kamloops
+104245;Tranquille at Nicolani (EB);EB_Tranquille_NS_Nicolani;50.702013;-120.380884;KAM;Kamloops Transit System;Kamloops
+104246;Tranquille at Lepine (EB);EB_Tranquille_NS_Lepine;50.701554;-120.378051;KAM;Kamloops Transit System;Kamloops
+104248;Tranquille at 12th St (EB);EB_Tranquille_FS_12th St;50.700616;-120.371658;KAM;Kamloops Transit System;Kamloops
+104249;Tranquille at 10th St (EB);EB_Tranquille_FS_10th St;50.70015;-120.36856;KAM;Kamloops Transit System;Kamloops
+104250;Fortune at Tranquille (EB);EB_Fortune_NS_Tranquille;50.699383;-120.363668;KAM;Kamloops Transit System;Kamloops
+104251;North Shore Exchange Bay E;North_Shore_Exchange_Bay_E;50.697883;-120.360041;KAM;Kamloops Transit System;Kamloops
+104253;Tranquille at Yew (SB);SB_Tranquille_FS_Yew;50.693039;-120.35966;KAM;Kamloops Transit System;Kamloops
+104254;Tranquille at Aspen (SB);SB_Tranquille_NS_Aspen;50.691342;-120.359025;KAM;Kamloops Transit System;Kamloops
+104255;Tranquille at MacKenzie (SB);SB_Tranquille_FS_MacKenzie;50.689621;-120.358347;KAM;Kamloops Transit System;Kamloops
+104256;Tranquille at Knox (SB);SB_Tranquille_FS_Knox;50.687172;-120.356991;KAM;Kamloops Transit System;Kamloops
+104257;Tranquille at Palm (SB);SB_Tranquille_FS_Palm;50.6854;-120.355555;KAM;Kamloops Transit System;Kamloops
+104258;Tranquille at Wilson (EB);EB_Tranquille_AT_Wilson;50.684574;-120.352422;KAM;Kamloops Transit System;Kamloops
+104259;Tranquille at Venus (EB);EB_Tranquille_NS_Venus;50.684821;-120.351028;KAM;Kamloops Transit System;Kamloops
+104260;Victoria St W 240 block (EB);EB_240_block_Victoria St W;50.677647;-120.345283;KAM;Kamloops Transit System;Kamloops
+104261;Seymour at 1st Ave (EB);EB_Seymour_FS_1st Ave;50.675254;-120.338481;KAM;Kamloops Transit System;Kamloops
+104262;Seymour at 3rd Ave (EB);EB_Seymour_NS_3rd Ave;50.674908;-120.335445;KAM;Kamloops Transit System;Kamloops
+104263;Seymour at 4th Ave (EB);EB_Seymour_FS_4th Ave;50.674896;-120.331396;KAM;Kamloops Transit System;Kamloops
+104264;6th Ave at Victoria (NB);NB_6th Ave_NS_Victoria;50.675602;-120.327061;KAM;Kamloops Transit System;Kamloops
+104265;Lansdowne Exchange Bay H;Lansdowne_Exchange_Bay_H;50.676765;-120.326599;KAM;Kamloops Transit System;Kamloops
+104266;Yew at Tranquille (WB);WB_Yew_FS_Tranquille;50.691553;-120.359569;KAM;Kamloops Transit System;Kamloops
+104267;MacKenzie at Park (WB);WB_MacKenzie_FS_Park;50.691993;-120.362807;KAM;Kamloops Transit System;Kamloops
+104268;MacKenzie at Marcel (WB);WB_MacKenzie_FS_Marcel;50.693123;-120.365367;KAM;Kamloops Transit System;Kamloops
+104269;Willow at Stewart (NB);NB_Willow_FS_Stewart;50.694574;-120.36413;KAM;Kamloops Transit System;Kamloops
+104270;Cottonwood at Willow (WB);WB_Cottonwood_FS_Willow;50.6966;-120.365397;KAM;Kamloops Transit System;Kamloops
+104271;Cottonwood at Kenora (WB);WB_Cottonwood_NS_Kenora;50.69662;-120.369008;KAM;Kamloops Transit System;Kamloops
+104272;Kenora at 12th St (WB);WB_Kenora_NS_12th St;50.698078;-120.371506;KAM;Kamloops Transit System;Kamloops
+104273;12th St at Surrey (NB);NB_12th St_NS_Surrey;50.701432;-120.372604;KAM;Kamloops Transit System;Kamloops
+104274;12th St at Selkirk (NB);NB_12th St_FS_Selkirk;50.703608;-120.372525;KAM;Kamloops Transit System;Kamloops
+104275;12th St at Pembroke (NB);NB_12th St_NS_Pembroke;50.705888;-120.372501;KAM;Kamloops Transit System;Kamloops
+104276;12th St at Halston (NB);NB_12th St_NS_Halston;50.708335;-120.372416;KAM;Kamloops Transit System;Kamloops
+104277;Halston at 13th St (WB);WB_Halston_FS_13th St;50.708873;-120.375208;KAM;Kamloops Transit System;Kamloops
+104278;Parkcrest at Nicolani (WB);WB_Parkcrest_FS_Nicolani;50.709394;-120.380576;KAM;Kamloops Transit System;Kamloops
+104539;Van Horne at Hector (NB);NB_Van Horne_NS_Hector;50.644786;-120.365249;KAM;Kamloops Transit System;Kamloops
+104540;Van Horne at Huntleigh (WB);WB_Van Horne_FS_Huntleigh;50.646788;-120.36745;KAM;Kamloops Transit System;Kamloops
+104541;Van Horne at Howe (NB);NB_Van Horne_NS_Howe;50.647815;-120.371342;KAM;Kamloops Transit System;Kamloops
+104542;Howe 1130 block (EB);EB_1130_block_Howe;50.648019;-120.36754;KAM;Kamloops Transit System;Kamloops
+104543;Hugh Allan at Howe (WB);WB_Hugh Allan_FS_Howe;50.64881;-120.366875;KAM;Kamloops Transit System;Kamloops
+104544;Hugh Allan at Harrison (WB);WB_Hugh Allan_FS_Harrison;50.649963;-120.373287;KAM;Kamloops Transit System;Kamloops
+104545;Rogers at Hugh Allan (EB);EB_Rogers_FS_Hugh Allan;50.651671;-120.374683;KAM;Kamloops Transit System;Kamloops
+104546;Rogers 1250 block (EB);EB_1250_block_Rogers;50.651374;-120.372327;KAM;Kamloops Transit System;Kamloops
+104547;Rogers Way at Rogers Pl (EB);EB_Rogers Way_NS_Rogers Pl;50.651466;-120.368043;KAM;Kamloops Transit System;Kamloops
+104548;Hillside Way at Hillside Crt (NB);NB_Hillside Way_FS_Hillside Crt;50.655681;-120.368833;KAM;Kamloops Transit System;Kamloops
+104551;Notre Dame at Dalhousie (EB);EB_Notre Dame_FS_Dalhousie;50.663439;-120.363399;KAM;Kamloops Transit System;Kamloops
+104552;Notre Dame at Cemetery (EB);EB_Notre Dame_NS_Cemetery;50.663502;-120.359186;KAM;Kamloops Transit System;Kamloops
+104553;Notre Dame at Laval (EB);EB_Notre Dame_NS_Laval;50.663548;-120.356806;KAM;Kamloops Transit System;Kamloops
+104554;Notre Dame at Columbia St W (EB);EB_Notre Dame_FS_Columbia St W;50.663397;-120.352118;KAM;Kamloops Transit System;Kamloops
+104555;Summit at Notre Dame (NB);NB_Summit_FS_Notre Dame;50.663429;-120.348289;KAM;Kamloops Transit System;Kamloops
+104556;Summit 1300 block (NB);NB_1300_block_Summit;50.665352;-120.349837;KAM;Kamloops Transit System;Kamloops
+104557;Summit at Arrowstone (WB);WB_Summit_FS_Arrowstone;50.667017;-120.352317;KAM;Kamloops Transit System;Kamloops
+104559;Columbia St W 640 block (NB);NB_640_block_Columbia St W;50.672431;-120.353278;KAM;Kamloops Transit System;Kamloops
+104560;Battle at 3rd Ave (WB);WB_Battle_FS_3rd Ave;50.67328;-120.335117;KAM;Kamloops Transit System;Kamloops
+104561;Battle St W at 1st Ave (WB);WB_Battle St W_FS_1st Ave;50.673734;-120.339337;KAM;Kamloops Transit System;Kamloops
+104562;Battle St W at Lee (WB);WB_Battle St W_FS_Lee;50.67425;-120.342237;KAM;Kamloops Transit System;Kamloops
+104563;Strathcona at Battle St W (NB);NB_Strathcona_FS_Battle St W;50.67598;-120.348658;KAM;Kamloops Transit System;Kamloops
+104564;Strathcona at Hemlock (WB);WB_Strathcona_FS_Hemlock;50.677358;-120.352944;KAM;Kamloops Transit System;Kamloops
+104565;Lombard at Centre (WB);WB_Lombard_NS_Centre;50.677542;-120.355733;KAM;Kamloops Transit System;Kamloops
+104566;Centre at Battle St W (SB);SB_Centre_FS_Battle St W;50.675713;-120.356255;KAM;Kamloops Transit System;Kamloops
+104567;Grandview at Dalgleish (EB);EB_Grandview_NS_Dalgleish;50.674975;-120.354769;KAM;Kamloops Transit System;Kamloops
+104568;Grandview at Dufferin (EB);EB_Grandview_FS_Dufferin;50.674285;-120.350467;KAM;Kamloops Transit System;Kamloops
+104569;Grandview at Garden (WB);WB_Grandview_NS_Garden;50.674757;-120.351472;KAM;Kamloops Transit System;Kamloops
+104570;Grandview at Dalgleish (WB);WB_Grandview_FS_Dalgleish;50.675072;-120.355051;KAM;Kamloops Transit System;Kamloops
+104571;Centre at Battle St W (NB);NB_Centre_NS_Battle St W;50.675716;-120.356038;KAM;Kamloops Transit System;Kamloops
+104572;Lombard at Centre (EB);EB_Lombard_FS_Centre;50.677413;-120.355507;KAM;Kamloops Transit System;Kamloops
+104573;Strathcona at Hemlock (EB);EB_Strathcona_FS_Hemlock;50.676731;-120.351811;KAM;Kamloops Transit System;Kamloops
+104574;Strathcona at Battle St W (SB);SB_Strathcona_NS_Battle St W;50.676112;-120.348977;KAM;Kamloops Transit System;Kamloops
+104575;Battle St W at Lee (EB);EB_Battle St W_FS_Lee;50.674029;-120.341537;KAM;Kamloops Transit System;Kamloops
+104576;Battle at 1st Ave (EB);EB_Battle_FS_1st Ave;50.673465;-120.338533;KAM;Kamloops Transit System;Kamloops
+104577;Lansdowne Exchange Bay B;Lansdowne_Exchange_Bay_B;50.67685;-120.326259;KAM;Kamloops Transit System;Kamloops
+104578;TRU Exchange Bay E;TRU_Exchange_Bay_E;50.671074;-120.368072;KAM;Kamloops Transit System;Kamloops
+104579;Summit at Springhill (EB);EB_Summit_NS_Springhill;50.660553;-120.345275;KAM;Kamloops Transit System;Kamloops
+151032;Victoria St W 200 Blk (WB);WB_Victoria St W_AT_200 Blk;50.677435;-120.343985;KAM;Kamloops Transit System;Kamloops
+151034;Tranquille at Desmond (EB);EB_Tranquille_FS_Desmond;50.700111;-120.392863;KAM;Kamloops Transit System;Kamloops
+151022;Grand Blvd at Valleyview Dr (SB);SB_Grand Blvd_AT_Valleyview Dr;50.671107;-120.227182;KAM;Kamloops Transit System;Kamloops
+151023;Grand Blvd at Valleyview Dr (NB);NB_Grand Blvd_AT_Valleyview Dr;50.670367;-120.227329;KAM;Kamloops Transit System;Kamloops
+151024;Valleyview Dr farside Tanager Dr (EB);EB_Valleyview Dr_FS_Tanager Dr;50.672572;-120.238409;KAM;Kamloops Transit System;Kamloops
+151025;Valleyview Dr at 2900 Blk (EB);EB_Valleyview Dr_AT_2900 Blk;50.671258;-120.232502;KAM;Kamloops Transit System;Kamloops
+951000;Kamloops Transit Centre;;50.711274;-120.381488;KAM;Kamloops Transit System;Kamloops
+151031;Shuswap Rd at Chief Alex Thomas Way (WB);WB_Shuswap Rd_FS_Chief Alex Thomas Way;50.683013;-120.29489;KAM;Kamloops Transit System;Kamloops 1
+151005;Saddleback Dr at 2038 Block (NB);NB_Saddleback Dr_AT_2038 Block;50.725833;-120.368551;KAM;Kamloops Transit System;Kamloops
+151006;Saddleback Dr at Stagecoach Dr (NB);NB_Saddleback Dr_FS_Stagecoach Dr;50.729676;-120.368641;KAM;Kamloops Transit System;Kamloops
+151007;Saddleback Dr at Latigo Dr (NB);NB_Saddleback Dr_FS_Latigo Dr;50.732559;-120.368636;KAM;Kamloops Transit System;Kamloops
+151008;Doubletree Cr at Latigo Dr (SB);SB_Doubletree Cr_FS_Latigo Dr;50.732137;-120.366897;KAM;Kamloops Transit System;Kamloops
+151009;Stagecoach Dr at Saddleback Dr (SB);SB_Stagecoach Dr_FS_Saddleback Dr;50.729187;-120.368556;KAM;Kamloops Transit System;Kamloops
+151010;Grasslands Blvd at Stagecoach Dr (SB);SB_Grasslands Blvd_FS_Stagecoach Dr;50.726463;-120.365771;KAM;Kamloops Transit System;Kamloops
+151011;Grasslands Blvd at 2027 Block (SB);SB_Grasslands Blvd_AT_2027 Block;50.724407;-120.367567;KAM;Kamloops Transit System;Kamloops
+151012;Mt. Paul Way at Chilcotin Rd (SB);SB_Mt Paul Way_NS_Chilcotin Rd;50.690789;-120.322073;KAM;Kamloops Transit System;Kamloops 1
+151013;Mt. Paul Way at Carrier St (SB);SB_Mt Paul Way_NS_Carrier St;50.686346;-120.322525;KAM;Kamloops Transit System;Kamloops 1
+151014;Athabasca St W at 680 Block (WB);WB_Athabasca St W_AT_680 Block;50.682909;-120.325646;KAM;Kamloops Transit System;Kamloops 1
+151015;Athabasca St W at Chilcotin (NB);NB_Athabasca St W_NS_Chilcotin;50.690204;-120.333286;KAM;Kamloops Transit System;Kamloops 1
+151016;Chilcotin Rd at 200 Block (WB);WB_Chilcotin Rd_AT_200 Block;50.690639;-120.336432;KAM;Kamloops Transit System;Kamloops 1
+151017;Kamloopa Way at 775 Block (NB);NB_Kamloopa Way_AT_775 Block;50.69283;-120.338674;KAM;Kamloops Transit System;Kamloops 1
+151018;Kamloopa Way at Mohawk Cres (NB);NB_Kamloopa Way_FS_Mohawk Cres;50.697471;-120.341081;KAM;Kamloops Transit System;Kamloops 1
+151019;George Campbell Way at Kamloopa Way (EB);EB_George Campbell Way_FS_Kamloopa Way;50.699178;-120.34315;KAM;Kamloops Transit System;Kamloops 1
+151020;Shuswap Rd W at Ricardo Rd (EB);EB_Shuswap Rd W_NS_Ricardo Rd;50.704117;-120.333109;KAM;Kamloops Transit System;Kamloops 1
+151021;Ricardo Rd at 1020 Block (SB);SB_Ricardo Rd_AT_1020 Block;50.698658;-120.326942;KAM;Kamloops Transit System;Kamloops 1
+151026;Okanagan Way at Dene Dr (SB);SB_Okanagan Way_FS_Dene Dr;50.694198;-120.327866;KAM;Kamloops Transit System;Kamloops 1
+151027;Chilcotin Rd at Tagish (EB);EB_Chilcotin Rd_NS_Tagish;50.690495;-120.324886;KAM;Kamloops Transit System;Kamloops 1
+151028;Shuswap Rd E at Chief Alex Thomas Way (EB);EB_Shuswap Rd E_Chief Alex_Thomas Way;50.68287;-120.295134;KAM;Kamloops Transit System;Kamloops 1
+151029;Sun Rivers Dr at Talasa Way (EB);EB_Sun Rivers_NS_Talasa Way;50.687182;-120.29732;KAM;Kamloops Transit System;Kamloops 1
+151033;Willow at Cottonwood (SB);SB_Willow_FS_Cottonwood;50.695476;-120.363381;KAM;Kamloops Transit System;Kamloops
+104884;Dallas at Harper (EB);EB_Dallas_FS_Harper;50.666544;-120.173045;KAM;Kamloops Transit System;Kamloops
+104907;TRU Exchange Bay A;TRU_Exchange_Bay_A;50.67091;-120.368592;KAM;Kamloops Transit System;Kamloops
+104908;Grasslands at Quayle (SB);SB_Grasslands_NS_Quayle;50.721925;-120.37006;KAM;Kamloops Transit System;Kamloops
+104909;Batchelor at North River (NB);NB_Batchelor_FS_North River;50.714698;-120.366835;KAM;Kamloops Transit System;Kamloops
+104910;McGill at Bestwick (WB);WB_McGill_FS_Bestwick;50.667271;-120.338709;KAM;Kamloops Transit System;Kamloops
+151004;Columbia  at 3rd (EB);EB_Columbia_FS_3rd;50.671307;-120.333679;KAM;Kamloops Transit System;Kamloops
+104762;Valleyview at Tanager (WB);WB_Valleyview_FS_Tanager;50.672778;-120.239544;KAM;Kamloops Transit System;Kamloops
+104763;Valleyview at McKay (WB);WB_Valleyview_FS_McKay;50.673126;-120.243007;KAM;Kamloops Transit System;Kamloops
+104764;Valleyview at MacAdam (WB);WB_Valleyview_FS_MacAdam;50.673443;-120.246329;KAM;Kamloops Transit System;Kamloops
+104765;Valleyview at River (WB);WB_Valleyview_FS_River;50.674514;-120.252885;KAM;Kamloops Transit System;Kamloops
+104766;Valleyview at Park (WB);WB_Valleyview_FS_Park;50.675523;-120.257552;KAM;Kamloops Transit System;Kamloops
+104767;Battle at 14th Ave (WB);WB_Battle_NS_14th Ave;50.673161;-120.306861;KAM;Kamloops Transit System;Kamloops
+104768;Battle at 12th Ave (WB);WB_Battle_NS_12th Ave;50.673191;-120.310827;KAM;Kamloops Transit System;Kamloops
+104769;Victoria at 10th Ave (WB);WB_Victoria_NS_10th Ave;50.674251;-120.315832;KAM;Kamloops Transit System;Kamloops
+104770;Mattoch-McKeague at Cameron (EB);EB_Mattoch-McKeague_NS_Cameron;50.791948;-120.317895;KAM;Kamloops Transit System;Kamloops
+104777;Lorne at 10th Ave (WB);WB_Lorne_FS_10th Ave;50.675554;-120.316084;KAM;Kamloops Transit System;Kamloops
+104778;Lorne at 8th Ave (WB);WB_Lorne_NS_8th Ave;50.676383;-120.318599;KAM;Kamloops Transit System;Kamloops
+104779;Lorne at 8th Ave (WB);WB_Lorne_FS_8th Ave;50.677124;-120.320364;KAM;Kamloops Transit System;Kamloops
+104780;Lorne at 7th Ave (WB);WB_Lorne_FS_7th Ave;50.678073;-120.323376;KAM;Kamloops Transit System;Kamloops
+104781;Lorne 480 block (WB);WB_480_block_Lorne;50.678212;-120.329723;KAM;Kamloops Transit System;Kamloops
+104782;Lorne at 3rd Ave (WB);WB_Lorne_NS_3rd Ave;50.678151;-120.333024;KAM;Kamloops Transit System;Kamloops
+104784;Summit at Robson (WB);WB_Summit_FS_Robson;50.646419;-120.353589;KAM;Kamloops Transit System;Kamloops
+104785;Summit at Hollyburn (WB);WB_Summit_FS_Hollyburn;50.647143;-120.34739;KAM;Kamloops Transit System;Kamloops
+104786;Summit at Tremerton (WB);WB_Summit_FS_Tremerton;50.647705;-120.343791;KAM;Kamloops Transit System;Kamloops
+104789;Summit at Gleneagles (EB);EB_Summit_FS_Gleneagles;50.65207;-120.340905;KAM;Kamloops Transit System;Kamloops
+104811;Lorne at 2nd Ave (WB);WB_Lorne_NS_2nd Ave;50.677735;-120.336461;KAM;Kamloops Transit System;Kamloops
+104820;TRU Exchange Bay B;TRU_Exchange_Bay_B;50.671017;-120.368413;KAM;Kamloops Transit System;Kamloops
+104823;Sifton at Sifton (WB);WB_Sifton_NS_Sifton;50.643029;-120.35419;KAM;Kamloops Transit System;Kamloops
+104832;Valleyview at Sunset (WB);WB_Valleyview_FS_Sunset;50.672329;-120.235599;KAM;Kamloops Transit System;Kamloops
+104838;Sifton at 2240 Blk (WB);WB_Sifton_AT_2240_Blk;50.640039;-120.35113;KAM;Kamloops Transit System;Kamloops
+104855;Tranquille (WB);WB_Tranquille;50.699035;-120.363927;KAM;Kamloops Transit System;Kamloops
+104873;Lansdowne Exchange Bay A;Lansdowne_Exchange_Bay_A;50.676874;-120.326531;KAM;Kamloops Transit System;Kamloops
+151038;Munro at 8 Ave (EB);EB_Munro_FS_8 Ave;50.666801;-120.321093;KAM;Kamloops Transit System;Kamloops
+151037;South Sa-Hali Elem (WB);WB_South Sa_Hali Elem;50.656685;-120.338179;KAM;Kamloops Transit System;Kamloops
+151036;Tranquille at Barrie (EB);EB_Tranquille_NS_Barrie;50.701135;-120.375298;KAM;Kamloops Transit System;Kamloops
+151035;Interior Health at 5th (EB);EB_Interior Health_NS_5th;50.669144;-120.330363;KAM;Kamloops Transit System;Kamloops
+151043;12th at Barrie Dr (SB);SB_12th_NS_Barrie Dr;50.699719;-120.372712;KAM;Kamloops Transit System;Kamloops
+151039;Tranquille at Poplar (SB);SB_Tranquille_FS_Poplar;50.695201;-120.360469;KAM;Kamloops Transit System;Kamloops
+151041;6 Ave at Nicola (NB);NB_6 Ave_FS_Nicola;50.672516;-120.327098;KAM;Kamloops Transit System;Kamloops
+151042;6 Ave at Columbia (SB);SB_6 Ave_NS_Columbia;50.672016;-120.327219;KAM;Kamloops Transit System;Kamloops
+151040;Tranquille at 8th (WB);WB_Tranquille_FS_8th ;50.699702;-120.364519;KAM;Kamloops Transit System;Kamloops

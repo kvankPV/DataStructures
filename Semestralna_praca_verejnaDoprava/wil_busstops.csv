@@ -1,0 +1,76 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+186000;Indian Dr at Sugar Cane Band Office (WB);WB_Indian Dr_AT_Sugar Cane Band Office;52.108349;-121.991952;WIL;Williams Lake Transit System;Williams Lake 1
+186001;Broadway Ave S at Signal Point Rd (WB);WB_Broadway Ave S_AT_Signal Point Rd;52.122485;-122.097071;WIL;Williams Lake Transit System;Williams Lake
+186002;Lakeview at Summit (NB);NB_Lakeview_FS_Summit;52.130847;-122.128567;WIL;Williams Lake Transit System;Williams Lake
+186003;11th Ave N at Smedley (WB);WB_11th Ave N_NS_Smedley;52.142229;-122.138074;WIL;Williams Lake Transit System;Williams Lake
+186004;Broadway Ave N at Carson (NB);NB_Broadway Ave N_NS_Carson;52.137613;-122.134808;WIL;Williams Lake Transit System;Williams Lake
+186005;Broadway Ave N at Heartland Toyota (NB);NB_Broadway Ave N_AT_Heartland Toyota;52.132113;-122.130451;WIL;Williams Lake Transit System;Williams Lake
+186006;Lakeview at Windmill Cres (NB);NB_Lakeview_FS_Windmill Cres;52.128271;-122.126854;WIL;Williams Lake Transit System;Williams Lake
+186007;Broadway Ave S at Lakeview Cres (WB);WB_Broadway Ave S_NS_Lakeview Cres;52.126473;-122.123831;WIL;Williams Lake Transit System;Williams Lake
+186008;Broadway Ave S at Coleman (WB);WB_Broadway Ave S_FS_Coleman;52.124327;-122.116241;WIL;Williams Lake Transit System;Williams Lake
+186009;Broadway Ave S at Rowat (WB);WB_Broadway Ave S_FS_Rowat;52.123377;-122.11242;WIL;Williams Lake Transit System;Williams Lake
+186010;Broadway Ave S at Exshaw Cres (WB);WB_Broadway Ave S_FS_Exshaw Cres;52.122651;-122.105624;WIL;Williams Lake Transit System;Williams Lake
+186011;Broadway Ave S at 1640 Blk (WB);WB_Broadway Ave S_AT_1640 Blk;52.122425;-122.101598;WIL;Williams Lake Transit System;Williams Lake
+186012;Broadway Ave S at Museum (WB);WB_Broadway Ave S_AT_Museum;52.122478;-122.098879;WIL;Williams Lake Transit System;Williams Lake
+186013;Smedley at 9th (WB);WB_Smedley_NS_9th ;52.141877;-122.139905;WIL;Williams Lake Transit System;Williams Lake
+186014;9th at Smedley (SB);SB_9th_FS_Smedley;52.141003;-122.14019;WIL;Williams Lake Transit System;Williams Lake
+186015;9th at McKinnon (SB);SB_9th_NS_McKinnon;52.138516;-122.136788;WIL;Williams Lake Transit System;Williams Lake
+186016;Carson Dr at Lake City School (SB);SB_Carson Dr_AT_Lake City School;52.135607;-122.138559;WIL;Williams Lake Transit System;Williams Lake
+186017;5th at Proctor (SB);SB_5th_NS_Proctor;52.132569;-122.140405;WIL;Williams Lake Transit System;Williams Lake
+186018;Proctor at 4th (WB);WB_Proctor_FS_4th;52.131932;-122.142056;WIL;Williams Lake Transit System;Williams Lake
+186020;3rd at Borland (SB);SB_3rd_NS_Borland;52.130563;-122.142707;WIL;Williams Lake Transit System;Williams Lake
+186019;3rd at Yorston (SB);SB_3rd_NS_Yorston;52.127648;-122.142452;WIL;Williams Lake Transit System;Williams Lake
+186021;Yorston at 3rd (EB);EB_Yorston_FS_3rd;52.126597;-122.14179;WIL;Williams Lake Transit System;Williams Lake
+186022;4th at Oliver (NB);NB_4th_NS_Oliver;52.128028;-122.140286;WIL;Williams Lake Transit System;Williams Lake
+186023;4th at Oliver (SB);SB_4th_FS_Oliver;52.128123;-122.140464;WIL;Williams Lake Transit System;Williams Lake
+186046;2nd Ave N at Borland (NB);NB_2nd Ave N_FS_Borland;52.130125;-122.143822;WIL;Williams Lake Transit System;Williams Lake
+186047;2nd Ave N at 252nd Blk (NB);NB_2nd Ave N_AT_252nd Blk;52.132136;-122.144682;WIL;Williams Lake Transit System;Williams Lake
+186048;2nd Ave N at Cameron (NB);NB_2nd Ave N_FS_Cameron;52.133375;-122.145576;WIL;Williams Lake Transit System;Williams Lake
+186049;2nd Ave N at Gibbon (NB);NB_2nd Ave N_FS_Gibbon;52.137869;-122.149687;WIL;Williams Lake Transit System;Williams Lake
+186050;2nd Ave N at Dodwell (NB);NB_2nd Ave N_FS_Dodwell;52.140838;-122.152424;WIL;Williams Lake Transit System;Williams Lake
+186051;2nd Ave N at Litzenburg Cres (NB);NB_2nd Ave N_FS_Litzenburg Cres;52.143048;-122.155617;WIL;Williams Lake Transit System;Williams Lake
+186052;2nd Ave N at Boundary (NB);NB_2nd Ave N_FS_Boundary ;52.143912;-122.157661;WIL;Williams Lake Transit System;Williams Lake
+186053;2nd Ave N at 1156 Blk (NB);NB_2nd Ave N_AT_1156 Blk;52.145644;-122.160088;WIL;Williams Lake Transit System;Williams Lake
+186054;Pine at MacKenzie Ave N (SB);SB_Pine_NS_MacKenzie Ave N;52.146548;-122.163428;WIL;Williams Lake Transit System;Williams Lake
+186055;Maple at MacKenzie Ave N (NB);NB_Maple_FS_MacKenzie Ave N;52.14734;-122.166529;WIL;Williams Lake Transit System;Williams Lake
+186056;2nd at Maple (EB);EB_2nd_FS_Maple;52.147549;-122.165405;WIL;Williams Lake Transit System;Williams Lake
+186057;Dairy at 3rd Ave N (EB);EB_Dairy_FS_3rd Ave N;52.146776;-122.159485;WIL;Williams Lake Transit System;Williams Lake
+186031;Hodgson at 351 Blk (EB);EB_hodgson_AT_351 Blk;52.11331;-122.13748;WIL;Williams Lake Transit System;Williams Lake
+186032;S Lakeside at Hodgson (EB);EB_S Lakeside_FS_Hodgson;52.116357;-122.130529;WIL;Williams Lake Transit System;Williams Lake
+186033;Prosperity Way at 1185 Blk (EB);EB_Prosperity Way_AT_1185 Blk;52.113612;-122.125384;WIL;Williams Lake Transit System;Williams Lake
+186034;Prosperity Way at 1205 Blk (WB);WB_Prosperity Way_AT_1205 Blk;52.113409;-122.122302;WIL;Williams Lake Transit System;Williams Lake
+186035;S Lakeside at 1413 Blk (EB);EB_S Lakeside_AT_1413 Blk;52.112826;-122.114443;WIL;Williams Lake Transit System;Williams Lake
+186036;S Lakeside at Paxton (EB);EB_Lakeside_NS_Paxton;52.112106;-122.107146;WIL;Williams Lake Transit System;Williams Lake
+186037;Juniper at Birch Hill (EB);EB_Juniper_FS_Birch Hill;52.10891;-122.103384;WIL;Williams Lake Transit System;Williams Lake
+186038;Juniper at Holly (EB);EB_Juniper_NS_Holly;52.108662;-122.096876;WIL;Williams Lake Transit System;Williams Lake
+186039;Renner at 1815 Blk (EB);EB_Renner Rd_AT_1815 Blk;52.109725;-122.09332;WIL;Williams Lake Transit System;Williams Lake
+186040;S Lakeside at Renner (WB);WB_S Lakeside_FS_Renner;52.111006;-122.093367;WIL;Williams Lake Transit System;Williams Lake
+186041;S Lakeside at 1615 Blk (WB);WB_S Lakeside_AT_1615 Blk;52.111117;-122.101741;WIL;Williams Lake Transit System;Williams Lake
+186042;S Lakeside at Paxton (WB);WB_S Lakeside_FS_Paxton;52.112433;-122.107414;WIL;Williams Lake Transit System;Williams Lake
+186043;S Lakeside at Hodgson (WB);WB_S Lakeside_NS_Hodgson;52.116706;-122.130564;WIL;Williams Lake Transit System;Williams Lake
+186044;Yorston at 3rd (WB);WB_Yorston_NS_3rd Ave S;52.126852;-122.141896;WIL;Williams Lake Transit System;Williams Lake
+186045;2nd at Yorston (NB);NB_2nd_FS_Yorston;52.127361;-122.143734;WIL;Williams Lake Transit System;Williams Lake
+186058;Dairy at Oak Pl (NB);NB_Dairy_FS_Oak Place;52.149053;-122.159437;WIL;Williams Lake Transit System;Williams Lake
+186059;Midnight at Atwood Pl (NB);NB_Midnight Dr_FS_Atwood Pl;52.150544;-122.157386;WIL;Williams Lake Transit System;Williams Lake
+186060;Western at Midnight (EB);EB_Western_FS_Midnight Dr;52.15106;-122.156201;WIL;Williams Lake Transit System;Williams Lake
+186061;Blair at Western (EB);EB_Blair_FS_Western ;52.149094;-122.152752;WIL;Williams Lake Transit System;Williams Lake
+186062;11th at Blair (EB);EB_11th Ave N_FS_Blair;52.150413;-122.149444;WIL;Williams Lake Transit System;Williams Lake
+186063;11th at 12th (EB);EB_11th Ave N_FS_12th;52.147569;-122.14577;WIL;Williams Lake Transit System;Williams Lake
+186064;11th at Kinsmen Park (EB);EB_11th Ave N_AT_Kinsmen Park;52.145437;-122.142859;WIL;Williams Lake Transit System;Williams Lake
+186024;8th Ave N at Borland (NB);NB_8th Ave N_NS_Borland;52.129239;-122.133125;WIL;Williams Lake Transit System;Williams Lake
+186025;Borland at 7th (WB);WB_Borland_NS_7th;52.129792;-122.134423;WIL;Williams Lake Transit System;Williams Lake
+186026;Hwy 20 at Fairview (WB);WB_Hwy 20_FS_Fairview;52.112622;-122.143378;WIL;Williams Lake Transit System;Williams Lake
+186027;Westridge at Eagle Cres (NB);NB_Westridge_FS_Eagle Cres;52.116502;-122.160768;WIL;Williams Lake Transit System;Williams Lake
+186028;Westridge at 100 Blk (NB);NB_Westridge_AT_100 Blk;52.118315;-122.159594;WIL;Williams Lake Transit System;Williams Lake
+186029;Hodgson at Dog Creek (EB);EB_Hodgson_FS_Dog Creek Rd;52.111727;-122.148938;WIL;Williams Lake Transit System;Williams Lake
+186030;Wotzke Dr FS Terra Ridge (EB);EB_Wotzke Dr_FS_Terra Ridge;52.111552;-122.141505;WIL;Williams Lake Transit System;Williams Lake
+186065;Huston at 10th (WB);WB_Huston_FS_10th Ave N;52.143764;-122.142368;WIL;Williams Lake Transit System;Williams Lake
+186066;Western at Pigeon (WB);WB_Western_NS_Pigeon;52.143968;-122.145876;WIL;Williams Lake Transit System;Williams Lake
+186067;Pigeon at Patenaude (SB);SB_Pigeon_NS_Patenaude Dr;52.142528;-122.148626;WIL;Williams Lake Transit System;Williams Lake
+186068;Pigeon at Broughton (SB);SB_Pigeon_FS_Broughton Pl;52.140513;-122.149089;WIL;Williams Lake Transit System;Williams Lake
+186069;4th at McDougal (SB);SB_4th_FS_McDougal;52.139669;-122.147761;WIL;Williams Lake Transit System;Williams Lake
+186070;4th at Gibbon (SB);SB_4th Ave N_FS_Gibbon;52.137834;-122.146351;WIL;Williams Lake Transit System;Williams Lake
+186071;4th at Comer (SB);SB_4th Ave N_FS_Comer;52.135711;-122.144442;WIL;Williams Lake Transit System;Williams Lake
+186072;4th at Proctor (SB);SB_4th Ave N_NS_Proctor;52.132662;-122.142;WIL;Williams Lake Transit System;Williams Lake
+186073;7th at Oliver (SB);SB_7th Ave N_NS_Oliver;52.129162;-122.136346;WIL;Williams Lake Transit System;Williams Lake
+186074;Broadway Ave N at Hubble (NB);NB_Broadway Ave N_FS_Hubble;52.139959;-122.134653;WIL;Williams Lake Transit System;Williams Lake

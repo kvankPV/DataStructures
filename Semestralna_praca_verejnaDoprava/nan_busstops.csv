@@ -1,0 +1,848 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+104077;Pintail Dr at Johnstone (WB);WB_Pintail Dr_AT_Johnstone;49.35219;-124.37922;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104078;Pintail at Point Mercer Dr (WB);WB_Pintail_NS_Point Mercer Dr;49.352855;-124.382813;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104079;Pintail at Yambury Rd (WB);WB_Pintail_FS_Yambury Rd;49.353939;-124.388285;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104080;Pintail at Eaglecrest Dr (WB);WB_Pintail_NS_Eaglecrest Dr;49.354587;-124.392901;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104113;Eaglecrest farside Mallard (SB);SB_Eaglecrest_FS_Mallard;49.352011;-124.395144;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104115;Harlequin ACR Wood Duck Pl (WB);WB_Harlequin_ACR_Wood Duck Pl;49.350438;-124.394856;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+109999;Boban at Mostar (WB);WB_Boban_NS_Mostar;49.208698;-124.033292;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110000;Mostar at Boban (NB);NB_Mostar_FS_Boban;49.209441;-124.03502;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110001;Metral at Somerset (WB);WB_Metral_FS_Somerset;49.215574;-124.031391;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110002;Metral at Bergen Op Zoom (WB);WB_Metral_FS_Bergen Op Zoom;49.218062;-124.037363;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110003;Metral at Turner (NB);NB_Metral_FS_Turner;49.222023;-124.041445;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110004;Metral at Emporer (NB);NB_Metral_NS_Emporer;49.22489;-124.042822;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110005;Metral 6300 block (NB);NB_6300_block_Metral;49.229143;-124.04346;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110006;Metral at Enterprise (NB);NB_Metral_FS_Enterprise;49.231162;-124.043783;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110007;Metral 6530 block (NB);NB_6530_block_Metral;49.233008;-124.04813;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110008;Metral 6530 block (SB);SB_6530_block_Metral;49.232982;-124.048441;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110009;Metral at Enterprise (SB);SB_Metral_NS_Enterprise;49.231147;-124.044087;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110010;Metral 6300 block (SB);SB_6300_block_Metral;49.2291;-124.043662;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110011;Metral at Emporer (SB);SB_Metral_NS_Emporer;49.224996;-124.043016;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110012;Metral at Turner (SB);SB_Metral_FS_Turner;49.221415;-124.041276;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110013;Metral at Bergen Op Zoom (EB);EB_Metral_FS_Bergen Op Zoom;49.217712;-124.037034;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110014;Metral at Somerset (EB);EB_Metral_NS_Somerset;49.215445;-124.031391;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110015;Mostar at Dunster (SB);SB_Mostar_FS_Dunster;49.212973;-124.034612;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110016;Boban at Mostar (EB);EB_Boban_FS_Mostar;49.208576;-124.033549;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110118;Bruce at Weeks (SB);SB_Bruce_FS_Weeks;49.140451;-123.949812;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110119;9th St at Yee (WB);WB_9th St_FS_Yee;49.140009;-123.952991;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110120;Howard at Weber (NB);NB_Howard_FS_Weber;49.142593;-123.955436;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110121;Howard at 860 Block (NB);NB_Howard_AT_860 Blk;49.145131;-123.955373;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110122;Howard at 7th St (NB);NB_Howard_NS_7th St;49.147107;-123.955371;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110123;7th St at Georgia (EB);EB_7th St_NS_Georgia;49.147508;-123.953457;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110124;7th St at Bruce (EB);EB_7th St_NS_Bruce;49.147486;-123.950332;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110125;Bruce at Hewgate (NB);NB_Bruce_NS_Hewgate;49.149319;-123.949551;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110126;Bruce at 6th St (NB);NB_Bruce_NS_6th St;49.151068;-123.949502;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110127;Bruce at Duke (NB);NB_Bruce_FS_6th;49.151629;-123.949505;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110128;Bruce AT Dundas (SB);SB_Bruce_AT_Dundas;49.153117;-123.949684;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110129;Bruce at 6th St (SB);SB_Bruce_FS_6th St;49.150874;-123.9497;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110130;Bruce at Hewgate (SB);SB_Bruce_FS_Hewgate;49.149366;-123.949716;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110131;Bruce at 7th St (SB);SB_Bruce_NS_7th St;49.147904;-123.949727;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110132;7th St at Georgia (WB);WB_7th St_FS_Georgia;49.147608;-123.953721;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110133;Howard at Nova (SB);SB_Howard_FS_Nova;49.146445;-123.955515;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110134;Howard at 8th St (SB);SB_Howard_FS_8th St;49.143227;-123.955564;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110135;Howard at 9th St (SB);SB_Howard_NS_9th St;49.140393;-123.955585;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110136;9th St at Shelby Ann Ave (EB);EB_9th St_AT_Shelby_Ann Ave;49.139918;-123.952998;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110137;Bruce at Weeks (NB);NB_Bruce_NS_Weeks;49.140501;-123.949632;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110138;Bruce at Weber (NB);NB_Bruce_FS_Weber;49.143001;-123.949612;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110139;Park at Murray (NB);NB_Park_NS_Murray;49.144358;-123.943815;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110140;Park at 7th St (NB);NB_Park_NS_7th St;49.147277;-123.943809;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110141;Park at Honey (NB);NB_Park_NS_Honey;49.149415;-123.943795;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110142;Park at 6th St (NB);NB_Park_FS_6th St;49.151375;-123.943747;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110143;Park at 5th St (NB);NB_Park_FS_5th St;49.155552;-123.943694;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110144;Pine at Hamilton (NB);NB_Pine_FS_Hamilton;49.1585;-123.945236;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110145;Irwin at Esplanade (SB);SB_Irwin_FS_Esplanade;49.161694;-123.931648;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110146;Irwin at Milton (SB);SB_Irwin_NS_Milton;49.15817;-123.931429;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110147;Milton at Haliburton (WB);WB_Milton_FS_Haliburton;49.158005;-123.933207;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110148;Victoria at Kennedy (SB);SB_Victoria_AT_Kennedy;49.157309;-123.93567;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110149;Victoria at Pine (SB);SB_Victoria_FS_Pine;49.154913;-123.936102;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110150;Victoria at Needham (SB);SB_Victoria_NS_Needham;49.153587;-123.93635;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110255;Jingle Pot at Holland (WB);WB_Jingle Pot_FS_Holland;49.172151;-123.999969;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110256;Jingle Pot at East Wellington (WB);WB_Jingle Pot_NS_East Wellington;49.172406;-124.020993;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110260;Jingle Pot at Cavendish (NB);NB_Jingle Pot_NS_Cavendish;49.200499;-124.035131;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110261;Jingle Pot at Monterey (SB);SB_Jingle Pot_NS_Monterey;49.199837;-124.034874;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110265;Jingle Pot at East Wellington (EB);EB_Jingle Pot_FS_East Wellington;49.172286;-124.020753;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110266;Jingle Pot at Holland (EB);EB_Jingle Pot_NS_Holland;49.172056;-123.999887;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110267;Wright at Reid (EB);EB_Wright_NS_Reid;49.339164;-124.355034;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110271;Temple at Chinook (SB);SB_Temple_NS_Chinook;49.333739;-124.335217;NAN;Regional District of Nanaimo Transit System;Parksville
+110272;Temple at Soriel (SB);SB_Temple_FS_Soriel;49.331462;-124.333107;NAN;Regional District of Nanaimo Transit System;Parksville
+110273;Doehle at Allwood (WB);WB_Doehle_NS_Allwood;49.330215;-124.332713;NAN;Regional District of Nanaimo Transit System;Parksville
+110274;Doehle at Tranfield (WB);WB_Doehle_FS_Tranfield;49.330194;-124.335738;NAN;Regional District of Nanaimo Transit System;Parksville
+110275;Pym St N 440 block (SB);SB_440_block_Pym St N;49.329202;-124.337949;NAN;Regional District of Nanaimo Transit System;Parksville
+110276;Pym St N at Brice (SB);SB_Pym St N_NS_Brice;49.325838;-124.337896;NAN;Regional District of Nanaimo Transit System;Parksville
+110017;Jingle Pot at Elmwood (EB);EB_Jingle Pot_FS_Elmwood;49.205825;-124.027006;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110018;Jingle Pot at Sloan (EB);EB_Jingle Pot_FS_Sloan;49.204455;-124.022544;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110019;Labieux at Black Franks (EB);EB_Labieux_FS_Black Franks;49.199903;-124.015882;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110020;Labieux at Troy Anne (EB);EB_Labieux_FS_Troy Anne;49.199146;-124.009378;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110021;Labieux at Autumnwood (EB);EB_Labieux_NS_Autumnwood;49.199122;-124.003893;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110022;Bowen 2320 block (EB);EB_2320_block_Bowen;49.195793;-123.995377;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110023;Bowen at Northfield (SB);SB_Bowen_FS_Northfield;49.191566;-123.991825;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110024;Bowen at Fern (SB);SB_Bowen_FS_Fern;49.18985;-123.98972;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110025;Meredith at Robbie (EB);EB_Meredith_FS_Robbie;49.18822;-123.986434;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110026;Meredith at Forest (EB);EB_Meredith_NS_Forest;49.188205;-123.980942;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110027;Meredith at Thunderbird (EB);EB_Meredith_FS_Thunderbird;49.188191;-123.973806;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110030;Boundary at Nightingale (SB);SB_Boundary_NS_Nightingale;49.185667;-123.972458;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110031;Dufferin at Boundary (EB);EB_Dufferin_FS_Boundary;49.183132;-123.971807;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110032;Dufferin at Seafield (EB);EB_Dufferin_FS_Seafield;49.183701;-123.969187;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110033;Dufferin at Grant (EB);EB_Dufferin_NS_Grant;49.184369;-123.96681;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110034;Waddington at Oakley (SB);SB_Waddington_FS_Oakley;49.183428;-123.962796;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110035;Waddington at St George (SB);SB_Waddington_NS_St George;49.181529;-123.963275;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110036;Townsite at Waddington (WB);WB_Townsite_FS_Waddington;49.179135;-123.965346;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110037;Pryde at White (SB);SB_Pryde_FS_White;49.178356;-123.972554;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110151;Victoria at Rainer (SB);SB_Victoria_NS_Rainer;49.149713;-123.937015;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110152;Victoria at Seventh (SB);SB_Victoria_NS_Seventh;49.14806;-123.937341;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110153;Old Victoria at Bowlsby (EB);EB_Old Victoria_NS_Bowlsby;49.140921;-123.930359;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110154;Old Victoria at McKenzie (SB);SB_Old Victoria_NS_McKenzie;49.139195;-123.928535;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110155;Old Victoria at Melideo (EB);EB_Old Victoria_FS_Melideo;49.137423;-123.925763;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110156;Old Victoria at 1100 Block (SB);SB_Old Victoria_AT_1100 Blk;49.13573;-123.923051;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110157;Lawlor at 11th St (SB);SB_Lawlor_NS_11th St;49.130013;-123.924011;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110158;11th St 40 block (WB);WB_40_block_11th St;49.130206;-123.922715;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110159;Cranberry at Cassidy (SB);SB_Cranberry_FS_Cassidy;49.126099;-123.92002;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110160;Extension at Cranberry (SB);SB_Extension_FS_Cranberry;49.123431;-123.920702;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110277;Pym St N at Forsyth (SB);SB_Pym St N_FS_Forsyth;49.323315;-124.337946;NAN;Regional District of Nanaimo Transit System;Parksville
+110278;Morison at Ballenas (EB);EB_Morison_FS_Ballenas;49.321129;-124.334723;NAN;Regional District of Nanaimo Transit System;Parksville
+110279;Morison at Acacia St N (EB);EB_Morison_FS_Acacia St N;49.321075;-124.330956;NAN;Regional District of Nanaimo Transit System;Parksville
+110280;Finholm St S at Morison (SB);SB_Finholm St S_FS_Morison;49.320843;-124.328774;NAN;Regional District of Nanaimo Transit System;Parksville
+110281;Finholm St S at Hirst Ave W (SB);SB_Finholm St S_NS_Hirst Ave W;49.319449;-124.328787;NAN;Regional District of Nanaimo Transit System;Parksville
+110282;Chestnut at Mulberry (SB);SB_Chestnut_FS_Mulberry;49.31591;-124.333128;NAN;Regional District of Nanaimo Transit System;Parksville
+110283;Despard at Moilliet St S (EB);EB_Despard_NS_Moilliet St S;49.311986;-124.32422;NAN;Regional District of Nanaimo Transit System;Parksville
+110284;Moilliet St S at Harnish (NB);NB_Moilliet St S_FS_Harnish;49.316009;-124.323556;NAN;Regional District of Nanaimo Transit System;Parksville
+110285;Moilliet St S at Jensen Ave W (NB);NB_Moilliet St S_NS_Jensen Ave W;49.317631;-124.323566;NAN;Regional District of Nanaimo Transit System;Parksville
+110286;Moilliet St S at Jensen Ave W (NB);NB_Moilliet St S_FS_Jensen Ave W;49.319039;-124.323511;NAN;Regional District of Nanaimo Transit System;Parksville
+110287;Hirst Ave W 330 block (EB);EB_330_block_Hirst Ave W;49.319159;-124.320754;NAN;Regional District of Nanaimo Transit System;Parksville
+110288;McMillan at Harrison (NB);NB_McMillan_NS_Harrison;49.320284;-124.316558;NAN;Regional District of Nanaimo Transit System;Parksville
+110289;McMillan at Island Hwy W (NB);NB_McMillan_NS_Island Hwy W;49.321571;-124.31662;NAN;Regional District of Nanaimo Transit System;Parksville
+110290;Island Hwy E at McCarter (EB);EB_Island Hwy E_NS_McCarter;49.320601;-124.311175;NAN;Regional District of Nanaimo Transit System;Parksville
+110291;Island Hwy E at Corfield (EB);EB_Island Hwy E_FS_Corfield;49.320033;-124.306676;NAN;Regional District of Nanaimo Transit System;Parksville
+110292;Island Hwy E at Bagshaw (EB);EB_Island Hwy E_FS_Bagshaw;49.319252;-124.303609;NAN;Regional District of Nanaimo Transit System;Parksville
+110038;Bowen at Buttertubs (EB);EB_Bowen_FS_Buttertubs;49.176319;-123.966322;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110039;Bowen at Wakesiah (EB);EB_Bowen_FS_Wakesiah;49.173057;-123.960339;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110040;Bowen at Howard (EB);EB_Bowen_FS_Howard;49.171093;-123.954825;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110041;Comox at Kennedy (EB);EB_Comox_NS_Kennedy;49.170311;-123.948876;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110042;Comox at Prideaux (EB);EB_Comox_FS_Prideaux;49.170183;-123.944707;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110161;Extension at Roberta Rd E (SB);SB_Extension_FS_Roberta Rd E;49.119538;-123.922925;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110162;Extension at Lenwood (SB);SB_Extension_FS_Lenwood;49.117067;-123.924256;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110163;Extension at Country Hills (SB);SB_Extension_FS_Country Hills;49.112881;-123.928515;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110164;Cinnabar at Ranchview (SB);SB_Cinnabar_NS_Ranchview;49.109203;-123.932096;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110165;Cinnabar at Tait (SB);SB_Cinnabar_FS_Tait;49.107549;-123.932113;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110166;Cinnabar at Stacey (SB);SB_Cinnabar_NS_Stacey;49.104419;-123.932165;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110167;Stacey at Stannard (EB);EB_Stacey_NS_Stannard;49.104017;-123.929999;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110168;Stacey at Szasz (NB);NB_Stacey_NS_Szasz;49.105464;-123.927446;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110169;Porter at Richardson (EB);EB_Porter_NS_Richardson;49.105037;-123.923943;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110170;Richardson at Torkko (NB);NB_Richardson_FS_Torkko;49.106641;-123.924712;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110171;Richardson at Ranchview (WB);WB_Richardson_NS_Ranchview;49.10947;-123.926603;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110172;Richardson at Extension (NB);NB_Richardson_NS_Extension;49.111754;-123.928478;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110173;Extension at Rajeena (NB);NB_Extension_NS_Rajeena;49.113758;-123.927144;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110174;Extension at Lenwood (EB);EB_Extension_FS_Lenwood;49.117295;-123.92358;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110175;Extension at Roberta Rd E (NB);NB_Extension_NS_Roberta Rd E;49.119336;-123.922677;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110176;Cranberry at Extension (NB);NB_Cranberry_FS_Extension;49.124267;-123.919847;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110177;Cedar at Nanaimo (EB);EB_Cedar_FS_Nanaimo;49.124611;-123.915084;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110178;Cedar at Fielding (EB);EB_Cedar_NS_Fielding;49.123408;-123.911339;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110179;Cedar at Frew (EB);EB_Cedar_FS_Frew;49.12062;-123.903511;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110180;Cedar at Clifford (EB);EB_Cedar_NS_Clifford;49.119305;-123.889556;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110181;Cedar at Wilkinson (EB);EB_Cedar_NS_Wilkinson;49.11617;-123.88152;NAN;Regional District of Nanaimo Transit System;Nanaimo River
+110182;Cedar at Torberg (EB);EB_Cedar_NS_Torberg;49.114299;-123.874618;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110183;Cedar at Gerrand (EB);EB_Cedar_NS_Gerrand;49.113068;-123.870788;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110184;Cedar at MacMillan (SB);SB_Cedar_FS_MacMillan;49.111738;-123.868742;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110185;Cedar at Burchell (SB);SB_Cedar_FS_Burchell;49.108905;-123.865343;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110186;Cedar at Brix (EB);EB_Cedar_FS_Brix;49.106681;-123.861724;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110187;Cedar at Hemer (SB);SB_Cedar_FS_Hemer;49.104497;-123.859533;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110188;Cedar at Morland (EB);EB_Cedar_FS_Morland;49.100774;-123.854795;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110189;Cedar at Woobank (EB);EB_Cedar_NS_Woobank;49.098978;-123.851794;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110190;Cedar at Gould Rd W (SB);SB_Cedar_NS_Gould Rd W;49.095982;-123.850557;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110191;Gould Rd W at Yellow Point (EB);EB_Gould Rd W_NS_Yellow Point;49.095597;-123.847627;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110192;Yellow Point at Gould Rd E (WB);WB_Yellow Point_FS_Gould Rd E;49.09691;-123.848111;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110293;McVickers at Island Hwy E (SB);SB_McVickers_FS_Island Hwy E;49.31853;-124.302618;NAN;Regional District of Nanaimo Transit System;Parksville
+110294;McVickers at Stanford Ave E (SB);SB_McVickers_NS_Stanford Ave E;49.316598;-124.302584;NAN;Regional District of Nanaimo Transit System;Parksville
+110295;Stanford Ave E at Bagshaw (WB);WB_Stanford Ave E_FS_Bagshaw;49.315802;-124.304679;NAN;Regional District of Nanaimo Transit System;Parksville
+110296;Corfield 270 block (NB);NB_270_block_Corfield;49.316049;-124.30697;NAN;Regional District of Nanaimo Transit System;Parksville
+110297;Corfield at Jensen Ave E (NB);NB_Corfield_NS_Jensen Ave E;49.317613;-124.307018;NAN;Regional District of Nanaimo Transit System;Parksville
+110298;Jensen Ave E at McCarter (WB);WB_Jensen Ave E_NS_McCarter;49.318377;-124.309416;NAN;Regional District of Nanaimo Transit System;Parksville
+110299;Jensen Ave E at Craig (WB);WB_Jensen Ave E_NS_Craig;49.318496;-124.311428;NAN;Regional District of Nanaimo Transit System;Parksville
+110300;Mary Ellen 6690 block (SB);SB_6690_block_Mary Ellen;49.239455;-124.05465;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110304;Island Hwy N at Mallard Way (WB);WB_Island Hwy N_FS_Mallard Way;49.251682;-124.131457;NAN;Regional District of Nanaimo Transit System;Nanoose
+110307;Northwest Bay 3190 block (NB);NB_3190_block_Northwest Bay;49.264164;-124.198932;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110308;Northwest Bay at Apollo (NB);NB_Northwest Bay_FS_Apollo;49.272987;-124.192355;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110309;Northwest Bay at Cross (NB);NB_Northwest Bay_NS_Cross;49.276717;-124.190678;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110310;Northwest Bay at 2610 Blk (NB);NB_Northwest Bay_AT_2610 Blk;49.282979;-124.188376;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110311;Northwest Bay at Stewart (WB);WB_Northwest Bay_FS_Stewart;49.287092;-124.18955;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110312;Northwest Bay at Claudet (WB);WB_Northwest Bay_FS_Claudet;49.287496;-124.194696;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110313;Northwest Bay at Delanice (WB);WB_Northwest Bay_FS_Delanice;49.288442;-124.199004;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110314;Northwest Bay at Sanders (WB);WB_Northwest Bay_NS_Sanders;49.289939;-124.21319;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110315;Northwest Bay at Wall Beach (WB);WB_Northwest Bay_FS_Wall Beach;49.297688;-124.225577;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110063;Fitzwilliam at MacHleary (WB);WB_Fitzwilliam_FS_MacHleary;49.163713;-123.948909;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110064;Bruce at 4th St (SB);SB_Bruce_FS_4th St;49.158619;-123.949614;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110065;Bruce at Albion (SB);SB_Bruce_FS_Albion;49.156655;-123.949687;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110066;5th St at Georgia (WB);WB_5th St_NS_Georgia;49.155244;-123.951874;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110068;5th St at Hillcrest (WB);WB_5th St_NS_Hillcrest;49.155238;-123.959555;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110069;Wakesiah at Queen (NB);NB_Wakesiah_FS_Queen;49.15745;-123.96105;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110070;VIU Exchange Bay C;VIU_Exchange_Bay_C;49.158196;-123.966518;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110071;VIU Exchange Bay A;VIU_Exchange_Bay_A;49.157898;-123.966783;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110072;Wakesiah at Foster (NB);NB_Wakesiah_FS_Foster;49.161283;-123.961073;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110073;Wakesiah at Beaconsfield (NB);NB_Wakesiah_FS_Beaconsfield;49.164873;-123.960958;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110074;Wakesiah 160 block (NB);NB_160_block_Wakesiah;49.168118;-123.960937;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110075;Wakesiah 120 block (NB);NB_120_block_Wakesiah;49.169894;-123.960916;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110076;Bowen at Caspers (WB);WB_Bowen_NS_Caspers;49.17835;-123.97351;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110482;Wakesiah at Queen (SB);SB_Wakesiah_NS_Queen;49.15781;-123.96125;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110483;5th St at Hillcrest (EB);EB_5th St_FS_Hillcrest;49.155136;-123.959529;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110484;5th St at Calverley (EB);EB_5th St_NS_Calverley;49.155109;-123.954555;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110485;5th St at Shepherd (EB);EB_5th St_FS_Shepherd;49.155076;-123.950877;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110486;Bruce at Albion (NB);NB_Bruce_NS_Albion;49.156628;-123.949479;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110487;Bruce at 4th St (NB);NB_Bruce_FS_4th St;49.159202;-123.949463;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110488;Fitzwilliam at MacHleary (EB);EB_Fitzwilliam_NS_MacHleary;49.163612;-123.94874;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110489;107th St at Victoria (NB);NB_107th St_FS_Victoria;49.207139;-124.00782;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110490;Bowen at Kenworth (SB);SB_Bowen_NS_Kenworth;49.203024;-124.001433;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110491;Bowen at Labieux (SB);SB_Bowen_FS_Labieux;49.199348;-123.998868;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110492;Mostar at Boban (SB);SB_Mostar_FS_Boban;49.207879;-124.035341;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110494;3rd St at Hillcrest (EB);EB_3rd St_FS_Hillcrest;49.162716;-123.959248;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110495;East Wellington 2450 block (SB);SB_2450_block_East Wellington;49.178331;-124.014049;NAN;Regional District of Nanaimo Transit System;Nanaimo C
+110496;Island Hwy E 2320 block (WB);WB_2320_block_Island Hwy E;49.263911;-124.201755;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110497;Bastion at Skinner (WB);WB_Bastion_NS_Skinner;49.166447;-123.93751;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110498;Wakesiah 170 block (SB);SB_170_block_Wakesiah;49.167785;-123.961097;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110499;Collishaw at Uplands (SB);SB_Collishaw_FS_Uplands;49.21668;-124.015972;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110193;Cedar at Woobank (WB);WB_Cedar_NS_Woobank;49.098967;-123.85158;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110194;Woobank at Ara (NB);NB_Woobank_NS_Ara;49.102139;-123.850258;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110195;Woobank at Blue Jay (NB);NB_Woobank_NS_Blue Jay;49.105331;-123.850285;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110522;Prideaux Street Exchange Bay B;Prideaux_Street_Exchange_Bay_B;49.164226;-123.943405;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110500;Wakesiah 110 block (SB);SB_110_block_Wakesiah;49.170019;-123.961098;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110501;Bowen at Cienar (NB);NB_Bowen_NS_Cienar;49.200996;-123.999862;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110503;4th St at Howard (EB);EB_4th St_FS_Howard;49.158901;-123.954849;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110504;Dover at Invermere (WB);WB_Dover_NS_Invermere;49.24155;-124.034341;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110505;Bastion at Skinner (EB);EB_Bastion_FS_Skinner;49.166291;-123.937544;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110506;Pym St N at Morison (SB);SB_Pym St N_NS_Morison;49.321304;-124.337956;NAN;Regional District of Nanaimo Transit System;Parksville
+110507;Jensen Ave W at McMillan (WB);WB_Jensen Ave W_NS_McMillan;49.318544;-124.316114;NAN;Regional District of Nanaimo Transit System;Parksville
+110508;Prideaux Street Exchange Bay A;Prideaux_Street_Exchange_Bay_A;49.164142;-123.943316;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110509;Prideaux Street Exchange Bay E;Prideaux_Street_Exchange_Bay_E;49.164522;-123.943812;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110510;Prideaux Street Exchange Bay F;Prideaux_Street_Exchange_Bay_F;49.164624;-123.943912;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110511;Country Club Exchange Bay F;Country_Club_Exchange_Bay_F;49.206519;-124.003332;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110512;Country Club Exchange Bay E;Country_Club_Exchange_Bay_E;49.206659;-124.003663;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110513;Country Club Exchange Bay D;Country_Club_Exchange_Bay_D;49.206756;-124.003872;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110514;Country Club Exchange Bay C;Country_Club_Exchange_Bay_C;49.206893;-124.004192;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110515;Country Club Exchange Bay B;Country_Club_Exchange_Bay_B;49.20699;-124.004417;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110516;Country Club Exchange Bay A;Country_Club_Exchange_Bay_A;49.207188;-124.004912;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110517;Woodgrove Centre Exchange Bay B;Woodgrove_Centre_Exchange_Bay_B;49.237016;-124.053345;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110518;Woodgrove Centre Exchange Bay A;Woodgrove_Centre_Exchange_Bay_A;49.23675;-124.052907;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110519;VIU Exchange Bay B;VIU_Exchange_Bay_B;49.158108;-123.966351;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110520;VIU Exchange Bay D;VIU_Exchange_Bay_D;49.158302;-123.966551;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110521;Prideaux Street Exchange Bay D;Prideaux_Street_Exchange_Bay_D;49.164303;-123.943504;NAN;Regional District of Nanaimo Transit System;Nanaimo
+800023;Prideaux Street Exchange;Prideaux Street Exchange;49.164541;-123.943793;NAN;Regional District of Nanaimo Transit System;Nanaimo
+800024;Country Club Exchange;Country Club Exchange;49.207066;-124.004502;NAN;Regional District of Nanaimo Transit System;Nanaimo
+800025;Woodgrove Centre Exchange;Woodgrove Centre Exchange;49.23662;-124.052712;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104057;Wembley at Roberton Blvd (WB);WB_Wembley_AT_Roberton Blvd;49.329856;-124.346369;NAN;Regional District of Nanaimo Transit System;Parksville
+110196;Woobank at Starling (NB);NB_Woobank_FS_Starling;49.110154;-123.850167;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110197;Woobank at Holden Corso (NB);NB_Woobank_NS_Holden Corso;49.115435;-123.850385;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110198;Holden Corso at Canin (WB);WB_Holden Corso_NS_Canin;49.115534;-123.855887;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110199;Holden Corso at MacMillan (WB);WB_Holden Corso_NS_MacMillan;49.115565;-123.863382;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110200;MacMillan at Duke Point (NB);NB_MacMillan_FS_Duke Point;49.117983;-123.865769;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+110201;Cedar at Wilkinson (WB);WB_Cedar_FS_Wilkinson;49.116307;-123.881687;NAN;Regional District of Nanaimo Transit System;Nanaimo River
+110202;Cedar at Clifford (WB);WB_Cedar_NS_Clifford;49.119139;-123.888917;NAN;Regional District of Nanaimo Transit System;Nanaimo River
+104058;Island highway W at Wembley Mall (SB);SB_800 block_Island Highway W ;49.330994;-124.344331;NAN;Regional District of Nanaimo Transit System;Parksville
+104059;Island Highway W at Wembley Mall (NB);NB_800 block_Island Highway W;49.331862;-124.344874;NAN;Regional District of Nanaimo Transit System;Parksville
+110077;Bowen at East Wellington (WB);WB_Bowen_FS_East Wellington;49.180913;-123.978448;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110078;Bowen at Townsite (NB);NB_Bowen_FS_Townsite;49.182688;-123.980927;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110079;Bowen at James (NB);NB_Bowen_NS_James;49.184896;-123.983466;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110080;Bowen at Meredith (WB);WB_Bowen_AT_Meredith;49.187705;-123.986422;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110081;Rosstown at Whitney (NB);NB_Rosstown_NS_Whitney;49.195647;-123.997392;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110082;Rosstown at Woodside (WB);WB_Rosstown_FS_Woodside;49.196375;-124.000845;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110083;Rosstown 2440 block (WB);WB_2440_block_Rosstown;49.195628;-124.004196;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110084;Rosstown at Sparrow (WB);WB_Rosstown_FS_Sparrow;49.195587;-124.00821;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110085;Rosstown at Pheasant (WB);WB_Rosstown_NS_Pheasant;49.195659;-124.013673;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110086;Pheasant at Stampede (NB);NB_Pheasant_FS_Stampede;49.197616;-124.013982;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110087;Jingle Pot at Chantrells (NB);NB_Jingle Pot_NS_Chantrells;49.205926;-124.018999;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110088;Norwell at Victoria (EB);EB_Norwell_FS_Victoria;49.207944;-124.014932;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110089;Norwell at 106th St (EB);EB_Norwell_NS_106th St;49.208524;-124.010056;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110090;Norwell at 107th St (EB);EB_Norwell_FS_107th St;49.207707;-124.006548;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110091;Albert at Dunsmuir (SB);SB_Albert_FS_Dunsmuir;49.162742;-123.937726;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110092;Albert at Selby (SB);SB_Albert_NS_Selby;49.161677;-123.939105;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110093;Albert at Kennedy (SB);SB_Albert_NS_Kennedy;49.159404;-123.94194;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110094;Pine at Durham (NB);NB_Pine_NS_Durham;49.15943;-123.946192;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110095;Pine at Fitzwilliam (NB);NB_Pine_FS_Fitzwilliam;49.163971;-123.950196;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110096;Pine at Wentworth (NB);NB_Pine_NS_Wentworth;49.165653;-123.950618;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110097;2nd St at Howard (WB);WB_2nd St_NS_Howard;49.16662;-123.954895;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110098;Howard at 3rd St (SB);SB_Howard_NS_3rd St;49.163251;-123.955321;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110099;Howard at Foster (SB);SB_Howard_NS_Foster;49.161056;-123.955364;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110100;4th St at Wheatley (WB);WB_4th St_NS_Wheatley;49.158992;-123.955961;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110101;4th St at Wheatley (EB);EB_4th St_NS_Wheatley;49.158911;-123.956183;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110102;Howard at Foster (NB);NB_Howard_FS_Foster;49.161216;-123.955197;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110103;Howard at 3rd St (NB);NB_Howard_NS_3rd St;49.162604;-123.955193;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110104;Howard at 2nd St (NB);NB_Howard_NS_2nd St;49.166131;-123.955165;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110105;Pine at Wentworth (SB);SB_Pine_FS_Wentworth;49.166029;-123.950889;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110203;Cedar at Frew (WB);WB_Cedar_NS_Frew;49.120732;-123.903417;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110204;Cedar at 980 Block (WB);WB_Cedar_AT_980 Blk;49.123542;-123.911389;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110205;Cedar at Maki (WB);WB_Cedar_FS_Maki;49.124846;-123.915639;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110206;Cranberry at Cranberry Connector (NB);NB_Cranberry_NS_Cranberry Connector;49.125775;-123.919834;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110207;Terminal Ave N 1220 block (SB);SB_1220_block_Terminal Ave N;49.183589;-123.955732;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110208;Terminal Ave N at Rosehill (SB);SB_Terminal Ave N_FS_Rosehill;49.175696;-123.946811;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110209;Terminal Ave N at Rosehill (NB);NB_Terminal Ave N_FS_Rosehill;49.176512;-123.946935;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110210;Terminal Ave N 1280 block (NB);NB_1280_block_Terminal Ave N;49.184471;-123.956441;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110211;Highland at Montrose (EB);EB_Highland_NS_Montrose;49.192003;-123.97118;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110212;Holyrood at Highland (SB);SB_Holyrood_NS_Highland;49.194317;-123.975322;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110213;Norwell at 107th St (WB);WB_Norwell_NS_107th St;49.20796;-124.006982;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110214;Norwell at 105th St (WB);WB_Norwell_NS_105th St;49.208732;-124.010453;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110215;Norwell at Victoria (WB);WB_Norwell_NS_Victoria;49.207966;-124.015163;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110216;Aulds at Clark (WB);WB_Aulds_FS_Clark;49.234633;-124.062113;NAN;Regional District of Nanaimo Transit System;Lantzville
+110217;Aulds at Arbutus (WB);WB_Aulds_NS_Arbutus;49.234475;-124.065586;NAN;Regional District of Nanaimo Transit System;Lantzville
+110218;Aulds at Phantom (WB);WB_Aulds_NS_Phantom;49.235728;-124.074163;NAN;Regional District of Nanaimo Transit System;Lantzville
+110219;Aulds at Ware (WB);WB_Aulds_NS_Ware;49.240247;-124.084057;NAN;Regional District of Nanaimo Transit System;Lantzville
+110220;Philip at Aulds (NB);NB_Philip_FS_Aulds;49.24045;-124.086503;NAN;Regional District of Nanaimo Transit System;Lantzville
+110221;Philip at Andrea (NB);NB_Philip_FS_Andrea;49.243055;-124.086478;NAN;Regional District of Nanaimo Transit System;Lantzville
+110222;Philip at Forest Turn (WB);WB_Philip_FS_Forest Turn;49.246936;-124.090583;NAN;Regional District of Nanaimo Transit System;Lantzville
+110223;Vandenhoek at Superior (NB);NB_Vandenhoek_NS_Superior;49.248319;-124.101756;NAN;Regional District of Nanaimo Transit System;Lantzville
+110224;Superior at Stone (WB);WB_Superior_FS_Stone;49.247701;-124.105857;NAN;Regional District of Nanaimo Transit System;Lantzville
+110225;Southwind at Superior (WB);WB_Southwind_FS_Superior;49.246507;-124.114863;NAN;Regional District of Nanaimo Transit System;Lantzville
+110226;Eastwind at Northwind (NB);NB_Eastwind_NS_Northwind;49.247776;-124.118662;NAN;Regional District of Nanaimo Transit System;Lantzville
+110228;Superior at Stone (EB);EB_Superior_FS_Stone;49.247614;-124.105657;NAN;Regional District of Nanaimo Transit System;Lantzville
+110229;Lantzville at Superior (EB);EB_Lantzville_FS_Superior;49.253009;-124.101116;NAN;Regional District of Nanaimo Transit System;Lantzville
+110230;Lantzville at 7570 Blk (EB);EB_Lantzville_AT_7570 Blk;49.252924;-124.096474;NAN;Regional District of Nanaimo Transit System;Lantzville
+110231;Lantzville at Hall (EB);EB_Lantzville_NS_Hall;49.252888;-124.089352;NAN;Regional District of Nanaimo Transit System;Lantzville
+110232;Lantzville at Peterson (EB);EB_Lantzville_FS_Peterson;49.252916;-124.084086;NAN;Regional District of Nanaimo Transit System;Lantzville
+110233;Lantzville at Huddlestone (EB);EB_Lantzville_NS_Huddlestone;49.252427;-124.07953;NAN;Regional District of Nanaimo Transit System;Lantzville
+110234;Lantzville at Tweedhope (EB);EB_Lantzville_FS_Tweedhope;49.251033;-124.076239;NAN;Regional District of Nanaimo Transit System;Lantzville
+110235;Dickinson at Jacks (EB);EB_Dickinson_FS_Jacks;49.251213;-124.070603;NAN;Regional District of Nanaimo Transit System;Lantzville
+110106;Pine at Fitzwilliam (SB);SB_Pine_NS_Fitzwilliam;49.163859;-123.950397;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110107;Pine at 4th St (SB);SB_Pine_NS_4th St;49.159185;-123.946105;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110108;Albert at Milton (NB);NB_Albert_NS_Milton;49.159623;-123.941415;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110109;Albert at Prideaux (NB);NB_Albert_FS_Prideaux;49.160936;-123.939777;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110110;Albert at Robarts (NB);NB_Albert_FS_Robarts;49.162439;-123.937868;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110111;Pine at Hamilton (SB);SB_Pine_NS_Hamilton;49.15854;-123.945477;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110112;Park at 5th St (SB);SB_Park_NS_5th St;49.155312;-123.943859;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110113;Park at 6th St (SB);SB_Park_FS_6th St;49.151201;-123.943926;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110114;Park at Honey (SB);SB_Park_NS_Honey;49.149599;-123.943912;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110115;Park at 7th St (SB);SB_Park_FS_7th St;49.146814;-123.943947;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110116;Park at Murray (SB);SB_Park_FS_Murray;49.14433;-123.943975;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110117;8th St at Cassell (WB);WB_8th St_NS_Cassell;49.143803;-123.948931;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110236;Dickinson at Warick (EB);EB_Dickinson_FS_Warick;49.250258;-124.064725;NAN;Regional District of Nanaimo Transit System;Lantzville
+110237;Dickinson at Schook (SB);SB_Dickinson_AT_Schook Rd;49.246804;-124.05706;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110238;Dickinson at Groveland (SB);SB_Dickinson_NS_Groveland;49.24413;-124.054077;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110370;Bennett at Cardinal (SB);SB_Bennett_NS_Cardinal;49.347983;-124.399043;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110371;Sunrise at Lancaster (EB);EB_Sunrise_FS_Lancaster;49.346125;-124.396556;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110372;Sunrise at Chartwell (EB);EB_Sunrise_NS_Chartwell;49.346139;-124.393653;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110373;Sunrise at Sutton (EB);EB_Sunrise_FS_Sutton;49.345502;-124.388281;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110374;Sunrise at Boultbee (EB);EB_Sunrise_NS_Boultbee;49.345344;-124.385088;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110375;Sunrise at Nicolls (EB);EB_Sunrise_FS_Nicolls;49.344729;-124.381826;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110376;Sunrise at Drew (EB);EB_Sunrise_NS_Drew;49.345556;-124.377293;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110378;Sunrise at Island Hwy W (EB);EB_Sunrise_NS_Island Hwy W;49.348849;-124.368375;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110380;Wright at Reid (WB);WB_Wright_FS_Reid;49.339273;-124.355125;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110381;Wembley at Lowrys (SB);SB_Wembley_FS_Lowrys;49.334889;-124.354699;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110382;Island Hwy W at Wright (SB);SB_Island Hwy W_FS_Wright;49.33927;-124.352893;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110383;Island Hwy W at Rushton (EB);EB_Island Hwy W_NS_Rushton;49.326568;-124.33494;NAN;Regional District of Nanaimo Transit System;Parksville
+110384;Island Hwy W at Finholm St N (EB);EB_Island Hwy W_FS_Finholm St N;49.324631;-124.328158;NAN;Regional District of Nanaimo Transit System;Parksville
+110385;Island Hwy W at Moilliet St N (EB);EB_Island Hwy W_FS_Moilliet St N;49.322957;-124.322736;NAN;Regional District of Nanaimo Transit System;Parksville
+110386;McMillan at Island Hwy W (SB);SB_McMillan_FS_Island Hwy W;49.321652;-124.316984;NAN;Regional District of Nanaimo Transit System;Parksville
+110387;McMillan at Jensen Ave W (SB);SB_McMillan_NS_Jensen Ave W;49.318712;-124.316736;NAN;Regional District of Nanaimo Transit System;Parksville
+110388;Jensen Ave E at McCarter (EB);EB_Jensen Ave E_NS_McCarter;49.318136;-124.310706;NAN;Regional District of Nanaimo Transit System;Parksville
+110389;Jensen Ave E at Weld (EB);EB_Jensen Ave E_FS_Weld;49.318106;-124.3079;NAN;Regional District of Nanaimo Transit System;Parksville
+110390;Corfield 280 block (SB);SB_280_block_Corfield;49.315996;-124.307169;NAN;Regional District of Nanaimo Transit System;Parksville
+110391;Stanford Ave E at Bagshaw (EB);EB_Stanford Ave E_NS_Bagshaw;49.315473;-124.30467;NAN;Regional District of Nanaimo Transit System;Parksville
+110392;McVickers at Stanford Ave E (NB);NB_McVickers_FS_Stanford Ave E;49.31624;-124.302185;NAN;Regional District of Nanaimo Transit System;Parksville
+110393;McVickers at Island Hwy E (NB);NB_McVickers_NS_Island Hwy E;49.318745;-124.302198;NAN;Regional District of Nanaimo Transit System;Parksville
+110394;Island Hwy E at Mills (EB);EB_Island Hwy E_NS_Mills;49.318619;-124.300805;NAN;Regional District of Nanaimo Transit System;Parksville
+110395;Island Hwy E 510 block (EB);EB_510_block_Island Hwy E;49.317627;-124.296498;NAN;Regional District of Nanaimo Transit System;Parksville
+110396;Island Hwy E at Martindale (EB);EB_Island Hwy E_NS_Martindale;49.316208;-124.288543;NAN;Regional District of Nanaimo Transit System;Parksville
+110399;Northwest Bay 1230 block (SB);SB_1230_block_Northwest Bay;49.304703;-124.259217;NAN;Regional District of Nanaimo Transit System;Parksville
+109765;Jingle Pot 1950 block (EB);EB_1950_block_Jingle Pot;49.16731;-123.977057;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109766;Jingle Pot at Bird Sanctuary (EB);EB_Jingle Pot_NS_Bird Sanctuary;49.166549;-123.96917;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109767;Jingle Pot at Sarum Rise (EB);EB_Jingle Pot_NS_Sarum Rise;49.166526;-123.963118;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109768;Wakesiah at Beaconsfield (SB);SB_Wakesiah_NS_Beaconsfield;49.165139;-123.961132;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109769;Wakesiah at Foster (SB);SB_Wakesiah_NS_Foster;49.161677;-123.961236;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109770;Prideaux Street Exchange Bay C;Prideaux_Street_Exchange_Bay_C;49.16428;-123.943601;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109771;Fitzwilliam at Wesley (EB);EB_Fitzwilliam_FS_Wesley;49.165525;-123.941129;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109772;Wallace at Fitzwilliam (SB);SB_Wallace_FS_Fitzwilliam;49.165558;-123.939701;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109773;Victoria at Albert (EB);EB_Victoria_FS_Albert;49.163404;-123.935742;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109774;Front at Esplanade (NB);NB_Front_FS_Esplanade;49.163885;-123.932044;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109775;Front at Museum (NB);NB_Front_FS_Museum;49.166319;-123.935176;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109776;Front at Church (NB);NB_Front_FS_Church;49.168317;-123.93661;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109777;Comox at Terminal (WB);WB_Comox_NS_Terminal;49.170287;-123.940202;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109778;Stewart at Dawes (NB);NB_Stewart_FS_Dawes;49.174257;-123.942811;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109779;Stewart at Mt Benson (NB);NB_Stewart_FS_Mt Benson;49.175871;-123.943524;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109780;Townsite at Terminal Ave N (WB);WB_Townsite_FS_Terminal Ave N;49.177165;-123.948136;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109781;Townsite at Churchill (WB);WB_Townsite_NS_Churchill;49.177058;-123.952202;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109782;Townsite at Millstone (WB);WB_Townsite_NS_Millstone;49.177075;-123.954538;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109783;Millstone at Hunter (NB);NB_Millstone_NS_Hunter;49.179282;-123.954898;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109784;Millstone at Cadogan (NB);NB_Millstone_FS_Cadogan;49.181438;-123.95482;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109785;Princess Royal at Hemlock (NB);NB_Princess Royal_NS_Hemlock;49.183026;-123.952737;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109786;Estevan at Brierley (WB);WB_Estevan_NS_Brierley;49.185015;-123.954575;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109787;Estevan at Maple (NB);NB_Estevan_FS_Maple;49.187275;-123.958107;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109788;Estevan at Brechin (WB);WB_Estevan_NS_Brechin;49.189703;-123.962432;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109789;Departure Bay at Estevan (NB);NB_Departure Bay_FS_Estevan;49.191717;-123.966361;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109790;Marlborough at Lynburn (WB);WB_Marlborough_NS_Lynburn;49.193797;-123.971464;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109884;Departure Bay at Sandringham (NB);NB_Departure Bay_FS_Sandringham;49.196081;-123.971125;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109885;Departure Bay at Argyle (NB);NB_Departure Bay_FS_Argyle;49.197977;-123.971212;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109886;Departure Bay at Wingrove (NB);NB_Departure Bay_NS_Wingrove;49.203619;-123.970639;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109887;Departure Bay at Bay (NB);NB_Departure Bay_NS_Bay;49.205892;-123.969729;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109888;Departure Bay at Little John (WB);WB_Departure Bay_NS_Little John;49.207503;-123.97187;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109791;Glenayr at Marlborough (NB);NB_Glenayr_FS_Marlborough;49.196315;-123.976111;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109792;Glenayr at Argyle (NB);NB_Glenayr_FS_Argyle;49.199543;-123.976162;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109793;Glenayr at Lynburn (NB);NB_Glenayr_NS_Lynburn;49.201988;-123.97611;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109794;Glenayr at Wingrove (NB);NB_Glenayr_FS_Wingrove;49.204978;-123.976049;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109795;Bay at Haliday (WB);WB_Bay_FS_Haliday;49.206258;-123.980058;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109796;Bay at Newton (WB);WB_Bay_FS_Newton;49.206301;-123.984188;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109797;Neyland at Crestwood (NB);NB_Neyland_FS_Crestwood;49.207378;-123.988254;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109798;Neyland at Departure Bay (NB);NB_Neyland_NS_Departure Bay;49.209033;-123.987269;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109799;Departure Bay at Shamrock (WB);WB_Departure Bay_FS_Shamrock;49.210153;-123.989411;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109800;Departure Bay at Rock City (WB);WB_Departure Bay_FS_Rock City;49.209911;-123.994734;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109801;Departure Bay at Mexicana (WB);WB_Departure Bay_FS_Mexicana;49.208447;-123.999805;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109802;Country Club Exchange Bay H;Country_Club_Exchange_Bay_H;49.206643;-124.003055;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109804;Barons 3110 block (WB);WB_3110_block_Barons;49.208924;-124.002016;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110400;Northwest Bay at Langara (SB);SB_Northwest Bay_FS_Langara;49.30211;-124.255889;NAN;Regional District of Nanaimo Transit System;Parksville
+110401;Northwest Bay at Gabriola (EB);EB_Northwest Bay_NS_Gabriola;49.298704;-124.248704;NAN;Regional District of Nanaimo Transit System;Parksville
+110402;Northwest Bay at Terrien (EB);EB_Northwest Bay_FS_Terrien;49.299762;-124.243018;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110403;Northwest Bay at Beaver Creek Wharf (EB);EB_Northwest Bay_FS_Beaver Creek Wharf;49.302964;-124.234768;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110404;Northwest Bay at Ballenas (SB);SB_Northwest Bay_NS_Ballenas;49.301021;-124.231188;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110405;Northwest Bay at Wall Beach (EB);EB_Northwest Bay_NS_Wall Beach;49.29735;-124.225799;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110406;Northwest Bay at Sanders (EB);EB_Northwest Bay_FS_Sanders;49.289494;-124.21302;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110407;Northwest Bay at Delanice (EB);EB_Northwest Bay_NS_Delanice;49.287976;-124.19913;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110408;Northwest Bay at Claudet (EB);EB_Northwest Bay_FS_Claudet;49.286856;-124.194151;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110409;Northwest Bay at Stewart (SB);SB_Northwest Bay_FS_Stewart;49.286048;-124.189411;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110410;Northwest Bay 2590 block (SB);SB_2590_block_Northwest Bay;49.283054;-124.188963;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110411;Northwest Bay at Cross (SB);SB_Northwest Bay_FS_Cross;49.276766;-124.191412;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110412;Northwest Bay at Apollo (SB);SB_Northwest Bay_NS_Apollo;49.272881;-124.193087;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110415;Island Hwy E at Summerset (EB);EB_Island Hwy E_NS_Summerset;49.260884;-124.195291;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110416;Island Hwy E at Hillview (EB);EB_Island Hwy E_FS_Hillview;49.25237;-124.158192;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110418;Island Hwy N at Capilano (EB);EB_Island Hwy_ N_NS_Capilano;49.251138;-124.132487;NAN;Regional District of Nanaimo Transit System;Lantzville
+109889;Departure Bay at Merry Men (NB);NB_Departure Bay_FS_Merry Men;49.208502;-123.977399;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109890;Departure Bay at Smugglers Hill (WB);WB_Departure Bay_AT_Smugglers Hill;49.210254;-123.983972;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109891;Departure Bay at Charles (EB);EB_Departure Bay_NS_Charles;49.210112;-123.984788;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109892;Departure Bay at Merry Men (EB);EB_Departure Bay_FS_Merry Men;49.208325;-123.977394;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109893;Departure Bay at Little John (EB);EB_Departure Bay_NS_Little John;49.207375;-123.972569;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109894;Hammond Bay at Friar Tuck (EB);EB_Hammond Bay_NS_Friar Tuck;49.206875;-123.969294;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109895;Hammond Bay 3000 block (NB);NB_3000_block_Hammond Bay;49.209255;-123.964661;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109896;Hammond Bay at Rickers Curve (EB);EB_Hammond Bay_FS_Rickers Curve;49.211465;-123.957483;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109897;Hammond Bay at Nottingham (NB);NB_Hammond Bay_FS_Nottingham;49.213454;-123.956326;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109898;Hammond Bay at Linley (NB);NB_Hammond Bay_NS_Linley;49.217162;-123.95503;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109899;Hammond Bay at Meadow Lane (EB);EB_Hammond Bay_NS_Meadow Lane;49.219219;-123.95178;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109900;Hammond Bay at Planta (EB);EB_Hammond Bay_FS_Planta;49.220047;-123.948712;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109901;Hammond Bay at Overlook (NB);NB_Hammond Bay_FS_Overlook;49.222721;-123.950583;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109902;Hammond Bay at Lagoon (WB);WB_Hammond Bay_FS_Lagoon;49.225557;-123.954526;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109903;Hammond Bay at Overlook (WB);WB_Hammond Bay_FS_Overlook;49.226717;-123.95919;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109904;Hammond Bay at Piper (WB);WB_Hammond Bay_FS_Piper;49.228521;-123.96309;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109905;Hammond Bay at Morningside (WB);WB_Hammond Bay_FS_Morningside;49.230421;-123.967612;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109906;Hammond Bay at McGuffie (WB);WB_Hammond Bay_NS_McGuffie;49.231025;-123.973738;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109907;Hammond Bay at Frontage (WB);WB_Hammond Bay_NS_Frontage;49.231487;-123.979657;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109908;Hammond Bay at Salmon Berry (WB);WB_Hammond Bay_NS_Salmon Berry;49.231188;-123.984577;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109909;Hammond Bay at Williamson (WB);WB_Hammond Bay_FS_Williamson;49.232306;-123.989759;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109910;Hammond Bay at Dunn (WB);WB_Hammond Bay_FS_Dunn;49.233347;-123.992624;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109911;Hammond Bay at Fillinger (WB);WB_Hammond Bay_NS_Fillinger;49.23393;-123.996106;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109912;Hammond Bay at Yorkshire (WB);WB_Hammond Bay_NS_Yorkshire;49.234004;-124.006662;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109913;Hammond Bay at Norasea (WB);WB_Hammond Bay_FS_Norasea;49.234118;-124.01054;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109914;Hammond Bay at Parkway (WB);WB_Hammond Bay_FS_Parkway;49.234196;-124.017658;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109915;Hammond Bay at Brickyard (WB);WB_Hammond Bay_NS_Brickyard;49.23428;-124.02558;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109916;Brickyard at Broadway (NB);NB_Brickyard_FS_Broadway;49.237969;-124.026245;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109917;Brickyard at Sunset (NB);NB_Brickyard_FS_Sunset;49.240438;-124.026272;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109918;Waldbank at Rose (WB);WB_Waldbank_NS_Rose;49.241486;-124.027214;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109919;McGirr at McRobb (SB);SB_McGirr_NS_McRobb;49.239605;-124.031992;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110421;Memorial at Railway (NB);NB_Memorial_FS_Railway;49.348519;-124.441463;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110422;Pym St N 440 block (NB);NB_440_block_Pym St N;49.329316;-124.337769;NAN;Regional District of Nanaimo Transit System;Parksville
+110423;Doehle at Tranfield (EB);EB_Doehle_NS_Tranfield;49.330101;-124.336358;NAN;Regional District of Nanaimo Transit System;Parksville
+110424;Doehle at Allwood (EB);EB_Doehle_FS_Allwood;49.330088;-124.332954;NAN;Regional District of Nanaimo Transit System;Parksville
+110425;Temple at Soriel (NB);NB_Temple_FS_Soriel;49.332202;-124.333575;NAN;Regional District of Nanaimo Transit System;Parksville
+110426;Temple at Sanderson (NB);NB_Temple_NS_Sanderson;49.33442;-124.335644;NAN;Regional District of Nanaimo Transit System;Parksville
+110427;Temple at Digby (WB);WB_Temple_FS_Digby;49.335868;-124.337788;NAN;Regional District of Nanaimo Transit System;Parksville
+110430;Hirst Ave W at Cheney (WB);WB_Hirst Ave W_FS_Cheney;49.319505;-124.317299;NAN;Regional District of Nanaimo Transit System;Parksville
+110431;Hirst Ave W 330 block (WB);WB_330_block_Hirst Ave W;49.319445;-124.321194;NAN;Regional District of Nanaimo Transit System;Parksville
+110432;Moilliet St S at Hirst Ave W (SB);SB_Moilliet St S_FS_Hirst Ave W;49.318806;-124.323975;NAN;Regional District of Nanaimo Transit System;Parksville
+110433;Moilliet St S at Jensen Ave W (SB);SB_Moilliet St S_FS_Jensen Ave W;49.317204;-124.32383;NAN;Regional District of Nanaimo Transit System;Parksville
+110434;Moilliet St S at Harnish (SB);SB_Moilliet St S_NS_Harnish;49.316154;-124.323804;NAN;Regional District of Nanaimo Transit System;Parksville
+110435;Despard at Moilliet St S (WB);WB_Despard_FS_Moilliet St S;49.312154;-124.324411;NAN;Regional District of Nanaimo Transit System;Parksville
+110436;Chestnut at Mulberry (NB);NB_Chestnut_NS_Mulberry;49.315818;-124.332901;NAN;Regional District of Nanaimo Transit System;Parksville
+110437;Finholm St S at Hirst Ave W (NB);NB_Finholm St S_FS_Hirst Ave W;49.319519;-124.328295;NAN;Regional District of Nanaimo Transit System;Parksville
+110438;Finholm St S at Morison (NB);NB_Finholm St S_NS_Morison;49.320818;-124.328339;NAN;Regional District of Nanaimo Transit System;Parksville
+110439;Morison at Acacia St N (WB);WB_Morison_FS_Acacia St N;49.321363;-124.331832;NAN;Regional District of Nanaimo Transit System;Parksville
+110440;Morison at Ballenas (WB);WB_Morison_NS_Ballenas;49.321249;-124.334853;NAN;Regional District of Nanaimo Transit System;Parksville
+109920;McGirr at Thyme (SB);SB_McGirr_AT_Thyme;49.235505;-124.031889;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109921;Hammond Bay 6150 block (WB);WB_6150_block_Hammond Bay;49.234314;-124.033179;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109805;Ross at Emerald (WB);WB_Ross_FS_Emerald;49.211633;-124.003711;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109806;Ross at Shammys (WB);WB_Ross_NS_Shammys;49.212711;-124.007751;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109807;Ross at Summit (WB);WB_Ross_NS_Summit;49.213669;-124.009854;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109808;Ross at Dingle Bingle (WB);WB_Ross_FS_Dingle Bingle;49.215064;-124.011763;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109809;Ross at Brighton (WB);WB_Ross_NS_Brighton;49.215784;-124.014568;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109810;Collishaw at Uplands (NB);NB_Collishaw_NS_Uplands;49.216795;-124.015714;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109811;Uplands at Stonewood (WB);WB_Uplands_NS_Stonewood;49.217335;-124.01707;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109812;Uplands at Butternut (WB);WB_Uplands_NS_Butternut;49.218425;-124.019262;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109813;Uplands at Songbird (WB);WB_Uplands_NS_Songbird;49.218965;-124.024216;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109814;Uplands at Primrose (WB);WB_Uplands_FS_Primrose;49.220095;-124.027519;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109815;Uplands at Edgewater (NB);NB_Uplands_NS_Edgewater;49.222171;-124.030809;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109816;Uplands at Turner (NB);NB_Uplands_FS_Turner;49.226411;-124.035486;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109817;Uplands at Parkwood (NB);NB_Uplands_FS_Parkwood;49.23134;-124.037046;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109818;Uplands at Leah (NB);NB_Uplands_FS_Leah;49.234819;-124.036994;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109819;Uplands at Ocean Walk (NB);NB_Uplands_FS_Ocean Walk;49.236416;-124.036903;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109820;Uplands at McRobb (NB);NB_Uplands_NS_McRobb;49.238652;-124.03823;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109821;Dover at Blueback (WB);WB_Dover_FS_Blueback;49.241565;-124.040642;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109823;Dover at Lewis (WB);WB_Dover_FS_Lewis;49.241657;-124.045996;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109824;Dover at Harrier (WB);WB_Dover_FS_Harrier;49.241741;-124.049349;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109825;Mary Ellen at Dover (SB);SB_Mary Ellen_FS_Dover;49.241301;-124.054046;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109826;Dover at Mary Ellen (EB);EB_Dover_FS_Mary Ellen;49.241664;-124.053381;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109827;Dover at Dickinson (EB);EB_Dover_FS_Dickinson;49.241618;-124.04986;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109828;Dover at Lewis (EB);EB_Dover_NS_Lewis;49.241522;-124.045662;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109829;Dover at Applecross (EB);EB_Dover_FS_Applecross;49.241416;-124.042379;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109830;Uplands at McRobb (SB);SB_Uplands_NS_McRobb;49.239039;-124.03884;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109831;Uplands 6100 block (SB);SB_6100_block_Uplands;49.236629;-124.037245;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109832;Uplands 5480 block (SB);SB_5480_block_Uplands;49.233669;-124.037296;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109833;Uplands at Parkwood (SB);SB_Uplands_NS_Parkwood;49.231266;-124.03726;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109834;Uplands at Turner (SB);SB_Uplands_NS_Turner;49.226027;-124.035467;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109922;Hammond Bay at Uplands (WB);WB_Hammond Bay_FS_Uplands;49.234379;-124.03821;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109923;Hammond Bay at Marlin (WB);WB_Hammond Bay_FS_Marlin;49.234464;-124.041686;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109925;Woodgrove Centre Exchange Bay D;Woodgrove_Centre_Exchange_Bay_D;49.236376;-124.05263;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109926;Woodgrove Centre Exchange Bay C;Woodgrove_Centre_Exchange_Bay_C;49.236861;-124.053085;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109927;Island Hwy N 6900 block (EB);EB_6900_block_Island Hwy N;49.238641;-124.052233;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109928;Mary Ellen 6680 block (NB);NB_6680_block_Mary Ellen;49.238714;-124.054017;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109929;Dover at Uplands (EB);EB_Dover_FS_Uplands ;49.241419;-124.038804;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109930;Dover at Invermere (EB);EB_Dover_NS_Invermere;49.241393;-124.035317;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109931;Dover at McGirr (EB);EB_Dover_NS_McGirr;49.241385;-124.032784;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109836;Uplands at Edgewater (SB);SB_Uplands_FS_Edgewater;49.222079;-124.031089;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109837;Uplands 4590 block (EB);EB_4590_block_Uplands;49.219999;-124.027903;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109838;Uplands at Songbird (EB);EB_Uplands_FS_Songbird;49.218894;-124.024692;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109839;Uplands at Butternut (EB);EB_Uplands_NS_Butternut;49.218486;-124.019827;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109840;Ross at Brighton (EB);EB_Ross_NS_Brighton;49.21577;-124.015071;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109841;Ross at Dingle Bingle (EB);EB_Ross_NS_Dingle Bingle;49.214862;-124.011715;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109842;Ross at Summit (EB);EB_Ross_FS_Summit;49.213662;-124.010175;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109843;Ross at Shammys (EB);EB_Ross_FS_Shammys;49.212488;-124.007619;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109844;Ross at Emerald (EB);EB_Ross_NS_Emerald;49.211472;-124.003532;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109932;Hammond Bay at Marlin (EB);EB_Hammond Bay_NS_Marlin;49.234291;-124.041987;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109933;Hammond Bay at Calinda (EB);EB_Hammond Bay_FS_Calinda;49.234198;-124.038894;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109934;Hammond Bay at Uplands (EB);EB_Hammond Bay_FS_Uplands;49.234141;-124.036649;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109935;Hammond Bay at Turner (EB);EB_Hammond Bay_FS_Turner;49.234105;-124.028539;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109936;Hammond Bay at Clipper (EB);EB_Hammond Bay_NS_Clipper;49.23417;-124.024883;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109937;Hammond Bay at Rutherford (EB);EB_Hammond Bay_FS_Rutherford;49.234089;-124.018277;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109938;Hammond Bay at Norasea (EB);EB_Hammond Bay_NS_Norasea;49.233957;-124.009941;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109939;Hammond Bay at Yorkshire (EB);EB_Hammond Bay_FS_Yorkshire;49.233903;-124.00598;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109940;Hammond Bay at Fillinger (EB);EB_Hammond Bay_NS_Fillinger;49.233802;-123.995703;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109941;Hammond Bay at Dunn (EB);EB_Hammond Bay_FS_Dunn;49.233151;-123.992427;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109942;Hammond Bay at Williamson (EB);EB_Hammond Bay_FS_Williamson;49.231747;-123.988763;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109943;Hammond Bay at Malaspina (EB);EB_Hammond Bay_NS_Malaspina;49.23103;-123.983751;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109944;Hammond Bay at Frontage (EB);EB_Hammond Bay_FS_Frontage;49.231369;-123.980109;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109945;Hammond Bay at McGuffie (EB);EB_Hammond Bay_FS_McGuffie;49.231;-123.974375;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109946;Hammond Bay at Tiki (EB);EB_Hammond Bay_FS_Tiki;49.230522;-123.969105;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109947;Hammond Bay at Piper (EB);EB_Hammond Bay_NS_Piper;49.22852;-123.963331;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109948;Hammond Bay at Overlook (EB);EB_Hammond Bay_NS_Overlook;49.22629;-123.958469;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109949;Hammond Bay at Lagoon (EB);EB_Hammond Bay_NS_Lagoon;49.225161;-123.953913;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109950;Hammond Bay at Overlook (SB);SB_Hammond Bay_FS_Overlook;49.222371;-123.950373;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109951;Hammond Bay at Oakridge (WB);WB_Hammond Bay_FS_Oakridge;49.219294;-123.95186;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109952;Hammond Bay at Linley (SB);SB_Hammond Bay_FS_Linley;49.217189;-123.95522;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109953;Hammond Bay at Nottingham (SB);SB_Hammond Bay_NS_Nottingham;49.213536;-123.956531;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109954;Hammond Bay at Rickers Curve (WB);WB_Hammond Bay_NS_Rickers Curve;49.211523;-123.957608;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109955;Hammond Bay 3010 block (SB);SB_3010_block_Hammond Bay;49.209749;-123.964842;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109956;Hammond Bay at Departure Bay (WB);WB_Hammond Bay_NS_Departure Bay;49.206957;-123.969608;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109957;Departure Bay at Bay (SB);SB_Departure Bay_FS_Bay;49.205678;-123.970075;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109958;Departure Bay at Loat (SB);SB_Departure Bay_NS_Loat;49.203344;-123.971037;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109959;Departure Bay at Argyle (SB);SB_Departure Bay_NS_Argyle;49.197987;-123.971397;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110441;Pym St N at Jenkins (NB);NB_Pym St N_NS_Jenkins;49.321638;-124.337743;NAN;Regional District of Nanaimo Transit System;Parksville
+110442;Pym St N at Blenkin (NB);NB_Pym St N_NS_Blenkin;49.32447;-124.337747;NAN;Regional District of Nanaimo Transit System;Parksville
+110443;Pym St N at Brice (NB);NB_Pym St N_FS_Brice;49.326014;-124.337706;NAN;Regional District of Nanaimo Transit System;Parksville
+110316;Northwest Bay at Ballenas (NB);NB_Northwest Bay_FS_Ballenas;49.301106;-124.230662;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110317;Northwest Bay at Beaver Creek Wharf (WB);WB_Northwest Bay_NS_Beaver Creek Wharf;49.303324;-124.235029;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110318;Northwest Bay at Terrien (WB);WB_Northwest Bay_FS_Terrien;49.299995;-124.243574;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+110319;Northwest Bay at Gabriola (WB);WB_Northwest Bay_FS_Gabriola;49.299103;-124.248432;NAN;Regional District of Nanaimo Transit System;Parksville
+110320;Northwest Bay at Langara (NB);NB_Northwest Bay_FS_Langara;49.30297;-124.25639;NAN;Regional District of Nanaimo Transit System;Parksville
+110321;Northwest Bay 1230 block (NB);NB_1230_block_Northwest Bay;49.305022;-124.25888;NAN;Regional District of Nanaimo Transit System;Parksville
+110322;Island Hwy E at Arbutus (WB);WB_Island Hwy E_NS_Arbutus;49.307339;-124.263823;NAN;Regional District of Nanaimo Transit System;Parksville
+110444;Uplands at Departure Bay (NB);NB_Uplands_FS_Departure Bay;49.209942;-123.997177;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110445;Uplands at Mexicana (NB);NB_Uplands_FS_Mexicana;49.211497;-123.998057;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110446;Uplands at Villa (NB);NB_Uplands_FS_Villa;49.213206;-123.998446;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110447;Uplands 3510 block (WB);WB_3510_block_Uplands;49.216074;-124.002726;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110449;Uplands at Long Lake (WB);WB_Uplands_FS_Long Lake;49.216929;-124.008828;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110450;Uplands at Bournemouth (WB);WB_Uplands_NS_Bournemouth;49.217016;-124.012629;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110451;Uplands at Littleford (EB);EB_Uplands_FS_Littleford;49.216925;-124.014432;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110452;Uplands at Long Lake (EB);EB_Uplands_NS_Long Lake;49.216841;-124.008799;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110453;Uplands at Sunrise (EB);EB_Uplands_NS_Sunrise;49.216176;-124.005498;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110454;Uplands 3450 block (EB);EB_3450_block_Uplands;49.215532;-124.001019;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110456;Emerald at Crystal Plc (WB);WB_Emerald_NS_Crystal Place;49.211967;-124.002404;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110457;Wills 4900 block (EB);EB_4900_block_Wills;49.213829;-124.026514;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110458;Rutherford at Wills (WB);WB_Rutherford_FS_Wills;49.215094;-124.026802;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110459;Pheasant at Stampede (SB);SB_Pheasant_NS_Stampede;49.197424;-124.014151;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110460;Rosstown at Sun Valley (EB);EB_Rosstown_FS_Sun Valley;49.195535;-124.01216;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110461;Rosstown at Sparrow (EB);EB_Rosstown_NS_Sparrow;49.195504;-124.00832;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110462;Rosstown 2430 block (EB);EB_2430_block_Rosstown;49.195511;-124.003898;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110463;Rosstown at Woodside (EB);EB_Rosstown_NS_Woodside;49.196271;-124.000717;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110464;Rosstown at Whitney (EB);EB_Rosstown_FS_Whitney;49.195776;-123.997907;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110465;Bowen at Meredith (SB);SB_Bowen_FS_Meredith;49.187913;-123.987104;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110466;Bowen at James (SB);SB_Bowen_FS_James;49.184963;-123.983861;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110467;Bowen at Dufferin (SB);SB_Bowen_FS_Dufferin;49.182997;-123.981703;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110468;Bowen at East Wellington (EB);EB_Bowen_NS_East Wellington;49.180818;-123.978987;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110469;Bowen at Pryde (SB);SB_Bowen_NS_Pryde;49.177995;-123.973316;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110470;Vancouver at Bryden (NB);NB_Vancouver_NS_Bryden;49.173941;-123.944312;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110471;Vancouver at Townsite (NB);NB_Vancouver_NS_Townsite;49.177413;-123.945851;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110472;Haliburton at Chase River (NB);NB_Haliburton_FS_Chase River;49.13623;-123.921344;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110473;Haliburton at 1060 Block (NB);NB_Haliburton_AT_1060 Blk;49.139127;-123.921449;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110474;Haliburton at Highview (EB);EB_Haliburton_NS_Highview;49.142712;-123.926098;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110475;Haliburton at 840 Block (NB);NB_Haliburton_AT_840 Blk;49.145824;-123.930764;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110476;Haliburton at Woodhouse (NB);NB_Haliburton_NS_Woodhouse;49.147411;-123.931754;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110477;Haliburton at Robins (NB);NB_Haliburton_FS_Robins;49.150819;-123.932253;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110325;Island Hwy E 670 block (WB);WB_670_block_Island Hwy E;49.316717;-124.289072;NAN;Regional District of Nanaimo Transit System;Parksville
+110326;Island Hwy E 500 block (WB);WB_500_block_Island Hwy E;49.31801;-124.296409;NAN;Regional District of Nanaimo Transit System;Parksville
+110328;Island Hwy W at Sutherland (WB);WB_Island Hwy W_NS_Sutherland;49.322308;-124.318295;NAN;Regional District of Nanaimo Transit System;Parksville
+110329;Island Hwy W at Moilliet St N (WB);WB_Island Hwy W_FS_Moilliet St N;49.323776;-124.324108;NAN;Regional District of Nanaimo Transit System;Parksville
+110330;Island Hwy W at Roscow (WB);WB_Island Hwy W_FS_Roscow;49.324464;-124.327013;NAN;Regional District of Nanaimo Transit System;Parksville
+110331;Island Hwy W at Rushton (WB);WB_Island Hwy W_FS_Rushton;49.326745;-124.334834;NAN;Regional District of Nanaimo Transit System;Parksville
+110333;Wembley Mall Exchange Bay A;Wembley_Mall_Exchange_Bay_A;49.330472;-124.345007;NAN;Regional District of Nanaimo Transit System;Parksville
+110335;Island Hwy W at Wright (NB);NB_Island Hwy W_FS_Wright;49.340397;-124.353951;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110339;Sunrise at Drew (WB);WB_Sunrise_FS_Drew;49.345581;-124.37752;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110340;Sunrise at Nicolls (WB);WB_Sunrise_FS_Nicolls;49.344968;-124.38248;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110341;Sunrise at Boultbee (WB);WB_Sunrise_FS_Boultbee;49.345528;-124.385678;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+110342;Sunrise at Sutton (WB);WB_Sunrise_NS_Sutton;49.3456;-124.387978;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110343;Sunrise at Chartwell (WB);WB_Sunrise_FS_Chartwell;49.346254;-124.393606;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110344;Sunrise at Lancaster (WB);WB_Sunrise_NS_Lancaster;49.346239;-124.396636;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110345;Bennett at Cardinal (NB);NB_Bennett_FS_Cardinal;49.347943;-124.398885;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110346;Island Hwy W 2010 block (WB);WB_2010_block_Island Hwy W;49.350007;-124.402383;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110347;Village 840 block (WB);WB_840_block_Village;49.349938;-124.406903;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110348;Village at Hollywood (WB);WB_Village_FS_Hollywood;49.349743;-124.410488;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110349;Village at Nootka (WB);WB_Village_FS_Nootka;49.349389;-124.416943;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110350;Village at Qualicum (WB);WB_Village_FS_Qualicum;49.348994;-124.421296;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110351;Village at Hemsworth (WB);WB_Village_NS_Hemsworth;49.348573;-124.427976;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110352;Village 310 block (WB);WB_310_block_Village;49.348809;-124.432928;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110353;Village at Memorial (WB);WB_Village_NS_Memorial;49.349223;-124.44058;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110354;Memorial at Fern Rd W (SB);SB_Memorial_NS_Fern Rd W;49.346359;-124.441789;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110355;Garden Rd W at Primrose (WB);WB_Garden Rd W_NS_Primrose;49.342397;-124.443357;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110356;Garden Rd W at Beach (WB);WB_Garden Rd W_FS_Beach;49.342366;-124.447448;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110357;Jones at Sixth Ave W (NB);NB_Jones_FS_Sixth Ave W;49.343673;-124.449043;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110478;Haliburton at Needham (NB);NB_Haliburton_FS_Needham;49.153659;-123.932409;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110479;Haliburton at Sabiston (NB);NB_Haliburton_FS_Sabiston;49.155313;-123.9325;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110480;Haliburton at Milton (NB);NB_Haliburton_FS_Milton;49.158646;-123.932652;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110481;Haliburton at Crace (NB);NB_Haliburton_NS_Crace;49.161589;-123.932804;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109845;Ross at Emerald (SB);SB_Ross_FS_Emerald;49.21046;-124.002975;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109846;Ross at Knight (SB);SB_Ross_FS_Knight;49.208461;-124.005193;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109847;Country Club Exchange Bay G;Country_Club_Exchange_Bay_G;49.206421;-124.003115;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109848;Departure Bay at Wassell (NB);NB_Departure Bay_FS_Wassell;49.207654;-124.000671;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109849;Departure Bay at Mexicana (EB);EB_Departure Bay_FS_Mexicana;49.208727;-123.998213;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109850;Departure Bay at Rock City (EB);EB_Departure Bay_NS_Rock City;49.209814;-123.994548;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109851;Departure Bay at Shamrock (EB);EB_Departure Bay_FS_Shamrock;49.210024;-123.989116;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109852;Neyland at Departure Bay (SB);SB_Neyland_FS_Departure Bay;49.209366;-123.987238;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109853;Neyland at Crestwood (SB);SB_Neyland_NS_Crestwood;49.207463;-123.988356;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109854;Bay at Newton (EB);EB_Bay_NS_Newton;49.206202;-123.98373;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109855;Bay at Haliday (EB);EB_Bay_NS_Haliday;49.206153;-123.980076;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109856;Glenayr at Wingrove (SB);SB_Glenayr_NS_Wingrove;49.204997;-123.976192;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109857;Glenayr at Lynburn (SB);SB_Glenayr_NS_Lynburn;49.202211;-123.97626;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109858;Glenayr at Argyle (SB);SB_Glenayr_FS_Argyle;49.199152;-123.976304;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109859;Glenayr at Marlborough (SB);SB_Glenayr_NS_Marlborough;49.196163;-123.976266;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109860;Departure Bay at Estevan (SB);SB_Departure Bay_AT_Estevan;49.191663;-123.966717;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109861;Estevan at Brechin (EB);EB_Estevan_FS_Brechin;49.189568;-123.962485;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109862;Estevan at Maple (SB);SB_Estevan_FS_Maple;49.1869;-123.957952;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109863;Estevan at Brierley (EB);EB_Estevan_NS_Brierley;49.185084;-123.955018;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109864;Princess Royal at Hemlock (SB);SB_Princess Royal_FS_Hemlock;49.183078;-123.952956;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109865;Millstone at Cadogan (SB);SB_Millstone_NS_Cadogan;49.181363;-123.954996;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109866;Millstone at Hunter (SB);SB_Millstone_FS_Hunter;49.179182;-123.955071;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109867;Townsite at Millstone (EB);EB_Townsite_FS_Millstone;49.176954;-123.954243;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109868;Townsite at Churchill (EB);EB_Townsite_FS_Churchill;49.176927;-123.952282;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109869;Townsite at Terminal Ave N (EB);EB_Townsite_NS_Terminal Ave N;49.177038;-123.947949;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109870;Stewart at Mt Benson (SB);SB_Stewart_NS_Mt Benson;49.175868;-123.943835;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109871;Stewart at Dawes (SB);SB_Stewart_FS_Dawes;49.173531;-123.942806;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109872;Front at Gabriola Ferry Term (EB);EB_Front_FS_Gabriola Ferry Term;49.165278;-123.931754;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109873;Downtown Nanaimo Exchange Bay H (SB);SB_Downtown Nanaimo Exchange_Bay H;49.163894;-123.932289;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109874;Victoria at Albert (WB);WB_Victoria_NS_Albert;49.163579;-123.935919;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109875;Fitzwilliam at Wesley (WB);WB_Fitzwilliam_NS_Wesley;49.165595;-123.941464;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109876;Stewart at Townsite (NB);NB_Stewart_FS_Townsite;49.178022;-123.944479;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109877;Stewart at Cypress (NB);NB_Stewart_FS_Cypress;49.180348;-123.945583;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109878;Stewart at Larch (NB);NB_Stewart_NS_Larch;49.184898;-123.947387;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109960;Departure Bay at Sandringham (SB);SB_Departure Bay_NS_Sandringham;49.195909;-123.971272;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109961;Brechin at Estevan (EB);EB_Brechin_FS_Estevan;49.190248;-123.962601;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109962;Brechin at Bayview (EB);EB_Brechin_NS_Bayview;49.190185;-123.95772;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109963;Brechin at Beach (EB);EB_Brechin_NS_Beach;49.189689;-123.955514;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109964;Stewart at Maple (EB);EB_Stewart_NS_Maple;49.187227;-123.950152;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109965;Stewart at Larch (SB);SB_Stewart_FS_Larch;49.185;-123.947681;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109966;Stewart at Cypress (SB);SB_Stewart_FS_Cypress;49.179837;-123.945666;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109967;Stewart at Townsite (SB);SB_Stewart_FS_Townsite;49.177534;-123.94457;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109968;Wallace at Comox (SB);SB_Wallace_FS_Comox;49.169578;-123.942215;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109969;Wallace at Campbell (SB);SB_Wallace_FS_Campbell;49.168238;-123.941894;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109970;Wentworth at Richards (WB);WB_Wentworth_NS_Richards;49.167038;-123.942324;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109971;Prideaux Street Exchange Bay G;Prideaux_Street_Exchange_Bay_G;49.164607;-123.944735;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109972;Comox at Wallace (WB);WB_Comox_FS_Wallace;49.170275;-123.942934;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109973;Comox at Prideaux (WB);WB_Comox_NS_Prideaux;49.170357;-123.945225;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109879;Stewart at Maple (WB);WB_Stewart_FS_Maple;49.187144;-123.949637;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109880;Departure Bay Ferry (NB);NB_Trans-Canada_NS_Horseshoe Bay-Departure Bay Ferry;49.19172;-123.953189;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109881;Brechin at Beach (WB);WB_Brechin_FS_Beach;49.189965;-123.955792;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109882;Brechin at Ocean (WB);WB_Brechin_NS_Ocean;49.190312;-123.958126;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109883;Brechin at Estevan (WB);WB_Brechin_NS_Estevan;49.190378;-123.96329;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109974;Comox at Kennedy (WB);WB_Comox_FS_Kennedy;49.170519;-123.949072;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109975;Bowen at Howard (WB);WB_Bowen_NS_Howard;49.171207;-123.954716;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109976;Bowen at Wakesiah (WB);WB_Bowen_NS_Wakesiah;49.173196;-123.960239;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109977;Bowen at Buttertubs (WB);WB_Bowen_FS_Buttertubs;49.177307;-123.968064;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109978;Pryde at White (NB);NB_Pryde_NS_White;49.178174;-123.972355;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109979;Townsite at McKay (EB);EB_Townsite_NS_McKay;49.179359;-123.966997;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109980;Waddington at St George (NB);NB_Waddington_NS_St George;49.180855;-123.963445;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109981;Waddington at Oakley (NB);NB_Waddington_NS_Oakley;49.183461;-123.962586;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109982;Dufferin at Seafield (WB);WB_Dufferin_FS_Seafield;49.18443;-123.967192;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109983;Dufferin at Boundary (WB);WB_Dufferin_NS_Boundary;49.183269;-123.971806;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109984;Boundary at Nightingale (NB);NB_Boundary_FS_Nightingale;49.185776;-123.972191;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109987;Meredith at Thunderbird (WB);WB_Meredith_FS_Thunderbird;49.188299;-123.974111;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109988;Meredith at Manchester (WB);WB_Meredith_NS_Manchester;49.188333;-123.981071;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109989;Meredith at Robbie (WB);WB_Meredith_NS_Robbie;49.188364;-123.986474;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109990;Bowen at Latimer (WB);WB_Bowen_FS_Latimer;49.189667;-123.989051;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109991;Bowen at Northfield (NB);NB_Bowen_FS_Northfield;49.192821;-123.992351;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109992;Bowen 2340 block (NB);NB_2340_block_Bowen;49.196169;-123.995549;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109993;Labieux at Autumnwood (WB);WB_Labieux_NS_Autumnwood;49.199234;-124.00336;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109994;Labieux at Porcupine Hill (WB);WB_Labieux_NS_Porcupine Hill;49.199248;-124.008132;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109995;Labieux at Oriole (WB);WB_Labieux_NS_Oriole;49.199266;-124.011124;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109996;Labieux at Black Franks (WB);WB_Labieux_NS_Black Franks;49.199973;-124.015738;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109997;Labieux at Ardoon (WB);WB_Labieux_FS_Ardoon;49.204119;-124.020842;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109998;Jingle Pot at Yon (WB);WB_Jingle Pot_FS_Yon;49.205681;-124.026034;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109750;Jingle Pot at Sarum Rise (WB);WB_Jingle Pot_FS_Sarum Rise;49.16665;-123.963299;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109751;Jingle Pot at Bird Sanctuary (WB);WB_Jingle Pot_FS_Bird Sanctuary;49.166682;-123.969446;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109752;Jingle Pot at Valley Oak (WB);WB_Jingle Pot_FS_Valley Oak;49.166897;-123.974495;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109754;Jingle Pot at Calder (WB);WB_Jingle Pot_FS_Calder;49.169212;-123.987129;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109755;Westwood at Rockwood (WB);WB_Westwood_NS_Rockwood;49.169373;-123.991208;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109756;Arbot at Westwood (WB);WB_Arbot_FS_Westwood;49.166685;-123.996503;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109757;Arbot at Fountain Gate (WB);WB_Arbot_NS_Fountain Gate;49.166752;-124.001445;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109758;Arbot at South View (WB);WB_Arbot_FS_South View;49.16677;-124.003533;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109759;Mill at Westberry (WB);WB_Mill_NS_Westberry;49.168564;-124.009307;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109760;Ashlee at Mill (EB);EB_Ashlee_FS_Mill;49.170235;-124.009259;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109761;Ashlee at Towerview (EB);EB_Ashlee_NS_Towerview;49.170148;-124.002692;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109762;Ashlee at Holland (EB);EB_Ashlee_NS_Holland;49.170159;-123.999531;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109763;Jingle Pot at Ashlee (EB);EB_Jingle Pot_FS_Ashlee;49.169989;-123.991447;NAN;Regional District of Nanaimo Transit System;Nanaimo
+109764;Jingle Pot at Calder (EB);EB_Jingle Pot_NS_Calder;49.169094;-123.987044;NAN;Regional District of Nanaimo Transit System;Nanaimo
+110358;Jones at Fern Rd W (SB);SB_Jones_FS_Fern Rd W;49.345888;-124.450119;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110359;Jones at Fifth Ave W (SB);SB_Jones_FS_Fifth Ave W;49.344109;-124.449197;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110360;Garden Rd W at Beach (EB);EB_Garden Rd W_NS_Beach;49.342325;-124.447851;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110361;Garden Rd W at Primrose (EB);EB_Garden Rd W_FS_Primrose;49.342293;-124.443346;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110362;Memorial 750 block (NB);NB_750_block_Memorial;49.345016;-124.441572;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110363;Village at Berwick Rd N (EB);EB_Village_NS_Berwick Rd N;49.349044;-124.440666;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110364;Village 290 block (EB);EB_290_block_Village;49.34872;-124.434011;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110365;Village at Hemsworth (EB);EB_Village_FS_Hemsworth;49.348454;-124.427993;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110366;Village at Qualicum (EB);EB_Village_FS_Qualicum;49.348957;-124.420356;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110367;Village at Nootka (EB);EB_Village_FS_Nootka;49.349344;-124.416109;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110368;Village at Hollywood (EB);EB_Village_FS_Hollywood;49.34971;-124.409085;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+110369;Island Hwy W 1990 block (EB);EB_1990_block_Island Hwy W;49.349972;-124.403139;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104011;Jingle Pot Rd ACR Ashlee Rd (WB);WB_Jingle_Pot Rd_ACR_Ashlee Rd;49.170297;-123.991776;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104177;Downtown Nanaimo Exch Bay A (SB);SB_Downtown Nanaimo Exch_Bay A;49.164345;-123.93154;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104186;Bruce at Mulberry (SB);SB_Bruce_FS_Mulberry;49.137766;-123.949806;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104187;Bruce at Mulberry (NB);NB_Bruce_NS_Mulberry;49.137763;-123.949618;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104188;Tenth at 479 Blk (EB);EB_Tenth_AT_479 Blk;49.136018;-123.947435;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104189;Tenth at 479 Blk (WB);WB_Tenth_AT_479 Blk;49.136219;-123.947316;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104190;Tenth at Douglas (EB);EB_Tenth_NS_Douglas;49.135979;-123.938355;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104191;Tenth at Douglas (WB);WB_Tenth_FS_Douglas;49.136173;-123.938473;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104192;Tenth at Southside (EB);EB_Tenth_AT_Southside;49.135583;-123.930235;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104193;Tenth at Southside (WB);WB_Tenth_FS_Southside;49.135777;-123.930152;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104194;Schoolhouse at Morden (NB);NB_Schoolhouse_FS_Morden;49.093903;-123.885131;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104195;South Wellington at Morden (SB);SB_South Wellington_NS_Morden;49.093934;-123.889091;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104196;Front St at Museum Way (EB);EB_Front St_FS_Museum Way;49.165829;-123.934668;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104197;Boundary at Nelson (SB);SB_Boundary_NS_Nelson;49.187541;-123.972395;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104198;Boundary at Nelson (NB);NB_Boundary_FS_Nelson;49.18741;-123.972138;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104199;Vowels at Angus (WB);WB_Vowels_FS_Angus;49.05755;-123.88054;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104288;Hallberg at Carden (SB);SB_Hallberg_NS_Carden;49.054562;-123.883895;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104771;Hallberg at Seabird (SB);SB_Hallberg_NS_Seabird;49.050809;-123.883892;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104772;Hallberg at Pelter (SB);SB_Hallberg_FS_Pelter Pl;49.047013;-123.884004;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104773;Timberlands at Timberlands Park (EB);EB_Timberlands_ACR_Timberlands Park;49.043653;-123.880456;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104774;Timberlands at Trans-Canada Hwy (EB);EB_Timberlands_NS_Trans-Canada Hwy;49.04508;-123.874591;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104775;Nanaimo Airport Entr (NB);NB_Nanaimo Airport Entr;49.05322;-123.874727;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104776;Lawlor at Eleventh (NB);NB_Lawlor_FS_Eleventh;49.130185;-123.92381;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104170;Prideaux Street Exchange Bay H;Prideaux_Street_Exchange_Bay_H;49.164148;-123.943476;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104173;Northwest Bay Rd AT Island Hwy (SB);SB_Northwest Bay Rd_NS_Island Hwy;49.264235;-124.199496;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+104174;Emerald Dr AT Uplands Dr (WB);WB_Emerald Dt_FS_Uplands Dr;49.213507;-123.999626;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104158;Berwick Rd at Garden Rd E (SB);SB_Berwick Rd_FS_Garden Rd_E;49.342087;-124.439085;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104159;Island Hwy at Rath Rd (WB);WB_Island Hwy_AT_Rath Rd;49.31437;-124.275816;NAN;Regional District of Nanaimo Transit System;Parksville
+104157;Arbutus at Hoylake Rd (SB);SB_Arbutus_AT_Hoylake Rd;49.351394;-124.463892;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104160;Island Hwy E farside Huntley (EB);EB_Island Hwy_E_FS_Huntley;49.307119;-124.26429;NAN;Regional District of Nanaimo Transit System;Parksville
+104161;Island Hwy NS Fisheries Rd (WB);WB_Island Hwy_NS_Fisheries Rd;49.396435;-124.610205;NAN;Regional District of Nanaimo Transit System;Qualicum
+104162;River Rd FS Fisheries Rd (WB);WB_River Rd_FS_Fisheries Rd;49.396745;-124.612997;NAN;Regional District of Nanaimo Transit System;Qualicum
+104163;Island Hwy ACR Lions Way (WB);WB_Island Hwy_ACR_Lions Way;49.404365;-124.631182;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104164;Island Hwy ACR Magnolia Court (WB);WB_Island Hwy_ACR_Magnolia Court;49.434817;-124.674181;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104165;Island Hwy NS Fisheries Rd (EB);EB_Island Hwy_NS_Fisheries Rd;49.396971;-124.611308;NAN;Regional District of Nanaimo Transit System;Qualicum
+104166;Leon Rd FS Horne Lake Rd (EB);EB_Leon Rd_FS_Horne_Lake Rd;49.387152;-124.610934;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104167;Alberni Hwy at Oceanside Health Centre (EB);EB_Alberni Hwy_AT_Oceanside_Health_Centre;49.310322;-124.324074;NAN;Regional District of Nanaimo Transit System;Parksville
+104168;Wembley Mall AT Wembley Rd (SB);SB_Wembley Mall_AT_Wembley Rd;49.329205;-124.343729;NAN;Regional District of Nanaimo Transit System;Parksville
+104794;Island Hwy at Rutherford (NB);NB_Island Hwy_FS_Rutherford;49.214959;-124.029565;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104795;Island Hwy at Mostar (SB);SB_Island Hwy_FS_Mostar;49.213859;-124.029186;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104796;Schoolhouse at Fielding (NB);NB_Schoolhouse_FS_Fielding;49.105555;-123.894675;NAN;Regional District of Nanaimo Transit System;Nanaimo A
+104797;Island Hwy W at Baylis (NB);NB_Island Hwy W_FS_Baylis;49.373404;-124.557082;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104798;Island Hwy W at Baylis (SB);SB_Island Hwy W_FS_Baylis;49.372768;-124.554679;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104806;Bruce at Eighth (SB);SB_Bruce_FS_Eighth;49.143597;-123.949789;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104807;Bruce at Eighth (NB);NB_Bruce_FS_Eighth;49.143984;-123.949529;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104169;Island Hwy E at Morello Rd (SB);SB_Island Hwy_E_FS_Morello Rd;49.263407;-124.203429;NAN;Regional District of Nanaimo Transit System;Nanaimo E
+104171;Berwick Rd AT 885 Block (SB);SB_Berwick Rd_AT_885 Block;49.340272;-124.439129;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104172;Jingle Pot Rd AT 1972 Block (WB);WB_Jingle Pot Rd_AT_1972 Block;49.167695;-123.977587;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104175;Sunrise at Island Hwy W (WB);WB_Sunrise_FS_Island Hwy_W;49.349179;-124.36863;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104178;Downtown Nanaimo Exch Bay B (SB);SB_Downtown Nanaimo Exch_Bay B;49.164469;-123.931408;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104179;Downtown Nanaimo Exch Bay C (SB);SB_Downtown Nanaimo Exch_Bay C;49.164594;-123.931278;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104180;Downtown Nanaimo Exch Bay D (NB);NB_Downtown Nanaimo Exch_Bay D;49.164158;-123.931592;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104181;Downtown Nanaimo Exch Bay E (NB);NB_Downtown Nanaimo Exch_Bay E;49.16433;-123.93145;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104182;Downtown Nanaimo Exch Bay F (NB);NB_Downtown Nanaimo Exch_Bay F;49.164458;-123.93132;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104183;Downtown Nanaimo Exch Bay G (NB);NB_Downtown Nanaimo Exch_Bay G;49.164582;-123.931195;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104184;Fourth at Hillcrest (EB);EB_Fourth_NS_Hillcrest;49.158899;-123.960189;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104185;Fourth at Hillcrest (WB);WB_Fourth_FS_Hillcrest;49.15904;-123.960035;NAN;Regional District of Nanaimo Transit System;Nanaimo
+904000;Nanaimo Transit System;;49.235237;-124.04146;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104051;Island Hwy at Riverside (WB);WB_Island Hwy_FS_Riverside;49.315308;-124.279276;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104052;Island Hwy at Riverside (EB);EB_Island Hwy_FS Riverside;49.314395;-124.277142;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104048;Leon at Horne Lake (WB);WB_Leon_NS_Horne Lake;49.387251;-124.610939;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104053;Island Hwy W AT Lion's Way (SB);SB_Island Hwy_W_ At_Lion's Way;49.404329;-124.631617;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104054;Island Highway 6900 block (EB);EB_6900 block_Island Highway;49.434711;-124.674348;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104055;Thompson Clark at Henry Morgan (NB);NB_Thompson Clark_AT_Henry_Morgan;49.438719;-124.677637;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104056;Deep Bay Marina;Deep_Bay_Marina;49.464433;-124.725777;NAN;Regional District of Nanaimo Transit System;Nanaimo H
+104116;Royal Dornoch ACR Fairways DR (NB);NB_Royal Dornoch_ACR_Fairways Dr;49.349771;-124.399044;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104118;Royal Dornoch at Troon Close (WB);WB_Royal Dornoch_FS_Troon Close;49.352799;-124.403316;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104119;Country Club ACR Fairways Dr (SB);SB_Country Club_ACR_Fairways Dr;49.35116;-124.405061;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104120;Hwy 19A at Milner Gardens (WB);WB_Hwy 19A_AT_Milner Gardens;49.353638;-124.415078;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104121;Hwy 19A at Qualicum Rd (WB);WB_Hwy 19A_FS_Qualicum Rd;49.355683;-124.421372;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104122;Hwy 19A at Hall Rd (WB);WB_Hwy 19A_FS_Hall Rd;49.356389;-124.425137;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104123;Hemsworth ACR Quatsino Rd (SB);SB_Hemsworth_ACR_Quatsino Rd;49.355471;-124.428233;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104124;Hemsworth at Dogwood Rd (SB);SB_Hemsworth_NS_Dogwood Rd;49.353286;-124.428275;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104125;Dogwood at Qualicum Rd (EB);EB_Dogwood_NS_Qualicum Rd;49.353091;-124.421172;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104072;Admiral Tyron at Dalmation (WB);WB_Admiral Tyron_NS_Dalmaton Dr;49.352929;-124.373808;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104073;Dalmation at Karls Way (EB);EB_Dalmation_FS Karls Way;49.349728;-124.372373;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104075;Island Hwy W at Columbia Dr (NB);NB_Island Hwy_W_FS_Columbia Dr;49.349429;-124.368932;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104076;Johnstone at Sumar Ln (NB);NB_Johnstone_NS_Sumar Ln;49.347774;-124.377419;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104130;Jones at Rupert Rd W (SB);SB_Jones_NS_Rupert Rd W;49.339652;-124.449146;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104131;Arbutus at McRae Plc (NB);NB_Arbutus_NS_McRae Plc;49.341983;-124.461826;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104132;Chestnut at 797 Block (EB);EB_Chestnut_AT_797 Block;49.343684;-124.462125;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104133;Arbutus at Birch Ave (NB);NB_Arbutus_FS_Birch Ave;49.346602;-124.46382;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104134;Arbutus at First Ave W (NB);NB_Arbutus_FS_First Ave W;49.348606;-124.463781;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104135;Arbutus at Harlech Rd (NB);NB_Arbutus_FS_Harlech Rd;49.351439;-124.463742;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104136;Crescent Rd W farside Arbutus (EB);EB_Crescent Rd W_FS_Arbutus;49.353197;-124.463341;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104137;Crescent Rd W Nearside Alder (EB);EB_Crescent Rd W_NS_Alder;49.352564;-124.458575;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104138;Garrett at Garrett Turn-About (SB);SB_Garrett_AT_Garrett Turn-About;49.353742;-124.476522;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104139;Crescent Rd W at Beach (EB);EB_Crescent Rd W_NS_Beach;49.352491;-124.448611;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104140;Crescent Rd W at Memorial (EB);EB_Crescent Rd W_NS_Memorial;49.352461;-124.443766;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104141;Island Hwy W at 2711 Blk (WB);WB_Island Hwy W_AT_2711;49.355776;-124.441163;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104142;Island Hwy W at 2831 Island Hwy (WB);WB_Island Hwy W_NS_2831 Island Hwy W;49.354388;-124.448596;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104143;Island Hwy W ACR Bay St (WB);WB_Island Hwy W_ACR_Bay ;49.354029;-124.453139;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104144;Island Hwy W at 3108 Island Hwy W (WB);WB_Island Hwy W_AT_3108 Island Hwy W;49.355909;-124.464029;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104145;Island Hwy W acr Crescent Rd W (WB);WB_Island Hwy W_ACR_Crescent Rd W;49.358557;-124.468008;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104146;Island Hwy W ACR Beach Dr (WB);WB_Island Hwy W_ACR_Beach Dr;49.359574;-124.47034;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104147;Garrett at Parkridge (SB);SB_Garrett_NS_Parkridge;49.357235;-124.471322;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104148;Crescent Rd W at Rye  (EB);EB_Crescent Rd W_FS_Rye ;49.352511;-124.451678;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104149;Canyon at 727 (EB);EB_Canyon_AT_727;49.355098;-124.472749;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104150;Canyon at Hoylake Rd W (SB);SB_Canyon_NS_Hoylake Rd W;49.353027;-124.469339;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104151;Mill Rd at Arbutus (EB);EB_Mill Rd_FS_Arbutus;49.349624;-124.463153;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104152;Mill Rd at Alder St (EB);EB_Mill Rd_FS_Alder St;49.349606;-124.457868;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104153;Mill Rd at Rye St (EB);EB_Mill Rd_NS_Rye St;49.349597;-124.45304;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104154;Mill Rd at Beach Rd (EB);EB_Mill Rd_NS_Beach Rd;49.349481;-124.447939;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104155;Beach at First Ave W (SB);SB_Beach Rd_FS_First Ave W;49.348481;-124.447257;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104156;Fern Rd AT Beach Rd (WB);WB_Fern Rd_FS_Beach Rd;49.346234;-124.447343;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104022;Fern at Primrose  (EB);EB_Fern_NS_Primrose;49.346087;-124.444644;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104023;Fern at Memorial (EB);EB_Fern_NS_Memorial;49.346055;-124.442291;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104024;Fern at Berwick Rd S (EB);EB_Fern_NS Berwick Rd S;49.346054;-124.439477;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104026;Berwick at Sixth Ave E (SB);SB_Berwick_FS_Sixth Ave_E;49.343649;-124.43908;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104028;Rupert Rd E at Berwick (EB);EB_Rupert Rd E_FS_Berwick;49.339252;-124.438687;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104029;Rupert Rd E at Qualicum (EB);EB_Rupert Rd E_FS_Qualicum;49.339257;-124.420297;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104060;Rupert Rd E at Hollywood Rd (EB);EB_Rupert Rd E_FS_Hollywood;49.339295;-124.409716;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104061;Rupert Rd E at Bluebird Plc (EB);EB_Rupert Rd E_FS_Bluebird Plc;49.339303;-124.405541;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104062;Rupert Rd E at Ravensbourne Ln (EB);EB_Rupert Rd E_FS_Ravensbourne Ln;49.341587;-124.399231;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104063;Miraloma acr Chartwest Cres (EB);EB_Miraloma_ACR_Chartwest Cres;49.342953;-124.39848;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104064;Chartwell at Miraloma Dr (NB);NB_Chartwell_FS_Miraloma Dr;49.3424;-124.393193;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104065;Ormonde Rd at Devon (EB);EB_Ormonde_FS_Devon;49.343562;-124.391494;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104066;Ormonde at Yambury (EB);EB_Ormonde_NS_Yambury Rd;49.342941;-124.388063;NAN;Regional District of Nanaimo Transit System;Qualicum Beach
+104067;Ormonde at Boultbee (EB);EB_Ormonde_NS_Boultbee Dr;49.342965;-124.385132;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104068;Boultbee acr Bunker Plc (NB);NB_Boultbee_ACR_Bunker Plc;49.343946;-124.384719;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104069;Columbia acr Sharon Plc (NB);NB_Columbia_ACR_Sharon Plc;49.349449;-124.367457;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104070;Columbia at Viking Way (NB);NB_Columbia_FS_Viking Way;49.352634;-124.367606;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104071;Columbia at Admiral Tyron Blvd (NB);NB_Columbia_NS_Admiral Tyron Blvd;49.353223;-124.367623;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104035;Mostar at Jordan (NB);NB_Mostar_NS_Jordan;49.211993;-124.034871;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104036;Stanhope at Parkside  (EB);EB_Stanhope_NS_Parkside;49.333508;-124.345179;NAN;Regional District of Nanaimo Transit System;Parksville
+104037;Stanhope at Parkside (WB);WB_Stanhope_NS_Parkside;49.333644;-124.344616;NAN;Regional District of Nanaimo Transit System;Parksville
+104038;Stanhope at Belson (EB);EB_Stanhope_FS_Belson;49.333556;-124.341118;NAN;Regional District of Nanaimo Transit System;Parksville
+104039;Stanhope at Belson (WB);WB_Stanhope_NS_Belson;49.333688;-124.341195;NAN;Regional District of Nanaimo Transit System;Parksville
+104040;Northboudn Pym at Sanderson;NB_Pym_NS_Sanderson;49.334752;-124.340369;NAN;Regional District of Nanaimo Transit System;Parksville
+104041;Pym at Sanderson (SB);SB_Pym_FS_Sanderson;49.334711;-124.340561;NAN;Regional District of Nanaimo Transit System;Parksville
+104042;Pym at Temple (NB);NB_Pym_NS_Temple;49.336634;-124.340429;NAN;Regional District of Nanaimo Transit System;Parksville
+104043;Pym at temple (SB);SB_Pym_FS_Temple;49.33664;-124.340639;NAN;Regional District of Nanaimo Transit System;Parksville
+104044;McMillan at Harrison (SB);SB_McMillan_FS_Harrison;49.32022;-124.317005;NAN;Regional District of Nanaimo Transit System;Parksville
+104045;Island Hwy at Tuan (EB);EB_Island Hwy_FS_Tuan;49.309292;-124.267525;NAN;Regional District of Nanaimo Transit System;Parksville
+104046;Island Hwy at Resort Way (WB);WB_Island Hwy_FS_Resort Way;49.309558;-124.267284;NAN;Regional District of Nanaimo Transit System;Parksville
+104047;Barons at Departure Bay (WB);Barons_wb FS Departure Bay Rd;49.207614;-124.001737;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104049;Island Hwy at Lee (NB);NB_Island Hwy_FS_Lee;49.345142;-124.359144;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104050;Island Hwy at Lee (SB);SB_Island Hwy_NS_Lee;49.34622;-124.360729;NAN;Regional District of Nanaimo Transit System;Nanaimo G
+104808;Fitzwilliam at Prideaux (WB);WB_Fitzwilliam_FS_Prideaux;49.164866;-123.94436;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104993;Wakesiah at Foster (NB);NB_Wakesiah_NS_Foster;49.160679;-123.961095;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104992;Comox at Cliffe (EB);EB_Comox_FS_Cliffe;49.170165;-123.939204;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104995;Wakesiah FS Foster (NB);NB_Wakesiah_FS_Foster;49.161037;-123.961085;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104996;Wakesiah at Fourth (NB);NB_Wakesiah_FS_Fourth;49.159444;-123.961063;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104994;Nanaimo Port Authority (SB);SB_Nanaimo Port Authority;49.161483;-123.924528;NAN;Regional District of Nanaimo Transit System;Nanaimo
+104990;Despard at Springwood Elementary (EB);EB_Despard_AT_Spingwood Elementary;49.312002;-124.327158;NAN;Regional District of Nanaimo Transit System;Parksville
+104991;Despard at Hackberry (WB);WB_Despard_FS_Hackberry Pl;49.312165;-124.327941;NAN;Regional District of Nanaimo Transit System;Parksville

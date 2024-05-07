@@ -1,0 +1,572 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+106096;Davis at Battie (SB);SB_Davis_FS_Battie;48.973807;-123.805654;COW;Cowichan Valley Regional Transit System;Ladysmith
+106097;Davis at Hall (SB);SB_Davis_FS_Hall;48.969449;-123.799765;COW;Cowichan Valley Regional Transit System;Ladysmith
+106098;Davis at Craig (SB);SB_Davis_FS_Craig;48.969133;-123.79703;COW;Cowichan Valley Regional Transit System;Ladysmith
+106099;Davis at Russell (SB);SB_Davis_AT_Russell;48.968739;-123.794124;COW;Cowichan Valley Regional Transit System;Ladysmith
+106101;170 Blk Westdowne Rd (SB);SB_170 Blk Westdowne Rd;48.958735;-123.780186;COW;Cowichan Valley Regional Transit System;Ladysmith
+106100;Davis at Farrell Rd (WB);WB_Davis_AT_Farrell Rd;48.968292;-123.791287;COW;Cowichan Valley Regional Transit System;Ladysmith
+106102;Davis at Louise Rd (WB);WB_Davis_AT_Louise Rd;48.968757;-123.793736;COW;Cowichan Valley Regional Transit System;Ladysmith
+106103;Davis at McNiven (WB);WB_Davis_AT_McNiven Rd;48.969113;-123.795849;COW;Cowichan Valley Regional Transit System;Ladysmith
+106104;Davis at Hall (WB);WB_Davis_NS_Hall;48.969556;-123.799805;COW;Cowichan Valley Regional Transit System;Ladysmith
+106105;Davis at Battie (NB);NB_Davis_NS_Battie;48.973932;-123.805579;COW;Cowichan Valley Regional Transit System;Ladysmith
+106106;Dogwood at Arbutus (WB);WB_Dogwood_NS_Arbutus;48.976041;-123.807076;COW;Cowichan Valley Regional Transit System;Ladysmith
+106107;Dogwood at Arbutus (NB);NB_Dogwood_FS_Arbutus;48.978036;-123.809757;COW;Cowichan Valley Regional Transit System;Ladysmith
+106108;Dogwood at Holland Creek (NB);NB_Dogwood_FS_Holland Creek;48.983723;-123.809369;COW;Cowichan Valley Regional Transit System;Ladysmith
+106109;Dogwood at 280 Blk (NB);NB_Dogwood_AT_280 Blk;48.985259;-123.811299;COW;Cowichan Valley Regional Transit System;Ladysmith
+106110;Dogwood at Belaire St (NB);NB_Dogwood_AT_Belaire St;48.987426;-123.813786;COW;Cowichan Valley Regional Transit System;Ladysmith
+136364;Cowichan Bay at Tzouhalem (EB);EB_Cowichan Bay_NS_Tzouhalem;48.755354;-123.655184;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136365;Cowichan Bay at Bench (SB);SB_Cowichan Bay_FS_Bench;48.748465;-123.655225;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136366;Cowichan Bay at Hillbank (EB);EB_Cowichan Bay_NS_Hillbank;48.745447;-123.644047;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136367;Cowichan Bay at Wessex (EB);EB_Cowichan Bay_FS_Wessex;48.742606;-123.627444;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136368;Cowichan Bay 1770 block (EB);EB_1770_block_Cowichan Bay;48.740378;-123.621032;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136369;Cowichan Bay at Wilmot (SB);SB_Cowichan Bay_FS_Wilmot;48.739335;-123.617188;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136370;Cowichan Bay at Glen (SB);SB_Cowichan Bay_FS_Glen;48.735665;-123.611493;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136371;Cowichan Bay 1540 block (EB);EB_1540_block_Cowichan Bay;48.730409;-123.60759;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136373;Cowichan Bay at Telegraph (SB);SB_Cowichan Bay_NS_Telegraph;48.725827;-123.605254;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136374;Cowichan Bay at Robson (EB);EB_Cowichan Bay_FS_Robson;48.721193;-123.604644;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136375;Cowichan Bay at St Catherines (SB);SB_Cowichan Bay_NS_St Catherines;48.713587;-123.602581;COW;Cowichan Valley Regional Transit System;Est-Patrolas 4
+136383;Cowichan Lake 3250 block (WB);WB_3250_block_Cowichan Lake;48.789788;-123.733928;COW;Cowichan Valley Regional Transit System;North Cowichan
+136392;Lakes at Buckingham (SB);SB_Lakes_NS_Buckingham;48.815604;-123.667818;COW;Cowichan Valley Regional Transit System;North Cowichan
+136396;Cowichan Lake 7090 block (WB);WB_7090_block_Cowichan Lake;48.813385;-123.978739;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136397;Cowichan Valley at Skutz Falls (EB);EB_Cowichan Valley_FS_Skutz Falls;48.807139;-123.958029;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136402;Cowichan Lake at Summit (WB);WB_Cowichan Lake_FS_Summit;48.803116;-123.938993;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136406;Cowichan Lake at Kapoor (WB);WB_Cowichan Lake_FS_Kapoor;48.784493;-123.853314;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136410;Cowichan Lake 3260 block (EB);EB_3260_block_Cowichan Lake;48.789854;-123.734405;COW;Cowichan Valley Regional Transit System;North Cowichan
+136413;Cowichan Lake at Gerz (WB);WB_Cowichan Lake_FS_Gerz;48.783184;-123.794442;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136414;Sandra at Harmony (NB);NB_Sandra_NS_Harmony;48.782796;-123.659839;COW;Cowichan Valley Regional Transit System;North Cowichan
+136422;Gibbins at Carmel (EB);EB_Gibbins_FS_Carmel;48.781147;-123.731426;COW;Cowichan Valley Regional Transit System;North Cowichan
+136423;Gibbins at Carmel (WB);WB_Gibbins_NS_Carmel;48.780565;-123.732803;COW;Cowichan Valley Regional Transit System;North Cowichan
+136427;Somenos St S at Cowichan Ave E (NB);NB_Somenos St S_NS_Cowichan Ave E;48.824152;-124.043984;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136436;Queen at Charlotte (NB);NB_Queen_NS_Charlotte;48.862769;-123.640898;COW;Cowichan Valley Regional Transit System;North Cowichan
+136438;Lakes at Buckingham (NB);NB_Lakes_FS_Buckingham;48.815588;-123.667684;COW;Cowichan Valley Regional Transit System;North Cowichan
+136440;Cowichan Lake at Summit (EB);EB_Cowichan Lake_FS_Summit;48.802823;-123.938409;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+106174;Maple Bay at Indian (SB);SB_Maple Bay_AT_Indian;48.782774;-123.66988;COW;Cowichan Valley Regional Transit System;North Cowichan
+136446;Maple Bay at Tzouhalem (NB);NB_Maple Bay_FS_Tzouhalem;48.781315;-123.671331;COW;Cowichan Valley Regional Transit System;North Cowichan
+136447;Bourban at Shawnigan Lake-Mill Bay (EB);EB_Bourban_FS_Shawnigan Lake-Mill Bay;48.653361;-123.579351;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136454;Cowichan Lake 4710 block (WB);WB_4710_block_Cowichan Lake;48.7776;-123.817786;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136455;Cowichan Lake at Jordans (EB);EB_Cowichan Lake_FS_Jordans;48.7768;-123.829702;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136457;Cowichan Lake at Greendale (EB);EB_Cowichan Lake_NS_Greendale;48.828893;-124.046798;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+104000;Lodgepole at Frayne (NB);NB_Lodgepole_FS_Frayne;48.642339;-123.55507;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+104001;Lodgepole at Frayne (SB);SB_Lodgepole_NS_Frayne;48.642164;-123.555241;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+104002;Shawnigan Lake-Mill Bay at Wilkinson (WB);WB_Shawnigan Lake-Mill Bay_NS_Wilkinson;48.657387;-123.573616;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+104003;Shawnigan Lake-Mill Bay at Wilkinson (EB);EB_Shawnigan Lake-Mill Bay_FS_Wilkinson;48.657114;-123.574251;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+104004;Shawnigan Lake-Mill Bay 1640 block (WB);WB_1640_block_Shawnigan Lake-Mill Bay;48.653554;-123.613717;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104005;Shawnigan Lake-Mill Bay 1630 block (EB);EB_1630_block_Shawnigan Lake-Mill Bay;48.653442;-123.61369;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104006;Shawnigan Lake-Mill Bay at Dundas (WB);WB_Shawnigan Lake-Mill Bay_FS_Dundas;48.653724;-123.622409;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104007;Shawnigan Lake-Mill Bay at Shawnigan Lake (EB);EB_Shawnigan Lake-Mill Bay_FS_Shawnigan Lake;48.653643;-123.622648;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104008;Shawnigan Lake at Hipwood (NB);NB_Shawnigan Lake_NS_Hipwood;48.656983;-123.626296;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104009;Shawnigan Lake at Hipwood (SB);SB_Shawnigan Lake_FS_Hipwood;48.656953;-123.626442;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104010;Renfrew at Linden (WB);WB_Renfrew_FS_Linden;48.651242;-123.641769;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+106114;Renfrew at Linden (EB);EB_Renfrew_FS_Linden;48.651159;-123.641872;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104012;Gregory at Meadowview (WB);WB_Gregory_NS_Meadowview;48.653489;-123.656129;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104013;Gregory at McKean (EB);EB_Gregory_NS_McKean;48.653174;-123.655795;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104014;Ravenhill at Skrimshire (WB);WB_Ravenhill_FS_Skrimshire;48.659008;-123.66272;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104015;Ravenhill at Terrace (EB);EB_Ravenhill_AT_Terrace;48.658907;-123.663362;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104016;Ravenhill at Gregory (WB);WB_Ravenhill_FS_Gregory;48.658499;-123.656851;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104017;Ravenhill at Delleith (EB);EB_Ravenhill_NS_Delleith;48.658438;-123.657801;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104018;Cobble Hill at Hutchinson (NB);NB_Cobble Hill_FS_Hutchinson;48.686726;-123.603688;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+104019;Cobble Hill at Fisher (SB);SB_Cobble Hill_FS_Fisher;48.687327;-123.604248;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+104020;Trans-Canada at Cowichan Bay Rd (NB);NB_Trans-Canada_FS_Cowichan Bay Rd;48.708679;-123.608075;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+104021;Koksilah Rd Turnaround (WB);WB_Koksilah Rd Turnaround;48.72994;-123.64166;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+104027;Renfrew at Shawnigan Lake (WB);WB_Renfrew_FS_Shawnigan Lake;48.657231;-123.628945;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104030;Shawnigan Lake at Thain (SB);SB_Shawnigan Lake_FS_Thain;48.66975;-123.624952;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+104031;Trans-Canada at Boys (SB);SB_Trans-Canada_FS_Boys;48.768788;-123.69904;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+104032;Trans-Canada at Boys (NB);NB_Trans-Canada_FS_Boys;48.770393;-123.698699;COW;Cowichan Valley Regional Transit System;North Cowichan
+104033;Central at Cowichan (NB);NB_Central_FS_Cowichan;48.774655;-123.701603;COW;Cowichan Valley Regional Transit System;Cowichan
+108088;20 Block South Shore Rd (WB);WB_20_Blk_South_Shore Rd;48.826029;-124.055007;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+108002;Fisher at Cedardale (WB);WB_Fisher Rd_AT_Cedardale ;48.697415;-123.589498;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108032;Jubilee at 4th (NB);NB_Jubilee St_NS_4th;48.783234;-123.71019;COW;Cowichan Valley Regional Transit System;Duncan
+108033;Lane Rd at Moorefield (NB);NB_Lanr RD_AT_Moorefield;48.794304;-123.72601;COW;Cowichan Valley Regional Transit System;North Cowichan
+108034;Canada Ave at 1071 Blk (SB);SB_Canada Ave_AT_1071 Blk;48.787483;-123.709976;COW;Cowichan Valley Regional Transit System;Duncan
+106206;Allenby Rd at August (SB);SB_Allenby Rd_AT_August;48.773594;-123.71248;COW;Cowichan Valley Regional Transit System;Cowichan
+136040;Sherman Rd at 3020 Blk (EB);EB_Sherman Rd_AT_3020 Blk;48.792078;-123.721728;COW;Cowichan Valley Regional Transit System;North Cowichan
+106207;Koksilah at Allenby Rd (NB);NB_Koksilah_NS_Allenby Rd;48.765018;-123.700486;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106225;Christopher Rd at Francis St (NB);NB_Christopher Rd_NS_Francis St;48.761088;-123.686517;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108040;Kilmalu AT 780 BlK (WB);WB_Kilmalu_AT_780 Blk;48.664915;-123.554363;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106072;Ladysmith Seniors Centre (SB);SB_Ladysmith Seniors Centre;48.993082;-123.820473;COW;Cowichan Valley Regional Transit System;Ladysmith
+106052;1st Ave at Gatacre (SB);SB_!st Ave_AT_Gatacre;48.993251;-123.817465;COW;Cowichan Valley Regional Transit System;Ladysmith
+106059;Malone Rd at Mackie Rd (WB);WB_Malone Rd_AT_Mackie Rd;48.988417;-123.828798;COW;Cowichan Valley Regional Transit System;Ladysmith
+106067;High St at 5th Ave (EB);EB_High St_AT_5th Ave;48.990446;-123.823649;COW;Cowichan Valley Regional Transit System;Ladysmith
+106085;Ladysmith Seniors Centre (NB);NB_Ladysmith Seniors Centre;48.993153;-123.820387;COW;Cowichan Valley Regional Transit System;Ladysmith
+106095;Coronation Mall (NB);NB_Coronation Mall;48.978706;-123.804713;COW;Cowichan Valley Regional Transit System;Ladysmith
+106131;Beverly at Duncan St (EB);EB_Beverly ST_AT_Duncan St;48.784747;-123.708489;COW;Cowichan Valley Regional Transit System;North Cowichan
+108041;Telegraph at Kilmalu (SB);SB_Telegraph_NS_Kilmalu;48.665124;-123.552133;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108064;Kingsview Rd at Maple Bay Rd (WB);WB_Kingsview Rd_AT_Maple Bay Rd;48.799076;-123.644923;COW;Cowichan Valley Regional Transit System;North Cowichan
+106275;Chemainus at Halalt (SB);SB_Chemainus_AT_Halalt;48.876074;-123.695444;COW;Cowichan Valley Regional Transit System;Halalt 2
+106273;Mt. Sticker Rd at TransCanada Hwy (WB);WB_Mt Sticker Rd_AT_TransCanada Hwy;48.874717;-123.705314;COW;Cowichan Valley Regional Transit System;North Cowichan
+106264;Chemainus Rd at Howe Rd (NB);NB_Chemainus Rd_AT_Howe Rd;48.907527;-123.705461;COW;Cowichan Valley Regional Transit System;North Cowichan
+108066;Croft St at Alder St (NB);NB_Croft St_AT_Alder St;48.924195;-123.717069;COW;Cowichan Valley Regional Transit System;North Cowichan
+108068;Chemainus Rd at 9930 Block (NB);NB_Chemainus Rd_AT_9930 Blk;48.927907;-123.728698;COW;Cowichan Valley Regional Transit System;North Cowichan
+106272;Mt Sicker at TransCanada Hwy (EB);EB_Mt Sicker_AT_TransCanada Hwy;48.874665;-123.705913;COW;Cowichan Valley Regional Transit System;North Cowichan
+106274;Chemainus at Halalt Rd (EB);EB_Chemainus_AT_Halalt Rd;48.875694;-123.695734;COW;Cowichan Valley Regional Transit System;Halalt 2
+106199;Crofton at Chemainus Rd (EB);EB_Crofton_AT_Chemainus Rd;48.882053;-123.680751;COW;Cowichan Valley Regional Transit System;North Cowichan
+106268;Robert St at King St (EB);EB_Robert St_AT_King St;48.863802;-123.643989;COW;Cowichan Valley Regional Transit System;North Cowichan
+106170;Wilson at Kinch (NB);NB_Wilson_AT_Kinch;48.782943;-123.723782;COW;Cowichan Valley Regional Transit System;North Cowichan
+108063;Gibbins at Van Koy Rd (WB);WB_Gibbins_AT_Van Koy Rd;48.777796;-123.752291;COW;Cowichan Valley Regional Transit System;North Cowichan
+108067;Gibbins at Vimy (WB);WB_Gibbins_AT_Vimy;48.775037;-123.768183;COW;Cowichan Valley Regional Transit System;North Cowichan
+108069;Gibbins at 3960 Block (WB);WB_Gibbins_AT_3760 Block;48.77402;-123.77176;COW;Cowichan Valley Regional Transit System;North Cowichan
+106133;Menzies at Gibbins (SB);SB_menzies_AT_Gibbins;48.77369;-123.78074;COW;Cowichan Valley Regional Transit System;North Cowichan
+106144;Gibbins at 3800 Block (EB);EB_Gibbins_AT_3800 Block;48.776645;-123.763258;COW;Cowichan Valley Regional Transit System;North Cowichan
+106261;Cliffs Rd at Wilson (EB);EB_Cliffs Rd_AT_Wilson;48.779781;-123.72368;COW;Cowichan Valley Regional Transit System;North Cowichan
+108044;Telegraph at Sheppard (SB);SB_Telegraph_FS_Sheppard;48.67126;-123.553422;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108045;Youbou Rd 10700 Block (NB);NB_Youbou Rd_AT_10700 Block;48.877353;-124.218623;COW;Cowichan Valley Regional Transit System;Cowichan Valley I
+108046;Telegraph AT Pemberton (SB);SB_Telegraph_FS_Pemberton;48.675395;-123.551752;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106234;Bench Rd at Staghorn (WB);WB_Bench Rd_AT_Staghorn;48.742575;-123.660487;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106232;Bench Rd at Wilson (WB);WB_Bench Rd_NS_Wilson;48.737344;-123.664845;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106230;Bench Rd at 4570 Block (WB);WB_Bench Rd_AT_4570_Block;48.732865;-123.666918;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106228;Koksilah at Lakeside (EB);EB_Koksilah_NS_Lakeside;48.729849;-123.661297;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+108317;Shawnigan Lake Rd at Cameron Taggart (SB);SB_Shawnigan Lake Rd_AT_Cameron Taggart;48.675891;-123.606337;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108054;McKean Rd at Poplar (EB);EB_McKean Rd_AT_Poplar;48.653092;-123.647577;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108055;Worthington Rd at Renfrew (SB);SB_Worthington Rd_AT_Renfrew;48.651369;-123.645104;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108060;Huckleberry at Noowick (NB);NB_Huckleberry_AT_Noowick;48.637832;-123.546165;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108090;Deloume Rd at Barry (NB);NB_Deloume_AT_Barry;48.652287;-123.560621;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106213;Herd Rd at Pioneer Rd (WB);WB_Herd Rd_AT_Pioneer Rd;48.820226;-123.659664;COW;Cowichan Valley Regional Transit System;North Cowichan
+106184;Beverly at 2500 Block  (WB);WB_Beverly_AT_2500 Blk;48.784961;-123.696698;COW;Cowichan Valley Regional Transit System;North Cowichan
+106166;York Rd at Lewis St (SB);SB_York Rd_AT_Lewis St;48.783203;-123.698918;COW;Cowichan Valley Regional Transit System;North Cowichan
+108009;Farnsworth Rd at Stuart (NB);NB_Farnsworth Rd_AT_Stuast;48.692994;-123.577247;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106239;Braithwaite Dr at 1170 Block (WB);WB_Braithwaite Dr_AT_1170 Block;48.694785;-123.580716;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108016;Cowichan Bay Rd at 1505 Blk (NB);NB_Cowichan Bay Rd_AT_1505 Blk;48.727431;-123.604886;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+106236;Cedardale at Fisher (NB);NB_Cedardale_AT_Fisher;48.696907;-123.590213;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108061;Somenos at Mtn View Cemetary (NB);NB_Somenos_AT Mtn View Cemetary;48.805092;-123.736676;COW;Cowichan Valley Regional Transit System;North Cowichan
+106159;Somenos at Cowichan Valley Hwy (NB);NB_Somenos_AT_Cowichan Valley Hwy;48.812874;-123.736659;COW;Cowichan Valley Regional Transit System;North Cowichan
+108043;Telegraph at Meredith (SB);SB_Telegraph_NS_Meredith;48.668622;-123.553345;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106160;Somenos Across 6699 Blk (SB);SB_Somenos Rd_Across 6699 Blk;48.813198;-123.73668;COW;Cowichan Valley Regional Transit System;North Cowichan
+106235;Cowichan Lake Rd at Culverton (WB);WB_Cowichan Lake Rd_FS_Culverton;48.777474;-123.83854;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+106266;Cowichan Lake AT Caen Rd (EB);EB_Cowichan Lake_AT_Caen Rd;48.787632;-123.722623;COW;Cowichan Valley Regional Transit System;North Cowichan
+108167;Maple Bay at Kingsview (NB);NB_Maple Bay_FS_Kingsview;48.799337;-123.645178;COW;Cowichan Valley Regional Transit System;North Cowichan
+108168;South Shore AT Park Ave (WB);WB_South Shore Rd_FS Park Ave;48.815681;-124.171082;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+108172;N Shore AT Wilson (WB);WB_N Shore_NS_Wilson;48.82821;-124.054085;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+108224;Cowichan Lake at Stanley (EB);EB_Cowichan Lake_FS_Stanley;48.82778;-124.049659;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+108229;Canada AT Beverly (SB);SB_Canada_NS_Beverly;48.785057;-123.709082;COW;Cowichan Valley Regional Transit System;Duncan
+108234;Chaster at 5270 Block (NB);NB_Chaster_AT_5270 Block;48.763966;-123.693045;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108254;Glenora at Miller (EB);EB_Glenora_NS_Miller;48.762358;-123.704068;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+108258;Howard Ave at Alexander (SB);SB_Howard Ave_FS_Alexander;48.780825;-123.694032;COW;Cowichan Valley Regional Transit System;North Cowichan
+108259;Howard Ave at Alexander (NB);NB_Howard Ave_NS_Alexander St;48.780732;-123.693878;COW;Cowichan Valley Regional Transit System;North Cowichan
+108261;Coronation Ave at Bundock (WB);WB_Coronation Ave_FS_Bundock;48.778776;-123.697393;COW;Cowichan Valley Regional Transit System;Duncan
+108318;Mission at Sahilton (NB);NB_Mission_FS_Sahilton;48.762691;-123.684691;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108319;Mission at Smith (NB);NB_Mission_AT_Smith;48.768169;-123.684808;COW;Cowichan Valley Regional Transit System;Cowichan
+106247;Allan Rd at 3500 Block (NB);NB_Allan Rd_AT_3500_Block;48.688939;-123.568005;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106201;Arbutus Ridge at Arbutus Drive (NB);NB_Arbutus Ridge_AT_Arbutus Drive;48.690002;-123.541341;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106245;Cowerd Rd at Garry Oak Rd (WB);WB_Cowerd Rd_AT_Garry Oak Rd;48.690113;-123.569975;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106243;Christina Dr at Brookside Cres (WB);WB_Christina Dr_AT_Brookside Cres;48.690821;-123.573662;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108320;Boys Rd at 2730 Block (WB);WB_Boys Rd_AT_2730 Block;48.769689;-123.686604;COW;Cowichan Valley Regional Transit System;North Cowichan
+108321;Boys Rd at Statlou (WB);WB_Boys Rd_AT_Statlou;48.769668;-123.691712;COW;Cowichan Valley Regional Transit System;North Cowichan
+108322;Boys Rd at 2880 Block (WB);WB_Boys Rd_AT_2880 Block;48.769654;-123.695481;COW;Cowichan Valley Regional Transit System;North Cowichan
+108323;Chaster Rd at 4230 Block (EB);EB_Chaster Rd_AT_4230 Block;48.764665;-123.694523;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108324;Chaster at Koksilah Frontage Rd (EB);EB_Chaster_FS_Koksilah Frontage Rd;48.762496;-123.690056;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108037;Queens Rd farside Duncan (EB);EB_Queens Rd_FS_Duncan;48.779364;-123.706328;COW;Cowichan Valley Regional Transit System;Duncan
+108039;Alderlea at James St (NB);NB_Alderlea_AT_James St;48.781775;-123.704319;COW;Cowichan Valley Regional Transit System;North Cowichan
+108256;2540 Blk Beverly St (EB);EB_2540 Blk_Beverly St;48.784853;-123.696582;COW;Cowichan Valley Regional Transit System;North Cowichan
+108257;Howard Ave at Dingwall (SB);SB_Howard Ave_NS_Dingwall;48.783321;-123.694052;COW;Cowichan Valley Regional Transit System;North Cowichan
+908000;Cowichan Valley Transit Centre;Cowichan Valley Transit Centre;48.762973;-123.698578;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106140;Maple Bay Rd at Pemberlea (SB);SB_Maple Bay Rd_AT_Pemberlea;48.810674;-123.625078;COW;Cowichan Valley Regional Transit System;North Cowichan
+108166;Maple bay Rd at McKenzie (EB);EB_Maple Bay Rd_AT_Mckenzie;48.80642;-123.630954;COW;Cowichan Valley Regional Transit System;North Cowichan
+106126;Maple Bay Rd at Everest Way (SB);SB_Maple Bay Rd_AT_Everest Way;48.793182;-123.656698;COW;Cowichan Valley Regional Transit System;North Cowichan
+106134;Maple Bay Rd at Garth Way (SB);SB_Maple Bay RD_FS_Garth Way;48.788827;-123.659579;COW;Cowichan Valley Regional Transit System;North Cowichan
+108089;Valleyview Mall at Cowichan Bay Rd;SB_Valleyview Mall_AT Cowichan Bay Rd;48.709801;-123.608701;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108162;Wilmot Ave at Wallbank (WB);WB_Wilmot_AT_Wallbank;48.65293;-123.619867;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+106127;Kingsview Rd at Maple Bay (EB);EB_Kingsview Rd_AT_Maple Bay;48.79862;-123.644666;COW;Cowichan Valley Regional Transit System;North Cowichan
+106238;Braithwaite at Rolmar Cres (EB);EB_Braithwaite_AT_Rolmar Cres;48.69472;-123.583596;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106242;Farnsworth at Stuart Cres (SB);SB_Farnsworth_AT_Stuart Cres;48.694427;-123.577382;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106244;Christina at Braemer (EB);EB_Christina_AT_Braemer;48.690747;-123.573418;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106246;Cowerd at Garry Oak (EB);EB_Cowerd_AT_Garry Oak;48.690024;-123.569936;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106248;Allan Rd at 3550 Blk (SB);SB_Allan Rd_AT_3550 Blk;48.68875;-123.56814;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108005;Shawnigan Lake Mill Bay at Bourban (WB);WB_Shawnigan Lake_Mill Bay_AT_Bourban;48.653491;-123.579383;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108000;1st Ave at Roberts (SB);SB_1st Ave_FS_Roberts;48.992303;-123.816046;COW;Cowichan Valley Regional Transit System;Ladysmith
+136006;Alderlea at James (SB);SB_Alderlea_FS_James;48.781758;-123.704455;COW;Cowichan Valley Regional Transit System;North Cowichan
+136007;Alderlea at Queens (SB);SB_Alderlea_NS_Queens;48.77952;-123.70448;COW;Cowichan Valley Regional Transit System;Duncan
+136008;Cavell at Cairnsmore (NB);NB_Cavell_NS_Cairnsmore;48.785298;-123.712538;COW;Cowichan Valley Regional Transit System;Duncan
+136009;Cairnsmore at McDonald (WB);WB_Cairnsmore_FS_McDonald;48.785525;-123.714399;COW;Cowichan Valley Regional Transit System;Duncan
+136010;Cairnsmore at Nagle (WB);WB_Cairnsmore_FS_Nagle;48.785481;-123.716841;COW;Cowichan Valley Regional Transit System;Duncan
+136011;Cowichan District Hospital (NB);NB_Cowichan District Hospital;48.785646;-123.723371;COW;Cowichan Valley Regional Transit System;North Cowichan
+106265;Cowichan Lake Rd at Caen (WB);WB_Cowichan_Lake Rd_FS_Caen Rd;48.787706;-123.722546;COW;Cowichan Valley Regional Transit System;North Cowichan
+136013;Cowichan Lake at Avondale (WB);WB_Cowichan Lake_NS_Avondale;48.789326;-123.726947;COW;Cowichan Valley Regional Transit System;North Cowichan
+136015;Somenos at Limerick (NB);NB_Somenos_NS_Limerick;48.792943;-123.736224;COW;Cowichan Valley Regional Transit System;North Cowichan
+136160;York at Adelaide (SB);SB_York_NS_Adelaide;48.859748;-123.645749;COW;Cowichan Valley Regional Transit System;North Cowichan
+136161;Osborne Bay at Escarpment (SB);SB_Osborne Bay_FS_Escarpment;48.835716;-123.645047;COW;Cowichan Valley Regional Transit System;North Cowichan
+106142;Herd at Flett (WB);WB_Herd_FS_Flett;48.824593;-123.644167;COW;Cowichan Valley Regional Transit System;North Cowichan
+136163;Lakes at Calais (SB);SB_Lakes_FS_Calais;48.808143;-123.671739;COW;Cowichan Valley Regional Transit System;North Cowichan
+136164;Lakes at Wildwood (SB);SB_Lakes_FS_Wildwood;48.805811;-123.673784;COW;Cowichan Valley Regional Transit System;North Cowichan
+136165;Lakes at Roome (SB);SB_Lakes_FS_Roome;48.79495;-123.684998;COW;Cowichan Valley Regional Transit System;North Cowichan
+136166;Lakes at Moose (SB);SB_Lakes_NS_Moose;48.789753;-123.684937;COW;Cowichan Valley Regional Transit System;North Cowichan
+136167;Cliffs at Wilson (WB);WB_Cliffs_NS_Wilson;48.779868;-123.723724;COW;Cowichan Valley Regional Transit System;North Cowichan
+136168;Wilson at Gibbins (SB);SB_Wilson_FS_Gibbins;48.784467;-123.723941;COW;Cowichan Valley Regional Transit System;North Cowichan
+136169;Gibbins at Highland (WB);WB_Gibbins_NS_Highland;48.783136;-123.728624;COW;Cowichan Valley Regional Transit System;North Cowichan
+136170;3500 Block Gibbins (WB);WB_3500_Block_Gibbins;48.778991;-123.746518;COW;Cowichan Valley Regional Transit System;North Cowichan
+136173;Menzies at Barnjum (NB);NB_Menzies_FS_Barnjum;48.773702;-123.780605;COW;Cowichan Valley Regional Transit System;North Cowichan
+136174;Menzies at Robson (NB);NB_Menzies_FS_Robson;48.777092;-123.77927;COW;Cowichan Valley Regional Transit System;North Cowichan
+136175;4150 Block Cowichan Lake (WB);WB_4150_Block_Cowichan Lake;48.785714;-123.78243;COW;Cowichan Valley Regional Transit System;North Cowichan
+136176;Cowichan Lake at Payne Rd W (WB);WB_Cowichan Lake_FS_Payne Rd W;48.784749;-123.789357;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136177;Cowichan Lake at Creighton Rd (WB);WB_Cowichan Lake_AT_Creighton Rd;48.781389;-123.797374;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136178;Cowichan Lake at Riverbottom (WB);WB_Cowichan Lake_NS_Riverbottom;48.776747;-123.806548;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136179;Cowichan Lake at Jordans (WB);WB_Cowichan Lake_FS_Jordans;48.776891;-123.829685;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136180;Cowichan Lake at Arla (WB);WB_Cowichan Lake_NS_Arla;48.77742;-123.835336;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136016;Somenos at Auchinachie (NB);NB_Somenos_NS_Auchinachie;48.795339;-123.736369;COW;Cowichan Valley Regional Transit System;North Cowichan
+136017;Somenos at Hawkes (NB);NB_Somenos_FS_Hawkes;48.799507;-123.736466;COW;Cowichan Valley Regional Transit System;North Cowichan
+136018;Drinkwater at Somenos (EB);EB_Drinkwater_FS_Somenos;48.803037;-123.735635;COW;Cowichan Valley Regional Transit System;North Cowichan
+136019;Drinkwater 3190 block (EB);EB_3190_block_Drinkwater;48.803054;-123.731114;COW;Cowichan Valley Regional Transit System;North Cowichan
+109134;CowichanCommons (SB);SB_CowichanCommons;48.80133;-123.72058;COW;Cowichan Valley Regional Transit System;North Cowichan
+108001;CowichanCommons (NB);NB_CowichanCommons;48.801765;-123.720438;COW;Cowichan Valley Regional Transit System;North Cowichan
+136023;Drinkwater 3200 block (WB);WB_3200_block_Drinkwater;48.803142;-123.731709;COW;Cowichan Valley Regional Transit System;North Cowichan
+136024;Somenos at Drinkwater (SB);SB_Somenos_FS_Drinkwater;48.802028;-123.736659;COW;Cowichan Valley Regional Transit System;North Cowichan
+136025;Somenos at Hawkes (SB);SB_Somenos_FS_Hawkes;48.798585;-123.736583;COW;Cowichan Valley Regional Transit System;North Cowichan
+106164;Somenos at Auchinachie (SB);SB_Somenos_NS_Auchinachie;48.796258;-123.736545;COW;Cowichan Valley Regional Transit System;North Cowichan
+136027;Somenos at Cowichan Lake (SB);SB_Somenos_NS_Cowichan Lake;48.792795;-123.736344;COW;Cowichan Valley Regional Transit System;North Cowichan
+136028;Cowichan Lake at Avondale (EB);EB_Cowichan Lake_NS_Avondale;48.789531;-123.727719;COW;Cowichan Valley Regional Transit System;North Cowichan
+136029;Cairnsmore at Nagle (EB);EB_Cairnsmore_NS_Nagle;48.785388;-123.717004;COW;Cowichan Valley Regional Transit System;Duncan
+136030;Cairnsmore at Cavell (EB);EB_Cairnsmore_NS_Cavell;48.785443;-123.712935;COW;Cowichan Valley Regional Transit System;Duncan
+136031;Canada at 4th St (SB);SB_Canada_NS_4th St;48.783541;-123.708772;COW;Cowichan Valley Regional Transit System;Duncan
+136032;Canada at Lois (SB);SB_Canada_NS_Lois;48.778997;-123.707415;COW;Cowichan Valley Regional Transit System;Duncan
+136034;Canada at Station (SB);SB_Canada_FS_Station;48.777361;-123.706854;COW;Cowichan Valley Regional Transit System;Duncan
+136035;Lane 6350 block (SB);SB_6350_block_Lane;48.801012;-123.725368;COW;Cowichan Valley Regional Transit System;North Cowichan
+136036;Lane at Herons (SB);SB_Lane_NS_Herons;48.798084;-123.724613;COW;Cowichan Valley Regional Transit System;North Cowichan
+136037;Lane at Highfield (SB);SB_Lane_NS_Highfield;48.79616;-123.725378;COW;Cowichan Valley Regional Transit System;North Cowichan
+136038;Lane at Golab (SB);SB_Lane_NS_Golab;48.793329;-123.726568;COW;Cowichan Valley Regional Transit System;North Cowichan
+136039;Sherman at Truesdale (EB);EB_Sherman_FS_Truesdale;48.792073;-123.724845;COW;Cowichan Valley Regional Transit System;North Cowichan
+136041;Sherman at Lakeview (EB);EB_Sherman_FS_Lakeview;48.791911;-123.718226;COW;Cowichan Valley Regional Transit System;North Cowichan
+136042;Canada at Philip (SB);SB_Canada_NS_Philip;48.789744;-123.711729;COW;Cowichan Valley Regional Transit System;North Cowichan
+136045;Canada at Beverly (NB);NB_Canada_FS_Beverly;48.78544;-123.709032;COW;Cowichan Valley Regional Transit System;North Cowichan
+136046;Canada at Philip (NB);NB_Canada_NS_Philip;48.78916;-123.711121;COW;Cowichan Valley Regional Transit System;North Cowichan
+106168;Sherman at Mary (WB);WB_Sherman_FS_Mary;48.792053;-123.718799;COW;Cowichan Valley Regional Transit System;North Cowichan
+136048;Sherman at Grieve (WB);WB_Sherman_FS_Grieve;48.792168;-123.721868;COW;Cowichan Valley Regional Transit System;North Cowichan
+136049;Lane at Highfield (NB);NB_Lane_FS_Highfield;48.796337;-123.725167;COW;Cowichan Valley Regional Transit System;North Cowichan
+136050;Lane at Herons (NB);NB_Lane_FS_Herons;48.797925;-123.724541;COW;Cowichan Valley Regional Transit System;North Cowichan
+106226;Koksilah at Weber (WB);WB_Koksilah Rd_FS_Weber;48.729956;-123.648281;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106227;Koksilah Rd at Lakeside (WB);WB_Koksilah Rd_FS_Lakeside;48.729603;-123.663038;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106229;Bench Rd at 4540 Block (EB);EB_Bench Rd_AT_4540 Block;48.732439;-123.666921;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106231;Bench Rd at Phipps (EB);EB_Bench Rd_AT_Phipps;48.736479;-123.665061;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106233;Bench Rd at Staghorn (EB);EB_Bench Rd_AT_Staghorn;48.742445;-123.660363;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136182;Cowichan Lake at Stoltze (WB);WB_Cowichan Lake_NS_Stoltze;48.790343;-123.883901;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136183;Cowichan Lake at Lepage (WB);WB_Cowichan Lake_FS_Lepage;48.794656;-123.901398;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136184;Cowichan Lake at Mayo (WB);WB_Cowichan Lake_FS_Mayo;48.804582;-123.95053;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136185;Cowichan Lake at Skutz Falls (WB);WB_Cowichan Lake_NS_Skutz Falls;48.807266;-123.959195;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136186;Cowichan Lake 7780 block (WB);WB_7780_block_Cowichan Lake;48.828998;-124.023632;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136187;Cowichan Lake 7860 block (WB);WB_7860_block_Cowichan Lake;48.830631;-124.02766;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136188;Cowichan Lake at Lake Park (WB);WB_Cowichan Lake_FS_Lake Park;48.83095;-124.041341;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136189;Cowichan Lake at Greendale (WB);WB_Cowichan Lake_FS_Greendale;48.829034;-124.046691;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136190;Cowichan Lake at Stanley (WB);WB_Cowichan Lake_NS_Stanley;48.827835;-124.049775;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136191;South Shore 10 block (WB);WB_10_block_South Shore;48.825893;-124.054592;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136192;Youbou at Adelina (EB);EB_Youbou_FS_Adelina;48.875293;-124.215119;COW;Cowichan Valley Regional Transit System;Cowichan Valley I
+136193;Youbou at Arbutus (EB);EB_Youbou_FS_Arbutus;48.872091;-124.195969;COW;Cowichan Valley Regional Transit System;Cowichan Valley I
+136194;Meades Creek 9040 block (SB);SB_9040_block_Meades Creek;48.834342;-124.108006;COW;Cowichan Valley Regional Transit System;Cowichan Valley I
+136195;South Shore at Stone (SB);SB_South Shore_NS_Stone;48.820349;-124.058485;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136196;South Shore 9120 block (WB);WB_9120_block_South Shore;48.810028;-124.117219;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136197;South Shore at Bear Lake (WB);WB_South Shore_FS_Bear Lake;48.808851;-124.124494;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136198;South Shore at 3rd St (EB);EB_South Shore_FS_3rd St;48.815649;-124.171304;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136199;South Shore at Bear Lake (EB);EB_South Shore_NS_Bear Lake;48.808782;-124.124393;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136200;South Shore at Sall (EB);EB_South Shore_FS_Sall;48.817769;-124.060858;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136201;South Shore at Stone (NB);NB_South Shore_NS_Stone;48.819926;-124.058599;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136202;Cowichan Lake at Lake Park (EB);EB_Cowichan Lake_NS_Lake Park;48.830857;-124.041304;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+136203;Cowichan Lake (EB);EB_Cowichan Lake;48.830232;-124.026865;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136204;Cowichan Lake 7770 block (EB);EB_7770_block_Cowichan Lake;48.828913;-124.02368;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136205;Cowichan Lake 7060 block (EB);EB_7060_block_Cowichan Lake;48.813181;-123.976557;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+106051;1st Ave at Kitchener (SB);SB_1st Ave_FS_Kitchenner;48.995124;-123.820222;COW;Cowichan Valley Regional Transit System;Ladysmith
+106054;Dogwood at Forward (SB);SB_Dogwood_FS_Forward;48.989567;-123.813025;COW;Cowichan Valley Regional Transit System;Ladysmith
+106055;Bel Aire at Rigby (SB);SB_Bel Aire_FS_Rigby;48.98733;-123.814984;COW;Cowichan Valley Regional Transit System;Ladysmith
+136206;Cowichan Lake at Skutz Falls (EB);EB_Cowichan Lake_NS_Skutz Falls;48.806944;-123.958559;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136207;Cowichan Lake at Mayo (EB);EB_Cowichan Lake_FS_Mayo;48.804456;-123.950315;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136208;Cowichan Lake at Lepage (EB);EB_Cowichan Lake_FS_Lepage;48.794323;-123.900787;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136209;Cowichan Lake at Stoltze (EB);EB_Cowichan Lake_FS_Stoltze;48.790265;-123.883973;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136210;Cowichan Lake at Kapoor (EB);EB_Cowichan Lake_FS_Kapoor;48.78427;-123.852573;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136211;Cowichan Lake at Culverton (EB);EB_Cowichan Lake_FS_Culverton;48.777373;-123.83798;COW;Cowichan Valley Regional Transit System;Cowichan Valley F
+136212;Cowichan Lake at Arla (EB);EB_Cowichan Lake_FS_Arla;48.777328;-123.834975;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136213;Cowichan Lake at Hanks (EB);EB_Cowichan Lake_FS_Hanks;48.77681;-123.815471;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136214;Cowichan Lake at Riverbottom (EB);EB_Cowichan Lake_FS_Riverbottom;48.776736;-123.806325;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136215;Cowichan Lake 4430 block (NB);NB_4430_block_Cowichan Lake;48.780138;-123.798725;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136216;Cowichan Lake at Gerz (EB);EB_Cowichan Lake_FS_Gerz;48.783344;-123.793102;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136217;Cowichan Lake at Payne Rd W (EB);EB_Cowichan Lake_FS_Payne Rd W;48.784927;-123.788621;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136218;Menzies at Robson (SB);SB_Menzies_FS_Robson;48.777453;-123.779014;COW;Cowichan Valley Regional Transit System;North Cowichan
+136219;Gibbins 4020 block (EB);EB_4020_block_Gibbins;48.773319;-123.775351;COW;Cowichan Valley Regional Transit System;North Cowichan
+136220;Gibbins 3960 block (EB);EB_3960_block_Gibbins;48.774102;-123.771125;COW;Cowichan Valley Regional Transit System;North Cowichan
+136051;James at Elvins (EB);EB_James_FS_Elvins;48.782065;-123.702419;COW;Cowichan Valley Regional Transit System;North Cowichan
+136052;Dingwall at York (EB);EB_Dingwall_FS_York;48.782647;-123.697963;COW;Cowichan Valley Regional Transit System;North Cowichan
+136053;Beverly at Chesterfield (EB);EB_Beverly_NS_Chesterfield;48.784763;-123.693203;COW;Cowichan Valley Regional Transit System;North Cowichan
+136054;Beverly at Clair (EB);EB_Beverly_FS_Clair;48.784782;-123.689755;COW;Cowichan Valley Regional Transit System;North Cowichan
+136055;Beverly at Lakes (EB);EB_Beverly_NS_Lakes;48.784771;-123.685748;COW;Cowichan Valley Regional Transit System;North Cowichan
+136058;Tzouhalem at Jaynes (WB);WB_Tzouhalem_FS_Jaynes;48.780703;-123.675698;COW;Cowichan Valley Regional Transit System;North Cowichan
+136059;Tzouhalem at Lakes (WB);WB_Tzouhalem_NS_Lakes;48.779957;-123.684594;COW;Cowichan Valley Regional Transit System;Cowichan
+136060;Trunk at Georgina (WB);WB_Trunk_FS_Georgina;48.779839;-123.688238;COW;Cowichan Valley Regional Transit System;Duncan
+136061;Day at Trunk (SB);SB_Day_FS_Trunk;48.778018;-123.691807;COW;Cowichan Valley Regional Transit System;Duncan
+136062;Marchmont at Prevost (EB);EB_Marchmont_FS_Prevost;48.776901;-123.686148;COW;Cowichan Valley Regional Transit System;Duncan
+136063;Wharncliffe at Campbell (WB);WB_Wharncliffe_NS_Campbell;48.775394;-123.686358;COW;Cowichan Valley Regional Transit System;Duncan
+136064;Wharncliffe at McKinstry (WB);WB_Wharncliffe_NS_McKinstry;48.775304;-123.694833;COW;Cowichan Valley Regional Transit System;Duncan
+106056;4th Ave at Baden-Powell (NB);NB_4th Ave_FS_Baden-Powell;48.989637;-123.819574;COW;Cowichan Valley Regional Transit System;Ladysmith
+106057;Gatacre at 4th Ave (WB);WB_Gatacre_FS_4th Ave;48.990512;-123.82178;COW;Cowichan Valley Regional Transit System;Ladysmith
+106058;Malone at 6th Ave (SB);SB_Malone_FS_6th Ave;48.98857;-123.823832;COW;Cowichan Valley Regional Transit System;Ladysmith
+106063;6th Ave at Buller (EB);EB_6th Ave_NS_Buller;48.990523;-123.826158;COW;Cowichan Valley Regional Transit System;Ladysmith
+106069;1st Ave at Gatacre (WB);WB_1st Ave_FS_Gatacre;48.993387;-123.817475;COW;Cowichan Valley Regional Transit System;Ladysmith
+106084;High at 3rd Ave (EB);EB_High_AT_3rd Ave;48.992138;-123.82102;COW;Cowichan Valley Regional Transit System;Ladysmith
+106075;4th Ave at Symonds (WB);WB_4th Ave_FS_Symonds;48.995142;-123.827675;COW;Cowichan Valley Regional Transit System;Ladysmith
+106076;4th Ave at Walkem (WB);WB_4th Ave_NS_Walkem;48.996692;-123.82995;COW;Cowichan Valley Regional Transit System;Ladysmith
+106077;4th Ave at Greenhorn (WB);WB_4th Ave_FS_Greenhorn;48.998312;-123.840238;COW;Cowichan Valley Regional Transit System;Ladysmith
+106079;4th Ave at Greenhorn (EB);EB_4th Ave_NS_Greenhorn;48.998223;-123.840181;COW;Cowichan Valley Regional Transit System;Ladysmith
+106081;4th Ave at Walkem (EB);EB_4th Ave_FS_Walkem;48.996659;-123.830091;COW;Cowichan Valley Regional Transit System;Ladysmith
+106082;4th at Symonds (SB);SB_4th_NS_Symonds;48.995048;-123.827728;COW;Cowichan Valley Regional Transit System;Ladysmith
+106090;Dogwood at Belaire (SB);SB_Dogwood_AT_Belaire St;48.987285;-123.813835;COW;Cowichan Valley Regional Transit System;Ladysmith
+106091;Dogwood at 280 Blk (SB);SB_Dogwood_AT 280 Blk;48.985305;-123.811563;COW;Cowichan Valley Regional Transit System;Ladysmith
+136065;Trunk at Bundock (WB);WB_Trunk_NS_Bundock;48.776909;-123.696751;COW;Cowichan Valley Regional Transit System;Duncan
+136066;Trunk at Ypres (WB);WB_Trunk_NS_Ypres;48.776903;-123.702709;COW;Cowichan Valley Regional Transit System;Duncan
+136068;Coronation at Festubert (EB);EB_Coronation_FS_Festubert;48.778693;-123.701686;COW;Cowichan Valley Regional Transit System;Duncan
+136069;Coronation at Bundock (EB);EB_Coronation_FS_Bundock;48.778689;-123.696809;COW;Cowichan Valley Regional Transit System;Duncan
+136070;Trunk at Georgina (EB);EB_Trunk_NS_Georgina;48.779749;-123.688344;COW;Cowichan Valley Regional Transit System;Duncan
+136071;Tzouhalem at Lakes (EB);EB_Tzouhalem_FS_Lakes;48.779854;-123.684745;COW;Cowichan Valley Regional Transit System;Cowichan
+106173;Tzouhalem at Quamichan (EB);EB_Tzouhalem_FS_Quamichan;48.780603;-123.67435;COW;Cowichan Valley Regional Transit System;Cowichan
+136073;Valleyview at Tzouhalem (NB);NB_Valleyview_FS_Tzouhalem;48.780947;-123.660954;COW;Cowichan Valley Regional Transit System;North Cowichan
+106115;Frances at Deborah (WB);WB_Frances_FS_Deborah;48.784847;-123.663243;COW;Cowichan Valley Regional Transit System;North Cowichan
+136076;Maple Bay at Frances (NB);NB_Maple Bay_FS_Frances;48.785456;-123.664573;COW;Cowichan Valley Regional Transit System;North Cowichan
+136080;Maple Bay at Everest (NB);NB_Maple Bay_FS_Everest;48.793531;-123.656339;COW;Cowichan Valley Regional Transit System;North Cowichan
+136081;Kingsview at Belcarra (EB);EB_Kingsview_FS_Belcarra;48.796826;-123.63329;COW;Cowichan Valley Regional Transit System;North Cowichan
+136082;Chippewa at Kingsview (WB);WB_Chippewa_FS_Kingsview;48.796524;-123.630695;COW;Cowichan Valley Regional Transit System;North Cowichan
+136083;Haida at Chippewa (WB);WB_Haida_FS_Chippewa;48.795857;-123.633378;COW;Cowichan Valley Regional Transit System;North Cowichan
+136085;Belcarra at Thomson (EB);EB_Belcarra_NS_Thomson;48.795501;-123.636269;COW;Cowichan Valley Regional Transit System;North Cowichan
+136086;Kingsview at Algonkin (WB);WB_Kingsview_FS_Algonkin;48.796957;-123.638171;COW;Cowichan Valley Regional Transit System;North Cowichan
+136087;1520 Block Donnay (EB);EB_1520_Block_Donnay;48.798842;-123.640188;COW;Cowichan Valley Regional Transit System;North Cowichan
+136088;Donnay at Woodgrove (NB);NB_Donnay_FS_Woodgrove;48.800614;-123.634958;COW;Cowichan Valley Regional Transit System;North Cowichan
+136089;Donnay at Highwood (EB);EB_Donnay_FS_Highwood;48.802458;-123.632543;COW;Cowichan Valley Regional Transit System;North Cowichan
+136090;Donnay at McKenzie (NB);NB_Donnay_NS_McKenzie;48.803438;-123.629462;COW;Cowichan Valley Regional Transit System;North Cowichan
+106092;Dogwood at Holland Creek (SB);SB_Dogwood_NS_Holland Creek;48.983437;-123.809333;COW;Cowichan Valley Regional Transit System;Ladysmith
+106093;Dogwood at Arbutus (SB);SB_Dogwood_FS_Arbutus;48.97737;-123.809313;COW;Cowichan Valley Regional Transit System;Ladysmith
+106094;Dogwood at Davis (SB);SB_Dogwood_NS_Davis;48.975905;-123.806198;COW;Cowichan Valley Regional Transit System;Ladysmith
+136221;Gibbins at Vimy (EB);EB_Gibbins_FS_Vimy;48.775065;-123.767779;COW;Cowichan Valley Regional Transit System;North Cowichan
+136222;Gibbins 3690 block (EB);EB_3690_block_Gibbins;48.778273;-123.7573;COW;Cowichan Valley Regional Transit System;North Cowichan
+136223;Gibbins at Van Koy (EB);EB_Gibbins_FS_Van Koy;48.778144;-123.750269;COW;Cowichan Valley Regional Transit System;North Cowichan
+136224;Gibbins at Curry (EB);EB_Gibbins_NS_Curry;48.779056;-123.745678;COW;Cowichan Valley Regional Transit System;North Cowichan
+136225;Gibbins at Highland (EB);EB_Gibbins_FS_Highland;48.783202;-123.728273;COW;Cowichan Valley Regional Transit System;North Cowichan
+136226;Gibbins at Banks (EB);EB_Gibbins_FS_Banks;48.78422;-123.72623;COW;Cowichan Valley Regional Transit System;North Cowichan
+136227;Wilson at Kinch (SB);SB_Wilson_NS_Kinch;48.782838;-123.723917;COW;Cowichan Valley Regional Transit System;North Cowichan
+136228;Cliffs at Government (EB);EB_Cliffs_NS_Government;48.779707;-123.716464;COW;Cowichan Valley Regional Transit System;Cowichan
+136231;James at Elvins (WB);WB_James_FS_Elvins;48.782148;-123.703491;COW;Cowichan Valley Regional Transit System;North Cowichan
+136232;Trans-Canada at Allenby (EB);EB_Trans-Canada_FS_Allenby;48.764728;-123.695335;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136234;Cowichan Bay at St Catherines (NB);NB_Cowichan Bay_FS_St Catherines;48.713464;-123.602437;COW;Cowichan Valley Regional Transit System;Est-Patrolas 4
+136235;Cowichan Bay at Robson (NB);NB_Cowichan Bay_NS_Robson;48.721309;-123.604634;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136236;Cowichan Bay 1540 block (NB);NB_1540_block_Cowichan Bay;48.731094;-123.60785;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136237;Cowichan Bay at Glen (NB);NB_Cowichan Bay_NS_Glen;48.735711;-123.611373;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136238;Cowichan Bay at Botwood (WB);WB_Cowichan Bay_FS_Botwood;48.739918;-123.617587;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136239;Cowichan Bay 1770 block (WB);WB_1770_block_Cowichan Bay;48.740468;-123.621024;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136240;Cowichan Bay 1800 block (WB);WB_1800_block_Cowichan Bay;48.740577;-123.622477;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136241;Cowichan Bay at Wessex (WB);WB_Cowichan Bay_FS_Wessex;48.742947;-123.628239;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136243;Cowichan Bay at Bench (NB);NB_Cowichan Bay_NS_Bench;48.748905;-123.655798;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136244;Cowichan Bay at Tzouhalem (WB);WB_Cowichan Bay_FS_Tzouhalem;48.755445;-123.655388;COW;Cowichan Valley Regional Transit System;Cowichan
+136247;Chaster at Thiek (WB);WB_Chaster_NS_Thiek;48.765349;-123.694641;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+136248;Cobble Hill at Koerner (SB);SB_Cobble Hill_FS_Koerner;48.699935;-123.606342;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+136249;Cobble Hill at Gallier (SB);SB_Cobble Hill_FS_Gallier;48.6939;-123.607926;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+136250;Shawnigan Lake at Old Bamberton-Haul (WB);WB_Shawnigan Lake_FS_Old Bamberton-Haul;48.672359;-123.61968;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136251;Shawnigan Lake at Highland Ridge (SB);SB_Shawnigan Lake_FS_Highland Ridge;48.66355;-123.627213;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136252;Shawnigan Lake at Malta (SB);SB_Shawnigan Lake_FS_Malta;48.660669;-123.627466;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136254;Renfrew at Gregory (WB);WB_Renfrew_FS_Gregory;48.652958;-123.656012;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108058;Shawnigan-Mill Bay Rd at Deloume (EB);EB_Shawnigan-Mill Bay_AT_Deloume;48.646705;-123.592962;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108109;Shawnigan Lake Mill Bay at Deloume (WB);WB Shawnigan Lake_Mill Bay_AT_Deloume;48.646907;-123.594147;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108057;Shawnigan-Mill Bay Rd at Sylvester (EB);EB_Shawnigan-Mill Bay Rd_AT_Sylvester;48.649321;-123.601059;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108112;Shawnignan Mill Bay Rd at Sylvester (WB);WB_Shawnigan_Mill Bay RD_AT_Sylvester;48.649046;-123.600393;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108056;Wallbank Rd at Shawnigan Mill Bay Rd (NB);NB_Wallbank_AT_Shawnigan_Mill Bay Rd;48.653431;-123.620673;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108013;Renfrew Rd at Hartl Rd (WB);WB_Renfrew Rd_AT_Hartl;48.65583;-123.63593;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108008;Shawnigan Lake Rd at Filgate (SB);SB_Shawnigan Lake Rd_AT_Filgate;48.671222;-123.612553;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108164;Shawnigan Lake Rd at Old Bamberton Rd (NB);NB_Shawnigan_Lake Rd_FS_Old Bamberton Rd;48.672376;-123.618949;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108053;Shawnigan Lake Rd at Thain (NB);NB_Shawnigan Lake Rd_AT_Thain;48.669757;-123.624784;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108163;Shawnigan Lake Rd at Malta (NB);NB_Shawnigan_Lake Rd_AT_Malta;48.65901;-123.62719;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108015;Renfrew Rd at Worthington (WB);WB_Renfrew Rd_AT_Worthington;48.651196;-123.645485;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108017;Renfrew Rd at Ceylon (WB);WB_Renfrew Rd_AT_Ceylon;48.656573;-123.668729;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108052;Deloume at Lodge Pole Rd (EB);EB_Deloume_AT_Lodge Pole Rd;48.650876;-123.562083;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108006;Shawnigan Lake-Mill Bay at Trans Canada (WB);WB_Shawnigan_Mill Bay_AT_Trans Canada;48.657472;-123.561843;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108059;Shawnigan-Mill Bay Rd at Trans Canada Hwy (EB);EB_Shawnigan-Mill Bay Rd_AT_Trans Canada Hwy;48.657356;-123.561625;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108031;Telegraph Rd at Sheppard (NB);NB_Telegraph Rd_AT_Sheppard;48.671616;-123.553052;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108030;Telegraph Rd at Pemberton (NB);NB_Telegraph Rd_AT_Pemberton;48.675307;-123.551664;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+108019;Telegraph Rd at LaFortune (NB);NB_Telegraph Rd_AT_LaFortune;48.679733;-123.550522;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108018;Hutchinson Rd at Telegraph (WB);WB_Hutchinson Rd_AT_Telegraph;48.686583;-123.553942;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+136255;Ravenhill at Ceylon (EB);EB_Ravenhill_FS_Ceylon;48.658774;-123.666957;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136256;Gregory at Lampman (SB);SB_Gregory_NS_Lampman;48.656885;-123.657527;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136257;McKean at Scobhal (EB);EB_McKean_NS_Scobhal;48.653075;-123.651214;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136258;Renfrew at Hartl (EB);EB_Renfrew_NS_Hartl;48.655761;-123.635789;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136259;Renfrew at Shawnigan Lake (EB);EB_Renfrew_NS_Shawnigan Lake;48.657207;-123.628545;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136260;Shawnigan Lake at Wilmot (SB);SB_Shawnigan Lake_NS_Wilmot;48.653331;-123.623239;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136261;Wilmot at Wallbank (EB);EB_Wilmot_FS_Wallbank;48.652862;-123.61941;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136262;Bob-O-Link at Wilmot (SB);SB_Bob-O-Link_FS_Wilmot;48.652322;-123.617147;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136263;Jersey at Robin Hill (WB);WB_Jersey_NS_Robin Hill;48.651466;-123.618774;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136264;Wallbank at Thrush (NB);NB_Wallbank_NS_Thrush;48.651939;-123.620648;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136265;Shawnigan Lake-Mill Bay at Forsyth (EB);EB_Shawnigan Lake-Mill Bay_FS_Forsyth;48.651723;-123.608321;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136094;Chisholm at Maple Bay (SB);SB_Chisholm_NS_Maple Bay;48.81483;-123.612031;COW;Cowichan Valley Regional Transit System;North Cowichan
+136095;Herd at Manley (NB);NB_Herd_NS_Manley;48.815284;-123.613529;COW;Cowichan Valley Regional Transit System;North Cowichan
+136096;Maple Bay at Considine (WB);WB_Maple Bay_FS_Considine;48.814783;-123.61736;COW;Cowichan Valley Regional Transit System;North Cowichan
+106129;Donnay at McKenzie (SB);SB_Donnay_FS_McKenzie;48.803443;-123.629638;COW;Cowichan Valley Regional Transit System;North Cowichan
+136100;Donnay at Highwood (WB);WB_Donnay_FS_Highwood;48.802115;-123.633525;COW;Cowichan Valley Regional Transit System;North Cowichan
+136101;Donnay 1520 block (WB);WB_1520_block_Donnay;48.798936;-123.63991;COW;Cowichan Valley Regional Transit System;North Cowichan
+136104;Maple Bay at Stonehouse (NB);NB_Maple Bay_FS_Stonehouse;48.790019;-123.658044;COW;Cowichan Valley Regional Transit System;North Cowichan
+106130;Maple Bay at Frances (SB);SB_Maple Bay_FS_Frances;48.785083;-123.665082;COW;Cowichan Valley Regional Transit System;North Cowichan
+136107;Sandra at Deborah (SB);SB_Sandra_FS_Deborah;48.78347;-123.659739;COW;Cowichan Valley Regional Transit System;North Cowichan
+106171;Valleyview at Tzouhalem (SB);SB_Valleyview_NS_Tzouhalem;48.781141;-123.661087;COW;Cowichan Valley Regional Transit System;North Cowichan
+136109;Tzouhalem at Quamichan (WB);WB_Tzouhalem_NS_Quamichan;48.780692;-123.674046;COW;Cowichan Valley Regional Transit System;North Cowichan
+136110;Government at Station (EB);EB_Government_FS_Station;48.777578;-123.710137;COW;Cowichan Valley Regional Transit System;Duncan
+136111;Allenby at River (SB);SB_Allenby_NS_River;48.775837;-123.709041;COW;Cowichan Valley Regional Transit System;Cowichan
+136112;Miller 5430 block (EB);EB_5430_block_Miller;48.769923;-123.712913;COW;Cowichan Valley Regional Transit System;Cowichan
+106249;Hutchinson Rd at Chapman (WB);WB_Hutchinson Rd_AT_Chapman;48.686579;-123.561427;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+108014;Cowichan Bay at Hillbank (NB);NB_Cowichan Bay_AT_Hillbank;48.745406;-123.643517;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+106223;Francis St 5189 Blk (EB);EB_Francis St_AT_5189 Blk;48.761023;-123.68568;COW;Cowichan Valley Regional Transit System;Cowichan Valley D
+108316;5200 Block Koksilah Rd (NB);NB_5200 Blk_Koksilah Rd;48.762085;-123.700256;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+108038;Kilmalu AT Church Way (WB);WB_Kilmalu_FS_Church Way;48.664953;-123.558531;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106210;Eagle Heights at Mountain View (SB);SB_Eagle Heights_AT_Mountain View Cres;48.764569;-123.708543;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106211;Eagle Heights at Glenora Rd (SB);SB_Eagle Heights_NS_Glenora Rd;48.762774;-123.708872;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+108255;Wharncliffe Rd at Beech (WB);WB_Wharncliffe Rd_NS_Beech;48.775364;-123.690575;COW;Cowichan Valley Regional Transit System;Duncan
+108036;Marchmont Rd at Campbell St (EB);EB_Marchmont Rd_NS_Campbell ST;48.776902;-123.68859;COW;Cowichan Valley Regional Transit System;Duncan
+106157;Tzouhalem Rd at Maple Bay (WB);WB_Tzouhalem Rd_AT_Maple Bay;48.780754;-123.670655;COW;Cowichan Valley Regional Transit System;North Cowichan
+106156;Tzouhalem Rd at Maple Bay Rd;Tzouhalem Rd_AT_Maple Bay Rd;48.780664;-123.670591;COW;Cowichan Valley Regional Transit System;North Cowichan
+106158;Tzouhalem Rd at Church (WB);WB_Tzouhalem Rd_AT_Church;48.780721;-123.665502;COW;Cowichan Valley Regional Transit System;North Cowichan
+106155;Tzouhalem Rd at Church;Tzouhalem Rd_AT_Church;48.780631;-123.665461;COW;Cowichan Valley Regional Transit System;Cowichan
+106132;Cliffs Rd at Government (WB);WB_Cliffs Rd_AT_Government;48.779815;-123.71606;COW;Cowichan Valley Regional Transit System;Cowichan
+106169;Sherman Rd at Truesdale St (WB);WB_Sherman Rd_AT_Truesdale St;48.792143;-123.724953;COW;Cowichan Valley Regional Transit System;North Cowichan
+108042;Gibbins at 3300 Block (WB);WB_Gibbins_AT_3300 Block;48.780676;-123.73728;COW;Cowichan Valley Regional Transit System;North Cowichan
+108062;Gibbins at 3700 Block (WB);WB_Gibbins_AT_3700 Block;48.77853;-123.760066;COW;Cowichan Valley Regional Transit System;North Cowichan
+106270;Gibbins at 3820 Block (WB);WB_Gibbins_AT_3820 Block;48.776677;-123.763447;COW;Cowichan Valley Regional Transit System;North Cowichan
+106116;Menzies at Cowichan Lake Rd (SB);SB_Menzies_AT_Cowichan Lake Rd;48.785862;-123.777434;COW;Cowichan Valley Regional Transit System;North Cowichan
+106146;Menzies at Cowichan Lake Rd (NB);NB_Menzies_AT_Cowichan Lake Rd;48.78577;-123.777213;COW;Cowichan Valley Regional Transit System;North Cowichan
+106258;Lane Rd at 6350 Blk (NB);NB_Lane Rd_AT_6350 Blk;48.801025;-123.725233;COW;Cowichan Valley Regional Transit System;North Cowichan
+106172;Maple Bay Rd at Church (NB);NB_Maple Bay Rd_AT_Church;48.783584;-123.668035;COW;Cowichan Valley Regional Transit System;North Cowichan
+106136;Maple Bay Rd at Churchill Rd (SB);SB_Maple Bay Rd_FS_Churchill Rd;48.796027;-123.653069;COW;Cowichan Valley Regional Transit System;North Cowichan
+108047;Maple Bay Rd at Churchill Rd (NB);NB_Maple Bay Rd_AT_Churchill Rd;48.795975;-123.652936;COW;Cowichan Valley Regional Transit System;North Cowichan
+108035;Howard Ave at Dingwall (NB);NB_Howard Ave_FS_Dingwall;48.782889;-123.693916;COW;Cowichan Valley Regional Transit System;North Cowichan
+106255;Beverly St at Howard Ave (WB);WB_Beverly St_AT_Howard Ave;48.784853;-123.69323;COW;Cowichan Valley Regional Transit System;North Cowichan
+106167;Beverly ST at Lakes Rd (EB);EB_Beverly St_AT_Lakes Rd;48.784861;-123.685711;COW;Cowichan Valley Regional Transit System;North Cowichan
+106260;Kingsview at Selkirk (WB);WB_Kingsview Rd_AT_Selkirk;48.797346;-123.641402;COW;Cowichan Valley Regional Transit System;North Cowichan
+106252;Kingsview at Selkirk (EB);EB_Kingsview Rd_FS_Selkirk;48.797184;-123.641144;COW;Cowichan Valley Regional Transit System;North Cowichan
+136113;Miller at Laurel (SB);SB_Miller_FS_Laurel;48.766769;-123.710482;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136115;Miller at Tzinquaw (EB);EB_Miller_FS_Tzinquaw;48.759688;-123.698861;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136116;Polkey at Boal (SB);SB_Polkey_FS_Boal;48.762659;-123.6971;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+106205;Polkey at Mearns (EB);EB_Polkey_NS_Mearns;48.76001;-123.694019;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136118;Mearns at Roberts (NB);NB_Mearns_NS_Roberts;48.761473;-123.692776;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136119;Polkey at Boal (NB);NB_Polkey_FS_Boal;48.763783;-123.697421;COW;Cowichan Valley Regional Transit System;Cowichan Valley E
+136120;Lakes at Moose (NB);NB_Lakes_FS_Moose;48.789834;-123.684801;COW;Cowichan Valley Regional Transit System;North Cowichan
+136121;Lakes at Roome (NB);NB_Lakes_FS_Roome;48.795186;-123.684864;COW;Cowichan Valley Regional Transit System;North Cowichan
+136122;Lakes at Wicks (NB);NB_Lakes_FS_Wicks;48.797752;-123.68418;COW;Cowichan Valley Regional Transit System;North Cowichan
+136123;Lakes at Wildwood (NB);NB_Lakes_FS_Wildwood;48.806012;-123.673334;COW;Cowichan Valley Regional Transit System;North Cowichan
+136124;Lakes at Calais (NB);NB_Lakes_FS_Calais;48.808321;-123.671489;COW;Cowichan Valley Regional Transit System;North Cowichan
+106143;Herd at Flett (EB);EB_Herd_NS_Flett;48.824536;-123.643977;COW;Cowichan Valley Regional Transit System;North Cowichan
+136126;Osborne Bay at Escarpment (NB);NB_Osborne Bay_FS_Escarpment;48.836029;-123.644773;COW;Cowichan Valley Regional Transit System;North Cowichan
+136127;Adelaide at York (EB);EB_Adelaide_FS_York;48.859095;-123.645022;COW;Cowichan Valley Regional Transit System;North Cowichan
+136128;Queen at Adelaide (NB);NB_Queen_FS_Adelaide;48.85992;-123.640883;COW;Cowichan Valley Regional Transit System;North Cowichan
+136129;Joan at Queen (WB);WB_Joan_FS_Queen;48.864715;-123.641661;COW;Cowichan Valley Regional Transit System;North Cowichan
+136130;Joan at York (WB);WB_Joan_NS_York;48.864697;-123.645164;COW;Cowichan Valley Regional Transit System;North Cowichan
+136132;Crofton at Cecil (NB);NB_Crofton_FS_Cecil;48.870903;-123.650209;COW;Cowichan Valley Regional Transit System;North Cowichan
+106240;Crofton at Tsussie (WB);WB_Crofton_FS_Tsussie;48.881639;-123.679274;COW;Cowichan Valley Regional Transit System;North Cowichan
+106271;Chemainus at Hastings (NB);NB_Chemainus_FS_Hastings;48.899955;-123.69918;COW;Cowichan Valley Regional Transit System;Squaw-hay-one 11
+106251;Chemainus at Yew (NB);NB_Chemainus_FS_Yew;48.911062;-123.707286;COW;Cowichan Valley Regional Transit System;North Cowichan
+136136;Chemainus at Halhed (WB);WB_Chemainus_NS_Halhed;48.914273;-123.712182;COW;Cowichan Valley Regional Transit System;North Cowichan
+136137;Chemainus 9620 block (NB);NB_9620_block_Chemainus;48.916786;-123.714843;COW;Cowichan Valley Regional Transit System;North Cowichan
+106128;Donnay Dr at Woodgrove Way (WB);WB_Donnay Dr_AT_Woodgrove Way;48.800046;-123.636209;COW;Cowichan Valley Regional Transit System;North Cowichan
+108049;Maple Bay Rd at Osprey Dr (NB);NB_Maple Bay Rd_AT_Osprey;48.810669;-123.624871;COW;Cowichan Valley Regional Transit System;North Cowichan
+106141;Maple Bay Rd at Bazett (SB);SB_Maple Bay Rd_AT_Bazett;48.813573;-123.623083;COW;Cowichan Valley Regional Transit System;North Cowichan
+108050;Maple Bay Rd at Genoa Bay Rd (NB);NB_Maple Bay Rd_AT_Genoa Bay ;48.813774;-123.622681;COW;Cowichan Valley Regional Transit System;North Cowichan
+108051;Hutchinson AT Telegraph (EB);EB_Hutchinson_NS_Telegraph;48.686505;-123.553633;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106139;Maple Bay Rd at Mckenzie (SB);SB_Maple Bay Rd_AT_Mckenzie;48.807012;-123.629815;COW;Cowichan Valley Regional Transit System;North Cowichan
+106122;Maple Bay Rd at Highwood (NB);NB_Maple Bay Rd_AT_Highwood;48.804573;-123.635172;COW;Cowichan Valley Regional Transit System;North Cowichan
+106138;Maple Bay Rd at Highwood (SB);SB_Maple Bay Rd_AT_Highwood;48.804874;-123.634767;COW;Cowichan Valley Regional Transit System;North Cowichan
+106125;Maple Bay Rd at Woodgrove (SB);SB_Maple Bay Rd_AT_Woodgrove;48.80329;-123.638411;COW;Cowichan Valley Regional Transit System;North Cowichan
+106124;Maple Bay Rd at Woodgrove (NB);NB_Maple Bay Rd_AT_Woodgrove;48.803072;-123.63871;COW;Cowichan Valley Regional Transit System;North Cowichan
+106137;Maple Bay Rd at Ambleside Pl (SB);SB_Maple Bay Rd_AT_Ambleside Pl;48.800453;-123.643841;COW;Cowichan Valley Regional Transit System;North Cowichan
+106135;Maple Bay Rd at Westlock Rd (SB);SB_Maple Bay Rd_FS_Westlock Rd;48.798768;-123.646432;COW;Cowichan Valley Regional Transit System;North Cowichan
+108048;Telegraph at LaFortune (SB);SB_Telegraph_FS_LaFortune;48.678952;-123.550643;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106216;Herd Rd at Richards Trail (WB);WB_Herd Rd_AT_Richards Trail;48.820369;-123.665003;COW;Cowichan Valley Regional Transit System;North Cowichan
+106214;Herd at Richards (EB);EB_Herd Rd_NS_Richards;48.820271;-123.664641;COW;Cowichan Valley Regional Transit System;North Cowichan
+106212;Herd Rd at 1840 Block (EB);EB_Herd Rd_AT_1840 Block;48.820162;-123.660821;COW;Cowichan Valley Regional Transit System;North Cowichan
+106217;Osborne Bay at Maple Mtn  (SB);SB_Osborne Bay_AT_Maple Mtn;48.847395;-123.644768;COW;Cowichan Valley Regional Transit System;North Cowichan
+106218;Osborne Bay Rd at Maple Mtn Park Rd (NB);NB_Osborne Bay Rd_ATMaple Mtn;48.847425;-123.644624;COW;Cowichan Valley Regional Transit System;North Cowichan
+106121;Osborne Bay Rd at Tatlo Rd (SB);SB_Osborne Bay Rd_AT_Tatlo ;48.853334;-123.641323;COW;Cowichan Valley Regional Transit System;North Cowichan
+106120;Osborne Bay Rd at Tatlo (NB);NB_Osborne Bay Rd_AT_Tatlo;48.853852;-123.641082;COW;Cowichan Valley Regional Transit System;North Cowichan
+106192;Crofton at Chaplin (SB);SB_Crofton Rd_AT_Chaplin St;48.865658;-123.648908;COW;Cowichan Valley Regional Transit System;North Cowichan
+106193;Crofton at Musgrave (NB);NB_Crofton Rd_AT_Musgrave ;48.86602;-123.648926;COW;Cowichan Valley Regional Transit System;North Cowichan
+106195;Crofton Rd at Hay Rd (WB);WB_Crofton Rd_FS_Hay Rd;48.875401;-123.653916;COW;Cowichan Valley Regional Transit System;North Cowichan
+106194;Crofton at Hay (EB);EB_Crofton Rd_AT_Hay Rd;48.875076;-123.65329;COW;Cowichan Valley Regional Transit System;North Cowichan
+106197;Crofton at Bonsall Creek (WB);WB_Crofton_AT_Bonsall Creek;48.878388;-123.674718;COW;Cowichan Valley Regional Transit System;North Cowichan
+106196;Crofton at Bonsall Creek (EB);EB_Crofton_AT_Bonsall Creek;48.877946;-123.673679;COW;Cowichan Valley Regional Transit System;North Cowichan
+106200;Crofton at Chemainus  (WB);WB_Crofton_AT_Chemainus;48.882642;-123.681854;COW;Cowichan Valley Regional Transit System;North Cowichan
+106256;Chemainus Rd at Ashcroft (SB);SB_Chemainus Rd_AT_Ashcroft;48.888394;-123.691113;COW;Cowichan Valley Regional Transit System;North Cowichan
+108065;Chemainus at Ashcroft (NB);NB_Chemainus_AT_Ashcroft;48.888919;-123.691004;COW;Cowichan Valley Regional Transit System;North Cowichan
+106117;Chemainus at Gronlund  (SB);SB_Chemainus_AT_Gronlund;48.895726;-123.694382;COW;Cowichan Valley Regional Transit System;North Cowichan
+106119;Chemainus Rd at Gronlund (NB);NB_Chemainus Rd_AT_Gronlund;48.895233;-123.693829;COW;Cowichan Valley Regional Transit System;North Cowichan
+108087;Chemainus Rd at Crozier (SB);SB_Chemainus Rd_AT_Crozier;48.90707;-123.705634;COW;Cowichan Valley Regional Transit System;North Cowichan
+106263;Henry at Juniper (EB);EB_Henry_AT_Juniper;48.908884;-123.726177;COW;Cowichan Valley Regional Transit System;North Cowichan
+106151;Westdowne Rd at Thicke (SB);SB_Westdowne Rd_AT_Thicke;48.952651;-123.779752;COW;Cowichan Valley Regional Transit System;Ladysmith
+106148;Canada at Station (NB);NB_Canada_FS_Station;48.777619;-123.706814;COW;Cowichan Valley Regional Transit System;Duncan
+136002;Ingram at Jubilee (WB);WB_Ingram_NS_Jubilee;48.779301;-123.710179;COW;Cowichan Valley Regional Transit System;Duncan
+136003;Jubilee at 2nd St (NB);NB_Jubilee_NS_2nd St;48.781541;-123.710164;COW;Cowichan Valley Regional Transit System;Duncan
+136004;4th St at Jubilee (EB);EB_4th St_FS_Jubilee;48.783359;-123.709448;COW;Cowichan Valley Regional Transit System;Duncan
+136267;Shawnigan Lake-Mill Bay at Cameron-Taggart (NB);NB_Shawnigan Lake-Mill Bay_NS_Cameron-Taggart;48.648319;-123.586702;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136268;Shawnigan Lake-Mill Bay at Barry (EB);EB_Shawnigan Lake-Mill Bay_FS_Barry;48.657543;-123.566602;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136269;Deloume at Lodgepole (SB);SB_Deloume_NS_Lodgepole;48.651273;-123.561652;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136270;Shawnigan Lake-Mill Bay at Brulette (WB);WB_Shawnigan Lake-Mill Bay_FS_Brulette;48.657599;-123.568182;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136272;Shawnigan Lake-Mill Bay at Cameron-Taggart (SB);SB_Shawnigan Lake-Mill Bay_FS_Cameron-Taggart;48.648677;-123.586421;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136273;Shawnigan Lake-Mill Bay at Briarwood (WB);WB_Shawnigan Lake-Mill Bay_FS_Briarwood;48.64747;-123.58874;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136274;Shawnigan Lake-Mill Bay at Forsyth (WB);WB_Shawnigan Lake-Mill Bay_FS_Forsyth;48.652277;-123.609596;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136275;Wallbank at Shawnigan Lake-Mill Bay (SB);SB_Wallbank_FS_Shawnigan Lake-Mill Bay;48.653456;-123.620791;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136276;Wallbank at Thrush (SB);SB_Wallbank_FS_Thrush;48.651876;-123.620783;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136277;Jersey at Robin Hill (EB);EB_Jersey_FS_Robin Hill;48.651359;-123.618997;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136278;Bob-O-Link at Wilmot (NB);NB_Bob-O-Link_NS_Wilmot;48.652379;-123.617;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136280;Shawnigan Lake at Shawnigan Lake-Mill Bay (NB);NB_Shawnigan Lake_FS_Shawnigan Lake-Mill Bay;48.654056;-123.623082;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136282;Shawnigan Lake at Owl (NB);NB_Shawnigan Lake_FS_Owl;48.665184;-123.626138;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136283;Shawnigan Lake at Filgate (NB);NB_Shawnigan Lake_FS_Filgate;48.671465;-123.610633;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136284;Shawnigan Lake at Cameron-Taggart (NB);NB_Shawnigan Lake_FS_Cameron-Taggart;48.674811;-123.606401;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+108004;Shawnigan Lake 3300 block (NB);NB_3300_block_Shawnigan Lake;48.677428;-123.60579;COW;Cowichan Valley Regional Transit System;Cowichan Valley B
+136286;Cobble Hill at Thain (NB);NB_Cobble Hill_FS_Thain;48.692594;-123.607635;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+136287;Cobble Hill 3800 block (NB);NB_3800_block_Cobble Hill;48.699191;-123.606387;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106250;Hutchinson at Chapman (EB);EB_Hutchinson_NS_Chapman;48.686518;-123.561164;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+106202;Arbutus at Panorama Ridge (NB);NB_Arbutus_FS_Panorama Ridge;48.693068;-123.53878;COW;Cowichan Valley Regional Transit System;Cowichan Valley C
+136295;Mill Bay at Handy (SB);SB_Mill Bay_NS_Handy;48.650853;-123.557809;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136296;Mill Bay at Bay (SB);SB_Mill Bay_FS_Bay;48.644014;-123.547762;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136297;Huckleberry at Springbank (NB);NB_Huckleberry_FS_Springbank;48.640824;-123.546707;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136300;Mill Bay at Ferry (NB);NB_Mill Bay_FS_Ferry;48.616547;-123.521608;COW;Cowichan Valley Regional Transit System;Malahat 11
+136005;James at Clements (EB);EB_James_NS_Clements;48.782033;-123.707078;COW;Cowichan Valley Regional Transit System;North Cowichan
+106189;Chemainus at Mill (SB);SB_Chemainus_NS_Mill;48.921983;-123.71868;COW;Cowichan Valley Regional Transit System;North Cowichan
+106188;Chemainus at Mill (NB);NB_Chemainus_FS_Mill;48.922037;-123.718588;COW;Cowichan Valley Regional Transit System;North Cowichan
+108027;Chemainus at Elm (NB);NB_Chemainus_NS_Elm;48.923711;-123.721573;COW;Cowichan Valley Regional Transit System;North Cowichan
+108026;Chemainus at Elm (SB);SB_Chemainus_FS_Elm;48.923589;-123.721415;COW;Cowichan Valley Regional Transit System;North Cowichan
+106191;River at Front (WB);WB_River_FS_Front;48.918329;-123.716669;COW;Cowichan Valley Regional Transit System;North Cowichan
+106190;River Rd at Front (EB);EB_River Rd_AT_Front St;48.918196;-123.716627;COW;Cowichan Valley Regional Transit System;North Cowichan
+108021;River 2980 block (WB);WB_2980 Blk_River Rd;48.918259;-123.722674;COW;Cowichan Valley Regional Transit System;North Cowichan
+108020;River 2980 block (EB);EB_2980_Blk River Rd;48.918201;-123.722548;COW;Cowichan Valley Regional Transit System;North Cowichan
+108023;River 3060 block (WB);WB_3060 Blk_River Rd;48.918037;-123.72774;COW;Cowichan Valley Regional Transit System;North Cowichan
+136301;Mill Bay at Frayne (SB);SB_Mill Bay_FS_Frayne;48.641994;-123.545318;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136302;Kilmalu at Church (EB);EB_Kilmalu_NS_Church;48.664859;-123.558435;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136303;Kilmalu at Telegraph (EB);EB_Kilmalu_NS_Telegraph;48.664837;-123.552113;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+136305;Telegraph at Meredith (NB);NB_Telegraph_FS_Meredith;48.668657;-123.553218;COW;Cowichan Valley Regional Transit System;Cowichan Valley A
+106050;1st Ave at Symonds St (SB);SB_1st Ave_FS_Symonds St;48.996716;-123.822603;COW;Cowichan Valley Regional Transit System;Ladysmith
+136138;Victoria at Willow (EB);EB_Victoria_NS_Willow;48.92124;-123.716041;COW;Cowichan Valley Regional Transit System;North Cowichan
+136139;Esplanade at Esplanade (NB);NB_Esplanade_NS_Esplanade;48.925883;-123.715896;COW;Cowichan Valley Regional Transit System;North Cowichan
+136140;Esplanade at Maple (WB);WB_Esplanade_FS_Maple;48.928193;-123.718087;COW;Cowichan Valley Regional Transit System;North Cowichan
+136141;Esplanade at Cedar (WB);WB_Esplanade_NS_Cedar;48.92821;-123.719623;COW;Cowichan Valley Regional Transit System;North Cowichan
+136142;Pine at Lang (WB);WB_Pine_FS_Lang;48.926648;-123.723808;COW;Cowichan Valley Regional Transit System;North Cowichan
+106111;Pine at Daniel (WB);WB_Pine_FS_Daniel;48.926639;-123.726837;COW;Cowichan Valley Regional Transit System;North Cowichan
+136144;Douglas at Cook (NB);NB_Douglas_FS_Cook;48.932108;-123.732965;COW;Cowichan Valley Regional Transit System;North Cowichan
+136145;Victoria at Cook (EB);EB_Victoria_NS_Cook;48.931806;-123.737466;COW;Cowichan Valley Regional Transit System;North Cowichan
+136146;Victoria at Ash (EB);EB_Victoria_NS_Ash;48.930288;-123.734706;COW;Cowichan Valley Regional Transit System;North Cowichan
+136147;Victoria at Chapman (EB);EB_Victoria_NS_Chapman;48.925996;-123.729077;COW;Cowichan Valley Regional Transit System;North Cowichan
+106147;Oak at Daniel (EB);EB_Oak_FS_Daniel;48.92536;-123.723833;COW;Cowichan Valley Regional Transit System;North Cowichan
+136149;Oak at Cedar (EB);EB_Oak_FS_Cedar;48.925381;-123.720127;COW;Cowichan Valley Regional Transit System;North Cowichan
+136150;Croft at Alder (SB);SB_Croft_FS_Alder;48.923714;-123.71676;COW;Cowichan Valley Regional Transit System;North Cowichan
+136151;Chemainus 9620 block (SB);SB_9620_block_Chemainus;48.916545;-123.71489;COW;Cowichan Valley Regional Transit System;North Cowichan
+106259;Henry at 3020 Blk (SB);SB_Henry_AT_3020 Blk;48.90996;-123.725236;COW;Cowichan Valley Regional Transit System;North Cowichan
+136153;Chemainus at Halhed (EB);EB_Chemainus_FS_Halhed;48.914205;-123.712253;COW;Cowichan Valley Regional Transit System;North Cowichan
+136154;Chemainus at Yew (SB);SB_Chemainus_FS_Yew;48.910063;-123.706397;COW;Cowichan Valley Regional Transit System;North Cowichan
+106118;Chemainus at Hastings (SB);SB_Chemainus_NS_Hastings;48.899785;-123.699164;COW;Cowichan Valley Regional Transit System;Squaw-hay-one 11
+136157;Crofton at Cecil (SB);SB_Crofton_NS_Cecil;48.870742;-123.650284;COW;Cowichan Valley Regional Transit System;North Cowichan
+136158;York at Chaplin (SB);SB_York_FS_Chaplin;48.865132;-123.645826;COW;Cowichan Valley Regional Transit System;North Cowichan
+136159;York at Emily (SB);SB_York_FS_Emily;48.862131;-123.645782;COW;Cowichan Valley Regional Transit System;North Cowichan
+108022;River 3060 block (EB);EB_3060_Blk River Rd;48.917944;-123.727097;COW;Cowichan Valley Regional Transit System;North Cowichan
+108025;River 3300 block (WB);WB_3300 Blk_River Rd;48.916175;-123.741629;COW;Cowichan Valley Regional Transit System;North Cowichan
+108024;River Rd 3300 block (EB);EB_3300_Blk River Rd;48.916118;-123.741438;COW;Cowichan Valley Regional Transit System;North Cowichan
+106062;Dunsmuir at Malone (NB);NB_Dunsmuir_NS_Malone;48.989156;-123.830165;COW;Cowichan Valley Regional Transit System;Ladysmith
+106061;Dunsmuir at Bickel (NB);NB_Dunsmuir_FS_Bickle;48.990586;-123.831233;COW;Cowichan Valley Regional Transit System;Ladysmith
+106060;Stillin at Nash (NB);NB_Stillin_NS_Nash;48.993151;-123.831181;COW;Cowichan Valley Regional Transit System;Ladysmith
+106065;Stillin at Brown (NB);NB_Stillin_NS_Brown;48.994394;-123.833281;COW;Cowichan Valley Regional Transit System;Ladysmith
+106066;Cloke at Walkem (EB);EB_Cloke_FS_Walkem;48.99532;-123.832518;COW;Cowichan Valley Regional Transit System;Ladysmith
+106080;Cloke at Wilrose (EB);EB_Cloke_NS_Wilrose;48.995189;-123.8303;COW;Cowichan Valley Regional Transit System;Ladysmith
+106074;Cedarwood at Maplewood (WB);WB_Cedarwood_FS_Maplewood;48.997849;-123.841901;COW;Cowichan Valley Regional Transit System;Ladysmith
+106083;Maplewood 650 block (WB);WB_650_block_Maplewood;48.997148;-123.843143;COW;Cowichan Valley Regional Transit System;Ladysmith
+106078;Birchwood at Maplewood (EB);EB_Birchwood_FS_Maplewood;48.996408;-123.843498;COW;Cowichan Valley Regional Transit System;Ladysmith
+106073;Alderwood at Birchwood (NB);NB_Alderwood_FS_Birchwood;48.996833;-123.840918;COW;Cowichan Valley Regional Transit System;Ladysmith
+108070;Wilson at Gibbins (NB);NB_Wilson_NS_Gibbins;48.784576;-123.723806;COW;Cowichan Valley Regional Transit System;North Cowichan
+908002;Lake Cowichan Transit Centre ;Lake Cowichan Transit Centre;48.821532;-124.056384;COW;Cowichan Valley Regional Transit System;Lake Cowichan
+108327;1st Ave at Trans-Can Hwy (NB);NB_1st Ave_NS_Trans-Can Hwy;48.997989;-123.824253;COW;Cowichan Valley Regional Transit System;Ladysmith
+108328;Beverly at Duncan (WB);WB_Beverly_NS_Duncan;48.785187;-123.707862;COW;Cowichan Valley Regional Transit System;North Cowichan
+108329;Drinkwater at Cowichan Cmns (EB);EB_Drinkwater_FS_Cowichan Cmns;48.803088;-123.720002;COW;Cowichan Valley Regional Transit System;North Cowichan
+108325;1st Ave at Buller (NB);NB_1st Ave_FS_Buller;48.994945;-123.819768;COW;Cowichan Valley Regional Transit System;Ladysmith
+108326;1st Ave at Roberts (NB);NB_1st Ave_NS_Roberts;48.992222;-123.815728;COW;Cowichan Valley Regional Transit System;Ladysmith
+108330;Frances at Deborah (EB);EB_Frances_FS_Deborah;48.784676;-123.663051;COW;Cowichan Valley Regional Transit System;North Cowichan
+108331;Coronation at Howard (EB);EB_Coronation_NS_Howard ;48.778704;-123.694385;COW;Cowichan Valley Regional Transit System;Duncan

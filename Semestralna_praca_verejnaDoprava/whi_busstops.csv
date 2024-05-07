@@ -1,0 +1,156 @@
+stopid;stopname;stopsite;latitude;longitude;syscode;system;muni
+102478;Painted Cliff at Spearhead (SB);SB_Painted Cliff_NS_Spearhead;50.117092;-122.940768;WHI;Whistler Transit System;Whistler
+102449;Glacier at Blackcomb (WB);WB_Glacier_NS_Blackcomb;50.114318;-122.949164;WHI;Whistler Transit System;Whistler
+102450;Glacier at Blackcomb (EB);EB_Glacier_FS_Blackcomb;50.114321;-122.94873;WHI;Whistler Transit System;Whistler
+102451;Glacier 4690 block (NB);NB_4690_block_Glacier;50.112448;-122.947695;WHI;Whistler Transit System;Whistler
+102452;Glacier 4710 block (SB);SB_4710_block_Glacier;50.111846;-122.948147;WHI;Whistler Transit System;Whistler
+102453;Blackcomb 4540 block (SB);SB_4540_block_Blackcomb;50.116239;-122.948926;WHI;Whistler Transit System;Whistler
+102454;Blackcomb 4540 block (NB);NB_4540_block_Blackcomb;50.116133;-122.948825;WHI;Whistler Transit System;Whistler
+102455;Village Gate at Northlands (EB);EB_Village Gate_NS_Northlands;50.116152;-122.956483;WHI;Whistler Transit System;Whistler
+102456;Village Gate at Northlands (WB);WB_Village Gate_FS_Northlands;50.116345;-122.956528;WHI;Whistler Transit System;Whistler
+102457;Glacier at Summit (SB);SB_Glacier_FS_Summit;50.11098;-122.947333;WHI;Whistler Transit System;Whistler
+102458;Glacier at Summit (NB);NB_Glacier_NS_Summit;50.111076;-122.947181;WHI;Whistler Transit System;Whistler
+102460;Blackcomb at Chateau (NB);NB_Blackcomb_NS_Chateau;50.117341;-122.948006;WHI;Whistler Transit System;Whistler
+102461;Blackcomb 4340 block (SB);SB_4340_block_Blackcomb;50.118571;-122.953963;WHI;Whistler Transit System;Whistler
+102462;Northlands at Main at Library (NB);NB_Northlands_FS_Main_at_Library;50.117663;-122.958;WHI;Whistler Transit System;Whistler
+102463;Blackcomb at Chateau (WB);WB_Blackcomb_NS_Chateau;50.117935;-122.947316;WHI;Whistler Transit System;Whistler
+102464;Glacier 4814 block (WB);WB_4814_block_Glacier;50.10912;-122.947999;WHI;Whistler Transit System;Whistler
+102465;Blackcomb at Lorimer at Chateau (EB);EB_Blackcomb_NS_Lorimer_at_Chateau;50.118483;-122.946258;WHI;Whistler Transit System;Whistler
+102466;Northlands at Main (NB);NB_Northlands_FS_Main_AT_IGA;50.119062;-122.958299;WHI;Whistler Transit System;Whistler
+102468;Blackcomb at Cultural Centre (WB);WB_Blackcomb_AT_Cultural Centre;50.11889;-122.945848;WHI;Whistler Transit System;Whistler
+102470;Lorimer at Marketplace (EB);EB_Lorimer_FS_Marketplace;50.120298;-122.956234;WHI;Whistler Transit System;Whistler
+102471;Spearhead at Painted Cliff (WB);WB_Spearhead_FS_Painted Cliff;50.116715;-122.942293;WHI;Whistler Transit System;Whistler
+102472;Blackcomb at Lorimer (NB);NB_Blackcomb_FS_Lorimer;50.120907;-122.954178;WHI;Whistler Transit System;Whistler
+102473;Spearhead 4750 block (NB);NB_4750_block_Spearhead;50.118001;-122.942771;WHI;Whistler Transit System;Whistler
+102475;Blackcomb at Lorimer (SB);SB_Blackcomb_NS_Lorimer;50.121038;-122.954282;WHI;Whistler Transit System;Whistler
+102476;Painted Cliff 4890 block (NB);NB_4890_block_Painted Cliff;50.114162;-122.940523;WHI;Whistler Transit System;Whistler
+102645;Hwy 99 at Alta Lake (WB);WB_Hwy 99_FS_Alta Lake;50.090407;-123.007787;WHI;Whistler Transit System;Whistler
+102653;Emerald at Autumn (WB);WB_Emerald_NS_Autumn;50.156061;-122.931228;WHI;Whistler Transit System;Whistler
+102656;Emerald 9140 block (WB);WB_9140_block_Emerald;50.157494;-122.929795;WHI;Whistler Transit System;Whistler
+102659;Hwy 99 at Emerald (NB);NB_Hwy 99_NS_Emerald;50.15872;-122.926836;WHI;Whistler Transit System;Whistler
+102660;Emerald at Pinetree (SB);SB_Emerald_NS_Pinetree;50.159071;-122.92815;WHI;Whistler Transit System;Whistler
+102661;Spring Creek at Khyber (EB);EB_Spring Creek_FS_Khyber;50.086771;-123.014254;WHI;Whistler Transit System;Whistler
+102662;Spring Creek at Khyber (WB);WB_Spring Creek_NS_Khyber;50.08683;-123.014418;WHI;Whistler Transit System;Whistler
+102664;Spring Creek at Tynebridge (EB);EB_Spring Creek_FS_Tynebridge;50.086372;-123.01882;WHI;Whistler Transit System;Whistler
+102665;Spring Creek at Tynebridge (WB);WB_Spring Creek_NS_Tynebridge;50.08646;-123.019413;WHI;Whistler Transit System;Whistler
+102667;Spring Creek at Cedar Glen (EB);EB_Spring Creek_NS_Cedar Glen;50.085708;-123.020758;WHI;Whistler Transit System;Whistler
+102668;Spring Creek at Cedar Glen (WB);WB_Spring Creek_FS_Cedar Glen;50.085696;-123.021058;WHI;Whistler Transit System;Whistler
+102671;Spring Creek 1500 block (NB);NB_1500_block_Spring Creek;50.08652;-123.023894;WHI;Whistler Transit System;Whistler
+102672;Spring Creek 1500 block (SB);SB_1500_block_Spring Creek;50.086251;-123.023737;WHI;Whistler Transit System;Whistler
+102673;Hwy 99 at Spring Creek (EB);EB_Hwy 99_FS_Spring Creek;50.08736;-123.025092;WHI;Whistler Transit System;Whistler
+102676;Function Junction Turnaround (WB);WB_Function Junction Turnaround;50.090086;-123.031354;WHI;Whistler Transit System;Whistler
+102677;Industrial Park (NB);NB_Industrial Park;50.089519;-123.033164;WHI;Whistler Transit System;Whistler
+102678;Alpha Lake 1320 block (SB);SB_1320_block_Alpha Lake;50.089561;-123.033371;WHI;Whistler Transit System;Whistler
+102679;Alpha Lake Rd (WB);WB_Alpha Lake Rd;50.089217;-123.036756;WHI;Whistler Transit System;Whistler
+102680;Alpha Lake 1230 block (EB);EB_1230_block_Alpha Lake;50.089121;-123.036662;WHI;Whistler Transit System;Whistler
+102681;Alpha Lake at Millar Creek (NB);NB_Alpha Lake_FS_Millar Creek;50.088383;-123.038769;WHI;Whistler Transit System;Whistler
+102682;Millar Creek Rd (SB);SB_Millar Creek Rd;50.08835;-123.0389;WHI;Whistler Transit System;Whistler
+102683;Cheakamus Lake 1120 block (SB);SB_1120_block_Cheakamus Lake;50.085658;-123.036975;WHI;Whistler Transit System;Whistler
+102685;Mount Fee at Whitewater (NB);NB_Mount Fee_FS_Whitewater;50.079105;-123.039236;WHI;Whistler Transit System;Whistler
+102686;Legacy at Mount Fee (WB);WB_Legacy_FS_Mount Fee;50.079824;-123.041416;WHI;Whistler Transit System;Whistler
+102690;Cheakamus Crossing at HI Whistler ;WB_Legacy_NS_Cloudburst;50.078667;-123.043635;WHI;Whistler Transit System;Whistler
+102691;Cheakamus Lake 1100 block (NB);NB_1100_block_Cheakamus Lake;50.086188;-123.036703;WHI;Whistler Transit System;Whistler
+102703;Bear Paw 8350 block (WB);WB_8350_block_Bear Paw;50.156636;-122.95596;WHI;Whistler Transit System;Whistler
+102479;Lorimer at Northlands (WB);WB_Lorimer_FS_Northlands;50.120981;-122.958591;WHI;Whistler Transit System;Whistler
+102480;Blackcomb at Spearhead (EB);EB_Blackcomb_NS_Spearhead;50.119955;-122.941833;WHI;Whistler Transit System;Whistler
+102481;Blackcomb 4610 block (WB);WB_4610_block_Blackcomb;50.120054;-122.942785;WHI;Whistler Transit System;Whistler
+102483;Hwy 99 at Panorama (EB);EB_Hwy 99_FS_Panorama;50.109946;-122.964762;WHI;Whistler Transit System;Whistler
+102484;Spearhead at Blackcomb (NB);NB_Spearhead_NS_Blackcomb;50.119128;-122.941181;WHI;Whistler Transit System;Whistler
+102485;Painted Cliff 4860 block (SB);SB_4860_block_Painted Cliff;50.118276;-122.940054;WHI;Whistler Transit System;Whistler
+102486;Hwy 99 at Panorama (WB);WB_Hwy 99_NS_Panorama;50.110025;-122.964828;WHI;Whistler Transit System;Whistler
+102487;Blackcomb at Settebello (SB);SB_Blackcomb_FS_Settebello;50.123235;-122.954517;WHI;Whistler Transit System;Whistler
+102488;Blackcomb at Settebello (NB);NB_Blackcomb_FS_Settebello;50.123593;-122.954432;WHI;Whistler Transit System;Whistler
+102491;Painted Cliff at Blackcomb (SB);SB_Painted Cliff_FS_Blackcomb;50.119893;-122.938781;WHI;Whistler Transit System;Whistler
+102492;Blackcomb at Painted Cliff (EB);EB_Blackcomb_NS_Painted Cliff;50.12039;-122.939407;WHI;Whistler Transit System;Whistler
+102712;Gondola Exchange Bay 1;Gondola_Exchange_Bay_1;50.114023;-122.952617;WHI;Whistler Transit System;Whistler
+102713;Gondola Exchange Bay 2;Gondola_Exchange_Bay_2;50.113905;-122.952565;WHI;Whistler Transit System;Whistler
+102714;Gondola Exchange Bay 3;Gondola_Exchange_Bay_3;50.113675;-122.952475;WHI;Whistler Transit System;Whistler
+102715;Gondola Exchange Bay 4;Gondola_Exchange_Bay_4;50.113486;-122.952372;WHI;Whistler Transit System;Whistler
+102716;Gondola Exchange Bay 5;Gondola_Exchange_Bay_5;50.113234;-122.952202;WHI;Whistler Transit System;Whistler
+102717;Gondola Exchange Bay 6;Gondola_Exchange_Bay_6;50.113144;-122.951909;WHI;Whistler Transit System;Whistler
+102718;Gondola Exchange Bay 7;Gondola_Exchange_Bay_7;50.113207;-122.95164;WHI;Whistler Transit System;Whistler
+102603;Lake Placid at Sarajevo (WB);WB_Lake Placid_NS_Sarajevo;50.094324;-122.99187;WHI;Whistler Transit System;Whistler
+102604;Matterhorn at Drifter (SB);SB_Matterhorn_NS_Drifter;50.143988;-122.967619;WHI;Whistler Transit System;Whistler
+102605;Lake Placid at Sarajevo (EB);EB_Lake Placid_NS_Sarajevo;50.094237;-122.99229;WHI;Whistler Transit System;Whistler
+102607;Drifter at Alpine (NB);NB_Drifter_NS_Alpine;50.144567;-122.969702;WHI;Whistler Transit System;Whistler
+102610;Rainbow at Matterhorn (SB);SB_Rainbow_NS_Matterhorn;50.145972;-122.965252;WHI;Whistler Transit System;Whistler
+102619;Hwy 99 at Alpine (SB);SB_Hwy 99_FS_Alpine;50.148154;-122.961283;WHI;Whistler Transit System;Whistler
+102620;Hwy 99 8690 block (NB);NB_8690_block_Hwy 99;50.147924;-122.960961;WHI;Whistler Transit System;Whistler
+102621;Drifter at Wedgeview (NB);NB_Drifter_NS_Wedgeview;50.146469;-122.970591;WHI;Whistler Transit System;Whistler
+102622;Alpine at Rainbow (WB);WB_Alpine_NS_Rainbow;50.148147;-122.963283;WHI;Whistler Transit System;Whistler
+102627;Drifter at Driftwood (EB);EB_Drifter_NS_Driftwood;50.148833;-122.968405;WHI;Whistler Transit System;Whistler
+102628;Hwy 99 at Bayshore (SB);SB_Hwy 99_NS_Bayshore;50.090464;-122.99782;WHI;Whistler Transit System;Whistler
+102629;Green Lake Lookout Hwy 99;Green_Lake_Lookout_Hwy 99;50.151507;-122.943697;WHI;Whistler Transit System;Whistler
+102631;Mountain View at Valley (EB);EB_Mountain View_FS_Valley;50.151329;-122.966196;WHI;Whistler Transit System;Whistler
+102632;Hwy 99 at Bayshore (EB);EB_Hwy 99_NS_Bayshore;50.089909;-122.999919;WHI;Whistler Transit System;Whistler
+102634;Parkwood at Meadow (SB);SB_Parkwood_NS_Meadow;50.152159;-122.962784;WHI;Whistler Transit System;Whistler
+102636;Mountain View at Parkwood (EB);EB_Mountain View_NS_Parkwood;50.153326;-122.96377;WHI;Whistler Transit System;Whistler
+102639;Hwy 99 at Alta Lake (EB);EB_Hwy 99_FS_Alta Lake;50.090511;-123.005455;WHI;Whistler Transit System;Whistler
+102592;London at Rob Boyd (SB);SB_London_NS_Rob Boyd;50.096032;-122.989554;WHI;Whistler Transit System;Whistler
+102594;Hwy 99 at Nicklaus North (NB);NB_Hwy 99_at_Nicklaus North;50.14337;-122.957617;WHI;Whistler Transit System;Whistler
+102596;London at Gondola (SB);SB_London_NS_Gondola;50.094451;-122.990161;WHI;Whistler Transit System;Whistler
+102599;London at Gondola (NB);NB_London_FS_Gondola;50.094389;-122.990058;WHI;Whistler Transit System;Whistler
+102600;Meadow Park Sports Center;Meadow_Park_Sports_Center;50.144442;-122.960185;WHI;Whistler Transit System;Whistler
+102493;Hwy 99 at Brio Entrance (EB);EB_Hwy 99_FS_Brio Entrance;50.109478;-122.968163;WHI;Whistler Transit System;Whistler
+102494;Blueberry at Ptarmigan (SB);SB_Blueberry_NS_Ptarmigan;50.112705;-122.970382;WHI;Whistler Transit System;Whistler
+102496;Lorimer at St Andrews (NB);NB_Lorimer_NS_St Andrews;50.124209;-122.961413;WHI;Whistler Transit System;Whistler
+102497;Blueberry at Heron (SB);SB_Blueberry_NS_Heron;50.118494;-122.969181;WHI;Whistler Transit System;Whistler
+102498;Lorimer at St Andrews (SB);SB_Lorimer_FS_St Andrews;50.124053;-122.961458;WHI;Whistler Transit System;Whistler
+102499;Blackcomb at Painted Cliff (EB);EB_Blackcomb_FS_Painted Cliff;50.120603;-122.938212;WHI;Whistler Transit System;Whistler
+102500;Blackcomb at Nancy Greene (SB);SB_Blackcomb_FS_Nancy Greene;50.125618;-122.954562;WHI;Whistler Transit System;Whistler
+102501;Blackcomb at Nancy Greene (NB);NB_Blackcomb_NS_Nancy Greene;50.126227;-122.954212;WHI;Whistler Transit System;Whistler
+102502;Blueberry at Valley Trail (SB);SB_Blueberry_NS_Valley Trail;50.110617;-122.971264;WHI;Whistler Transit System;Whistler
+102503;Nesters 7080 block (NB);NB_7080_block_Nesters;50.12578;-122.957386;WHI;Whistler Transit System;Whistler
+102504;Nesters 7080 block (SB);SB_7080_block_Nesters;50.125815;-122.957518;WHI;Whistler Transit System;Whistler
+102505;Blackcomb at Lost Lake (WB);WB_Blackcomb_FS_Lost Lake;50.121738;-122.936341;WHI;Whistler Transit System;Whistler
+102506;Fitzsimmons Rd N at Nancy Greene (SB);SB_Fitzsimmons Rd N_NS_Nancy Greene;50.126649;-122.951723;WHI;Whistler Transit System;Whistler
+102507;Fitzsimmons Rd N at Nancy Greene (NB);NB_Fitzsimmons Rd N_FS_Nancy Greene;50.126733;-122.951586;WHI;Whistler Transit System;Whistler
+102508;Blackcomb at Lost Lake (EB);EB_Blackcomb_NS_Lost Lake;50.12171;-122.936126;WHI;Whistler Transit System;Whistler
+102509;Hwy 99 at Blueberry (WB);WB_Hwy 99_FS_Blueberry;50.109808;-122.971832;WHI;Whistler Transit System;Whistler
+102514;Nesters 7000 block (SB);SB_7000_block_Nesters;50.128297;-122.954825;WHI;Whistler Transit System;Whistler
+102515;Blackcomb 4660 block (WB);WB_4660_block_Blackcomb;50.122198;-122.934415;WHI;Whistler Transit System;Whistler
+102516;Blackcomb 4660 block (EB);EB_4660_block_Blackcomb;50.122171;-122.934127;WHI;Whistler Transit System;Whistler
+102517;Nesters 6990 block (NB);NB_6990_block_Nesters;50.128354;-122.954609;WHI;Whistler Transit System;Whistler
+102518;Fitzsimmons Rd N at Spruce Grove (SB);SB_Fitzsimmons Rd N_FS_Spruce Grove;50.128346;-122.951997;WHI;Whistler Transit System;Whistler
+102519;Fitzsimmons Rd N at Spruce Grove (NB);NB_Fitzsimmons Rd N_NS_Spruce Grove;50.128409;-122.951887;WHI;Whistler Transit System;Whistler
+102520;Lorimer 6240 block (WB);WB_6240_block_Lorimer;50.127317;-122.964562;WHI;Whistler Transit System;Whistler
+102521;Beaver at Crabapple (SB);SB_Beaver_FS_Crabapple;50.123245;-122.971331;WHI;Whistler Transit System;Whistler
+102522;Blackcomb 4690 block (WB);WB_4690_block_Blackcomb;50.122828;-122.932695;WHI;Whistler Transit System;Whistler
+102523;Hwy 99 3040 block (EB);EB_3040_block_Hwy 99;50.10736;-122.975291;WHI;Whistler Transit System;Whistler
+102525;Crabapple at Tapley (SB);SB_Crabapple_NS_Tapley;50.124846;-122.970006;WHI;Whistler Transit System;Whistler
+102526;Lorimer at Balsam (WB);WB_Lorimer_FS_Balsam;50.12635;-122.967576;WHI;Whistler Transit System;Whistler
+102528;Crabapple at Cedar Grove (SB);SB_Crabapple_FS_Cedar Grove;50.125829;-122.968967;WHI;Whistler Transit System;Whistler
+102529;Crabapple at Barnfield (SB);SB_Crabapple_FS_Barnfield;50.123079;-122.972932;WHI;Whistler Transit System;Whistler
+102532;Lost Lake;Lost Lake;50.125939;-122.934797;WHI;Whistler Transit System;Whistler
+102533;Hwy 99 at Hillcrest (WB);WB_Hwy 99_NS_Hillcrest;50.107032;-122.976041;WHI;Whistler Transit System;Whistler
+102534;Spruce Grove at Kirkpatrick (SB);SB_Spruce Grove_FS_Kirkpatrick;50.131019;-122.950116;WHI;Whistler Transit System;Whistler
+102535;Nesters 6920 block (NB);NB_6920_block_Nesters;50.131017;-122.953979;WHI;Whistler Transit System;Whistler
+102536;Nesters 6920 block (SB);SB_6920_block_Nesters;50.131098;-122.954082;WHI;Whistler Transit System;Whistler
+102539;Spruce Grove at Kirkpatrick (NB);NB_Spruce Grove_NS_Kirkpatrick;50.131452;-122.950002;WHI;Whistler Transit System;Whistler
+102540;Spruce Grove at Mons (EB);EB_Spruce Grove_FS_Mons;50.132055;-122.952423;WHI;Whistler Transit System;Whistler
+102541;Spruce Grove at Mons (WB);WB_Spruce Grove_NS_Mons;50.132141;-122.952488;WHI;Whistler Transit System;Whistler
+102542;Hwy 99 at Spruce Grove (NB);NB_Hwy 99_FS_Spruce Grove;50.132627;-122.953386;WHI;Whistler Transit System;Whistler
+102543;Hwy 99 at Nordic (EB);EB_Hwy 99_FS_Nordic;50.103442;-122.980933;WHI;Whistler Transit System;Whistler
+102545;Nordic at Hwy 99 (NB);NB_Nordic_NS_Hwy 99;50.102823;-122.981769;WHI;Whistler Transit System;Whistler
+102547;Nordic at Hwy 99 (SB);SB_Nordic_FS_Hwy 99;50.103002;-122.981865;WHI;Whistler Transit System;Whistler
+102548;Cloudburst at Mount Fee (EB);EB_Cloudburst_NS_Mount Fee;50.077163;-123.03928;WHI;Whistler Transit System;Whistler
+102550;Cloudburst 1340 block (EB);EB_1340_block_Cloudburst;50.077122;-123.042734;WHI;Whistler Transit System;Whistler
+102553;Legacy at Madeley (NB);NB_Legacy_NS_Madeley;50.080598;-123.040248;WHI;Whistler Transit System;Whistler
+102554;Garibaldi at Nordic (WB);WB_Garibaldi_FS_Nordic;50.103141;-122.983986;WHI;Whistler Transit System;Whistler
+102555;Garibaldi at Nordic (EB);EB_Garibaldi_NS_Nordic;50.103039;-122.983861;WHI;Whistler Transit System;Whistler
+102567;Eva Lake at Aspen (NB);NB_Eva Lake_FS_Aspen;50.100214;-122.986576;WHI;Whistler Transit System;Whistler
+102569;Eva Lake at Aspen (SB);SB_Eva Lake_NS_Aspen;50.100369;-122.986616;WHI;Whistler Transit System;Whistler
+102576;Whistler at Aspen (EB);EB_Whistler_NS_Aspen;50.099055;-122.989046;WHI;Whistler Transit System;Whistler
+102578;Whistler 2140 block (WB);WB_2140_block_Whistler;50.099156;-122.989411;WHI;Whistler Transit System;Whistler
+102589;Hwy 99 at Nicklaus North (SB);SB_Hwy 99_NS_Nicklaus North;50.14302;-122.957493;WHI;Whistler Transit System;Whistler
+102591;London at Rob Boyd (NB);NB_London_FS_Rob Boyd;50.095969;-122.989386;WHI;Whistler Transit System;Whistler
+930001;Whistler Transit Centre;Whistler Transit Centre;50.133818;-122.956184;WHI;Whistler Transit System;Whistler
+130000;Hwy 99 at Whistler Golf Club (SB);Southbound_Hwy 99_at_Whistler Golf Club;50.113735;-122.959268;WHI;Whistler Transit System;Whistler
+130001;Hwy 99 at Whistler Golf Club (NB);Northbound_Hwy 99_at_Whistler Golf Club;50.113802;-122.959116;WHI;Whistler Transit System;Whistler
+130002;Hwy 99 at Lake Placid (SB);Southbound_Hwy 99_at_Lake Placid;50.094246;-122.993566;WHI;Whistler Transit System;Whistler
+130003;Hwy 99 at London Lane (NB);Northbound_Hwy 99_at_London Lane;50.096033;-122.990592;WHI;Whistler Transit System;Whistler
+800002;Gondola Exchange;Gondola Exchange;50.1136;-122.952416;WHI;Whistler Transit System;Whistler
+130004;Millar Creek at 1030 Blk (EB);EB_Millar Creek_AT_1030 Blk;50.087652;-123.040438;WHI;Whistler Transit System;Whistler
+130005;Millar Creek at Alpha Lake (WB);WB_Millar Creek_FS_Alpha Lake;50.087694;-123.040441;WHI;Whistler Transit System;Whistler
+130006;Millar Creek at Alpha Lake (EB);EB_Millar Creek_NS_Alpha Lake;50.087998;-123.039022;WHI;Whistler Transit System;Whistler
+130007;Village Gate at Northlands Blvd (WB);WB_Village Gate_AT_Northlands Blvd;50.116308;-122.958058;WHI;Whistler Transit System;Whistler
