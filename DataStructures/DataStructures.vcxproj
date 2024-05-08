@@ -156,7 +156,7 @@
     <ClCompile Include="tests\_details\test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="complexities\myAnalyzer.h" />
+    <ClInclude Include="complexities\PriorityQueueAnalyzer.h" />
     <ClInclude Include="libds\adt\abstract_data_type.h" />
     <ClInclude Include="libds\adt\array.h" />
     <ClInclude Include="libds\adt\list.h" />

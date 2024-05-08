@@ -1,19 +1,19 @@
 #pragma once
-#include "BusStop.h"
 #include "libds/adt/list.h"
 
+template <typename Container>
 class ImplicitList  // NOLINT(cppcoreguidelines-special-member-functions)
 {
 private:
-	ds::adt::ImplicitList<const BusStop*>* list_;
-    using iterator = ds::adt::GeneralList<const BusStop*, ds::amt::IS<const BusStop*>>::IteratorType;
+	ds::adt::ImplicitList<const Container*>* list_;
+    using iterator = typename ds::adt::GeneralList<const Container*, ds::amt::IS<const Container*>>::IteratorType;
 
 public:
-	ImplicitList() : list_(new ds::adt::ImplicitList<const BusStop*>()) {}
-    ~ImplicitList() { delete list_; }
+	ImplicitList() : list_(new ds::adt::ImplicitList<const Container*>()) {}
+    ~ImplicitList() { delete list_; list_ = nullptr; }
 
     [[nodiscard]] iterator begin() const { return list_->begin(); }
     [[nodiscard]] iterator end() const { return list_->end(); }
 
-    void addBusStop(const BusStop* busStop) const { list_->insertLast(busStop); }
+    void addBusStop(const Container* container) const { list_->insertLast(container); }
 };

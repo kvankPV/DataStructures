@@ -21,13 +21,16 @@
     <ClCompile Include="Checkers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WhichPredicate.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="PublicTransportSystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="BusStop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HierarchyImplemented.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TableImplemented.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -57,6 +60,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ImplicitList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HierarchyImplemented.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TableImplemented.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

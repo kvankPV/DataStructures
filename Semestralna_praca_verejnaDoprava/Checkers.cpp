@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Checkers.h"
 
-size_t checkers::get_valid_carrier(const size_t max) {
+size_t checkers::GetValidCarrier(const size_t max) {
     size_t carrier;
     while (true) {
         if (std::cin >> carrier && carrier <= max)
@@ -14,7 +14,7 @@ size_t checkers::get_valid_carrier(const size_t max) {
     }
 }
 
-predicate_type checkers::get_valid_predicate() {
+PREDICATE_TYPE checkers::GetValidPredicate() {
     int number;
     std::cout << "Zadajte predikat: " << '\n'
         << "1 - startsWithStr" << '\n' << "2 - containsStr"
@@ -23,9 +23,9 @@ predicate_type checkers::get_valid_predicate() {
     while (true) {
         std::cin >> number;
         if (number == 1)
-            return predicate_type::starts_with;
+            return PREDICATE_TYPE::StartsWith;
         if (number == 2)
-	        return predicate_type::contains;
+	        return PREDICATE_TYPE::Contains;
 
         std::cin.clear(); // clear the error flags
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // ignore the rest of the line
@@ -33,7 +33,7 @@ predicate_type checkers::get_valid_predicate() {
     }
 }
 
-std::string checkers::get_valid_string() {
+std::string checkers::GetValidString() {
     std::string prefix;
     std::cout << "Zadajte retazec:" << '\n';
     std::cin >> std::ws; // Skip leading whitespace

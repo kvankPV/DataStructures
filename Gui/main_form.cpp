@@ -2,7 +2,7 @@
 
 #include <tests/root.h>
 #include <complexities/list_analyzer.h>
-#include <complexities/myAnalyzer.h>
+#include <complexities/PriorityQueueAnalyzer.h>
 #include <msclr\marshal_cppstd.h>
 
 namespace WF = System::Windows::Forms;
@@ -37,10 +37,9 @@ std::vector<std::unique_ptr<ds::tests::Test>> createTests()
 	//adt->add_test(std::make_unique<ds::tests::QueueTest>());
 	//adt->add_test(std::make_unique<ds::tests::PriorityQueueTest>());
 
-	adt->add_test(std::make_unique<ds::tests::SequenceTableTest>());
+	//adt->add_test(std::make_unique<ds::tests::SequenceTableTest>());
 
-    // TODO 11
-	//adt->add_test(std::make_unique<ds::tests::NonSequenceTableTest>());
+	adt->add_test(std::make_unique<ds::tests::NonSequenceTableTest>());
 
 	// TODO 12
 	//adt->add_test(std::make_unique<ds::tests::SortTest>());
@@ -58,7 +57,7 @@ std::vector<std::unique_ptr<ds::utils::Analyzer>> createAnalyzers()
 	std::vector<std::unique_ptr<ds::utils::Analyzer>> analyzers;
 
 	analyzers.emplace_back(std::make_unique<ds::utils::ListsAnalyzer>());
-	analyzers.emplace_back(std::make_unique<ds::utils::MyAnalyzers>());
+	analyzers.emplace_back(std::make_unique<ds::utils::PriorityQueueAnalyzers>());
 
 	return analyzers;
 }

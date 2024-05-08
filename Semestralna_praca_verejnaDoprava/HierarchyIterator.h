@@ -9,7 +9,7 @@ struct NodeData
 {
     size_t order = 0;
     std::string name;
-    const ImplicitList* busStopList;
+    const ImplicitList<const BusStop>* busStopList = nullptr;
 
     bool operator==(const NodeData& other) const {
         return name == other.name && busStopList == other.busStopList;
@@ -28,7 +28,7 @@ public:
         ds::amt::MWEHBlock<NodeData>* current)
         : hierarchy_(hierarchy), current_(current) {}
 
-	ds::amt::MultiWayEH<NodeData>::PreOrderHierarchyIterator begin()
+    ds::amt::MultiWayEH<NodeData>::PreOrderHierarchyIterator begin()
     {
         return { hierarchy_, current_ };
     }

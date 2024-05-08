@@ -131,19 +131,22 @@
   <ItemGroup>
     <ClCompile Include="BusStop.cpp" />
     <ClCompile Include="Checkers.cpp" />
+    <ClCompile Include="HierarchyImplemented.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PublicTransportSystem.cpp" />
-    <ClCompile Include="WhichPredicate.cpp" />
+    <ClCompile Include="TableImplemented.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm.h" />
     <ClInclude Include="BusStop.h" />
     <ClInclude Include="Checkers.h" />
     <ClInclude Include="FileHandler.h" />
+    <ClInclude Include="HierarchyImplemented.h" />
     <ClInclude Include="HierarchyIterator.h" />
     <ClInclude Include="ImplicitList.h" />
     <ClInclude Include="PredicateType.h" />
     <ClInclude Include="PublicTransportSystem.h" />
+    <ClInclude Include="TableImplemented.h" />
     <ClInclude Include="WhichPredicate.h" />
   </ItemGroup>
   <ItemGroup>

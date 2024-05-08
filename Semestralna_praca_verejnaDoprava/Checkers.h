@@ -8,13 +8,13 @@ namespace checkers
 {
     /* The function 'get_valid_carrier' takes a maximum value and prompts the user to enter a number.
     It validates the input and ensures that the entered number is less than or equal to the maximum value.*/
-    size_t get_valid_carrier(size_t max);
+    size_t GetValidCarrier(size_t max);
 
     /*The function 'get_valid_predicate' prompts the user to choose a predicate type.
 	It validates the input and returns the chosen predicate type. */
-    predicate_type get_valid_predicate();
+    PREDICATE_TYPE GetValidPredicate();
 
     /* The function 'get_valid_string' prompts the user to enter a string.
     It validates the input and ensures that the entered string is not empty. */
-    std::string get_valid_string();
+    std::string GetValidString();
 }

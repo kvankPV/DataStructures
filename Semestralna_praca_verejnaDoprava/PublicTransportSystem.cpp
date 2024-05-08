@@ -1,103 +1,75 @@
 #include "PublicTransportSystem.h"
 
 #include "Checkers.h"
-#include "whichPredicate.h"
-/*
- * Responsible for deallocating memory used by the ImplicitList objects in the hierarchy.
- *It uses a recursive function deleteImplicitLists to traverse the hierarchy and delete each ImplicitList.
- */
-PublicTransportSystem::~PublicTransportSystem()
+#include "HierarchyImplemented.h"
+
+PublicTransportSystem::PublicTransportSystem()
 {
-	// Start from the root of the hierarchy
-	const auto root = hierarchy_.accessRoot();
+	auto& root = hi_.getHierarchy().emplaceRoot();
+	root.data_.name = "root_";
+	root.data_.order = 0;
+	root.data_.busStopList = nullptr;
 
-	// Recursive function to delete all ImplicitList* in the hierarchy
-	std::function<void(ds::amt::MWEHBlock<NodeData>&)> deleteImplicitLists = [&](ds::amt::MWEHBlock<NodeData>& node) {
-		// Delete and nullify the ImplicitList* of the current node
-		delete node.data_.busStopList;
-		node.data_.busStopList = nullptr;
+	auto& cowNode = hi_.addSonToParent(root,
+		"Cowichan Valley Regional Transit System");
+	auto& kamNode = hi_.addSonToParent(root,
+		"Kamloops Transit System");
+	auto& nanNode = hi_.addSonToParent(root,
+		"Regional District of Nanaimo Transit System");
+	auto& vicNode = hi_.addSonToParent(root,
+		"Victoria Regional Transit System");
+	auto& vlyNode = hi_.addSonToParent(root,
+		"Fraser Valley Region");
+	auto& whiNode = hi_.addSonToParent(root,
+		"Whistler Transit System");
+	auto& wilNode = hi_.addSonToParent(root,
+		"Williams Lake Transit System");
+	auto& wktNode = hi_.addSonToParent(root,
+		"West Kootenay Transit System");
 
-		// Recurse for each son of the current node
-		for (size_t i = 0; i < hierarchy_.degree(node); i++) {
-			const auto son = hierarchy_.accessSon(node, i);
-			deleteImplicitLists(*son);
-		}
-		};
+	FileHandler<BusStop> cow;
+	cow.readFromFile("cow_busstops.csv");
+	hi_.addMunicipalities(cow, cowNode);
+	ti_.addTableItemsToTable(cow);
 
-	// Call the recursive function starting from the root
-	deleteImplicitLists(*root);
+	FileHandler<BusStop> kam;
+	kam.readFromFile("kam_busstops.csv");
+	hi_.addMunicipalities(kam, kamNode);
+	ti_.addTableItemsToTable(kam);
+
+	FileHandler<BusStop> nan;
+	nan.readFromFile("nan_busstops.csv");
+	hi_.addMunicipalities(nan, nanNode);
+	ti_.addTableItemsToTable(nan);
+
+	FileHandler<BusStop> vic;
+	vic.readFromFile("vic_busstops.csv");
+	hi_.addMunicipalities(vic, vicNode);
+	ti_.addTableItemsToTable(vic);
+
+	FileHandler<BusStop> vly;
+	vly.readFromFile("vly_busstops.csv");
+	hi_.addMunicipalities(vly, vlyNode);
+	ti_.addTableItemsToTable(cow);
+
+	FileHandler<BusStop> whi;
+	whi.readFromFile("whi_busstops.csv");
+	hi_.addMunicipalities(whi, whiNode);
+	ti_.addTableItemsToTable(vly);
+
+	FileHandler<BusStop> wil;
+	wil.readFromFile("wil_busstops.csv");
+	hi_.addMunicipalities(wil, wilNode);
+	ti_.addTableItemsToTable(wil);
+
+	FileHandler<BusStop> wkt;
+	wkt.readFromFile("wkt_busstops.csv");
+	hi_.addMunicipalities(wkt, wktNode);
+	ti_.addTableItemsToTable(wkt);
+
+	this->runCommandLoop();
 }
 
-/*
- *Adds a new node to the hierarchy as a child of the specified parent node.
- *The new node is initialized with the provided name and ImplicitList.
- *If no ImplicitList is provided, the busStopList of the new node is set to nullptr.
- */
-[[nodiscard]] ds::amt::MWEHBlock<NodeData>& PublicTransportSystem::addSonToParent(ds::amt::MWEHBlock<NodeData>& parent,
-	const std::string& name,
-	const ImplicitList* implicitList)
-{
-	auto& son = hierarchy_.emplaceSon(parent, parent.sons_->size());
-	son.data_.order = parent.sons_->size() - 1;
-	son.data_.name = name;
-	if (implicitList != nullptr) {
-		son.data_.busStopList = implicitList;
-	}
-	else {
-		son.data_.busStopList = nullptr;
-	}
-	return son;
-}
-
-/*
- *This function iterates over a FileHandler of BusStop objects and adds a new node to the hierarchy for each unique municipality found.
- *Each new node is initialized with an ImplicitList created from the BusStop objects of the corresponding municipality.
- */
-void PublicTransportSystem::addMunicipalities(FileHandler<BusStop>& carrier, ds::amt::MWEHBlock<NodeData>& carrierNode)
-{
-	for (const auto& it : carrier) {
-
-		const std::string& municipality = it.getMunicipality();
-		bool isDuplicate = false;
-
-		for (size_t i = 0; i < hierarchy_.degree(carrierNode); i++) {
-			if (const auto son = hierarchy_.accessSon(carrierNode, i);
-				son->data_.name == municipality) {
-				isDuplicate = true;
-				break;
-			}
-		}
-
-		if (!isDuplicate) {
-			const ImplicitList* implicitList = createImplicitListFromMunicipality(carrier, municipality);
-			auto& son = hierarchy_.emplaceSon(carrierNode,
-				carrierNode.sons_->size());
-			son.data_.order = carrierNode.sons_->size() - 1;
-			son.data_.name = municipality;
-			if (implicitList != nullptr) {
-				son.data_.busStopList = implicitList;
-			}
-		}
-	}
-}
-
-/*
- *Creates a new ImplicitList from the BusStop objects of a specified municipality.
- *It iterates over a FileHandler of BusStop objects and adds each BusStop of the specified municipality to the new ImplicitList.
- */
-[[nodiscard]] const ImplicitList* PublicTransportSystem::createImplicitListFromMunicipality(FileHandler<BusStop>& busStops,
-	const std::string& municipality)
-{
-	const ImplicitList* implicitList = new ImplicitList;
-	for (const BusStop& busStop : busStops)
-	{
-		if (busStop.getMunicipality() == municipality)
-		{
-			implicitList->addBusStop(&busStop);
-		}
-	}
-	return implicitList;
-}
 
 /*
  *Runs a command loop that allows the user to navigate the hierarchy and perform operations on the BusStop objects.
@@ -105,7 +77,36 @@ void PublicTransportSystem::addMunicipalities(FileHandler<BusStop>& carrier, ds:
  */
 void PublicTransportSystem::runCommandLoop()
 {
-	HierarchyIterator it(&hierarchy_, hierarchy_.accessRoot());
+	size_t number;
+	while (true) {
+		std::cout << "Select level: " << '\n'
+			<< "0 - exit" << '\n'
+			<< "2 - second level" << '\n' << "3 - third level" << '\n';
+
+		std::cin >> number;
+		if (number == 2)
+		{
+			secondLevel();
+		}
+		if (number == 3)
+		{
+			thirdLevel();
+		}
+
+		if (number == 0)
+		{
+			break;
+		}
+
+		//std::cin.clear(); // clear the error flags
+		//std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // ignore the rest of the line
+		//std::cerr << "Chybny input." << '\n';
+	}
+}
+
+void PublicTransportSystem::secondLevel()
+{
+	HierarchyIterator it(&hi_.getHierarchy(), hi_.getHierarchy().accessRoot());
 
 	while (true) {
 		std::cout << "Current location: " << it->name << '\n';
@@ -127,12 +128,12 @@ void PublicTransportSystem::runCommandLoop()
 			{
 				throw std::out_of_range("Cannot go down from a leaf node!");
 			}
-			const size_t sonIndex = checkers::get_valid_carrier(actualSize);
+			const size_t sonIndex = checkers::GetValidCarrier(actualSize);
 			it.goDown(sonIndex - 1);
 		}
 
 		else if (command == 'p') {
-			printStations(it);
+			HierarchyImplemented::printStations(it);
 		}
 
 		else if (command == 'q') {
@@ -141,37 +142,33 @@ void PublicTransportSystem::runCommandLoop()
 	}
 }
 
-void PublicTransportSystem::printStations(HierarchyIterator it)
+void PublicTransportSystem::thirdLevel()
 {
-	const predicate_type predicateType = checkers::get_valid_predicate();
-	const std::string prefix = checkers::get_valid_string();
-	if (const auto predicate = which_predicate::choose_predicate(predicateType, prefix)) {
-		std::vector<const BusStop*> filteredBusStops;
-		// Function to iterate over the ImplicitList* of a node and apply the predicate
-		auto processNode = [&](const NodeData& node) {
-			if (node.busStopList != nullptr) {
-				// Iterate over all bus stops in the ImplicitList of the node
-				for (const BusStop* busStopPtr : *node.busStopList) {
-					if (predicate(busStopPtr)) {
-						filteredBusStops.push_back(busStopPtr);
-					}
-				}
-			}
-			};
-		// Process the current node
-		processNode(*it);
-		// Iterate over all sons of the current node
-		for (auto sonIt = it.begin(); sonIt != it.end(); ++sonIt) {
-			processNode(*sonIt);
-		}
-		if (filteredBusStops.empty())
-		{
-			std::cerr << "Empty List. Nothing Found." << '\n';
-		}
-		else {
-			for (const auto& busStop : filteredBusStops) {
+	for (auto& [key_, data_] : ti_.getTable())
+	{
+		std::cout << key_ << '\n';
+	}
+
+	std::string carrier;
+	std::cout << "Write the whole name of the carrier: ";
+	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
+	std::getline(std::cin, carrier);
+
+	// Remove trailing spaces
+	carrier.erase(std::find_if(carrier.rbegin(), carrier.rend(), [](const unsigned char ch) {
+		return !std::isspace(ch);
+		}).base(), carrier.end());
+
+	if (ImplicitList<BusStop>** list = nullptr; ti_.getTable().tryFind(carrier, list))
+	{
+		if (*list != nullptr) {
+			for (const BusStop* busStop : **list) {
 				std::cout << *busStop << '\n';
 			}
 		}
+	}
+	else
+	{
+		std::cout << "Carrier not available!" << '\n';
 	}
 }
