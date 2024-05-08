@@ -1,5 +1,6 @@
 #include "HierarchyImplemented.h"
 
+#include "Algorithm.h"
 #include "Checkers.h"
 #include "PredicateType.h"
 #include "WhichPredicate.h"
@@ -37,7 +38,7 @@ HierarchyImplemented::~HierarchyImplemented()
  */
 [[nodiscard]] ds::amt::MWEHBlock<NodeData>& HierarchyImplemented::addSonToParent(ds::amt::MWEHBlock<NodeData>& parent,
 	const std::string& name,
-	const ImplicitList<const BusStop>* implicitList)
+	ImplicitList<const BusStop>* implicitList)
 {
 	auto& son = hierarchy_.emplaceSon(parent, parent.sons_->size());
 	son.data_.order = parent.sons_->size() - 1;
@@ -67,7 +68,7 @@ void HierarchyImplemented::addMunicipalities(FileHandler<BusStop>& carrier, ds::
 		}
 
 		if (!isDuplicate) {
-			const ImplicitList<const BusStop>* implicitList = createImplicitListFromMunicipality(carrier, municipality);
+			ImplicitList<const BusStop>* implicitList = createImplicitListFromMunicipality(carrier, municipality);
 			auto& son = hierarchy_.emplaceSon(carrierNode,
 				carrierNode.sons_->size());
 			son.data_.order = carrierNode.sons_->size() - 1;
@@ -83,10 +84,10 @@ void HierarchyImplemented::addMunicipalities(FileHandler<BusStop>& carrier, ds::
  *Creates a new ImplicitList from the BusStop objects of a specified municipality.
  *It iterates over a FileHandler of BusStop objects and adds each BusStop of the specified municipality to the new ImplicitList.
  */
-[[nodiscard]] const ImplicitList<const BusStop>* HierarchyImplemented::createImplicitListFromMunicipality(FileHandler<BusStop>& carrier,
+[[nodiscard]] ImplicitList<const BusStop>* HierarchyImplemented::createImplicitListFromMunicipality(FileHandler<BusStop>& carrier,
 	const std::string& municipality)
 {
-	const auto implicitList = new const ImplicitList<const BusStop>;
+	const auto implicitList = new ImplicitList<const BusStop>;
 	for (const BusStop& busStop : carrier)
 	{
 		if (busStop.getMunicipality() == municipality)
@@ -101,33 +102,17 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 {
 	const PREDICATE_TYPE predicateType = checkers::GetValidPredicate();
 	const std::string prefix = checkers::GetValidString();
-	if (const auto predicate = which_predicate::ChoosePredicate<BusStop>(predicateType, prefix)) {
-		std::vector<const BusStop*> filteredBusStops;
-		// Function to iterate over the ImplicitList* of a node and apply the predicate
-		auto processNode = [&](const NodeData& node) {
-			if (node.busStopList != nullptr) {
-				// Iterate over all bus stops in the ImplicitList of the node
-				for (const BusStop* busStopPtr : *node.busStopList) {
-					if (predicate(busStopPtr)) {
-						filteredBusStops.push_back(busStopPtr);
-					}
-				}
-			}
-			};
-		// Process the current node
-		processNode(*it);
-		// Iterate over all sons of the current node
-		for (auto sonIt = it.begin(); sonIt != it.end(); ++sonIt) {
-			processNode(*sonIt);
-		}
-		/*std::vector<const BusStop*> filteredBusStops = algorithm::process(it.begin(), it.end(), predicate);*/
-		if (filteredBusStops.empty())
+	if (auto predicate = which_predicate::ChoosePredicate<const BusStop>(predicateType, prefix,
+	                                                                           [](const BusStop* busStop) { return busStop->getStopName(); })) {
+		for (auto& [order, name, busStopList] : it)
 		{
-			std::cerr << "Empty List. Nothing Found." << '\n';
-		}
-		else {
-			for (const auto& busStop : filteredBusStops) {
-				std::cout << *busStop << '\n';
+			if (busStopList != nullptr) {
+				algorithm::Process<ImplicitList<BusStop>::iterator, const BusStop>
+					(busStopList->begin(), busStopList->end(), predicate, [](const BusStop* busStop)
+						{
+							std::cout << *busStop << '\n';
+						}
+				);
 			}
 		}
 	}

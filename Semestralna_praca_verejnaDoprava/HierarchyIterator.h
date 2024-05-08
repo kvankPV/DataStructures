@@ -9,7 +9,7 @@ struct NodeData
 {
     size_t order = 0;
     std::string name;
-    const ImplicitList<const BusStop>* busStopList = nullptr;
+    ImplicitList<const BusStop>* busStopList = nullptr;
 
     bool operator==(const NodeData& other) const {
         return name == other.name && busStopList == other.busStopList;

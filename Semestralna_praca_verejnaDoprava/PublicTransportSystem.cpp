@@ -79,28 +79,30 @@ void PublicTransportSystem::runCommandLoop()
 {
 	size_t number;
 	while (true) {
-		std::cout << "Select level: " << '\n'
+		std::cout << '\n' << "Select level: " << '\n'
 			<< "0 - exit" << '\n'
-			<< "2 - second level" << '\n' << "3 - third level" << '\n';
+			<< "2 - second level" << '\n' << "3 - third level" << '\n'
+			<< "Input: ";
 
 		std::cin >> number;
 		if (number == 2)
 		{
 			secondLevel();
-		}
-		if (number == 3)
+
+		} else if (number == 3)
 		{
 			thirdLevel();
-		}
 
-		if (number == 0)
+		} else if (number == 0)
 		{
 			break;
-		}
 
-		//std::cin.clear(); // clear the error flags
-		//std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // ignore the rest of the line
-		//std::cerr << "Chybny input." << '\n';
+		} else
+		{
+			std::cin.clear(); // clear the error flags
+			std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // ignore the rest of the line
+			std::cerr << "Chybny input." << '\n';
+		}
 	}
 }
 
@@ -109,7 +111,7 @@ void PublicTransportSystem::secondLevel()
 	HierarchyIterator it(&hi_.getHierarchy(), hi_.getHierarchy().accessRoot());
 
 	while (true) {
-		std::cout << "Current location: " << it->name << '\n';
+		std::cout << '\n' << "Current location: " << it->name << '\n';
 		std::cout << "Enter command (u for up, d for down, p for print, q for quit): ";
 		char command;
 		std::cin >> command;

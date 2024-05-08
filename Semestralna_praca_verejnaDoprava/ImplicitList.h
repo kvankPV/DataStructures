@@ -6,9 +6,10 @@ class ImplicitList  // NOLINT(cppcoreguidelines-special-member-functions)
 {
 private:
 	ds::adt::ImplicitList<const Container*>* list_;
-    using iterator = typename ds::adt::GeneralList<const Container*, ds::amt::IS<const Container*>>::IteratorType;
 
 public:
+    using iterator = typename ds::adt::GeneralList<const Container*, ds::amt::IS<const Container*>>::IteratorType;
+
 	ImplicitList() : list_(new ds::adt::ImplicitList<const Container*>()) {}
     ~ImplicitList() { delete list_; list_ = nullptr; }
 
@@ -16,4 +17,6 @@ public:
     [[nodiscard]] iterator end() const { return list_->end(); }
 
     void addBusStop(const Container* container) const { list_->insertLast(container); }
+
+	size_t getSize() { return list_; }
 };

@@ -12,22 +12,25 @@ namespace which_predicate
     The returned function checks if the BusStop's name starts with or contains the provided prefix, 
     depending on the predicate type.*/
     template <typename Container>
-    std::function<bool(const Container*)> ChoosePredicate
-    (const PREDICATE_TYPE type, const std::string& prefix)
+    std::function<bool(const Container*)> ChoosePredicate(
+        const PREDICATE_TYPE type,
+        const std::string& prefix,
+        std::function<std::string(const Container*)> getName)
     {
         std::function<bool(const Container*)> predicate;
         switch (type) {
         case PREDICATE_TYPE::StartsWith:
-            predicate = [prefix](const Container* container) {
-                return container->getStopName().find(prefix) == 0;
+            predicate = [prefix, getName](const Container* container) {
+                return getName(container).find(prefix) == 0;
                 };
             break;
         case PREDICATE_TYPE::Contains:
-            predicate = [prefix](const Container* container) {
-                return container->getStopName().find(prefix) != std::string::npos;
+            predicate = [prefix, getName](const Container* container) {
+                return getName(container).find(prefix) != std::string::npos;
                 };
             break;
         }
         return predicate;
     }
+
 }
