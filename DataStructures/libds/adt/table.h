@@ -624,9 +624,7 @@ namespace ds::adt {
     template <typename K, typename T>
     bool HashTable<K, T>::equals(const ADT& other)
     {
-        // TODO 11
-        // po implementacii vymazte vyhodenie vynimky!
-        throw std::runtime_error("Not implemented yet");
+        return Table<K, T>::areEqual(*this, other);
     }
 
     template <typename K, typename T>
@@ -655,25 +653,46 @@ namespace ds::adt {
     template <typename K, typename T>
     void HashTable<K, T>::insert(const K& key, T data)
     {
-        // TODO 11
-        // po implementacii vymazte vyhodenie vynimky!
-        throw std::runtime_error("Not implemented yet");
+        size_t index = static_cast<size_t>(this->hashFunction_(key) % this->primaryRegion_->size());
+        SynonymTable* synonyms = primaryRegion_->access(index)->data_;
+        if (synonyms == nullptr)
+        {
+            synonyms = new SynonymTable();
+            primaryRegion_->access(index)->data_ = synonyms;
+        }
+        synonyms->insert(key, data);
+        ++this->size_;
     }
 
     template <typename K, typename T>
     bool HashTable<K, T>::tryFind(const K& key, T*& data) const
     {
-        // TODO 11
-        // po implementacii vymazte vyhodenie vynimky!
-        throw std::runtime_error("Not implemented yet");
+        size_t index = this->hashFunction_(key) % this->primaryRegion_->size();
+        SynonymTable* synonyms = this->primaryRegion_->access(index)->data_;
+        if (synonyms == nullptr)
+        {
+            return false;
+        }
+        return synonyms->tryFind(key, data);
     }
 
     template <typename K, typename T>
     T HashTable<K, T>::remove(const K& key)
     {
-        // TODO 11
-        // po implementacii vymazte vyhodenie vynimky!
-        throw std::runtime_error("Not implemented yet");
+        size_t index = this->hashFunction_(key) % this->primaryRegion_->size();
+        SynonymTable* synonyms = this->primaryRegion_->access(index)->data_;
+        if (synonyms == nullptr)
+        {
+            throw structure_error("Table doesn't contain the element with the provided key!");
+        }
+        T element = synonyms->remove(key);
+        if (synonyms->isEmpty())
+        {
+            delete synonyms;
+            this->primaryRegion_->access(index)->data_ = nullptr;
+        }
+        --this->size_;
+        return element;
     }
 
     template <typename K, typename T>
@@ -714,9 +733,21 @@ namespace ds::adt {
     template <typename K, typename T>
     typename HashTable<K, T>::HashTableIterator& HashTable<K, T>::HashTableIterator::operator++()
     {
-        // TODO 11
-        // po implementacii vymazte vyhodenie vynimky!
-        throw std::runtime_error("Not implemented yet");
+        //++*synonymIterator_;
+        //if (!synonymIterator_) //TODO IDK.
+        //{
+        //    while (*tablesCurrent_ != *tablesLast_ && **tablesCurrent_ == nullptr)
+        //    {
+        //        ++*tablesCurrent_;
+        //    }
+        //    delete synonymIterator_;
+        //    synonymIterator_ = nullptr;
+        //    if (*tablesCurrent_ != *tablesLast_)
+        //    {
+        //        synonymIterator_ = new SynonymTableIterator((**tablesCurrent_)->begin());
+        //    }
+        //}
+        throw structure_error("NOT IMPLEMENTED!");
     }
 
     template <typename K, typename T>
@@ -872,7 +903,7 @@ namespace ds::adt {
     template<typename K, typename T, typename ItemType>
     void GeneralBinarySearchTree<K, T, ItemType>::removeNode(BSTNodeType* node)
     {
-        BSTNodeType* parent = static_cast<typename amt::BinaryEH<ItemType>::BlockType*>(node->parent_);
+        BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
 
         if (this->getHierarchy()->degree(*node) == 0)
         {
@@ -917,7 +948,8 @@ namespace ds::adt {
                     this->getHierarchy()->changeRightSon(*parent, son);
 	            }
             }
-        } else
+        }
+        else if (this->getHierarchy()->degree(*node) == 2)
         {
             BSTNodeType* previousInOrder = node->left_;
             while (this->getHierarchy()->hasRightSon(*previousInOrder))
@@ -970,8 +1002,8 @@ namespace ds::adt {
     void GeneralBinarySearchTree<K, T, ItemType>::rotateLeft(BSTNodeType* node)
     {
         BSTNodeType* leftSon = node->left_;
-        BSTNodeType* parent = static_cast<typename amt::BinaryEH<ItemType>::BlockType*>(node->parent_);
-        BSTNodeType* preParent = static_cast<typename amt::BinaryEH<ItemType>::BlockType*>(parent->parent_);
+        BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
+        BSTNodeType* preParent = static_cast<BSTNodeType*>(parent->parent_);
         this->getHierarchy()->changeRightSon(*parent, nullptr);
         this->getHierarchy()->changeLeftSon(*node, nullptr);
         if (preParent != nullptr)
@@ -994,9 +1026,9 @@ namespace ds::adt {
     template<typename K, typename T, typename ItemType>
     void GeneralBinarySearchTree<K, T, ItemType>::rotateRight(BSTNodeType* node)
     {
-        BSTNodeType* rightSon = node->left_;
-        BSTNodeType* parent = static_cast<typename amt::BinaryEH<ItemType>::BlockType*>(node->parent_);
-        BSTNodeType* preParent = static_cast<typename amt::BinaryEH<ItemType>::BlockType*>(parent->parent_);
+        BSTNodeType* rightSon = node->right_;
+        BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
+        BSTNodeType* preParent = static_cast<BSTNodeType*>(parent->parent_);
         this->getHierarchy()->changeLeftSon(*parent, nullptr);
         this->getHierarchy()->changeRightSon(*node, nullptr);
         if (preParent != nullptr)
@@ -1037,11 +1069,12 @@ namespace ds::adt {
     template<typename K, typename T>
     void Treap<K, T>::removeNode(BSTNodeType* node)
     {
-        node->data_.priority_ = rng_();
+        node->data_.priority_ = this->rng_.min();
         while (this->getHierarchy()->degree(*node) == 2)
         {
             BSTNodeType* leftSon = node->left_;
-            if (BSTNodeType* rightSon = node->right_; leftSon->data_.priority_ < rightSon->data_.priority_)
+            if (BSTNodeType* rightSon = node->right_; 
+                leftSon->data_.priority_ < rightSon->data_.priority_)
             {
                 this->rotateRight(leftSon);
             } else
@@ -1055,7 +1088,7 @@ namespace ds::adt {
     template<typename K, typename T>
     void Treap<K, T>::balanceTree(BSTNodeType* node)
     {
-        node->data_.priority_ = rng_();
+        node->data_.priority_ = this->rng_();
         BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
         while (parent != nullptr && parent->data_.priority_ > node->data_.priority_)
         {

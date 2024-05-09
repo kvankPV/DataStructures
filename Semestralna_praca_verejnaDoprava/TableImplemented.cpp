@@ -2,10 +2,11 @@
 
 TableImplemented::~TableImplemented()
 {
-	auto deleteTableData = [](ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& table) {
-		for (auto& [key, data] : table) {
-			delete data;
-			data = nullptr;
+	auto deleteTableData = [](UniversalTable* table) {
+		const auto sortedSTab = dynamic_cast<UsedTable*>(table);
+		for (auto& item : *sortedSTab) {
+			delete item.data_;
+			item.data_ = nullptr;
 		}
 		};
 
@@ -17,11 +18,20 @@ TableImplemented::~TableImplemented()
 	deleteTableData(whiTable_);
 	deleteTableData(wilTable_);
 	deleteTableData(wktTable_);
+
+	delete cowTable_;
+	delete kamTable_;
+	delete nanTable_;
+	delete vicTable_;
+	delete vlyTable_;
+	delete whiTable_;
+	delete wilTable_;
+	delete wktTable_;
 }
 
 
 void TableImplemented::addTableItemsToTable(FileHandler<BusStop>& carrier,
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& table)
+	UniversalTable& table)
 {
 	ImplicitList<BusStop>** pom = nullptr;
 	for (const auto& it : carrier) {

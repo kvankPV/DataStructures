@@ -131,7 +131,7 @@ namespace ds::utils {
 
 	//--
 
-	inline PriorityQueueAnalyzers::PriorityQueueAnalyzers() : CompositeAnalyzer("IDK")
+	inline PriorityQueueAnalyzers::PriorityQueueAnalyzers() : CompositeAnalyzer("Priority-Queue")
 	{
 		this->addAnalyzer(std::make_unique<PriorityQueueAnalyzerPush<adt::TwoLists<int, int>>>("twoLists-push"));
 		this->addAnalyzer(std::make_unique<PriorityQueueAnalyzerPop<adt::TwoLists<int, int>>>("twoLists-pop"));

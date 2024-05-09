@@ -6,28 +6,32 @@
 
 class TableImplemented  // NOLINT(cppcoreguidelines-special-member-functions)
 {
+public:
+	using UniversalTable = ds::adt::Table<std::string, ImplicitList<BusStop>*>;
+	using UsedTable = ds::adt::Treap<std::string, ImplicitList<BusStop>*>;
+
 private:
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> cowTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> kamTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> nanTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> vicTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> vlyTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> whiTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> wilTable_;
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*> wktTable_;
+	UniversalTable* cowTable_ = new UsedTable;
+	UniversalTable* kamTable_ = new UsedTable;
+	UniversalTable* nanTable_ = new UsedTable;
+	UniversalTable* vicTable_ = new UsedTable;
+	UniversalTable* vlyTable_ = new UsedTable;
+	UniversalTable* whiTable_ = new UsedTable;
+	UniversalTable* wilTable_ = new UsedTable;
+	UniversalTable* wktTable_ = new UsedTable;
 
 public:
 	~TableImplemented();
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getCowTable() { return cowTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getKamTable() { return kamTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getNanTable() { return nanTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getVicTable() { return vicTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getVlyTable() { return vlyTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getWhiTable() { return whiTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getWilTable() { return wilTable_; }
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& getWktTable() { return wktTable_; }
+	[[nodiscard]] UniversalTable& getCowTable() const { return *cowTable_; }
+	[[nodiscard]] UniversalTable& getKamTable() const { return *kamTable_; }
+	[[nodiscard]] UniversalTable& getNanTable() const { return *nanTable_; }
+	[[nodiscard]] UniversalTable& getVicTable() const { return *vicTable_; }
+	[[nodiscard]] UniversalTable& getVlyTable() const { return *vlyTable_; }
+	[[nodiscard]] UniversalTable& getWhiTable() const { return *whiTable_; }
+	[[nodiscard]] UniversalTable& getWilTable() const { return *wilTable_; }
+	[[nodiscard]] UniversalTable& getWktTable() const { return *wktTable_; }
 
 	static void addTableItemsToTable(FileHandler<BusStop>& carrier,
-	                                 ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& table);
+		ds::adt::Table<std::string, ImplicitList<BusStop>*>& table);
 };
 

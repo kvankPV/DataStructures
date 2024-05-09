@@ -14,8 +14,8 @@ private:
 
 	void thirdLevel();
 
-	HierarchyImplemented hi_;
-	TableImplemented ti_;
+	HierarchyImplemented hierarchyImplemented_;
+	TableImplemented tableImplemented_;
 
 public:
 	PublicTransportSystem();

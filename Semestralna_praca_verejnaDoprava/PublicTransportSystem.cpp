@@ -5,67 +5,67 @@
 
 PublicTransportSystem::PublicTransportSystem()
 {
-	auto& root = hi_.getHierarchy().emplaceRoot();
+	auto& root = hierarchyImplemented_.getHierarchy().emplaceRoot();
 	root.data_.name = "root_";
 	root.data_.order = 0;
 	root.data_.busStopList = nullptr;
 
-	auto& cowNode = hi_.addSonToParent(root,
+	auto& cowNode = hierarchyImplemented_.addSonToParent(root,
 		"Cowichan Valley Regional Transit System");
-	auto& kamNode = hi_.addSonToParent(root,
+	auto& kamNode = hierarchyImplemented_.addSonToParent(root,
 		"Kamloops Transit System");
-	auto& nanNode = hi_.addSonToParent(root,
+	auto& nanNode = hierarchyImplemented_.addSonToParent(root,
 		"Regional District of Nanaimo Transit System");
-	auto& vicNode = hi_.addSonToParent(root,
+	auto& vicNode = hierarchyImplemented_.addSonToParent(root,
 		"Victoria Regional Transit System");
-	auto& vlyNode = hi_.addSonToParent(root,
+	auto& vlyNode = hierarchyImplemented_.addSonToParent(root,
 		"Fraser Valley Region");
-	auto& whiNode = hi_.addSonToParent(root,
+	auto& whiNode = hierarchyImplemented_.addSonToParent(root,
 		"Whistler Transit System");
-	auto& wilNode = hi_.addSonToParent(root,
+	auto& wilNode = hierarchyImplemented_.addSonToParent(root,
 		"Williams Lake Transit System");
-	auto& wktNode = hi_.addSonToParent(root,
+	auto& wktNode = hierarchyImplemented_.addSonToParent(root,
 		"West Kootenay Transit System");
 
 	FileHandler<BusStop> cow;
 	cow.readFromFile("cow_busstops.csv");
-	hi_.addMunicipalities(cow, cowNode);
-	TableImplemented::addTableItemsToTable(cow, ti_.getCowTable());
+	hierarchyImplemented_.addMunicipalities(cow, cowNode);
+	TableImplemented::addTableItemsToTable(cow, tableImplemented_.getCowTable());
 
 	FileHandler<BusStop> kam;
 	kam.readFromFile("kam_busstops.csv");
-	hi_.addMunicipalities(kam, kamNode);
-	TableImplemented::addTableItemsToTable(kam, ti_.getKamTable());
+	hierarchyImplemented_.addMunicipalities(kam, kamNode);
+	TableImplemented::addTableItemsToTable(kam, tableImplemented_.getKamTable());
 
 	FileHandler<BusStop> nan;
 	nan.readFromFile("nan_busstops.csv");
-	hi_.addMunicipalities(nan, nanNode);
-	TableImplemented::addTableItemsToTable(nan, ti_.getNanTable());
+	hierarchyImplemented_.addMunicipalities(nan, nanNode);
+	TableImplemented::addTableItemsToTable(nan, tableImplemented_.getNanTable());
 
 	FileHandler<BusStop> vic;
 	vic.readFromFile("vic_busstops.csv");
-	hi_.addMunicipalities(vic, vicNode);
-	TableImplemented::addTableItemsToTable(vic, ti_.getVicTable());
+	hierarchyImplemented_.addMunicipalities(vic, vicNode);
+	TableImplemented::addTableItemsToTable(vic, tableImplemented_.getVicTable());
 
 	FileHandler<BusStop> vly;
 	vly.readFromFile("vly_busstops.csv");
-	hi_.addMunicipalities(vly, vlyNode);
-	TableImplemented::addTableItemsToTable(vly, ti_.getVlyTable());
+	hierarchyImplemented_.addMunicipalities(vly, vlyNode);
+	TableImplemented::addTableItemsToTable(vly, tableImplemented_.getVlyTable());
 
 	FileHandler<BusStop> whi;
 	whi.readFromFile("whi_busstops.csv");
-	hi_.addMunicipalities(whi, whiNode);
-	TableImplemented::addTableItemsToTable(whi, ti_.getWhiTable());
+	hierarchyImplemented_.addMunicipalities(whi, whiNode);
+	TableImplemented::addTableItemsToTable(whi, tableImplemented_.getWhiTable());
 
 	FileHandler<BusStop> wil;
 	wil.readFromFile("wil_busstops.csv");
-	hi_.addMunicipalities(wil, wilNode);
-	TableImplemented::addTableItemsToTable(wil, ti_.getWilTable());
+	hierarchyImplemented_.addMunicipalities(wil, wilNode);
+	TableImplemented::addTableItemsToTable(wil, tableImplemented_.getWilTable());
 
 	FileHandler<BusStop> wkt;
 	wkt.readFromFile("wkt_busstops.csv");
-	hi_.addMunicipalities(wkt, wktNode);
-	TableImplemented::addTableItemsToTable(wkt, ti_.getWktTable());
+	hierarchyImplemented_.addMunicipalities(wkt, wktNode);
+	TableImplemented::addTableItemsToTable(wkt, tableImplemented_.getWktTable());
 
 	this->runCommandLoop();
 }
@@ -108,7 +108,7 @@ void PublicTransportSystem::runCommandLoop()
 
 void PublicTransportSystem::secondLevel()
 {
-	HierarchyIterator it(&hi_.getHierarchy(), hi_.getHierarchy().accessRoot());
+	HierarchyIterator it(&hierarchyImplemented_.getHierarchy(), hierarchyImplemented_.getHierarchy().accessRoot());
 
 	while (true) {
 		std::cout << '\n' << "Current location: " << it->name << '\n';
@@ -165,61 +165,63 @@ void PublicTransportSystem::thirdLevel()
 		return !std::isspace(ch);
 		}).base(), carrier.end());
 
-	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>* selectedTable;
+	ds::adt::Table<std::string, ImplicitList<BusStop>*>* selectedTable;
 
 	if (carrier == "Cowichan Valley Regional Transit System") {
-		selectedTable = &ti_.getCowTable();
+		selectedTable = &tableImplemented_.getCowTable();
 	}
 	else if (carrier == "Kamloops Transit System") {
-		selectedTable = &ti_.getKamTable();
+		selectedTable = &tableImplemented_.getKamTable();
 	}
 	else if (carrier == "Regional District of Nanaimo Transit System") {
-		selectedTable = &ti_.getNanTable();
+		selectedTable = &tableImplemented_.getNanTable();
 	}
 	else if (carrier == "Victoria Regional Transit System") {
-		selectedTable = &ti_.getVicTable();
+		selectedTable = &tableImplemented_.getVicTable();
 	}
 	else if (carrier == "Fraser Valley Region") {
-		selectedTable = &ti_.getVlyTable();
+		selectedTable = &tableImplemented_.getVlyTable();
 	}
 	else if (carrier == "Whistler Transit System") {
-		selectedTable = &ti_.getWhiTable();
+		selectedTable = &tableImplemented_.getWhiTable();
 	}
 	else if (carrier == "Williams Lake Transit System") {
-		selectedTable = &ti_.getWilTable();
+		selectedTable = &tableImplemented_.getWilTable();
 	}
 	else if (carrier == "West Kootenay Transit System") {
-		selectedTable = &ti_.getWktTable();
+		selectedTable = &tableImplemented_.getWktTable();
 	}
 	else {
 		std::cout << "Carrier not available!" << '\n';
 		return;
 	}
 
-	for (auto& [key_, data_] : *selectedTable)
-	{
-		std::cout << key_ << " | Count: " << data_->getSize() << '\n'; 
-	}
+	if (auto sortedSTab = dynamic_cast<TableImplemented::UsedTable*>(selectedTable); sortedSTab != nullptr) {
+		for (auto& item : *sortedSTab)
+		{
+			std::cout << item.key_ << " | Count: " << item.data_->getSize() << '\n';
+		}
 
-	std::string stopName;
-	std::cout << "Write the whole name of the stop name: ";
-	std::getline(std::cin, stopName);
+		std::string stopName;
+		std::cout << "Write the whole name of the stop name: ";
+		std::getline(std::cin, stopName);
 
-	// Remove trailing spaces
-	stopName.erase(std::find_if(stopName.rbegin(), stopName.rend(), [](const unsigned char ch) {
-		return !std::isspace(ch);
-		}).base(), stopName.end());
+		// Remove trailing spaces
+		stopName.erase(std::find_if(stopName.rbegin(), stopName.rend(), [](const unsigned char ch) {
+			return !std::isspace(ch);
+			}).base(), stopName.end());
 
-	if (ImplicitList<BusStop>** list = nullptr; selectedTable->tryFind(stopName, list))
-	{
-		if (*list != nullptr) {
-			for (const BusStop* busStop : **list) {
-				std::cout << *busStop << '\n';
+		if (ImplicitList<BusStop>** list = nullptr; selectedTable->tryFind(stopName, list))
+		{
+			if (*list != nullptr) {
+				for (const BusStop* busStop : **list) {
+					std::cout << *busStop << '\n';
+				}
 			}
 		}
-	}
-	else
-	{
-		std::cout << "Stop name not available!" << '\n';
+		else
+		{
+			std::cout << "Stop name not available!" << '\n';
+		}
 	}
 }
