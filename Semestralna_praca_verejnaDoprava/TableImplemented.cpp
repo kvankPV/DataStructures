@@ -2,18 +2,30 @@
 
 TableImplemented::~TableImplemented()
 {
-	for (auto& [key_, data_] : table_)
-	{
-		delete data_;
-		data_ = nullptr;
-	}
+	auto deleteTableData = [](ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& table) {
+		for (auto& [key, data] : table) {
+			delete data;
+			data = nullptr;
+		}
+		};
+
+	deleteTableData(cowTable_);
+	deleteTableData(kamTable_);
+	deleteTableData(nanTable_);
+	deleteTableData(vicTable_);
+	deleteTableData(vlyTable_);
+	deleteTableData(whiTable_);
+	deleteTableData(wilTable_);
+	deleteTableData(wktTable_);
 }
 
-void TableImplemented::addTableItemsToTable(FileHandler<BusStop>& carrier)
+
+void TableImplemented::addTableItemsToTable(FileHandler<BusStop>& carrier,
+	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>& table)
 {
 	ImplicitList<BusStop>** pom = nullptr;
 	for (const auto& it : carrier) {
-		if (table_.tryFind(it.getCarrierSystem(), pom))
+		if (table.tryFind(it.getStopName(), pom))
 		{
 			(*pom)->addBusStop(&it);
 		}
@@ -21,7 +33,7 @@ void TableImplemented::addTableItemsToTable(FileHandler<BusStop>& carrier)
 		{
 			const auto list = new ImplicitList<BusStop>;
 			list->addBusStop(&it);
-			table_.insert(it.getCarrierSystem(), list);
+			table.insert(it.getStopName(), list);
 		}
 	}
 }

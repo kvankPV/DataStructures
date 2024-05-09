@@ -9,6 +9,7 @@
  * Responsible for deallocating memory used by the ImplicitList objects in the hierarchy.
  *It uses a recursive function deleteImplicitLists to traverse the hierarchy and delete each ImplicitList.
  */
+
 HierarchyImplemented::~HierarchyImplemented()
 {
 	// Start from the root of the hierarchy

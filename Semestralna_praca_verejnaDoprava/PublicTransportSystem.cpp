@@ -30,42 +30,42 @@ PublicTransportSystem::PublicTransportSystem()
 	FileHandler<BusStop> cow;
 	cow.readFromFile("cow_busstops.csv");
 	hi_.addMunicipalities(cow, cowNode);
-	ti_.addTableItemsToTable(cow);
+	TableImplemented::addTableItemsToTable(cow, ti_.getCowTable());
 
 	FileHandler<BusStop> kam;
 	kam.readFromFile("kam_busstops.csv");
 	hi_.addMunicipalities(kam, kamNode);
-	ti_.addTableItemsToTable(kam);
+	TableImplemented::addTableItemsToTable(kam, ti_.getKamTable());
 
 	FileHandler<BusStop> nan;
 	nan.readFromFile("nan_busstops.csv");
 	hi_.addMunicipalities(nan, nanNode);
-	ti_.addTableItemsToTable(nan);
+	TableImplemented::addTableItemsToTable(nan, ti_.getNanTable());
 
 	FileHandler<BusStop> vic;
 	vic.readFromFile("vic_busstops.csv");
 	hi_.addMunicipalities(vic, vicNode);
-	ti_.addTableItemsToTable(vic);
+	TableImplemented::addTableItemsToTable(vic, ti_.getVicTable());
 
 	FileHandler<BusStop> vly;
 	vly.readFromFile("vly_busstops.csv");
 	hi_.addMunicipalities(vly, vlyNode);
-	ti_.addTableItemsToTable(cow);
+	TableImplemented::addTableItemsToTable(vly, ti_.getVlyTable());
 
 	FileHandler<BusStop> whi;
 	whi.readFromFile("whi_busstops.csv");
 	hi_.addMunicipalities(whi, whiNode);
-	ti_.addTableItemsToTable(vly);
+	TableImplemented::addTableItemsToTable(whi, ti_.getWhiTable());
 
 	FileHandler<BusStop> wil;
 	wil.readFromFile("wil_busstops.csv");
 	hi_.addMunicipalities(wil, wilNode);
-	ti_.addTableItemsToTable(wil);
+	TableImplemented::addTableItemsToTable(wil, ti_.getWilTable());
 
 	FileHandler<BusStop> wkt;
 	wkt.readFromFile("wkt_busstops.csv");
 	hi_.addMunicipalities(wkt, wktNode);
-	ti_.addTableItemsToTable(wkt);
+	TableImplemented::addTableItemsToTable(wkt, ti_.getWktTable());
 
 	this->runCommandLoop();
 }
@@ -146,13 +146,16 @@ void PublicTransportSystem::secondLevel()
 
 void PublicTransportSystem::thirdLevel()
 {
-	for (auto& [key_, data_] : ti_.getTable())
-	{
-		std::cout << key_ << '\n';
-	}
-
 	std::string carrier;
-	std::cout << "Write the whole name of the carrier: ";
+	std::cout << "Write the whole name of the carrier: " << '\n'
+	<< "	Cowichan Valley Regional Transit System" << '\n'
+	<< "	Kamloops Transit System" << '\n'
+	<< "	Regional District of Nanaimo Transit System" << '\n'
+	<< "	Victoria Regional Transit System" << '\n'
+	<< "	Fraser Valley Region" << '\n'
+	<< "	Whistler Transit System" << '\n'
+	<< "	Williams Lake Transit System" << '\n'
+	<< "	West Kootenay Transit System" << '\n';
 	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
 	std::getline(std::cin, carrier);
 
@@ -161,7 +164,53 @@ void PublicTransportSystem::thirdLevel()
 		return !std::isspace(ch);
 		}).base(), carrier.end());
 
-	if (ImplicitList<BusStop>** list = nullptr; ti_.getTable().tryFind(carrier, list))
+	ds::adt::SortedSTab<std::string, ImplicitList<BusStop>*>* selectedTable;
+
+	if (carrier == "Cowichan Valley Regional Transit System") {
+		selectedTable = &ti_.getCowTable();
+	}
+	else if (carrier == "Kamloops Transit System") {
+		selectedTable = &ti_.getKamTable();
+	}
+	else if (carrier == "Regional District of Nanaimo Transit System") {
+		selectedTable = &ti_.getNanTable();
+	}
+	else if (carrier == "Victoria Regional Transit System") {
+		selectedTable = &ti_.getVicTable();
+	}
+	else if (carrier == "Fraser Valley Region") {
+		selectedTable = &ti_.getVlyTable();
+	}
+	else if (carrier == "Whistler Transit System") {
+		selectedTable = &ti_.getWhiTable();
+	}
+	else if (carrier == "Williams Lake Transit System") {
+		selectedTable = &ti_.getWilTable();
+	}
+	else if (carrier == "West Kootenay Transit System") {
+		selectedTable = &ti_.getWktTable();
+	}
+	else {
+		std::cout << "Carrier not available!" << '\n';
+		return;
+	}
+
+	for (auto& [key_, data_] : *selectedTable)
+	{
+		std::cout << key_ << '\n';
+	}
+
+	std::string stopName;
+	std::cout << "Write the whole name of the stop name: ";
+	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
+	std::getline(std::cin, stopName);
+
+	// Remove trailing spaces
+	stopName.erase(std::find_if(stopName.rbegin(), stopName.rend(), [](const unsigned char ch) {
+		return !std::isspace(ch);
+		}).base(), stopName.end());
+
+	if (ImplicitList<BusStop>** list = nullptr; selectedTable->tryFind(stopName, list))
 	{
 		if (*list != nullptr) {
 			for (const BusStop* busStop : **list) {
@@ -171,6 +220,6 @@ void PublicTransportSystem::thirdLevel()
 	}
 	else
 	{
-		std::cout << "Carrier not available!" << '\n';
+		std::cout << "Stop name not available!" << '\n';
 	}
 }
