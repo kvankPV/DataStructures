@@ -18,5 +18,5 @@ public:
 
     void addBusStop(const Container* container) const { list_->insertLast(container); }
 
-	size_t getSize() { return list_; }
+    size_t getSize() { return list_->size(); }
 };

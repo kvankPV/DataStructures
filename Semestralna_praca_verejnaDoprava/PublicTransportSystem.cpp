@@ -155,7 +155,8 @@ void PublicTransportSystem::thirdLevel()
 	<< "	Fraser Valley Region" << '\n'
 	<< "	Whistler Transit System" << '\n'
 	<< "	Williams Lake Transit System" << '\n'
-	<< "	West Kootenay Transit System" << '\n';
+	<< "	West Kootenay Transit System" << '\n'
+	<< "Input: ";
 	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
 	std::getline(std::cin, carrier);
 
@@ -197,12 +198,11 @@ void PublicTransportSystem::thirdLevel()
 
 	for (auto& [key_, data_] : *selectedTable)
 	{
-		std::cout << key_ << '\n';
+		std::cout << key_ << " | Count: " << data_->getSize() << '\n'; 
 	}
 
 	std::string stopName;
 	std::cout << "Write the whole name of the stop name: ";
-	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
 	std::getline(std::cin, stopName);
 
 	// Remove trailing spaces
