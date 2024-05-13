@@ -6,6 +6,7 @@
 #include <functional>
 #include <limits>
 #include <random>
+#include <msclr/gcroot.h>
 
 namespace ds::adt {
 
@@ -733,21 +734,24 @@ namespace ds::adt {
     template <typename K, typename T>
     typename HashTable<K, T>::HashTableIterator& HashTable<K, T>::HashTableIterator::operator++()
     {
-        //++*synonymIterator_;
-        //if (!synonymIterator_) //TODO IDK.
-        //{
-        //    while (*tablesCurrent_ != *tablesLast_ && **tablesCurrent_ == nullptr)
-        //    {
-        //        ++*tablesCurrent_;
-        //    }
-        //    delete synonymIterator_;
-        //    synonymIterator_ = nullptr;
-        //    if (*tablesCurrent_ != *tablesLast_)
-        //    {
-        //        synonymIterator_ = new SynonymTableIterator((**tablesCurrent_)->begin());
-        //    }
-        //}
-        throw structure_error("NOT IMPLEMENTED!");
+        ++*synonymIterator_;
+        if (*this->synonymIterator_ == (**tablesCurrent_)->end())
+        {
+            do
+            {
+                ++*tablesCurrent_;
+            } while (*tablesCurrent_ != *tablesLast_ && **tablesCurrent_ == nullptr);
+
+            delete synonymIterator_;
+            synonymIterator_ = nullptr;
+
+            if (*tablesCurrent_ != *tablesLast_)
+            {
+                synonymIterator_ = new SynonymTableIterator((**tablesCurrent_)->begin());
+            }
+        }
+        return *this;
+        //throw structure_error("NOT IMPLEMENTED!");
     }
 
     template <typename K, typename T>
@@ -922,8 +926,8 @@ namespace ds::adt {
 	        }
         } else if (this->getHierarchy()->degree(*node) == 1)
         {
-            BSTNodeType* son = this->getHierarchy()->hasLeftSon(*node) ?
-                node->left_ : node->right_;
+            BSTNodeType* son = this->getHierarchy()->hasLeftSon(*node)
+        		? node->left_ : node->right_;
             if (node->left_ == son)
             {
                 this->getHierarchy()->changeLeftSon(*node, nullptr);
@@ -971,7 +975,8 @@ namespace ds::adt {
 
         node = this->getHierarchy()->accessRoot();
 
-        while (node->data_.key_ != key && !this->getHierarchy()->isLeaf(*node))
+        while (node->data_.key_ != key 
+            && !this->getHierarchy()->isLeaf(*node))
         {
 	        if (key < node->data_.key_)
 	        {
@@ -1001,12 +1006,12 @@ namespace ds::adt {
     template<typename K, typename T, typename ItemType>
     void GeneralBinarySearchTree<K, T, ItemType>::rotateLeft(BSTNodeType* node)
     {
-        BSTNodeType* leftSon = node->left_;
+        BSTNodeType* leftSon = static_cast<BSTNodeType*>(node->left_);
         BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
         BSTNodeType* preParent = static_cast<BSTNodeType*>(parent->parent_);
         this->getHierarchy()->changeRightSon(*parent, nullptr);
         this->getHierarchy()->changeLeftSon(*node, nullptr);
-        if (preParent != nullptr)
+        if (preParent)
         {
 	        if (preParent->left_ == parent)
 	        {
@@ -1026,12 +1031,13 @@ namespace ds::adt {
     template<typename K, typename T, typename ItemType>
     void GeneralBinarySearchTree<K, T, ItemType>::rotateRight(BSTNodeType* node)
     {
-        BSTNodeType* rightSon = node->right_;
+        BSTNodeType* rightSon = static_cast<BSTNodeType*>(node->right_);
         BSTNodeType* parent = static_cast<BSTNodeType*>(node->parent_);
         BSTNodeType* preParent = static_cast<BSTNodeType*>(parent->parent_);
+
         this->getHierarchy()->changeLeftSon(*parent, nullptr);
         this->getHierarchy()->changeRightSon(*node, nullptr);
-        if (preParent != nullptr)
+        if (preParent)
         {
             if (preParent->left_ == parent)
             {
@@ -1069,7 +1075,7 @@ namespace ds::adt {
     template<typename K, typename T>
     void Treap<K, T>::removeNode(BSTNodeType* node)
     {
-        node->data_.priority_ = this->rng_.min();
+        node->data_.priority_ = this->rng_.max();
         while (this->getHierarchy()->degree(*node) == 2)
         {
             BSTNodeType* leftSon = node->left_;

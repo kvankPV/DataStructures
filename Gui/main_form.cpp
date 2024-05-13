@@ -2,7 +2,8 @@
 
 #include <tests/root.h>
 #include <complexities/list_analyzer.h>
-#include <complexities/PriorityQueueAnalyzer.h>
+#include <complexities/priority_queue_analyzer.h>
+#include <complexities/treap_analyzer.h>
 #include <msclr\marshal_cppstd.h>
 
 namespace WF = System::Windows::Forms;
@@ -35,11 +36,11 @@ std::vector<std::unique_ptr<ds::tests::Test>> createTests()
 
 	//adt->add_test(std::make_unique<ds::tests::StackTest>());
 	//adt->add_test(std::make_unique<ds::tests::QueueTest>());
-	//adt->add_test(std::make_unique<ds::tests::PriorityQueueTest>());
+	//->add_test(std::make_unique<ds::tests::PriorityQueueTest>());
 
 	//adt->add_test(std::make_unique<ds::tests::SequenceTableTest>());
 
-	adt->add_test(std::make_unique<ds::tests::NonSequenceTableTest>());
+	//adt->add_test(std::make_unique<ds::tests::NonSequenceTableTest>());
 
 	// TODO 12
 	//adt->add_test(std::make_unique<ds::tests::SortTest>());
@@ -58,6 +59,7 @@ std::vector<std::unique_ptr<ds::utils::Analyzer>> createAnalyzers()
 
 	analyzers.emplace_back(std::make_unique<ds::utils::ListsAnalyzer>());
 	analyzers.emplace_back(std::make_unique<ds::utils::PriorityQueueAnalyzers>());
+	analyzers.emplace_back(std::make_unique<ds::utils::TreapAnalyzers>());
 
 	return analyzers;
 }
@@ -602,7 +604,7 @@ namespace gui
 		//
 		this->textBoxStepCount_->Name = L"textBoxStepCount";
 		this->textBoxStepCount_->Size = Sys::Drawing::Size(100, 16);
-		this->textBoxStepCount_->Text = L"10";
+		this->textBoxStepCount_->Text = L"100";
 
 		//
 		// panelAnalysisOptions
