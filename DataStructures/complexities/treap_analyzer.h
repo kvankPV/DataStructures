@@ -68,27 +68,23 @@ namespace ds::utils {
     }
 
     template <class Container>
-    void TreapAnalyzer<Container>::growToSize(Container& container, size_t size)
+    void TreapAnalyzer<Container>::growToSize(Container& container, const size_t size)
     {
-        std::unordered_set<size_t> tempSet;
-        tempSet.reserve(size);
-        const size_t containerSize = container.size();
-        const size_t usedKeysSize = usedKeys_.size();
+        //usedKeys ma 500 000
+        //size je 10 000
+        //container je 0
+
+        if (this->usedKeys_.size() > size)
+        {
+            this->usedKeys_.clear();
+        }
         while (container.size() < size)
         {
-            if (size_t key = rngData_(); this->usedKeys_.find(key) == this->usedKeys_.end()
-                && tempSet.emplace(key).second)
+            size_t key = this->rngData_();
+            if (auto [_, inserted] = this->usedKeys_.emplace(key); inserted)
             {
                 container.insert(key, key);
             }
-        }
-
-        if (containerSize != usedKeysSize)
-        {
-            this->usedKeys_ = std::move(tempSet);
-        } else
-        {
-            this->usedKeys_.insert(tempSet.begin(), tempSet.end());
         }
     }
 
@@ -113,7 +109,8 @@ namespace ds::utils {
     template <class Container>
     void TreapAnalyzerInsert<Container>::executeOperation(Container& container)
     {
-	    if (size_t key = this->getRandomData(); this->getUsedKeys().emplace(key).second)
+        size_t key = this->getRandomData();
+        if (auto [_, inserted] = this->getUsedKeys().emplace(key); inserted)
         {
             container.insert(key, key);
         }
@@ -128,19 +125,11 @@ namespace ds::utils {
     template <class Container>
     void TreapAnalyzerFind<Container>::executeOperation(Container& container)
     {
-        auto& usedKeys = this->getUsedKeys();
-        if (usedKeys.empty())
-        {
-            return;
-        }
-
-        auto vi = std::next(usedKeys.begin(), this->getRandomIndex());
-        if (const bool found = container.find(*vi); !found)
+        if (const bool found = container.find(*std::next(this->getUsedKeys().begin(), this->getRandomIndex())); !found)
         {
             throw std::runtime_error("No such key!");
         }
     }
-
 
     inline TreapAnalyzers::TreapAnalyzers() : CompositeAnalyzer("Treap")
     {

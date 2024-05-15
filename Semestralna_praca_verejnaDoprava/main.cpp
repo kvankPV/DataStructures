@@ -3,7 +3,6 @@
 #include "libds/heap_monitor.h"
 #include "PublicTransportSystem.h"
 
-
 int main()
 {
     /*prerobit tak aby som pouzival aj prvu uroven sem.

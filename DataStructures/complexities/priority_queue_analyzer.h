@@ -16,7 +16,7 @@ namespace ds::utils {
 
 		[[nodiscard]] auto getRandomData() const -> int;
 
-		static constexpr int DEFAULT_SIZE = 100;
+		static constexpr int DEFAULT_SIZE = 1000000;
 
 		Container create_prototype() override;
 

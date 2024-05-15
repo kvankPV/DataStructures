@@ -604,7 +604,7 @@ namespace gui
 		//
 		this->textBoxStepCount_->Name = L"textBoxStepCount";
 		this->textBoxStepCount_->Size = Sys::Drawing::Size(100, 16);
-		this->textBoxStepCount_->Text = L"100";
+		this->textBoxStepCount_->Text = L"50";
 
 		//
 		// panelAnalysisOptions

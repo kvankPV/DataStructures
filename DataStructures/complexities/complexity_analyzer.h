@@ -74,7 +74,7 @@ namespace ds::utils
     private:
         static const size_t DEFAULT_REPLICATION_COUNT = 100;
         static const size_t DEFAULT_STEP_SIZE = 10'000;
-        static const size_t DEFAULT_STEP_COUNT = 100;
+        static const size_t DEFAULT_STEP_COUNT = 50;
 
     private:
         std::string outputDir_;
