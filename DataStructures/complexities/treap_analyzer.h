@@ -15,13 +15,12 @@ namespace ds::utils {
 
         void growToSize(Container& container, size_t size) override;
 
-        [[nodiscard]] auto getRandomData() const -> size_t;
-        [[nodiscard]] size_t getRandomIndex() const;
+        [[nodiscard]] auto getRandomData() const -> size_t { return this->data_; }
+        [[nodiscard]] size_t getRandomIndex() const { return this->index_; }
         std::unordered_set<size_t>& getUsedKeys() { return this->usedKeys_; }
         size_t randomizedKey_;
         size_t index_;
         std::default_random_engine rngIndex_{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
-        bool keyExists_;
 
     private:
         std::unordered_set<size_t> usedKeys_;
@@ -74,6 +73,9 @@ namespace ds::utils {
         {
             this->usedKeys_.clear();
         }
+
+        this->usedKeys_.reserve(size);
+
         while (container.size() < size)
         {
             size_t key = this->rngData_();
@@ -85,40 +87,18 @@ namespace ds::utils {
     }
 
     template <class Container>
-    size_t TreapAnalyzer<Container>::getRandomData() const
-    {
-        return data_;
-    }
-
-    template <class Container>
-    size_t TreapAnalyzer<Container>::getRandomIndex() const
-    {
-        return index_;
-    }
-
-    template <class Container>
     TreapAnalyzerInsert<Container>::TreapAnalyzerInsert(const std::string& name)
         : TreapAnalyzer<Container>(name)
     {
-        TreapAnalyzer<Container>::registerBeforeOperation([this](Container& container)
-            {
-                size_t key = this->getRandomData();
-                if (auto [_, inserted] = this->getUsedKeys().emplace(key); inserted)
-                {
-                    this->keyExists_ = true;
-                }
-            });
-        TreapAnalyzer<Container>::registerAfterOperation([this](Container&)
-        {
-                this->keyExists_ = false;
-        });
     }
 
     template <class Container>
     void TreapAnalyzerInsert<Container>::executeOperation(Container& container)
     {
-        if (this->keyExists_) {
-            container.insert(this->getRandomData(), this->getRandomData());
+        size_t key = this->getRandomData();
+        if (auto [_, inserted] = this->getUsedKeys().emplace(key); inserted)
+        {
+            container.insert(key, key);
         }
     }
 

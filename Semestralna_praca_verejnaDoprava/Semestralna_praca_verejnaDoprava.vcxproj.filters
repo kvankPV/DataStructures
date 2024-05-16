@@ -68,6 +68,9 @@
     <ClInclude Include="TableImplemented.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Comparators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="cow_busstops.csv">

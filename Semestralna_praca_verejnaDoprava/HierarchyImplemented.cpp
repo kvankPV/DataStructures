@@ -4,6 +4,8 @@
 #include "Checkers.h"
 #include "PredicateType.h"
 #include "WhichPredicate.h"
+#include "libds/amt/implicit_sequence.h"
+#include "Comparators.h"
 
 /*
  * Responsible for deallocating memory used by the ImplicitList objects in the hierarchy.
@@ -103,18 +105,36 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 {
 	const PREDICATE_TYPE predicateType = checkers::GetValidPredicate();
 	const std::string prefix = checkers::GetValidString();
+	ds::amt::ImplicitSequence<const BusStop*> sequence;
 	if (auto predicate = which_predicate::ChoosePredicate<const BusStop>(predicateType, prefix,
-	                                                                           [](const BusStop* busStop) { return busStop->getStopName(); })) {
+		[](const BusStop* busStop) { return busStop->getStopName(); })) {
 		for (auto& [order, name, busStopList] : it)
 		{
 			if (busStopList != nullptr) {
 				algorithm::Process<ImplicitList<BusStop>::iterator, const BusStop>
-					(busStopList->begin(), busStopList->end(), predicate, [](const BusStop* busStop)
+					(busStopList->begin(), busStopList->end(), predicate, [&](const BusStop* busStop)
 						{
-							std::cout << *busStop << '\n';
+							sequence.insertLast().data_ = busStop;
 						}
 				);
 			}
+		}
+		// Prompt the user to choose a comparator
+		std::cout << "Choose a comparator: 1 for alphabetical, 2 for consonant count\n";
+		int choice;
+		std::cin >> choice;
+
+		// Sort the sequence using the chosen comparator
+		if (choice == 1) {
+			Comparators::sortAlphabetically(sequence);
+		}
+		else if (choice == 2) {
+			Comparators::sortByConsonants(sequence);
+		}
+
+		// Print the sorted stations
+		for (const auto& busStop : sequence) {
+			std::cout << *busStop << '\n';
 		}
 	}
 }

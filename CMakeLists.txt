@@ -1,0 +1,97 @@
+cmake_minimum_required(VERSION 3.28)
+project(AUS_VS2022)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(DataStructures/complexities)
+include_directories(DataStructures/libds)
+include_directories(DataStructures/libds/adt)
+include_directories(DataStructures/libds/amt)
+include_directories(DataStructures/libds/mm)
+include_directories(DataStructures/tests)
+include_directories(DataStructures/tests/_details)
+include_directories(DataStructures/tests/adt)
+include_directories(DataStructures/tests/amt)
+include_directories(DataStructures/tests/mm)
+include_directories(Gui)
+include_directories(Semestralna_praca_verejnaDoprava)
+
+add_executable(AUS_VS2022
+        DataStructures/complexities/complexity_analyzer.cpp
+        DataStructures/complexities/complexity_analyzer.h
+        DataStructures/complexities/list_analyzer.h
+        DataStructures/complexities/priority_queue_analyzer.h
+        DataStructures/complexities/treap_analyzer.h
+        DataStructures/libds/adt/abstract_data_type.h
+        DataStructures/libds/adt/array.h
+        DataStructures/libds/adt/list.h
+        DataStructures/libds/adt/priority_queue.h
+        DataStructures/libds/adt/queue.h
+        DataStructures/libds/adt/sorts.h
+        DataStructures/libds/adt/stack.h
+        DataStructures/libds/adt/table.h
+        DataStructures/libds/adt/tree.h
+        DataStructures/libds/amt/abstract_memory_type.h
+        DataStructures/libds/amt/explicit_hierarchy.h
+        DataStructures/libds/amt/explicit_network.h
+        DataStructures/libds/amt/explicit_sequence.h
+        DataStructures/libds/amt/hierarchy.h
+        DataStructures/libds/amt/implicit_hierarchy.h
+        DataStructures/libds/amt/implicit_sequence.h
+        DataStructures/libds/amt/network.h
+        DataStructures/libds/amt/sequence.h
+        DataStructures/libds/mm/compact_memory_manager.h
+        DataStructures/libds/mm/memory_manager.h
+        DataStructures/libds/mm/memory_omanip.h
+        DataStructures/libds/constants.h
+        DataStructures/libds/heap_monitor.h
+        DataStructures/tests/_details/console.cpp
+        DataStructures/tests/_details/console.hpp
+        DataStructures/tests/_details/console_output.cpp
+        DataStructures/tests/_details/console_output.hpp
+        DataStructures/tests/_details/test.cpp
+        DataStructures/tests/_details/test.hpp
+        DataStructures/tests/_details/visitors.hpp
+        DataStructures/tests/adt/adt.test.h
+        DataStructures/tests/adt/array.test.h
+        DataStructures/tests/adt/list.test.h
+        DataStructures/tests/adt/priority_queue.test.h
+        DataStructures/tests/adt/queue.test.h
+        DataStructures/tests/adt/sorts.test.h
+        DataStructures/tests/adt/stack.test.h
+        DataStructures/tests/adt/table.test.h
+        DataStructures/tests/adt/tree.test.h
+        DataStructures/tests/amt/amt.test.h
+        DataStructures/tests/amt/explicit_hierarchy.test.h
+        DataStructures/tests/amt/explicit_sequence.test.h
+        DataStructures/tests/amt/hierarchy.test.h
+        DataStructures/tests/amt/implicit_hierarchy.test.h
+        DataStructures/tests/amt/implicit_sequence.test.h
+        DataStructures/tests/amt/sequence.test.h
+        DataStructures/tests/mm/compact_memory_manager.test.h
+        DataStructures/tests/mm/memory_manager.test.h
+        DataStructures/tests/mm/mm.test.h
+        DataStructures/tests/root.h
+        Gui/x64/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+        Gui/x64/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+        Gui/main_form.cpp
+        Gui/main_form.h
+        Semestralna_praca_verejnaDoprava/x64/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+        Semestralna_praca_verejnaDoprava/Algorithm.h
+        Semestralna_praca_verejnaDoprava/BusStop.cpp
+        Semestralna_praca_verejnaDoprava/BusStop.h
+        Semestralna_praca_verejnaDoprava/Checkers.cpp
+        Semestralna_praca_verejnaDoprava/Checkers.h
+        Semestralna_praca_verejnaDoprava/FileHandler.h
+        Semestralna_praca_verejnaDoprava/HierarchyImplemented.cpp
+        Semestralna_praca_verejnaDoprava/HierarchyImplemented.h
+        Semestralna_praca_verejnaDoprava/HierarchyIterator.h
+        Semestralna_praca_verejnaDoprava/ImplicitList.h
+        Semestralna_praca_verejnaDoprava/main.cpp
+        Semestralna_praca_verejnaDoprava/PredicateType.h
+        Semestralna_praca_verejnaDoprava/PublicTransportSystem.cpp
+        Semestralna_praca_verejnaDoprava/PublicTransportSystem.h
+        Semestralna_praca_verejnaDoprava/TableImplemented.cpp
+        Semestralna_praca_verejnaDoprava/TableImplemented.h
+        Semestralna_praca_verejnaDoprava/WhichPredicate.cpp
+        Semestralna_praca_verejnaDoprava/WhichPredicate.h)

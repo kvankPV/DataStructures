@@ -141,6 +141,7 @@
     <ClInclude Include="Algorithm.h" />
     <ClInclude Include="BusStop.h" />
     <ClInclude Include="Checkers.h" />
+    <ClInclude Include="Comparators.h" />
     <ClInclude Include="FileHandler.h" />
     <ClInclude Include="HierarchyImplemented.h" />
     <ClInclude Include="HierarchyIterator.h" />

@@ -1,0 +1,3 @@
+C:/Users/Quang/source/repos/AUS-VS2022/cmake-build-debug/CMakeFiles/AUS_VS2022.dir
+C:/Users/Quang/source/repos/AUS-VS2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Quang/source/repos/AUS-VS2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
