@@ -18,13 +18,15 @@ namespace ds::utils {
         [[nodiscard]] auto getRandomData() const -> size_t;
         [[nodiscard]] size_t getRandomIndex() const;
         std::unordered_set<size_t>& getUsedKeys() { return this->usedKeys_; }
+        size_t randomizedKey_;
+        size_t index_;
+        std::default_random_engine rngIndex_{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
+        bool keyExists_;
 
     private:
         std::unordered_set<size_t> usedKeys_;
     	std::default_random_engine rngData_{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
         size_t data_;
-        std::default_random_engine rngIndex_{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
-        size_t index_;
     };
 
     template <class Container>
@@ -55,13 +57,11 @@ namespace ds::utils {
 
     template <class Container>
     TreapAnalyzer<Container>::TreapAnalyzer(const std::string& name)
-        : ComplexityAnalyzer<Container>(name), data_(0), index_(0)
+        : ComplexityAnalyzer<Container>(name), index_(0), data_(0)
     {
         ComplexityAnalyzer<Container>::registerBeforeOperation(
-            [this](Container& container)
+            [this](Container&)
             {
-                std::uniform_int_distribution<size_t> indexDist(0, container.size() - 1);
-                index_ = indexDist(rngIndex_);
                 data_ = rngData_();
             }
         );
@@ -70,10 +70,6 @@ namespace ds::utils {
     template <class Container>
     void TreapAnalyzer<Container>::growToSize(Container& container, const size_t size)
     {
-        //usedKeys ma 500 000
-        //size je 10 000
-        //container je 0
-
         if (this->usedKeys_.size() > size)
         {
             this->usedKeys_.clear();
@@ -104,15 +100,25 @@ namespace ds::utils {
     TreapAnalyzerInsert<Container>::TreapAnalyzerInsert(const std::string& name)
         : TreapAnalyzer<Container>(name)
     {
+        TreapAnalyzer<Container>::registerBeforeOperation([this](Container& container)
+            {
+                size_t key = this->getRandomData();
+                if (auto [_, inserted] = this->getUsedKeys().emplace(key); inserted)
+                {
+                    this->keyExists_ = true;
+                }
+            });
+        TreapAnalyzer<Container>::registerAfterOperation([this](Container&)
+        {
+                this->keyExists_ = false;
+        });
     }
 
     template <class Container>
     void TreapAnalyzerInsert<Container>::executeOperation(Container& container)
     {
-        size_t key = this->getRandomData();
-        if (auto [_, inserted] = this->getUsedKeys().emplace(key); inserted)
-        {
-            container.insert(key, key);
+        if (this->keyExists_) {
+            container.insert(this->getRandomData(), this->getRandomData());
         }
     }
 
@@ -120,12 +126,19 @@ namespace ds::utils {
     TreapAnalyzerFind<Container>::TreapAnalyzerFind(const std::string& name)
         : TreapAnalyzer<Container>(name)
     {
+        TreapAnalyzer<Container>::registerBeforeOperation(
+            [&](Container& container)
+            {
+                std::uniform_int_distribution<size_t> indexDist(0, container.size() - 1);
+                this->index_ = indexDist(this->rngIndex_);
+                this->randomizedKey_ = *std::next(this->getUsedKeys().begin(), this->index_);
+            });
     }
 
     template <class Container>
     void TreapAnalyzerFind<Container>::executeOperation(Container& container)
     {
-        if (const bool found = container.find(*std::next(this->getUsedKeys().begin(), this->getRandomIndex())); !found)
+        if (const bool found = container.find(this->randomizedKey_); !found)
         {
             throw std::runtime_error("No such key!");
         }
