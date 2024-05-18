@@ -105,9 +105,9 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 {
 	const PREDICATE_TYPE predicateType = checkers::GetValidPredicate();
 	const std::string prefix = checkers::GetValidString();
-	ds::amt::ImplicitSequence<const BusStop*> sequence;
 	if (auto predicate = which_predicate::ChoosePredicate<const BusStop>(predicateType, prefix,
 		[](const BusStop* busStop) { return busStop->getStopName(); })) {
+		ds::amt::ImplicitSequence<const BusStop*> sequence;
 		for (auto& [order, name, busStopList] : it)
 		{
 			if (busStopList != nullptr) {
@@ -134,7 +134,18 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 
 		// Print the sorted stations
 		for (const auto& busStop : sequence) {
-			std::cout << *busStop << '\n';
+			if (choice == 1) {
+				std::cout << " (sorted by name: " << busStop->getStopName() << ")" << '\n';
+			}
+			else if (choice == 2) {
+				auto consonantCount = [](const std::string& s) {
+					return std::count_if(s.begin(), s.end(), [](unsigned char c) {
+						return std::string("bcèdïfghjkl¾åmnòpqrøsštvwxzž").find(tolower(c)) != std::string::npos;
+						});
+					};
+				std::cout << " (sorted by consonant count: " << consonantCount(busStop->getStopName()) << ")" << '\n';
+			}
+			std::cout << *busStop;
 		}
 	}
 }

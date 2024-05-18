@@ -19,8 +19,6 @@ namespace ds::utils {
         [[nodiscard]] size_t getRandomIndex() const { return this->index_; }
         std::unordered_set<size_t>& getUsedKeys() { return this->usedKeys_; }
         size_t randomizedKey_;
-        size_t index_;
-        std::default_random_engine rngIndex_{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
 
     private:
         std::unordered_set<size_t> usedKeys_;
@@ -56,7 +54,7 @@ namespace ds::utils {
 
     template <class Container>
     TreapAnalyzer<Container>::TreapAnalyzer(const std::string& name)
-        : ComplexityAnalyzer<Container>(name), index_(0), data_(0)
+        : ComplexityAnalyzer<Container>(name), data_(0)
     {
         ComplexityAnalyzer<Container>::registerBeforeOperation(
             [this](Container&)
@@ -110,18 +108,16 @@ namespace ds::utils {
             [&](Container& container)
             {
                 std::uniform_int_distribution<size_t> indexDist(0, container.size() - 1);
-                this->index_ = indexDist(this->rngIndex_);
-                this->randomizedKey_ = *std::next(this->getUsedKeys().begin(), this->index_);
+                std::default_random_engine rngIndex{ static_cast<std::mersenne_twister_engine<unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type>(std::chrono::system_clock::now().time_since_epoch().count()) };
+                size_t index = indexDist(rngIndex);
+                this->randomizedKey_ = *std::next(this->getUsedKeys().begin(), index);
             });
     }
 
     template <class Container>
     void TreapAnalyzerFind<Container>::executeOperation(Container& container)
     {
-        if (const bool found = container.find(this->randomizedKey_); !found)
-        {
-            throw std::runtime_error("No such key!");
-        }
+        container.find(this->randomizedKey_);
     }
 
     inline TreapAnalyzers::TreapAnalyzers() : CompositeAnalyzer("Treap")

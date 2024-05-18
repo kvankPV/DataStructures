@@ -1073,7 +1073,7 @@ namespace ds::adt {
     template<typename K, typename T>
     void Treap<K, T>::removeNode(BSTNodeType* node)
     {
-        node->data_.priority_ = std::default_random_engine::min();
+        node->data_.priority_ = this->rng_.min();
         while (this->getHierarchy()->degree(*node) == 2)
         {
             BSTNodeType* leftSon = node->left_;
