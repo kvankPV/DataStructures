@@ -119,12 +119,10 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 				);
 			}
 		}
-		// Prompt the user to choose a comparator
 		std::cout << "Choose a comparator: 1 for alphabetical, 2 for consonant count\n";
 		int choice;
 		std::cin >> choice;
 
-		// Sort the sequence using the chosen comparator
 		if (choice == 1) {
 			Comparators::sortAlphabetically(sequence);
 		}
@@ -132,7 +130,6 @@ void HierarchyImplemented::printStations(HierarchyIterator it)
 			Comparators::sortByConsonants(sequence);
 		}
 
-		// Print the sorted stations
 		for (const auto& busStop : sequence) {
 			if (choice == 1) {
 				std::cout << " (sorted by name: " << busStop->getStopName() << ")" << '\n';
