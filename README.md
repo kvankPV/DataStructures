@@ -8,4 +8,4 @@ Práca bola rozdelená na štyri časti:
 
 4. časť: Pridať do požiadaviek komparátory na zoradenie údajov podľa požiadaviek. Vzostupne alebo podľa počtu spoluhlások.
 
-Samostatne vypracovaný kód je v súbore Semestralna_praca_verejnaDoprava. Zvyšný kód je vypracovaní profesormi a učiteľmi školy.
+Samostatne vypracovaný kód je v súbore Semestralna_praca_verejnaDoprava. Zvyšný kód je vypracovaní profesormi a učiteľmi univerzity.
